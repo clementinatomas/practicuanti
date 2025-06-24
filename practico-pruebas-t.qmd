@@ -1,0 +1,59 @@
+---
+title: "Práctico Pruebas t"
+---
+
+##  **Contenidos**
+
+-   Concepto de t‑test y cuándo usarlo
+
+-   Tipos de t‑test: una muestra, dos muestras independiente, muestras pareadas
+
+-   Supuestos del t‑test (normalidad, independencia, varianzas iguales)
+
+-   Formulación de hipótesis: nula vs alternativa (unilateral y bilateral)
+
+-   Cálculo del estadístico t y grados de libertad (df)
+
+-   Interpretación del valor p y decisión (rechazar o no H₀)
+
+-   Intervalos de confianza alrededor de la diferencia de medias
+
+-   Tamaño del efecto (Cohen’s d)
+
+-   Reporte en formato APA
+
+## **Primer paso: ¿Cuál Prueba t?**
+
+-   Dadas estas situaciones, decidí qué tipo de Prueba t aplicarías:
+
+a\) Comparar la satisfacción laboral promedio de una muestra de estudiantes universitarios de Psicología con un valor conocido.\
+b) Comparar ansiedad antes de un tratamiento en dos grupos distintos.\
+c) Evaluar el nivel de  ansiedad previa y post intervención en el mismo grupo.
+
+<details>
+
+<summary><strong>¿Necesitas ayuda?</strong></summary>
+
+Recuerda que las posibilidades son: Prueba t para una muestra, muestras independientes o pareadas.
+
+</details>
+
+## **Mi primera Prueba t**
+
+-   Ahora ingresa al panel de análisis. Para alguna de las bases disponibles, formula un ejemplo de análisis utilizando alguno de los tipos de Prueba t. Formula tu hipótesis. 
+
+Primero, el panel te permite verlo en forma gráfica. ¿Qué tipo de gráfico se muestra? Evalúa tus hipótesis y desarrolla intuiciones acerca del resultado.
+
+-   Ahora activa el casillero Prueba t. Interpreta el resultado.
+
+-   ¿Cómo reportarías ese resultado en forma escrita? 
+
+<details>
+
+<summary><strong>¿Necesitas inspiración?</strong></summary>
+
+Por ejemplo, en la base ENDIS puedes comparar si existen diferencias estadísticamente significativas en los niveles de agresión psicológica ejercidos por el cuidador si comparamos niños que se encuentran categorizados con y sin riesgo en su desarrollo socioemocional a partir del instrumento CBCL.  
+
+¿Qué Prueba t estarías utilizando en este caso?
+
+</details>

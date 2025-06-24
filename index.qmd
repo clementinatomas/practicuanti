@@ -1,0 +1,5 @@
+---
+title: "Practicuanti"
+---
+
+Bienvenido al cuaderno de prácticos. Usá el menú de la izquierda para navegar entre los temas.

@@ -1,0 +1,133 @@
+---
+title: "Práctico Variables categóricas: tablas y gráficos"
+---
+
+## **Contenidos**
+
+-   **Frecuencias absolutas**
+
+-   Construir tablas de frecuencia simples e identificar la categoría más frecuente
+
+-   **Frecuencias relativas y porcentuales**
+
+-   **Representación visual de frecuencias**
+
+-   Gráficos de barras con frecuencias absolutas
+
+-   Gráficos de barras con frecuencias relativas o porcentuales
+
+-   **Frecuencia acumulada**
+
+-   **Tablas de contingencia**
+
+-   **Tipos de proporciones en tablas de contingencia**
+
+-   **Errores comunes en la interpretación**
+
+-   Confundir proporciones absolutas con relativas. Errores al leer el tipo de total (fila, columna o total general)\
+
+## **El primer paso: contar**
+
+Lee el **capítulo 3 (Contar: la primera estadística y Ver lo que contamos).** En el capítulo, se plantea que “Contar categorías es el primer paso para entender los datos”. Vamos a trabajar con la Encuesta mundial de valores. 
+
+-   Activa el botón “Acerca de la base” para conocer de qué se trata. 
+
+-   Activa el botón Mostrar resumen. Identifica variables y niveles de la variable. 
+
+-   Selecciona una de las variables categóricas (ej. Confianza en la prensa). 
+
+-   ¿Cuántas personas eligieron cada opción? ¿Cómo lo observaste? Encuentra formas alternativas de observar esto mismo. \
+
+<details>
+
+<summary><strong>¿Necesitas ayuda?</strong></summary>
+
+Elegir análisis \> Tabla de frecuencias univariada \> Elegir variable 1 (alguna categórica)
+
+Puedes observar las frecuencias absolutas 
+
+También:
+
+Elegir análisis \> Gráfico de barras \> Elegir variable 1 (alguna categórica) \> Frecuencias: absolutas
+
+</details>
+
+## **¿Qué tan grande es mucho?**
+
+Lee el **capítulo 3 (¿Qué tan grande es mucho?)**
+
+-   ¿Qué parte del total eligió cada opción? ¿Cómo lo observaste? Encuentra formas alternativas de observar esto mismo. 
+
+<details>
+
+<summary><strong>¿Necesitas ayuda?</strong></summary>
+
+Elegir análisis \> Tabla de frecuencias univariada \> Elegir variable 1 (alguna categórica)
+
+Puedes observar las frecuencias porcentuales
+
+También:
+
+Elegir análisis \> Gráfico de barras \> Elegir variable 1 (alguna categórica) \> Frecuencias: porcentuales
+
+</details>
+
+## **Sumar hacia arriba**
+
+Lee el **capítulo 3 (Sumar hacia arriba: la frecuencia acumulada)**
+
+-   ¿Para qué variables de esta base tendría sentido calcular frecuencias acumuladas?
+
+<details>
+
+<summary><strong>¿Necesitas ayuda?</strong></summary>
+
+Dentro de las variables categóricas, identifica las que tienen como opciones de respuesta una serie ordenada de niveles (nivel ordinal).
+
+</details>
+
+## **Dos variables, una tabla**
+
+Lee el **capítulo 3 (Dos variables, una tabla: cuando las categorías se cruzan).** Hasta ahora venimos trabajando con una única variable a la vez (variable 1). Damos un paso más: ahora nos interesa ver cuántas personas (o casos) caen simultáneamente en cada combinación de categorías de dos variables.
+
+-   Selecciona otra variable (variable 2) que tenga sentido examinar en forma conjunta con la variable 1.
+
+<details>
+
+<summary><strong>¿Necesitas inspiración?</strong></summary>
+
+Por ejemplo, Confianza en la prensa y Nivel educativo
+
+</details>
+
+-   Obtiene una tabla de frecuencia bivariada (absolutas). ¿Cuántas personas (casos) hay en cada cruce de categoría? Ahora formula 3 preguntas específicas que se podrían contestar a partir de la tabla. 
+
+<details>
+
+<summary><strong>¿Necesitas ayuda?</strong></summary>
+
+Ejemplo de pregunta: 
+
+Entre las personas que tienen mucha confianza en la prensa ¿Cuántas alcanzaron el nivel de Posgrado-Doctorado?
+
+</details>
+
+## **Los totales mandan**
+
+Lee el **capítulo 3 (Los totales mandan: leer bien una tabla y no cometer errores).** Ahora, manteniendo las mismas variables (variable 1: Confianza en la Prensa, variable 2: Nivel educativo), cambia la especificación del panel de Frecuencias absolutas a Frecuencias porcentuales. Puedes visualizar los porcentajes por filas o por columnas. 
+
+-   Qué forma es oportuna si se pregunta "¿de todas las personas cuyo máximo nivel educativo es Maestría, qué porcentaje tiene mucha confianza en la prensa?"
+
+-   Qué forma es oportuna si se pregunta "¿de todas las personas que tienen mucha confianza en la prensa, qué porcentaje completó Maestría?" 
+
+Ahora vamos a visualizar estos mismos datos de forma gráfica. Busca una solución gráfica útil para responder la primera pregunta. Ahora intentalo para la segunda pregunta.
+
+<details>
+
+<summary><strong>¿Necesitas ayuda?</strong></summary>
+
+Elegir análisis \> Gráfico de barras \> Elegir variable 1: Confianza en la Prensa, variable 2: Nivel educativo \> Barras: apiladas \> Frecuencias: porcentuales
+
+</details>
+
+-   Ahora invierte las variables 1 y 2 en el panel. Observa el nuevo gráfico.

@@ -1,0 +1,55 @@
+---
+title: "Práctico Correlación"
+---
+
+##  **Contenidos**
+
+-   ¿Qué significa que dos variables estén relacionadas?
+
+-   Diagramas de dispersión (scatter plots): identificar patrones: correlación positiva, negativa, nula
+
+-   Covarianza
+
+-   Coeficiente de correlación de Pearson (r)
+
+## Representando la relación entre dos variables: diagrama de dispersión
+
+Lee el **apartado 4.1. del libro.** ¿Qué tal explorar la relación entre felicidad y chocolate en nuestra clase? Vamos a recoger datos de 15 compañeros. Las variables son Felicidad y Consumo de chocolate.
+
+-   Planifica: ¿Qué les preguntarías? ¿Qué datos necesitas registrar? ¿Cómo lo registramos?
+
+-   Ahora deberías tener una tabla con 15 personas y sus puntajes en "consumo de chocolate" y "felicidad".
+
+-   Dibuja un gráfico de dispersión a mano (solamente por esta vez)
+
+-   Trazá una línea recta que resuma la tendencia de los puntos ¿Qué dice sobre la relación entre las variables?
+
+-   Identificá si parece haber una relación positiva, negativa o ninguna.
+
+## Covarianza con intuición: ¿Qué significa que dos variables cambien "juntas"?
+
+Lee el **apartado 4.2 del libro.**
+
+-   ¿Cómo definirías conceptualmente a la covarianza?
+
+-   ¿Por qué trabajamos con r de Pearson?
+
+-   Ingresa al Panel de análisis de datos [cuanti.psico.edu.uy/panel](http://cuanti.psico.edu.uy/panel)
+
+-   Selecciona la base de datos ENDIS
+
+-   Construye tus hipótesis respecto a la relación entre dos variables disponibles en la base. 
+
+<details>
+
+<summary><strong>¿Necesitas inspiración?</strong></summary>
+
+Por ejemplo, Neuroticismo y Riesgo en salud mental.
+
+</details>
+
+-   Antes de activar el panel, dibuja un gráfico de dispersión para las variables seleccionadas en base a tu conocimiento previo o incluso tu intuición al respecto. 
+
+-   Ahora obtené el mismo gráfico en el panel de análisis. ¿Qué tan distinto es respecto al tuyo? Interpreta la magnitud y dirección de la correlación. 
+
+-   Formula otras hipótesis ¿Para qué variables dirías que existe una asociación débil? ¿Moderada? ¿Fuerte? ¿Son esas asociaciones positivas o negativas?
