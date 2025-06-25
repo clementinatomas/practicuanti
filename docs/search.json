@@ -1,0 +1,222 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Practicuanti",
+    "section": "",
+    "text": "Bienvenido al cuaderno de prácticos. Usá el menú de la izquierda para navegar entre los temas.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Practicuanti</span>"
+    ]
+  },
+  {
+    "objectID": "practico-por-que-estadistica.html",
+    "href": "practico-por-que-estadistica.html",
+    "title": "2  Práctico ¿Por qué estadística?",
+    "section": "",
+    "text": "2.1 Contenidos\n¿Necesito saber estadística si estudio Psicología?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico ¿Por qué estadística?</span>"
+    ]
+  },
+  {
+    "objectID": "practico-por-que-estadistica.html#pero-antes",
+    "href": "practico-por-que-estadistica.html#pero-antes",
+    "title": "2  Práctico ¿Por qué estadística?",
+    "section": "2.2 Pero antes…",
+    "text": "2.2 Pero antes…\nLee las primeras secciones del capítulo 1. ¿Por qué estadística? (1.1-1.5)",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico ¿Por qué estadística?</span>"
+    ]
+  },
+  {
+    "objectID": "practico-por-que-estadistica.html#debate",
+    "href": "practico-por-que-estadistica.html#debate",
+    "title": "2  Práctico ¿Por qué estadística?",
+    "section": "2.3 Debate",
+    "text": "2.3 Debate\n“Como estudiante y futuro profesional de la Psicología necesito formarme en metodología cuantitativa”. Según el rol que te fue asignado en el debate, sistematiza argumentos a favor/en contra de esta afirmación. Discute con tus compañeros.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico ¿Por qué estadística?</span>"
+    ]
+  },
+  {
+    "objectID": "practico-describir-los-datos.html",
+    "href": "practico-describir-los-datos.html",
+    "title": "3  Práctico Describir los datos",
+    "section": "",
+    "text": "3.1 Contenidos",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico Describir los datos</span>"
+    ]
+  },
+  {
+    "objectID": "practico-describir-los-datos.html#contenidos",
+    "href": "practico-describir-los-datos.html#contenidos",
+    "title": "3  Práctico Describir los datos",
+    "section": "",
+    "text": "Inspección visual de una base de datos.\nIdentificar variables y su tratamiento.\nVisualización de datos: histograma\nVisualización de datos: boxplot\nMedidas de tendencia central\nMedidas de dispersión",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico Describir los datos</span>"
+    ]
+  },
+  {
+    "objectID": "practico-describir-los-datos.html#panel-de-datos-primeros-pasos-conocer-y-amigarme-con-los-datos",
+    "href": "practico-describir-los-datos.html#panel-de-datos-primeros-pasos-conocer-y-amigarme-con-los-datos",
+    "title": "3  Práctico Describir los datos",
+    "section": "3.2 Panel de datos| Primeros pasos: conocer (y amigarme con) los datos",
+    "text": "3.2 Panel de datos| Primeros pasos: conocer (y amigarme con) los datos\nAccede a cuanti.psico.edu.uy/panel Localiza la base de datos __________ Vamos a explorarla.\n\n3.2.1 Contextualizar los datos\nAntes de empezar a trabajar con los datos necesitamos un poco de contexto. Accede a la información sobre la base _________. Activa el botón “Acerca de la base” para conocer de qué se trata.\n\n\n3.2.2 ¿Qué variables contiene la base? ¿Qué tipo de variables son (o cómo fueron tratadas)?\n\nLee el apartado Escalas de medición del libro\nActiva el botón Mostrar resumen. Identifica variables y niveles de la variable.\nObserva la base de datos. ¿Cuántas variables contiene?\nObserva el diccionario de variables ¿Qué se evalúa? ¿Cómo lo evaluaron?\nIdentifica cómo ha sido tratada cada variable e intenta clasificarla\nRegistra tu clasificación. Compara tu registro en el subgrupo\nLee el apartado El rol de las variables: predictoras y dependientes del libro\nAlgún ejercicio cruzando variables de panel para que tengan que pensar en variable independiente y dependiente (el libro propone variable manipulada (predictora) y variable medida (resultado) como una nomenclatura más intuitiva)\n\n\n\n3.2.3 ¡Miremos los datos!\nLee el capítulo 2. Describir los datos Selecciona la base de datos___________\n\n\n¿Necesitas ayuda?\n\nElegir análisis &gt; Ver datos\nMmm… mejor examinemos los datos en un formato visual. Como vimos en el libro, vamos a convertir esos números a otras formas de visualización de datos.\n\nEl primer resumen oficial: realiza un histograma de la variable _____________.\n\n\n¿Necesitas ayuda?\n\nElegir análisis &gt; Histograma&gt; Elegir variable 1 (numérica)\nCambia el ancho de los intervalos (bins) y observa cómo cambia el gráfico. ¿Qué ancho de bin seleccionarías finalmente? Repite el procedimiento para otras variables ¿Cómo es la forma del histograma en cada variable? (ej. simetría, “picos”) Ahora explora la opción gráfica Boxplot\n\n\n\n3.2.4 De muchos números a uno: tendencia central y dispersión\nEn el libro y en el ejercicio anterior vimos que podemos hacernos una idea de los datos al representarlos mediante gráficos. Ahora vamos a examinar la tendencia central y la dispersión de los datos a través de números.\n\nObtiene la tabla de estadísticos descriptivos\n¿Por qué para algunas variables no se ofrece el valor de la media y otros estadísticos?\n¿Qué estadísticos expresan la tendencia central en los datos? ¿Cuál es la dispersión de los datos?\nLocaliza los valores de tendencia central y dispersión para una variable\nRecupera el histograma del ejercicio anterior para esa variable. Si dibujaras líneas verticales para marcar la Media, Moda y Mediana. ¿Coinciden los tres valores? ¿Cuál es más sensible a los valores extremos?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico Describir los datos</span>"
+    ]
+  },
+  {
+    "objectID": "practico-variables-categoricas.html",
+    "href": "practico-variables-categoricas.html",
+    "title": "4  Práctico Variables categóricas: tablas y gráficos",
+    "section": "",
+    "text": "4.1 Contenidos",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico Variables categóricas: tablas y gráficos</span>"
+    ]
+  },
+  {
+    "objectID": "practico-variables-categoricas.html#contenidos",
+    "href": "practico-variables-categoricas.html#contenidos",
+    "title": "4  Práctico Variables categóricas: tablas y gráficos",
+    "section": "",
+    "text": "Frecuencias absolutas\nConstruir tablas de frecuencia simples e identificar la categoría más frecuente\nFrecuencias relativas y porcentuales\nRepresentación visual de frecuencias\nGráficos de barras con frecuencias absolutas\nGráficos de barras con frecuencias relativas o porcentuales\nFrecuencia acumulada\nTablas de contingencia\nTipos de proporciones en tablas de contingencia\nErrores comunes en la interpretación\nConfundir proporciones absolutas con relativas. Errores al leer el tipo de total (fila, columna o total general)",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico Variables categóricas: tablas y gráficos</span>"
+    ]
+  },
+  {
+    "objectID": "practico-variables-categoricas.html#el-primer-paso-contar",
+    "href": "practico-variables-categoricas.html#el-primer-paso-contar",
+    "title": "4  Práctico Variables categóricas: tablas y gráficos",
+    "section": "4.2 El primer paso: contar",
+    "text": "4.2 El primer paso: contar\nLee el capítulo 3 (Contar: la primera estadística y Ver lo que contamos). En el capítulo, se plantea que “Contar categorías es el primer paso para entender los datos”. Vamos a trabajar con la Encuesta mundial de valores. \n\nActiva el botón “Acerca de la base” para conocer de qué se trata. \nActiva el botón Mostrar resumen. Identifica variables y niveles de la variable. \nSelecciona una de las variables categóricas (ej. Confianza en la prensa). \n¿Cuántas personas eligieron cada opción? ¿Cómo lo observaste? Encuentra formas alternativas de observar esto mismo. \n\n\n\n\n¿Necesitas ayuda?\n\nElegir análisis &gt; Tabla de frecuencias univariada &gt; Elegir variable 1 (alguna categórica)\nPuedes observar las frecuencias absolutas \nTambién:\nElegir análisis &gt; Gráfico de barras &gt; Elegir variable 1 (alguna categórica) &gt; Frecuencias: absolutas",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico Variables categóricas: tablas y gráficos</span>"
+    ]
+  },
+  {
+    "objectID": "practico-variables-categoricas.html#qué-tan-grande-es-mucho",
+    "href": "practico-variables-categoricas.html#qué-tan-grande-es-mucho",
+    "title": "4  Práctico Variables categóricas: tablas y gráficos",
+    "section": "4.3 ¿Qué tan grande es mucho?",
+    "text": "4.3 ¿Qué tan grande es mucho?\nLee el capítulo 3 (¿Qué tan grande es mucho?)\n\n¿Qué parte del total eligió cada opción? ¿Cómo lo observaste? Encuentra formas alternativas de observar esto mismo. \n\n\n\n¿Necesitas ayuda?\n\nElegir análisis &gt; Tabla de frecuencias univariada &gt; Elegir variable 1 (alguna categórica)\nPuedes observar las frecuencias porcentuales\nTambién:\nElegir análisis &gt; Gráfico de barras &gt; Elegir variable 1 (alguna categórica) &gt; Frecuencias: porcentuales",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico Variables categóricas: tablas y gráficos</span>"
+    ]
+  },
+  {
+    "objectID": "practico-variables-categoricas.html#sumar-hacia-arriba",
+    "href": "practico-variables-categoricas.html#sumar-hacia-arriba",
+    "title": "4  Práctico Variables categóricas: tablas y gráficos",
+    "section": "4.4 Sumar hacia arriba",
+    "text": "4.4 Sumar hacia arriba\nLee el capítulo 3 (Sumar hacia arriba: la frecuencia acumulada)\n\n¿Para qué variables de esta base tendría sentido calcular frecuencias acumuladas?\n\n\n\n¿Necesitas ayuda?\n\nDentro de las variables categóricas, identifica las que tienen como opciones de respuesta una serie ordenada de niveles (nivel ordinal).",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico Variables categóricas: tablas y gráficos</span>"
+    ]
+  },
+  {
+    "objectID": "practico-variables-categoricas.html#dos-variables-una-tabla",
+    "href": "practico-variables-categoricas.html#dos-variables-una-tabla",
+    "title": "4  Práctico Variables categóricas: tablas y gráficos",
+    "section": "4.5 Dos variables, una tabla",
+    "text": "4.5 Dos variables, una tabla\nLee el capítulo 3 (Dos variables, una tabla: cuando las categorías se cruzan). Hasta ahora venimos trabajando con una única variable a la vez (variable 1). Damos un paso más: ahora nos interesa ver cuántas personas (o casos) caen simultáneamente en cada combinación de categorías de dos variables.\n\nSelecciona otra variable (variable 2) que tenga sentido examinar en forma conjunta con la variable 1.\n\n\n\n¿Necesitas inspiración?\n\nPor ejemplo, Confianza en la prensa y Nivel educativo\n\n\nObtiene una tabla de frecuencia bivariada (absolutas). ¿Cuántas personas (casos) hay en cada cruce de categoría? Ahora formula 3 preguntas específicas que se podrían contestar a partir de la tabla. \n\n\n\n¿Necesitas ayuda?\n\nEjemplo de pregunta: \nEntre las personas que tienen mucha confianza en la prensa ¿Cuántas alcanzaron el nivel de Posgrado-Doctorado?",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico Variables categóricas: tablas y gráficos</span>"
+    ]
+  },
+  {
+    "objectID": "practico-variables-categoricas.html#los-totales-mandan",
+    "href": "practico-variables-categoricas.html#los-totales-mandan",
+    "title": "4  Práctico Variables categóricas: tablas y gráficos",
+    "section": "4.6 Los totales mandan",
+    "text": "4.6 Los totales mandan\nLee el capítulo 3 (Los totales mandan: leer bien una tabla y no cometer errores). Ahora, manteniendo las mismas variables (variable 1: Confianza en la Prensa, variable 2: Nivel educativo), cambia la especificación del panel de Frecuencias absolutas a Frecuencias porcentuales. Puedes visualizar los porcentajes por filas o por columnas. \n\nQué forma es oportuna si se pregunta “¿de todas las personas cuyo máximo nivel educativo es Maestría, qué porcentaje tiene mucha confianza en la prensa?”\nQué forma es oportuna si se pregunta “¿de todas las personas que tienen mucha confianza en la prensa, qué porcentaje completó Maestría?” \n\nAhora vamos a visualizar estos mismos datos de forma gráfica. Busca una solución gráfica útil para responder la primera pregunta. Ahora intentalo para la segunda pregunta.\n\n\n¿Necesitas ayuda?\n\nElegir análisis &gt; Gráfico de barras &gt; Elegir variable 1: Confianza en la Prensa, variable 2: Nivel educativo &gt; Barras: apiladas &gt; Frecuencias: porcentuales\n\n\nAhora invierte las variables 1 y 2 en el panel. Observa el nuevo gráfico.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico Variables categóricas: tablas y gráficos</span>"
+    ]
+  },
+  {
+    "objectID": "practico-correlacion.html",
+    "href": "practico-correlacion.html",
+    "title": "5  Práctico Correlación",
+    "section": "",
+    "text": "5.1 Contenidos",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico Correlación</span>"
+    ]
+  },
+  {
+    "objectID": "practico-correlacion.html#contenidos",
+    "href": "practico-correlacion.html#contenidos",
+    "title": "5  Práctico Correlación",
+    "section": "",
+    "text": "¿Qué significa que dos variables estén relacionadas?\nDiagramas de dispersión (scatter plots): identificar patrones: correlación positiva, negativa, nula\nCovarianza\nCoeficiente de correlación de Pearson (r)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico Correlación</span>"
+    ]
+  },
+  {
+    "objectID": "practico-correlacion.html#representando-la-relación-entre-dos-variables-diagrama-de-dispersión",
+    "href": "practico-correlacion.html#representando-la-relación-entre-dos-variables-diagrama-de-dispersión",
+    "title": "5  Práctico Correlación",
+    "section": "5.2 Representando la relación entre dos variables: diagrama de dispersión",
+    "text": "5.2 Representando la relación entre dos variables: diagrama de dispersión\nLee el apartado 4.1. del libro. ¿Qué tal explorar la relación entre felicidad y chocolate en nuestra clase? Vamos a recoger datos de 15 compañeros. Las variables son Felicidad y Consumo de chocolate.\n\nPlanifica: ¿Qué les preguntarías? ¿Qué datos necesitas registrar? ¿Cómo lo registramos?\nAhora deberías tener una tabla con 15 personas y sus puntajes en “consumo de chocolate” y “felicidad”.\nDibuja un gráfico de dispersión a mano (solamente por esta vez)\nTrazá una línea recta que resuma la tendencia de los puntos ¿Qué dice sobre la relación entre las variables?\nIdentificá si parece haber una relación positiva, negativa o ninguna.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico Correlación</span>"
+    ]
+  },
+  {
+    "objectID": "practico-correlacion.html#covarianza-con-intuición-qué-significa-que-dos-variables-cambien-juntas",
+    "href": "practico-correlacion.html#covarianza-con-intuición-qué-significa-que-dos-variables-cambien-juntas",
+    "title": "5  Práctico Correlación",
+    "section": "5.3 Covarianza con intuición: ¿Qué significa que dos variables cambien “juntas”?",
+    "text": "5.3 Covarianza con intuición: ¿Qué significa que dos variables cambien “juntas”?\nLee el apartado 4.2 del libro.\n\n¿Cómo definirías conceptualmente a la covarianza?\n¿Por qué trabajamos con r de Pearson?\nIngresa al Panel de análisis de datos cuanti.psico.edu.uy/panel\nSelecciona la base de datos ENDIS\nConstruye tus hipótesis respecto a la relación entre dos variables disponibles en la base. \n\n\n\n¿Necesitas inspiración?\n\nPor ejemplo, Neuroticismo y Riesgo en salud mental.\n\n\nAntes de activar el panel, dibuja un gráfico de dispersión para las variables seleccionadas en base a tu conocimiento previo o incluso tu intuición al respecto. \nAhora obtené el mismo gráfico en el panel de análisis. ¿Qué tan distinto es respecto al tuyo? Interpreta la magnitud y dirección de la correlación. \nFormula otras hipótesis ¿Para qué variables dirías que existe una asociación débil? ¿Moderada? ¿Fuerte? ¿Son esas asociaciones positivas o negativas?",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico Correlación</span>"
+    ]
+  },
+  {
+    "objectID": "practico-pruebas-t.html",
+    "href": "practico-pruebas-t.html",
+    "title": "6  Práctico Pruebas t",
+    "section": "",
+    "text": "6.1 Contenidos",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Práctico Pruebas t</span>"
+    ]
+  },
+  {
+    "objectID": "practico-pruebas-t.html#contenidos",
+    "href": "practico-pruebas-t.html#contenidos",
+    "title": "6  Práctico Pruebas t",
+    "section": "",
+    "text": "Concepto de t‑test y cuándo usarlo\nTipos de t‑test: una muestra, dos muestras independiente, muestras pareadas\nSupuestos del t‑test (normalidad, independencia, varianzas iguales)\nFormulación de hipótesis: nula vs alternativa (unilateral y bilateral)\nCálculo del estadístico t y grados de libertad (df)\nInterpretación del valor p y decisión (rechazar o no H₀)\nIntervalos de confianza alrededor de la diferencia de medias\nTamaño del efecto (Cohen’s d)\nReporte en formato APA",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Práctico Pruebas t</span>"
+    ]
+  },
+  {
+    "objectID": "practico-pruebas-t.html#primer-paso-cuál-prueba-t",
+    "href": "practico-pruebas-t.html#primer-paso-cuál-prueba-t",
+    "title": "6  Práctico Pruebas t",
+    "section": "6.2 Primer paso: ¿Cuál Prueba t?",
+    "text": "6.2 Primer paso: ¿Cuál Prueba t?\n\nDadas estas situaciones, decidí qué tipo de Prueba t aplicarías:\n\na) Comparar la satisfacción laboral promedio de una muestra de estudiantes universitarios de Psicología con un valor conocido.\nb) Comparar ansiedad antes de un tratamiento en dos grupos distintos.\nc) Evaluar el nivel de  ansiedad previa y post intervención en el mismo grupo.\n\n\n¿Necesitas ayuda?\n\nRecuerda que las posibilidades son: Prueba t para una muestra, muestras independientes o pareadas.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Práctico Pruebas t</span>"
+    ]
+  },
+  {
+    "objectID": "practico-pruebas-t.html#mi-primera-prueba-t",
+    "href": "practico-pruebas-t.html#mi-primera-prueba-t",
+    "title": "6  Práctico Pruebas t",
+    "section": "6.3 Mi primera Prueba t",
+    "text": "6.3 Mi primera Prueba t\n\nAhora ingresa al panel de análisis. Para alguna de las bases disponibles, formula un ejemplo de análisis utilizando alguno de los tipos de Prueba t. Formula tu hipótesis. \n\nPrimero, el panel te permite verlo en forma gráfica. ¿Qué tipo de gráfico se muestra? Evalúa tus hipótesis y desarrolla intuiciones acerca del resultado.\n\nAhora activa el casillero Prueba t. Interpreta el resultado.\n¿Cómo reportarías ese resultado en forma escrita? \n\n\n\n¿Necesitas inspiración?\n\nPor ejemplo, en la base ENDIS puedes comparar si existen diferencias estadísticamente significativas en los niveles de agresión psicológica ejercidos por el cuidador si comparamos niños que se encuentran categorizados con y sin riesgo en su desarrollo socioemocional a partir del instrumento CBCL.  \n¿Qué Prueba t estarías utilizando en este caso?",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Práctico Pruebas t</span>"
+    ]
+  }
+]
