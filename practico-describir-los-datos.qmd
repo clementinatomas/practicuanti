@@ -54,7 +54,7 @@ Elegir análisis \> Ver datos
 
 Mmm… mejor examinemos los datos en un formato visual. Como vimos en el libro, vamos a convertir esos números a otras formas de visualización de datos.
 
-<details>
+</details>
 
 El primer resumen oficial: realiza un histograma de la variable \_\_\_\_\_\_\_\_\_\_\_\_\_.
 
@@ -64,9 +64,9 @@ El primer resumen oficial: realiza un histograma de la variable \_\_\_\_\_\_\_\_
 
 Elegir análisis \> Histograma\> Elegir variable 1 (numérica)
 
-Cambia el ancho de los intervalos (bins) y observa cómo cambia el gráfico. ¿Qué ancho de bin seleccionarías finalmente? Repite el procedimiento para otras variables ¿Cómo es la forma del histograma en cada variable? (ej. simetría, “picos”) Ahora explora la opción gráfica Boxplot
-
 </details>
+
+Cambia el ancho de los intervalos (bins) y observa cómo cambia el gráfico. ¿Qué ancho de bin seleccionarías finalmente? Repite el procedimiento para otras variables ¿Cómo es la forma del histograma en cada variable? (ej. simetría, “picos”) Ahora explora la opción gráfica Boxplot
 
 ### De muchos números a uno: tendencia central y dispersión
 

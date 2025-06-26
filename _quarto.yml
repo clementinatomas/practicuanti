@@ -18,7 +18,13 @@ book:
 format:
   html:
     theme: cosmo
+    css: cuantistats.css
     number-sections: true
     toc: true
     toc-depth: 2
 
+editor: visual
+
+execute:
+  cache: true
+  echo: false
