@@ -1,0 +1,50 @@
+---
+title: "Práctico: ¿Por qué estadística?"
+---
+
+## ¿Necesito saber estadística si estudio Psicología?
+
+### Lectura asociada
+
+[Capítulo 1. ¿Por qué estadística?](https://almadana.github.io/libro_cuanti/01-Science_Data.html#sobre-la-psicolog%C3%ADa-de-la-estad%C3%ADstica)
+
+## Debate: ¿Necesitamos saber estadística para ser un buen psicólogo/a?
+
+“Como estudiante y futuro profesional de la Psicología necesito formarme en metodología cuantitativa”.\
+Según el rol que te fue asignado en el debate, sistematiza argumentos **a favor**/**en contra** de esta afirmación. Discute con tus compañeros.
+
+## ¿Cómo funciona el Panel de análisis de datos?
+
+![](imgs/1_panel.png)
+
+Este Panel tiene integradas una serie de bases de datos nacionales que refieren a temáticas de interés en el campo de la psicología.
+
+-   **Menú datos**: permite seleccionar una de las bases de datos disponibles.\
+-   **Acerca de la base**: se presenta un texto breve con información de soporte que ayuda a contextualizar los datos que contiene la base.\
+-   **Mostrar resumen**: Permite visualizar nombres de las variables, su descripción, su tratamiento (tipo de variable) y valores posibles.
+
+### Actividad introductoria al Panel
+
+Se te asignará una base de datos. Tu tarea es familiarizarte con ella para presentarla a tus compañeros. Recupera la siguiente información:
+
+-   Contexto institucional y temática general\
+-   Muestra\
+-   Variables, instrumentos, informantes\
+-   ¿Qué temáticas crees que se podrían analizar a través de estos datos?
+
+Ahora que sabes un poco más sobre esta base de datos, observa las variables disponibles con mayor detalle. ¿Se te ocurren algunas preguntas/hipótesis de investigación?
+
+Forma un grupo con los compañeros que han trabajado con la misma base de datos. Pongan en común lo que sistematizaron respecto a la base. Acuerden las preguntas de investigación que se podrían plantear a partir de estos datos.
+
+<details>
+
+<summary><strong>¿Necesitas ayuda?</strong></summary>
+
+¿Qué tipo de preguntas nos podemos hacer? Considera que en el curso vamos a:
+
+-   Aprender a resumir muchos datos a través de unos pocos valores que expresan la tendencia central y la dispersión\
+-   Utilizar gráficos para entender y mostrar algunos aspectos de nuestros datos en forma visual\
+-   Explorar la asociación entre dos variables (considerando dirección y magnitud)\
+-   Comparar grupos distintos, o un mismo grupo en distintas condiciones
+
+</details>

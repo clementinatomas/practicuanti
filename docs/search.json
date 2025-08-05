@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Practicuanti",
     "section": "",
-    "text": "Bienvenido al cuaderno de prácticos. Usá el menú de la izquierda para navegar entre los temas.",
+    "text": "0.1 ¿Cómo me organizo para trabajar en aula invertida?\nBienvenido al cuaderno de prácticos.\nLa idea es que a través de cada práctico puedas ejercitar los conceptos que trabajamos en las unidades temáticas.\nRecuerda que para sacar el máximo provecho de estos ejercicios la secuencia sugerida es la siguiente:\nUsá el menú de la izquierda para navegar entre los temas.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Practicuanti</span>"
     ]
@@ -12,11 +12,11 @@
   {
     "objectID": "practico-por-que-estadistica.html",
     "href": "practico-por-que-estadistica.html",
-    "title": "2  Práctico ¿Por qué estadística?",
+    "title": "3  Práctico 1",
     "section": "",
-    "text": "2.1 Contenidos\n¿Necesito saber estadística si estudio Psicología?",
+    "text": "3.1 ¿Por qué estadística?",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico ¿Por qué estadística?</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico 1</span>"
     ]
   },
   {
@@ -42,31 +42,31 @@
   {
     "objectID": "practico-describir-los-datos.html",
     "href": "practico-describir-los-datos.html",
-    "title": "3  Práctico Describir los datos",
+    "title": "4  Práctico Describir los datos",
     "section": "",
-    "text": "3.1 Contenidos",
+    "text": "4.1 Contenidos",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico Describir los datos</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico Describir los datos</span>"
     ]
   },
   {
     "objectID": "practico-describir-los-datos.html#contenidos",
     "href": "practico-describir-los-datos.html#contenidos",
-    "title": "3  Práctico Describir los datos",
+    "title": "4  Práctico Describir los datos",
     "section": "",
     "text": "Inspección visual de una base de datos.\nIdentificar variables y su tratamiento.\nVisualización de datos: histograma\nVisualización de datos: boxplot\nMedidas de tendencia central\nMedidas de dispersión",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico Describir los datos</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico Describir los datos</span>"
     ]
   },
   {
     "objectID": "practico-describir-los-datos.html#panel-de-datos-primeros-pasos-conocer-y-amigarme-con-los-datos",
     "href": "practico-describir-los-datos.html#panel-de-datos-primeros-pasos-conocer-y-amigarme-con-los-datos",
-    "title": "3  Práctico Describir los datos",
-    "section": "3.2 Panel de datos| Primeros pasos: conocer (y amigarme con) los datos",
-    "text": "3.2 Panel de datos| Primeros pasos: conocer (y amigarme con) los datos\nAccede a cuanti.psico.edu.uy/panel Localiza la base de datos __________ Vamos a explorarla.\n\n3.2.1 Contextualizar los datos\nAntes de empezar a trabajar con los datos necesitamos un poco de contexto. Accede a la información sobre la base _________. Activa el botón “Acerca de la base” para conocer de qué se trata.\n\n\n3.2.2 ¿Qué variables contiene la base? ¿Qué tipo de variables son (o cómo fueron tratadas)?\n\nLee el apartado Escalas de medición del libro\nActiva el botón Mostrar resumen. Identifica variables y niveles de la variable.\nObserva la base de datos. ¿Cuántas variables contiene?\nObserva el diccionario de variables ¿Qué se evalúa? ¿Cómo lo evaluaron?\nIdentifica cómo ha sido tratada cada variable e intenta clasificarla\nRegistra tu clasificación. Compara tu registro en el subgrupo\nLee el apartado El rol de las variables: predictoras y dependientes del libro\nAlgún ejercicio cruzando variables de panel para que tengan que pensar en variable independiente y dependiente (el libro propone variable manipulada (predictora) y variable medida (resultado) como una nomenclatura más intuitiva)\n\n\n\n3.2.3 ¡Miremos los datos!\nLee el capítulo 2. Describir los datos Selecciona la base de datos___________\n\n\n¿Necesitas ayuda?\n\nElegir análisis &gt; Ver datos\nMmm… mejor examinemos los datos en un formato visual. Como vimos en el libro, vamos a convertir esos números a otras formas de visualización de datos.\n\nEl primer resumen oficial: realiza un histograma de la variable _____________.\n\n\n¿Necesitas ayuda?\n\nElegir análisis &gt; Histograma&gt; Elegir variable 1 (numérica)\n\nCambia el ancho de los intervalos (bins) y observa cómo cambia el gráfico. ¿Qué ancho de bin seleccionarías finalmente? Repite el procedimiento para otras variables ¿Cómo es la forma del histograma en cada variable? (ej. simetría, “picos”) Ahora explora la opción gráfica Boxplot\n\n\n3.2.4 De muchos números a uno: tendencia central y dispersión\nEn el libro y en el ejercicio anterior vimos que podemos hacernos una idea de los datos al representarlos mediante gráficos. Ahora vamos a examinar la tendencia central y la dispersión de los datos a través de números.\n\nObtiene la tabla de estadísticos descriptivos\n¿Por qué para algunas variables no se ofrece el valor de la media y otros estadísticos?\n¿Qué estadísticos expresan la tendencia central en los datos? ¿Cuál es la dispersión de los datos?\nLocaliza los valores de tendencia central y dispersión para una variable\nRecupera el histograma del ejercicio anterior para esa variable. Si dibujaras líneas verticales para marcar la Media, Moda y Mediana. ¿Coinciden los tres valores? ¿Cuál es más sensible a los valores extremos?",
+    "title": "4  Práctico Describir los datos",
+    "section": "4.2 Panel de datos| Primeros pasos: conocer (y amigarme con) los datos",
+    "text": "4.2 Panel de datos| Primeros pasos: conocer (y amigarme con) los datos\nAccede a cuanti.psico.edu.uy/panel Localiza la base de datos __________ Vamos a explorarla.\n\n4.2.1 Contextualizar los datos\nAntes de empezar a trabajar con los datos necesitamos un poco de contexto. Accede a la información sobre la base _________. Activa el botón “Acerca de la base” para conocer de qué se trata.\n\n\n4.2.2 ¿Qué variables contiene la base? ¿Qué tipo de variables son (o cómo fueron tratadas)?\n\nLee el apartado Escalas de medición del libro\nActiva el botón Mostrar resumen. Identifica variables y niveles de la variable.\nObserva la base de datos. ¿Cuántas variables contiene?\nObserva el diccionario de variables ¿Qué se evalúa? ¿Cómo lo evaluaron?\nIdentifica cómo ha sido tratada cada variable e intenta clasificarla\nRegistra tu clasificación. Compara tu registro en el subgrupo\nLee el apartado El rol de las variables: predictoras y dependientes del libro\nAlgún ejercicio cruzando variables de panel para que tengan que pensar en variable independiente y dependiente (el libro propone variable manipulada (predictora) y variable medida (resultado) como una nomenclatura más intuitiva)\n\n\n\n4.2.3 ¡Miremos los datos!\nLee el capítulo 2. Describir los datos Selecciona la base de datos___________\n\n\n¿Necesitas ayuda?\n\nElegir análisis &gt; Ver datos\nMmm… mejor examinemos los datos en un formato visual. Como vimos en el libro, vamos a convertir esos números a otras formas de visualización de datos.\n\nEl primer resumen oficial: realiza un histograma de la variable _____________.\n\n\n¿Necesitas ayuda?\n\nElegir análisis &gt; Histograma&gt; Elegir variable 1 (numérica)\n\nCambia el ancho de los intervalos (bins) y observa cómo cambia el gráfico. ¿Qué ancho de bin seleccionarías finalmente? Repite el procedimiento para otras variables ¿Cómo es la forma del histograma en cada variable? (ej. simetría, “picos”) Ahora explora la opción gráfica Boxplot\n\n\n4.2.4 De muchos números a uno: tendencia central y dispersión\nEn el libro y en el ejercicio anterior vimos que podemos hacernos una idea de los datos al representarlos mediante gráficos. Ahora vamos a examinar la tendencia central y la dispersión de los datos a través de números.\n\nObtiene la tabla de estadísticos descriptivos\n¿Por qué para algunas variables no se ofrece el valor de la media y otros estadísticos?\n¿Qué estadísticos expresan la tendencia central en los datos? ¿Cuál es la dispersión de los datos?\nLocaliza los valores de tendencia central y dispersión para una variable\nRecupera el histograma del ejercicio anterior para esa variable. Si dibujaras líneas verticales para marcar la Media, Moda y Mediana. ¿Coinciden los tres valores? ¿Cuál es más sensible a los valores extremos?",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico Describir los datos</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico Describir los datos</span>"
     ]
   },
   {
@@ -217,6 +217,236 @@
     "text": "6.3 Mi primera Prueba t\n\nAhora ingresa al panel de análisis. Para alguna de las bases disponibles, formula un ejemplo de análisis utilizando alguno de los tipos de Prueba t. Formula tu hipótesis. \n\nPrimero, el panel te permite verlo en forma gráfica. ¿Qué tipo de gráfico se muestra? Evalúa tus hipótesis y desarrolla intuiciones acerca del resultado.\n\nAhora activa el casillero Prueba t. Interpreta el resultado.\n¿Cómo reportarías ese resultado en forma escrita? \n\n\n\n¿Necesitas inspiración?\n\nPor ejemplo, en la base ENDIS puedes comparar si existen diferencias estadísticamente significativas en los niveles de agresión psicológica ejercidos por el cuidador si comparamos niños que se encuentran categorizados con y sin riesgo en su desarrollo socioemocional a partir del instrumento CBCL.  \n¿Qué Prueba t estarías utilizando en este caso?",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Práctico Pruebas t</span>"
+    ]
+  },
+  {
+    "objectID": "practico-por-que-estadistica.html#lectura-asociada",
+    "href": "practico-por-que-estadistica.html#lectura-asociada",
+    "title": "2  Práctico 1: ¿Por qué estadística?",
+    "section": "2.2 Lectura asociada",
+    "text": "2.2 Lectura asociada\nCapítulo 1. ¿Por qué estadística?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico 1: ¿Por qué estadística?</span>"
+    ]
+  },
+  {
+    "objectID": "practico-por-que-estadistica.html#debate-necesitamos-saber-estadística-para-ser-un-buen-psicólogoa",
+    "href": "practico-por-que-estadistica.html#debate-necesitamos-saber-estadística-para-ser-un-buen-psicólogoa",
+    "title": "2  Práctico 1: ¿Por qué estadística?",
+    "section": "2.3 Debate: ¿Necesitamos saber estadística para ser un buen psicólogo/a?",
+    "text": "2.3 Debate: ¿Necesitamos saber estadística para ser un buen psicólogo/a?\n“Como estudiante y futuro profesional de la Psicología necesito formarme en metodología cuantitativa”.  Según el rol que te fue asignado en el debate, sistematiza argumentos a favor / en contra de esta afirmación.  Discute con tus compañeros.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico 1: ¿Por qué estadística?</span>"
+    ]
+  },
+  {
+    "objectID": "practico-por-que-estadistica.html#cómo-funciona-el-panel-de-análisis-de-datos",
+    "href": "practico-por-que-estadistica.html#cómo-funciona-el-panel-de-análisis-de-datos",
+    "title": "3  Práctico 1",
+    "section": "3.2 ¿Cómo funciona el Panel de análisis de datos?",
+    "text": "3.2 ¿Cómo funciona el Panel de análisis de datos?\n\nEste Panel tiene integradas una serie de bases de datos nacionales que refieren a temáticas de interés en el campo de la psicología.\n\nMenú datos: permite seleccionar una de las bases de datos disponibles.\n\nAcerca de la base: se presenta un texto breve con información de soporte que ayuda a contextualizar los datos que contiene la base.\n\nMostrar resumen: Permite visualizar nombres de las variables, su descripción, su tratamiento (tipo de variable) y valores posibles.\n\n\n3.2.1 Actividad introductoria al Panel\nSe te asignará una base de datos. Tu tarea es familiarizarte con ella para presentarla a tus compañeros. Recupera la siguiente información:\n\nContexto institucional y temática general\n\nMuestra\n\nVariables, instrumentos, informantes\n\n¿Qué temáticas crees que se podrían analizar a través de estos datos?\n\nAhora que sabes un poco más sobre esta base de datos, observa las variables disponibles con mayor detalle.\n¿Se te ocurren algunas preguntas/hipótesis de investigación?\nForma un grupo con los compañeros que han trabajado con la misma base de datos.\nPongan en común lo que sistematizaron respecto a la base. Acuerden las preguntas de investigación que se podrían plantear a partir de estos datos.\n\n\n¿Necesitas ayuda?\n\n¿Qué tipo de preguntas nos podemos hacer? Considera que en el curso vamos a:\n\nAprender a resumir muchos datos a través de unos pocos valores que expresan la tendencia central y la dispersión\n\nUtilizar gráficos para entender y mostrar algunos aspectos de nuestros datos en forma visual\n\nExplorar la asociación entre dos variables (considerando dirección y magnitud)\n\nComparar grupos distintos, o un mismo grupo en distintas condiciones",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico 1</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#cómo-me-organizo-para-trabajar-en-aula-invertida",
+    "href": "index.html#cómo-me-organizo-para-trabajar-en-aula-invertida",
+    "title": "Practicuanti",
+    "section": "",
+    "text": "Mirar los audiovisuales correspondientes a la unidad (asincrónico)\nLeer el capítulo del libro (asincrónico)\nTransitar por la lección interactiva (fundamentalmente asincrónico, y algunos momentos de trabajo en clase)\nRealizar los ejercicios prácticos, recuerda que en varios momentos vamos a utilizar el Panel de análisis de datos (en clase y en forma asincrónica)",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Practicuanti</span>"
+    ]
+  },
+  {
+    "objectID": "practico_0.html",
+    "href": "practico_0.html",
+    "title": "2  Práctico: Estadística para ser un buen ciudadano",
+    "section": "",
+    "text": "2.1 Estadística para ser un buen ciudadano\nEn este curso vamos a explorar por qué la formación en metodología cuantitativa es necesaria para el trabajo en Psicología. Pero antes de meternos de lleno en eso, pensemos:\n¿Para qué me sirve desarrollar estas competencias si no voy a ser investigador/a? ¿Conocer sobre métodos cuantitativos es útil incluso fuera del ámbito profesional? ¿Tiene sentido en mi condición de ciudadano o ciudadana?\nA lo largo de esta unidad vamos a intentar demostrar que sí.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico: Estadística para ser un buen ciudadano</span>"
+    ]
+  },
+  {
+    "objectID": "practico_0.html#noticia-1-niveles-de-aprobación-presidencial",
+    "href": "practico_0.html#noticia-1-niveles-de-aprobación-presidencial",
+    "title": "2  Práctico 0: Estadística para ser un buen ciudadano",
+    "section": "2.2 Noticia 1: Niveles de aprobación presidencial",
+    "text": "2.2 Noticia 1: Niveles de aprobación presidencial\nEl siguiente posteo se publicó en redes sociales en junio de 2025, y se aclara que la afirmación se extrae de resultados publicados por FACTUM.\n\nLa publicación original de FACTUM presenta el siguiente gráfico:\n\nTomando en consideración esta información, ¿podemos afirmar que 53 % de la población “no aprueba la gestión de Yamandú Orsi”?\nConsulta la fuente de datos aquí: FACTUM Aprobación presidente Yamandú Orsi - Junio 2025\n\n\nPara leer luego de responder\n\nAquí encuentras la nota de prensa completa de La Diaria Verifica analizando este asunto: Nota completa en La Diaria Verifica",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico 0: Estadística para ser un buen ciudadano</span>"
+    ]
+  },
+  {
+    "objectID": "practico_0.html#noticia-2-tasa-de-suicidio-en-uruguay",
+    "href": "practico_0.html#noticia-2-tasa-de-suicidio-en-uruguay",
+    "title": "2  Práctico 0: Estadística para ser un buen ciudadano",
+    "section": "2.3 Noticia 2: Tasa de suicidio en Uruguay",
+    "text": "2.3 Noticia 2: Tasa de suicidio en Uruguay\nSegún datos preliminares, el Ministerio de Salud Pública (MSP) anunció que en 2023 hubo un 8 % menos de suicidios que el año anterior. Según una nota de La Diaria del 11 de abril de 2024:\n“La ministra de Salud Pública, Karina Rando, celebró que se quebró ‘una tendencia’ al alza, que se venía registrando desde 2013. En 2023 hubo 754 suicidios, 64 menos que en 2022 y cuatro menos que en 2021.”\n\nEn una nota de La Diaria Verifica, el sociólogo Pablo Hein reflexiona que los motivos de la baja pueden deberse a “una baja de la globalidad de la carga de muerte” en Uruguay, ya que en 2023 hubo 5500 muertos menos que en 2022 y 7000 muertes menos que en 2021.\nAsimismo, si bien la tasa de suicidios de 2023 es más baja que años anteriores, alertó sobre no referirse a tendencias con un único dato.\n¿Es verdadero afirmar que ocurrió un “quiebre” en la tendencia de suicidios?\n\n\nPara leer luego de responder\n\nSi bien ocurrieron menos suicidios en 2023 que en 2022 no es posible hablar de un quiebre sin conocer las cifras de los próximos años. Asimismo, si observamos las variaciones en el número de suicidios a lo largo de los años se observan descensos locales (años 2008 y 2013 por ejemplo) pero sobre una tendencia sostenida al aumento de la tasa de suicidios. Por lo tanto no es posible afirmar que ocurrió un ‘quiebre’ en la tasa de suicidios.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico 0: Estadística para ser un buen ciudadano</span>"
+    ]
+  },
+  {
+    "objectID": "practico_0.html#noticia-3-funcionarios-públicos-en-uruguay-y-nueva-zelanda",
+    "href": "practico_0.html#noticia-3-funcionarios-públicos-en-uruguay-y-nueva-zelanda",
+    "title": "2  Práctico 0: Estadística para ser un buen ciudadano",
+    "section": "2.4 Noticia 3: Funcionarios públicos en Uruguay y Nueva Zelanda",
+    "text": "2.4 Noticia 3: Funcionarios públicos en Uruguay y Nueva Zelanda\nEn junio de 2024, la entonces precandidata a la presidencia por el Partido Colorado, Carolina Ache, dijo en el programa Lado B de TV Ciudad que Nueva Zelanda tiene solamente “63.000 funcionarios públicos y cinco millones de habitantes”.\nEn una nota de La Diaria Verifica se presentan los siguientes datos obtenidos de la página web de la Comisión de Servicio Público de Nueva Zelanda.\n\n¿Se puede sugerir que hay muchos funcionarios públicos en Uruguay comparado con Nueva Zelanda?\n\n\nPara leer luego de responder\n\nSi bien al considerar los funcionarios de la categoría “Administración central” parecería cierta la afirmación de Carolina Ache, el conjunto total de funcionarios públicos (Administración central, educación, salud, empresas públicas, gobiernos locales, y otros) es mucho mayor, e incluso supera al de Uruguay.\nEl número en sí mismo no es informativo si no se pondera por la población de cada país y por la cantidad de personas que conforman la masa laboral (por ejemplo, sin contar a niños y jubilados).\nTomando en cuenta estos factores, se concluye que Uruguay y Nueva Zelanda tienen una proporción de funcionarios públicos similar.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico 0: Estadística para ser un buen ciudadano</span>"
+    ]
+  },
+  {
+    "objectID": "practico_0.html#noticia-4-muertes-por-covid-en-uruguay",
+    "href": "practico_0.html#noticia-4-muertes-por-covid-en-uruguay",
+    "title": "2  Práctico 0: Estadística para ser un buen ciudadano",
+    "section": "2.5 Noticia 4: Muertes por COVID en Uruguay",
+    "text": "2.5 Noticia 4: Muertes por COVID en Uruguay\nEn un acto partidario en junio de 2024, la exministra de salud María Julia Muñoz dijo:\n“Debemos ser claros, la pandemia se manejó mal. No se manejó bien porque el presidente haya puesto la cara todos los días; se manejó mal porque cuando hubo que tomar acciones en defensa de los más necesitados, no se hicieron, y nuestro país es el que tiene más muertes por COVID de personas en el mundo”.\nEn declaraciones posteriores, aclaró que se refería a que Uruguay fue el país de Latinoamérica con más muertes por COVID.\n¿La afirmación de la exministra de salud es correcta o incorrecta?\n\nEl exceso de mortalidad es un término utilizado en epidemiología y salud pública que se refiere al número de muertes por todas las causas durante una crisis, por encima de lo que hubiéramos esperado en condiciones “normales”. En este caso, se compara el número de muertes durante la pandemia con las muertes esperadas sin pandemia. Fuente: Our World In Data\n\n\nPara leer luego de responder\n\nDe acuerdo con los datos de exceso de muerte de Our World in Data, Uruguay no presenta la tasa de muertes por COVID más alta del mundo.\nAl comparar con otros países de la región como Argentina, Perú, Brasil, Bolivia y México, estos presentan un número mayor de exceso de muertes por COVID que Uruguay.\nPor lo tanto, la afirmación de la exministra de salud es incorrecta.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico 0: Estadística para ser un buen ciudadano</span>"
+    ]
+  },
+  {
+    "objectID": "practico_0.html#noticia-5-desempleo-en-uruguay",
+    "href": "practico_0.html#noticia-5-desempleo-en-uruguay",
+    "title": "2  Práctico 0: Estadística para ser un buen ciudadano",
+    "section": "2.6 Noticia 5: Desempleo en Uruguay",
+    "text": "2.6 Noticia 5: Desempleo en Uruguay\nEn una publicidad partidaria, el senador Sebastián Da Silva afirmaba que durante la pasada administración (2020–2023) se alcanzó “la menor tasa de desempleo de los últimos 30 años”, haciendo referencia a la tasa de 7.8 % correspondiente al cierre del año 2023.\n¿Es verdadera la afirmación realizada por el senador?\n\n\n\nPara leer luego de responder\n\nDe acuerdo a los datos del Instituto Nacional de Estadística, el desempleo al cierre de 2023 fue de 7,8 %.\nSin embargo, el número más bajo de desempleo en los últimos 30 años corresponde a una tasa del 5.6 % en diciembre de 2012.\nPor lo tanto, la afirmación del senador no es verdadera.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico 0: Estadística para ser un buen ciudadano</span>"
+    ]
+  },
+  {
+    "objectID": "practico_0.html#estadística-para-ser-un-buen-ciudadano",
+    "href": "practico_0.html#estadística-para-ser-un-buen-ciudadano",
+    "title": "2  Práctico: Estadística para ser un buen ciudadano",
+    "section": "",
+    "text": "2.1.1 Noticia 1: Niveles de aprobación presidencial\nEl siguiente posteo se publicó en redes sociales en junio de 2025, y se aclara que la afirmación se extrae de resultados publicados por FACTUM.\n\nLa publicación original de FACTUM presenta el siguiente gráfico:\n\nTomando en consideración esta información, ¿podemos afirmar que 53 % de la población “no aprueba la gestión de Yamandú Orsi”?\nConsulta la fuente de datos aquí: FACTUM Aprobación presidente Yamandú Orsi - Junio 2025\n\n\nPara leer luego de responder\n\nAquí encuentras la nota de prensa completa de La Diaria Verifica analizando este asunto: Nota completa en La Diaria Verifica\n\n\n\n2.1.2 Noticia 2: Tasa de suicidio en Uruguay\nSegún datos preliminares, el Ministerio de Salud Pública (MSP) anunció que en 2023 hubo un 8 % menos de suicidios que el año anterior. Según una nota de La Diaria del 11 de abril de 2024:\n“La ministra de Salud Pública, Karina Rando, celebró que se quebró ‘una tendencia’ al alza, que se venía registrando desde 2013. En 2023 hubo 754 suicidios, 64 menos que en 2022 y cuatro menos que en 2021.”\n\nEn una nota de La Diaria Verifica, el sociólogo Pablo Hein reflexiona que los motivos de la baja pueden deberse a “una baja de la globalidad de la carga de muerte” en Uruguay, ya que en 2023 hubo 5500 muertos menos que en 2022 y 7000 muertes menos que en 2021.\nAsimismo, si bien la tasa de suicidios de 2023 es más baja que años anteriores, alertó sobre no referirse a tendencias con un único dato.\n¿Es verdadero afirmar que ocurrió un “quiebre” en la tendencia de suicidios?\n\n\nPara leer luego de responder\n\nSi bien ocurrieron menos suicidios en 2023 que en 2022 no es posible hablar de un quiebre sin conocer las cifras de los próximos años. Asimismo, si observamos las variaciones en el número de suicidios a lo largo de los años se observan descensos locales (años 2008 y 2013 por ejemplo) pero sobre una tendencia sostenida al aumento de la tasa de suicidios. Por lo tanto no es posible afirmar que ocurrió un ‘quiebre’ en la tasa de suicidios.\n\n\n\n2.1.3 Noticia 3: Funcionarios públicos en Uruguay y Nueva Zelanda\nEn junio de 2024, la entonces precandidata a la presidencia por el Partido Colorado, Carolina Ache, dijo en el programa Lado B de TV Ciudad que Nueva Zelanda tiene solamente “63.000 funcionarios públicos y cinco millones de habitantes”.\nEn una nota de La Diaria Verifica se presentan los siguientes datos obtenidos de la página web de la Comisión de Servicio Público de Nueva Zelanda.\n\n¿Se puede sugerir que hay muchos funcionarios públicos en Uruguay comparado con Nueva Zelanda?\n\n\nPara leer luego de responder\n\nSi bien al considerar los funcionarios de la categoría “Administración central” parecería cierta la afirmación de Carolina Ache, el conjunto total de funcionarios públicos (Administración central, educación, salud, empresas públicas, gobiernos locales, y otros) es mucho mayor, e incluso supera al de Uruguay.\nEl número en sí mismo no es informativo si no se pondera por la población de cada país y por la cantidad de personas que conforman la masa laboral (por ejemplo, sin contar a niños y jubilados).\nTomando en cuenta estos factores, se concluye que Uruguay y Nueva Zelanda tienen una proporción de funcionarios públicos similar.\n\n\n\n2.1.4 Noticia 4: Muertes por COVID en Uruguay\nEn un acto partidario en junio de 2024, la exministra de salud María Julia Muñoz dijo:\n“Debemos ser claros, la pandemia se manejó mal. No se manejó bien porque el presidente haya puesto la cara todos los días; se manejó mal porque cuando hubo que tomar acciones en defensa de los más necesitados, no se hicieron, y nuestro país es el que tiene más muertes por COVID de personas en el mundo”.\nEn declaraciones posteriores, aclaró que se refería a que Uruguay fue el país de Latinoamérica con más muertes por COVID.\n¿La afirmación de la exministra de salud es correcta o incorrecta?\n\nEl exceso de mortalidad es un término utilizado en epidemiología y salud pública que se refiere al número de muertes por todas las causas durante una crisis, por encima de lo que hubiéramos esperado en condiciones “normales”. En este caso, se compara el número de muertes durante la pandemia con las muertes esperadas sin pandemia. Fuente: Our World In Data\n\n\nPara leer luego de responder\n\nDe acuerdo con los datos de exceso de muerte de Our World in Data, Uruguay no presenta la tasa de muertes por COVID más alta del mundo.\nAl comparar con otros países de la región como Argentina, Perú, Brasil, Bolivia y México, estos presentan un número mayor de exceso de muertes por COVID que Uruguay.\nPor lo tanto, la afirmación de la exministra de salud es incorrecta.\n\n\n\n2.1.5 Noticia 5: Desempleo en Uruguay\nEn una publicidad partidaria, el senador Sebastián Da Silva afirmaba que durante la pasada administración (2020–2023) se alcanzó “la menor tasa de desempleo de los últimos 30 años”, haciendo referencia a la tasa de 7.8 % correspondiente al cierre del año 2023.\n¿Es verdadera la afirmación realizada por el senador?\n\n\n\nPara leer luego de responder\n\nDe acuerdo a los datos del Instituto Nacional de Estadística, el desempleo al cierre de 2023 fue de 7,8 %.\nSin embargo, el número más bajo de desempleo en los últimos 30 años corresponde a una tasa del 5.6 % en diciembre de 2012.\nPor lo tanto, la afirmación del senador no es verdadera.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico: Estadística para ser un buen ciudadano</span>"
+    ]
+  },
+  {
+    "objectID": "practico-por-que-estadistica.html#por-qué-estadística",
+    "href": "practico-por-que-estadistica.html#por-qué-estadística",
+    "title": "3  Práctico 1",
+    "section": "",
+    "text": "3.1.1 Contenidos\n¿Necesito saber estadística si estudio Psicología?\n\n\n3.1.2 Lectura asociada\nCapítulo 1. ¿Por qué estadística?\n\n\n3.1.3 Debate: ¿Necesitamos saber estadística para ser un buen psicólogo/a?\n“Como estudiante y futuro profesional de la Psicología necesito formarme en metodología cuantitativa”.\nSegún el rol que te fue asignado en el debate, sistematiza argumentos a favor / en contra de esta afirmación.\nDiscute con tus compañeros.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico 1</span>"
+    ]
+  },
+  {
+    "objectID": "practico_1.html",
+    "href": "practico_1.html",
+    "title": "3  Práctico: ¿Por qué estadística?",
+    "section": "",
+    "text": "3.1 ¿Necesito saber estadística si estudio Psicología?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: ¿Por qué estadística?</span>"
+    ]
+  },
+  {
+    "objectID": "practico_1.html#por-qué-estadística",
+    "href": "practico_1.html#por-qué-estadística",
+    "title": "3  Práctico 1",
+    "section": "",
+    "text": "3.1.1 Contenidos\n¿Necesito saber estadística si estudio Psicología?\n\n\n3.1.2 Lectura asociada\nCapítulo 1. ¿Por qué estadística?\n\n\n3.1.3 Debate: ¿Necesitamos saber estadística para ser un buen psicólogo/a?\n“Como estudiante y futuro profesional de la Psicología necesito formarme en metodología cuantitativa”.\nSegún el rol que te fue asignado en el debate, sistematiza argumentos a favor / en contra de esta afirmación.\nDiscute con tus compañeros.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico 1</span>"
+    ]
+  },
+  {
+    "objectID": "practico_1.html#cómo-funciona-el-panel-de-análisis-de-datos",
+    "href": "practico_1.html#cómo-funciona-el-panel-de-análisis-de-datos",
+    "title": "3  Práctico: ¿Por qué estadística?",
+    "section": "3.3 ¿Cómo funciona el Panel de análisis de datos?",
+    "text": "3.3 ¿Cómo funciona el Panel de análisis de datos?\n\nEste Panel tiene integradas una serie de bases de datos nacionales que refieren a temáticas de interés en el campo de la psicología.\n\nMenú datos: permite seleccionar una de las bases de datos disponibles.\n\nAcerca de la base: se presenta un texto breve con información de soporte que ayuda a contextualizar los datos que contiene la base.\n\nMostrar resumen: Permite visualizar nombres de las variables, su descripción, su tratamiento (tipo de variable) y valores posibles.\n\n\n3.3.1 Actividad introductoria al Panel\nSe te asignará una base de datos. Tu tarea es familiarizarte con ella para presentarla a tus compañeros. Recupera la siguiente información:\n\nContexto institucional y temática general\n\nMuestra\n\nVariables, instrumentos, informantes\n\n¿Qué temáticas crees que se podrían analizar a través de estos datos?\n\nAhora que sabes un poco más sobre esta base de datos, observa las variables disponibles con mayor detalle. ¿Se te ocurren algunas preguntas/hipótesis de investigación?\nForma un grupo con los compañeros que han trabajado con la misma base de datos. Pongan en común lo que sistematizaron respecto a la base. Acuerden las preguntas de investigación que se podrían plantear a partir de estos datos.\n\n\n¿Necesitas ayuda?\n\n¿Qué tipo de preguntas nos podemos hacer? Considera que en el curso vamos a:\n\nAprender a resumir muchos datos a través de unos pocos valores que expresan la tendencia central y la dispersión\n\nUtilizar gráficos para entender y mostrar algunos aspectos de nuestros datos en forma visual\n\nExplorar la asociación entre dos variables (considerando dirección y magnitud)\n\nComparar grupos distintos, o un mismo grupo en distintas condiciones",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: ¿Por qué estadística?</span>"
+    ]
+  },
+  {
+    "objectID": "practico_2.html",
+    "href": "practico_2.html",
+    "title": "4  Práctico Describir los datos",
+    "section": "",
+    "text": "4.1 Contenidos",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico: Describir los datos</span>"
+    ]
+  },
+  {
+    "objectID": "practico_2.html#contenidos",
+    "href": "practico_2.html#contenidos",
+    "title": "4  Práctico Describir los datos",
+    "section": "",
+    "text": "Inspección visual de una base de datos.\nIdentificar variables y su tratamiento.\nVisualización de datos: histograma\nVisualización de datos: boxplot\nMedidas de tendencia central\nMedidas de dispersión",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico: Describir los datos</span>"
+    ]
+  },
+  {
+    "objectID": "practico_2.html#panel-de-datos-primeros-pasos-conocer-y-amigarme-con-los-datos",
+    "href": "practico_2.html#panel-de-datos-primeros-pasos-conocer-y-amigarme-con-los-datos",
+    "title": "4  Práctico Describir los datos",
+    "section": "4.2 Panel de datos| Primeros pasos: conocer (y amigarme con) los datos",
+    "text": "4.2 Panel de datos| Primeros pasos: conocer (y amigarme con) los datos\nAccede a cuanti.psico.edu.uy/panel Localiza la base de datos __________ Vamos a explorarla.\n\n4.2.1 Contextualizar los datos\nAntes de empezar a trabajar con los datos necesitamos un poco de contexto. Accede a la información sobre la base _________. Activa el botón “Acerca de la base” para conocer de qué se trata.\n\n\n4.2.2 ¿Qué variables contiene la base? ¿Qué tipo de variables son (o cómo fueron tratadas)?\n\nLee el apartado Escalas de medición del libro\nActiva el botón Mostrar resumen. Identifica variables y niveles de la variable.\nObserva la base de datos. ¿Cuántas variables contiene?\nObserva el diccionario de variables ¿Qué se evalúa? ¿Cómo lo evaluaron?\nIdentifica cómo ha sido tratada cada variable e intenta clasificarla\nRegistra tu clasificación. Compara tu registro en el subgrupo\nLee el apartado El rol de las variables: predictoras y dependientes del libro\nAlgún ejercicio cruzando variables de panel para que tengan que pensar en variable independiente y dependiente (el libro propone variable manipulada (predictora) y variable medida (resultado) como una nomenclatura más intuitiva)\n\n\n\n4.2.3 ¡Miremos los datos!\nLee el capítulo 2. Describir los datos Selecciona la base de datos___________\n\n\n¿Necesitas ayuda?\n\nElegir análisis &gt; Ver datos\nMmm… mejor examinemos los datos en un formato visual. Como vimos en el libro, vamos a convertir esos números a otras formas de visualización de datos.\n\nEl primer resumen oficial: realiza un histograma de la variable _____________.\n\n\n¿Necesitas ayuda?\n\nElegir análisis &gt; Histograma&gt; Elegir variable 1 (numérica)\n\nCambia el ancho de los intervalos (bins) y observa cómo cambia el gráfico. ¿Qué ancho de bin seleccionarías finalmente? Repite el procedimiento para otras variables ¿Cómo es la forma del histograma en cada variable? (ej. simetría, “picos”) Ahora explora la opción gráfica Boxplot\n\n\n4.2.4 De muchos números a uno: tendencia central y dispersión\nEn el libro y en el ejercicio anterior vimos que podemos hacernos una idea de los datos al representarlos mediante gráficos. Ahora vamos a examinar la tendencia central y la dispersión de los datos a través de números.\n\nObtiene la tabla de estadísticos descriptivos\n¿Por qué para algunas variables no se ofrece el valor de la media y otros estadísticos?\n¿Qué estadísticos expresan la tendencia central en los datos? ¿Cuál es la dispersión de los datos?\nLocaliza los valores de tendencia central y dispersión para una variable\nRecupera el histograma del ejercicio anterior para esa variable. Si dibujaras líneas verticales para marcar la Media, Moda y Mediana. ¿Coinciden los tres valores? ¿Cuál es más sensible a los valores extremos?",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico: Describir los datos</span>"
+    ]
+  },
+  {
+    "objectID": "practico_1.html#debate-necesitamos-saber-estadística-para-ser-un-buen-psicólogoa",
+    "href": "practico_1.html#debate-necesitamos-saber-estadística-para-ser-un-buen-psicólogoa",
+    "title": "3  Práctico: ¿Por qué estadística?",
+    "section": "3.2 Debate: ¿Necesitamos saber estadística para ser un buen psicólogo/a?",
+    "text": "3.2 Debate: ¿Necesitamos saber estadística para ser un buen psicólogo/a?\n“Como estudiante y futuro profesional de la Psicología necesito formarme en metodología cuantitativa”.\nSegún el rol que te fue asignado en el debate, sistematiza argumentos a favor/en contra de esta afirmación. Discute con tus compañeros.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: ¿Por qué estadística?</span>"
+    ]
+  },
+  {
+    "objectID": "practico_1.html#por-qué-estadística-en-psicología",
+    "href": "practico_1.html#por-qué-estadística-en-psicología",
+    "title": "3  Práctico: ¿Por qué estadística?",
+    "section": "",
+    "text": "3.1.1 Contenidos\n¿Necesito saber estadística si estudio Psicología?\n\n\n3.1.2 Lectura asociada\nCapítulo 1. ¿Por qué estadística?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: ¿Por qué estadística?</span>"
+    ]
+  },
+  {
+    "objectID": "practico_1.html#lectura-asociada",
+    "href": "practico_1.html#lectura-asociada",
+    "title": "3  Práctico: ¿Por qué estadística?",
+    "section": "3.1 Lectura asociada",
+    "text": "3.1 Lectura asociada\nCapítulo 1. ¿Por qué estadística?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: ¿Por qué estadística?</span>"
+    ]
+  },
+  {
+    "objectID": "practico_1.html#necesito-saber-estadística-si-estudio-psicología",
+    "href": "practico_1.html#necesito-saber-estadística-si-estudio-psicología",
+    "title": "3  Práctico: ¿Por qué estadística?",
+    "section": "",
+    "text": "3.1.1 Lectura asociada\nCapítulo 1. ¿Por qué estadística?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: ¿Por qué estadística?</span>"
+    ]
+  },
+  {
+    "objectID": "practico_0.html#introducción",
+    "href": "practico_0.html#introducción",
+    "title": "2  Práctico: Estadística para ser un buen ciudadano",
+    "section": "",
+    "text": "2.1.1 Noticia 1: Niveles de aprobación presidencial\nEl siguiente posteo se publicó en redes sociales en junio de 2025, y se aclara que la afirmación se extrae de resultados publicados por FACTUM.\n\nLa publicación original de FACTUM presenta el siguiente gráfico:\n\nTomando en consideración esta información, ¿podemos afirmar que 53 % de la población “no aprueba la gestión de Yamandú Orsi”?\nConsulta la fuente de datos aquí: FACTUM Aprobación presidente Yamandú Orsi - Junio 2025\n\n\nPara leer luego de responder\n\nAquí encuentras la nota de prensa completa de La Diaria Verifica analizando este asunto: Nota completa en La Diaria Verifica\n\n\n\n2.1.2 Noticia 2: Tasa de suicidio en Uruguay\nSegún datos preliminares, el Ministerio de Salud Pública (MSP) anunció que en 2023 hubo un 8 % menos de suicidios que el año anterior. Según una nota de La Diaria del 11 de abril de 2024:\n“La ministra de Salud Pública, Karina Rando, celebró que se quebró ‘una tendencia’ al alza, que se venía registrando desde 2013. En 2023 hubo 754 suicidios, 64 menos que en 2022 y cuatro menos que en 2021.”\n\nEn una nota de La Diaria Verifica, el sociólogo Pablo Hein reflexiona que los motivos de la baja pueden deberse a “una baja de la globalidad de la carga de muerte” en Uruguay, ya que en 2023 hubo 5500 muertos menos que en 2022 y 7000 muertes menos que en 2021.\nAsimismo, si bien la tasa de suicidios de 2023 es más baja que años anteriores, alertó sobre no referirse a tendencias con un único dato.\n¿Es verdadero afirmar que ocurrió un “quiebre” en la tendencia de suicidios?\n\n\nPara leer luego de responder\n\nSi bien ocurrieron menos suicidios en 2023 que en 2022 no es posible hablar de un quiebre sin conocer las cifras de los próximos años. Asimismo, si observamos las variaciones en el número de suicidios a lo largo de los años se observan descensos locales (años 2008 y 2013 por ejemplo) pero sobre una tendencia sostenida al aumento de la tasa de suicidios. Por lo tanto no es posible afirmar que ocurrió un ‘quiebre’ en la tasa de suicidios.\n\n\n\n2.1.3 Noticia 3: Funcionarios públicos en Uruguay y Nueva Zelanda\nEn junio de 2024, la entonces precandidata a la presidencia por el Partido Colorado, Carolina Ache, dijo en el programa Lado B de TV Ciudad que Nueva Zelanda tiene solamente “63.000 funcionarios públicos y cinco millones de habitantes”.\nEn una nota de La Diaria Verifica se presentan los siguientes datos obtenidos de la página web de la Comisión de Servicio Público de Nueva Zelanda.\n\n¿Se puede sugerir que hay muchos funcionarios públicos en Uruguay comparado con Nueva Zelanda?\n\n\nPara leer luego de responder\n\nSi bien al considerar los funcionarios de la categoría “Administración central” parecería cierta la afirmación de Carolina Ache, el conjunto total de funcionarios públicos (Administración central, educación, salud, empresas públicas, gobiernos locales, y otros) es mucho mayor, e incluso supera al de Uruguay.\nEl número en sí mismo no es informativo si no se pondera por la población de cada país y por la cantidad de personas que conforman la masa laboral (por ejemplo, sin contar a niños y jubilados).\nTomando en cuenta estos factores, se concluye que Uruguay y Nueva Zelanda tienen una proporción de funcionarios públicos similar.\n\n\n\n2.1.4 Noticia 4: Muertes por COVID en Uruguay\nEn un acto partidario en junio de 2024, la exministra de salud María Julia Muñoz dijo:\n“Debemos ser claros, la pandemia se manejó mal. No se manejó bien porque el presidente haya puesto la cara todos los días; se manejó mal porque cuando hubo que tomar acciones en defensa de los más necesitados, no se hicieron, y nuestro país es el que tiene más muertes por COVID de personas en el mundo”.\nEn declaraciones posteriores, aclaró que se refería a que Uruguay fue el país de Latinoamérica con más muertes por COVID.\n¿La afirmación de la exministra de salud es correcta o incorrecta?\n\nEl exceso de mortalidad es un término utilizado en epidemiología y salud pública que se refiere al número de muertes por todas las causas durante una crisis, por encima de lo que hubiéramos esperado en condiciones “normales”. En este caso, se compara el número de muertes durante la pandemia con las muertes esperadas sin pandemia. Fuente: Our World In Data\n\n\nPara leer luego de responder\n\nDe acuerdo con los datos de exceso de muerte de Our World in Data, Uruguay no presenta la tasa de muertes por COVID más alta del mundo.\nAl comparar con otros países de la región como Argentina, Perú, Brasil, Bolivia y México, estos presentan un número mayor de exceso de muertes por COVID que Uruguay.\nPor lo tanto, la afirmación de la exministra de salud es incorrecta.\n\n\n\n2.1.5 Noticia 5: Desempleo en Uruguay\nEn una publicidad partidaria, el senador Sebastián Da Silva afirmaba que durante la pasada administración (2020–2023) se alcanzó “la menor tasa de desempleo de los últimos 30 años”, haciendo referencia a la tasa de 7.8 % correspondiente al cierre del año 2023.\n¿Es verdadera la afirmación realizada por el senador?\n\n\n\nPara leer luego de responder\n\nDe acuerdo a los datos del Instituto Nacional de Estadística, el desempleo al cierre de 2023 fue de 7,8 %.\nSin embargo, el número más bajo de desempleo en los últimos 30 años corresponde a una tasa del 5.6 % en diciembre de 2012.\nPor lo tanto, la afirmación del senador no es verdadera.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico: Estadística para ser un buen ciudadano</span>"
     ]
   }
 ]

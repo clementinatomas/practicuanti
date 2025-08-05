@@ -1,5 +1,5 @@
 ---
-title: "Práctico Describir los datos"
+title: "Práctico: Describir los datos"
 ---
 
 ## Contenidos

@@ -2,4 +2,20 @@
 title: "Practicuanti"
 ---
 
-Bienvenido al cuaderno de prácticos. Usá el menú de la izquierda para navegar entre los temas.
+Bienvenido al cuaderno de prácticos.
+
+La idea es que a través de cada práctico puedas ejercitar los conceptos que trabajamos en las unidades temáticas.
+
+## ¿Cómo me organizo para trabajar en aula invertida?
+
+Recuerda que para sacar el máximo provecho de estos ejercicios la secuencia sugerida es la siguiente:
+
+-   Mirar los audiovisuales correspondientes a la unidad (asincrónico)
+
+-   Leer el capítulo del libro (asincrónico)
+
+-   Transitar por la lección interactiva (fundamentalmente asincrónico, y algunos momentos de trabajo en clase)
+
+-   Realizar los ejercicios prácticos, recuerda que en varios momentos vamos a utilizar el Panel de análisis de datos (en clase y en forma asincrónica)
+
+Usá el menú de la izquierda para navegar entre los temas.

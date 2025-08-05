@@ -7,13 +7,9 @@ book:
   author: "Docentes Cuanti"
   chapters:
     - index.qmd
-    - practico-por-que-estadistica.qmd
-    - practico-describir-los-datos.qmd
-    - practico-variables-categoricas.qmd
-    - practico-correlacion.qmd
-    - practico-pruebas-t.qmd
-    - practico6.qmd
-    - practico7.qmd
+    - practico_0.qmd
+    - practico_1.qmd
+
 
 format:
   html:
