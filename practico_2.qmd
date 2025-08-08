@@ -2,82 +2,115 @@
 title: "Práctico: Describir los datos"
 ---
 
-## Contenidos
+## Primeros pasos: conocer (y amigarme con) los datos
 
--   Inspección visual de una base de datos.
+### Lectura asociada
 
--   Identificar variables y su tratamiento.
+[Capítulo 2. ¿Por qué estadística?](https://almadana.github.io/libro_cuanti/02-Describing_Data.html) 
+[Capítulo 1. El rol de las variables](https://almadana.github.io/libro_cuanti/01-Science_Data.html#el-rol-de-las-variables-predictoras-y-dependientes)
 
+### Contenidos
+
+-   Inspección visual de una base de datos. Identificar variables y su tratamiento.
 -   Visualización de datos: histograma
-
 -   Visualización de datos: boxplot
+-   Medidas de tendencia central: moda, media y mediana
+-   Medidas de dispersión: rango, desvío y varianza
+-   El rol de las variables en el diseño
 
--   Medidas de tendencia central
+### Panel de datos
 
--   Medidas de dispersión
-
-## Panel de datos\| Primeros pasos: conocer (y amigarme con) los datos
-
-Accede a cuanti.psico.edu.uy/panel Localiza la base de datos \_\_\_\_\_\_\_\_\_\_ Vamos a explorarla.
+Accede a: [cuanti.psico.edu.uy/panel](https://cuanti.psico.edu.uy/panel) Localiza la base de datos **ENDIS**. Vamos a explorarla.
 
 ### Contextualizar los datos
 
-Antes de empezar a trabajar con los datos necesitamos un poco de contexto. Accede a la información sobre la base \_\_\_\_\_\_\_\_\_. Activa el botón “Acerca de la base” para conocer de qué se trata.
+Antes de empezar a trabajar con los datos, necesitamos un poco de contexto. Activa el botón **“Acerca de la base”** para conocer de qué se trata.
 
 ### ¿Qué variables contiene la base? ¿Qué tipo de variables son (o cómo fueron tratadas)?
 
--   Lee el apartado Escalas de medición del libro
+-   Lee el apartado [Escalas de medición](https://almadana.github.io/libro_cuanti/01-Science_Data.html#escalas-de-medici%C3%B3n) del libro.
 
--   Activa el botón Mostrar resumen. Identifica variables y niveles de la variable.
+-   Activa el botón **“Mostrar resumen”**. Identifica variables y niveles de las variables. ¿Cuántas variables contiene? ¿Qué se evalúa? ¿Cómo lo evaluaron?
 
--   Observa la base de datos. ¿Cuántas variables contiene?
+![](imgs/2_bases.png)
 
--   Observa el diccionario de variables ¿Qué se evalúa? ¿Cómo lo evaluaron?
-
--   Identifica cómo ha sido tratada cada variable e intenta clasificarla
-
--   Registra tu clasificación. Compara tu registro en el subgrupo
-
--   Lee el apartado El rol de las variables: predictoras y dependientes del libro
-
--   Algún ejercicio cruzando variables de panel para que tengan que pensar en variable independiente y dependiente (el libro propone variable manipulada (predictora) y variable medida (resultado) como una nomenclatura más intuitiva)
+-   Identifica cómo ha sido tratada cada variable e intenta clasificarlas
+-   Registra tu clasificación. Compara tu registro en tu subgrupo
 
 ### ¡Miremos los datos!
 
-Lee el capítulo 2. Describir los datos Selecciona la base de datos\_\_\_\_\_\_\_\_\_\_\_
+-   Lee el [Capítulo 2. ¿Por qué estadística?](https://almadana.github.io/libro_cuanti/02-Describing_Data.html)
+
+-   Seleccioná la base de datos ENDIS
 
 <details>
 
-<summary><strong>¿Necesitas ayuda?</strong></summary>
+<summary><strong>¿Necesitás ayuda?</strong></summary>
 
 Elegir análisis \> Ver datos
 
-Mmm… mejor examinemos los datos en un formato visual. Como vimos en el libro, vamos a convertir esos números a otras formas de visualización de datos.
-
 </details>
 
-El primer resumen oficial: realiza un histograma de la variable \_\_\_\_\_\_\_\_\_\_\_\_\_.
+Mmm… mejor examinemos los datos en un formato visual. Como vimos en el libro, vamos a convertir esos números a otras formas de visualización de datos.
+
+-   El primer resumen oficial: realiza el **histograma** de una variable.
 
 <details>
 
-<summary><strong>¿Necesitas ayuda?</strong></summary>
+<summary><strong>¿Necesitás ayuda?</strong></summary>
 
-Elegir análisis \> Histograma\> Elegir variable 1 (numérica)
+Elegir análisis \> Histograma \> Elegir variable 1 (numérica) Por ejemplo, la variable Big Five: Apertura a la experiencia (una variable de personalidad del adulto)
+
+![](imgs/2_histograma.png)
 
 </details>
 
-Cambia el ancho de los intervalos (bins) y observa cómo cambia el gráfico. ¿Qué ancho de bin seleccionarías finalmente? Repite el procedimiento para otras variables ¿Cómo es la forma del histograma en cada variable? (ej. simetría, “picos”) Ahora explora la opción gráfica Boxplot
+-   Cambia el ancho de los intervalos (bins) y observa cómo cambia el gráfico.
+
+-   ¿Qué ancho de bin seleccionarías finalmente?
+
+-   Repite el procedimiento para otras variables
+
+-   Describe con tus palabras qué representa cada barra de un histograma y qué información nos da esta forma de visualización
+
+-   ¿Cómo es la forma del histograma en cada variable? (ej. simetría, “picos”)
+
+-   Ahora explora la opción gráfica **Diagrama de cajas (Boxplot)** para la misma variable. ¿Qué información te ofrece este gráfico? Estima qué valores corresponden al percentil 25, 50 y 75. ¿Qué indica la línea verde?
+
+<details>
+
+<summary><strong>¿Necesitás ayuda?</strong></summary>
+
+![](imgs/2_boxplot.png)
+
+</details>
 
 ### De muchos números a uno: tendencia central y dispersión
 
 En el libro y en el ejercicio anterior vimos que podemos hacernos una idea de los datos al representarlos mediante gráficos. Ahora vamos a examinar la tendencia central y la dispersión de los datos a través de números.
 
--   Obtiene la tabla de estadísticos descriptivos
+Instrucciones:
+
+-   Obtené la tabla de estadísticos descriptivos. 
 
 -   ¿Por qué para algunas variables no se ofrece el valor de la media y otros estadísticos?
 
--   ¿Qué estadísticos expresan la tendencia central en los datos? ¿Cuál es la dispersión de los datos?
+-   ¿Qué estadísticos expresan la **tendencia central** en los datos? ¿Y la **dispersión**?
 
--   Localiza los valores de tendencia central y dispersión para una variable
+-   Localiza los valores de tendencia central y dispersión para una variable.
 
--   Recupera el histograma del ejercicio anterior para esa variable. Si dibujaras líneas verticales para marcar la Media, Moda y Mediana. ¿Coinciden los tres valores? ¿Cuál es más sensible a los valores extremos?
+-   Recupera el **histograma del ejercicio anterior para esa variable**. Si dibujaras líneas verticales para marcar la Media, Moda y Mediana. ¿Coinciden los tres valores?  ¿Cuál es más sensible a los valores extremos? ¿Por qué?
+
+### El rol de las variables
+
+**Ejercicio: Efectividad de una intervención terapéutica**
+
+-   Lee el apartado [El rol de las variables: predictoras y dependientes](https://almadana.github.io/libro_cuanti/01-Science_Data.html#el-rol-de-las-variables-predictoras-y-dependientes) del Capítulo 1 del libro.
+
+Un equipo de investigación está evaluando la efectividad de la terapia EMDR (Desensibilización y Reprocesamiento por los Movimientos Oculares) para tratar la ansiedad generalizada. Diseñan un estudio en el que reclutan a 60 personas con diagnóstico de trastorno de ansiedad generalizada. A la mitad de los participantes se les aplicaron 8 sesiones de EMDR, y a la otra mitad, 8 sesiones de terapia cognitivo-conductual (TCC), usada como comparación activa. Antes y después del tratamiento, los participantes completaron un cuestionario estandarizado de ansiedad (por ejemplo, el GAD-7). Además, les piden que califiquen su nivel de malestar percibido en situaciones sociales (de 0 a 10) y su calidad de sueño durante la última semana.
+
+-   Identificá la/s variable/s predictora/s (independiente/s). ¿Qué manipula o controla el investigador?
+
+-   Identificá la/s variable/s dependiente/s. ¿Qué se mide como resultado del experimento?
+
+-   ¿Qué otras variables podrían influir en los resultados si no se controlan?

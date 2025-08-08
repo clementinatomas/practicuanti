@@ -8,7 +8,6 @@ book:
   chapters:
     - index.qmd
     - practico_0.qmd
-    - practico_1.qmd
 
 format:
   html:
