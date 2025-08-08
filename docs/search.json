@@ -38,45 +38,5 @@
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico: Estadística para ser un buen ciudadano</span>"
     ]
-  },
-  {
-    "objectID": "practico_1.html",
-    "href": "practico_1.html",
-    "title": "3  Práctico: ¿Por qué estadística?",
-    "section": "",
-    "text": "3.1 ¿Necesito saber estadística si estudio Psicología?",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: ¿Por qué estadística?</span>"
-    ]
-  },
-  {
-    "objectID": "practico_1.html#necesito-saber-estadística-si-estudio-psicología",
-    "href": "practico_1.html#necesito-saber-estadística-si-estudio-psicología",
-    "title": "3  Práctico: ¿Por qué estadística?",
-    "section": "",
-    "text": "3.1.1 Lectura asociada\nCapítulo 1. ¿Por qué estadística?",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: ¿Por qué estadística?</span>"
-    ]
-  },
-  {
-    "objectID": "practico_1.html#debate-necesitamos-saber-estadística-para-ser-un-buen-psicólogoa",
-    "href": "practico_1.html#debate-necesitamos-saber-estadística-para-ser-un-buen-psicólogoa",
-    "title": "3  Práctico: ¿Por qué estadística?",
-    "section": "3.2 Debate: ¿Necesitamos saber estadística para ser un buen psicólogo/a?",
-    "text": "3.2 Debate: ¿Necesitamos saber estadística para ser un buen psicólogo/a?\n“Como estudiante y futuro profesional de la Psicología necesito formarme en metodología cuantitativa”.\nSegún el rol que te fue asignado en el debate, sistematiza argumentos a favor/en contra de esta afirmación. Discute con tus compañeros.",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: ¿Por qué estadística?</span>"
-    ]
-  },
-  {
-    "objectID": "practico_1.html#cómo-funciona-el-panel-de-análisis-de-datos",
-    "href": "practico_1.html#cómo-funciona-el-panel-de-análisis-de-datos",
-    "title": "3  Práctico: ¿Por qué estadística?",
-    "section": "3.3 ¿Cómo funciona el Panel de análisis de datos?",
-    "text": "3.3 ¿Cómo funciona el Panel de análisis de datos?\n\nEste Panel tiene integradas una serie de bases de datos nacionales que refieren a temáticas de interés en el campo de la psicología.\n\nMenú datos: permite seleccionar una de las bases de datos disponibles.\n\nAcerca de la base: se presenta un texto breve con información de soporte que ayuda a contextualizar los datos que contiene la base.\n\nMostrar resumen: Permite visualizar nombres de las variables, su descripción, su tratamiento (tipo de variable) y valores posibles.\n\n\n3.3.1 Actividad introductoria al Panel\nSe te asignará una base de datos. Tu tarea es familiarizarte con ella para presentarla a tus compañeros. Recupera la siguiente información:\n\nContexto institucional y temática general\n\nMuestra\n\nVariables, instrumentos, informantes\n\n¿Qué temáticas crees que se podrían analizar a través de estos datos?\n\nAhora que sabes un poco más sobre esta base de datos, observa las variables disponibles con mayor detalle. ¿Se te ocurren algunas preguntas/hipótesis de investigación?\nForma un grupo con los compañeros que han trabajado con la misma base de datos. Pongan en común lo que sistematizaron respecto a la base. Acuerden las preguntas de investigación que se podrían plantear a partir de estos datos.\n\n\n¿Necesitas ayuda?\n\n¿Qué tipo de preguntas nos podemos hacer? Considera que en el curso vamos a:\n\nAprender a resumir muchos datos a través de unos pocos valores que expresan la tendencia central y la dispersión\n\nUtilizar gráficos para entender y mostrar algunos aspectos de nuestros datos en forma visual\n\nExplorar la asociación entre dos variables (considerando dirección y magnitud)\n\nComparar grupos distintos, o un mismo grupo en distintas condiciones",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: ¿Por qué estadística?</span>"
-    ]
   }
 ]
