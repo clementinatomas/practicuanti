@@ -10,8 +10,11 @@ title: "Práctico: ¿Por qué estadística?"
 
 ## Debate: ¿Necesitamos saber estadística para ser un buen psicólogo/a?
 
-“Como estudiante y futuro profesional de la Psicología necesito formarme en metodología cuantitativa”.\
-Según el rol que te fue asignado en el debate, sistematiza argumentos **a favor**/**en contra** de esta afirmación. Discute con tus compañeros.
+“Como estudiante y futuro profesional de la Psicología necesito formarme en metodología cuantitativa”.
+
+-   Según el rol que te fue asignado en el debate, sistematiza argumentos **a favor**/**en contra** de esta afirmación.
+
+-   Discute con tus compañeros.
 
 ## ¿Cómo funciona el Panel de análisis de datos?
 
@@ -34,7 +37,7 @@ Se te asignará una base de datos. Tu tarea es familiarizarte con ella para pres
 
 Ahora que sabes un poco más sobre esta base de datos, observa las variables disponibles con mayor detalle. ¿Se te ocurren algunas preguntas/hipótesis de investigación?
 
-Forma un grupo con los compañeros que han trabajado con la misma base de datos. Pongan en común lo que sistematizaron respecto a la base. Acuerden las preguntas de investigación que se podrían plantear a partir de estos datos.
+Forma un grupo con otros compañeros. Pongan en común lo que sistematizaron respecto a cada base. Acuerden las preguntas de investigación que se podrían plantear a partir de los datos.
 
 <details>
 
@@ -48,3 +51,55 @@ Forma un grupo con los compañeros que han trabajado con la misma base de datos.
 -   Comparar grupos distintos, o un mismo grupo en distintas condiciones
 
 </details>
+
+## El rol de las variables
+
+**Ejercicio: Efectividad de una intervención terapéutica**
+
+-   Lee el apartado [El rol de las variables: predictoras y dependientes](https://almadana.github.io/libro_cuanti/01-Science_Data.html#el-rol-de-las-variables-predictoras-y-dependientes) del Capítulo 1 del libro.
+
+Un equipo de investigación está evaluando la efectividad de la terapia EMDR (Desensibilización y Reprocesamiento por los Movimientos Oculares) para tratar la ansiedad generalizada. Diseñan un estudio en el que reclutan a 60 personas con diagnóstico de trastorno de ansiedad generalizada. A la mitad de los participantes se les aplicaron 8 sesiones de EMDR, y a la otra mitad, 8 sesiones de terapia cognitivo-conductual (TCC), usada como comparación activa. Antes y después del tratamiento, los participantes completaron un cuestionario estandarizado de ansiedad (por ejemplo, el GAD-7). Además, les piden que califiquen su nivel de malestar percibido en situaciones sociales (de 0 a 10) y su calidad de sueño durante la última semana.
+
+-   Identificá la/s variable/s predictora/s (independiente/s). ¿Qué manipula o controla el investigador?
+
+-   Identificá la/s variable/s dependiente/s. ¿Qué se mide como resultado del experimento?
+
+-   ¿Qué otras variables podrían influir en los resultados si no se controlan?
+
+## Ahora que ya calentaste motores, poné a prueba lo que aprendiste sobre tipos de variable y escalas de medida con la lección interactiva
+
+[LECCIÓN INTERCATIVA Introducción a la Estadística: Conceptos fundamentales para el análisis de datos](https://cuanti.psico.edu.uy/lecciones/lessons/introduction.html)
+
+## **Y para terminar, un par de ejercicios múltiple opción, como los del parcial**
+
+Elige la opción correcta
+
+1.  Sobre las variables cuantitativas
+
+    1.  Pueden ser nominales
+
+    2.  La altura es un ejemplo de variable discreta
+
+    3.  El número de hijos es un ejemplo de variable continua
+
+    4.  Las variables continuas pueden tomar cualquier valor de la escala de medición utilizada
+
+2.  Sobre las variables categóricas
+
+    1.  La medida ordinal nos informa si un sujeto/objeto posee más o menos de la característica de interés que otro sujeto/objeto
+
+    2.  La medida nominal es continua
+
+    3.  No hay diferencias cualitativas entre los sujetos/objetos asignados a categorías diferentes
+
+    4.  El peso es una variable ordinal
+
+3.  Un equipo de investigación quiere evaluar si practicar meditación guiada antes de rendir un examen reduce el nivel de ansiedad en estudiantes universitarios. Un grupo realiza 15 minutos de meditación antes del examen y un grupo control activo realiza 15 minutos de estiramiento. ¿Cuál es la variable predictora?
+
+    1.  Nivel de ansiedad antes del examen
+
+    2.  El tipo de actividad previa al examen
+
+    3.  Nivel de ansiedad después del examen
+
+    4.  Tipo de examen que se rinde

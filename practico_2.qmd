@@ -6,8 +6,7 @@ title: "Práctico: Describir los datos"
 
 ### Lectura asociada
 
-[Capítulo 2. ¿Por qué estadística?](https://almadana.github.io/libro_cuanti/02-Describing_Data.html) 
-[Capítulo 1. El rol de las variables](https://almadana.github.io/libro_cuanti/01-Science_Data.html#el-rol-de-las-variables-predictoras-y-dependientes)
+[Capítulo 2. ¿Por qué estadística?](https://almadana.github.io/libro_cuanti/02-Describing_Data.html) [Capítulo 1. El rol de las variables](https://almadana.github.io/libro_cuanti/01-Science_Data.html#el-rol-de-las-variables-predictoras-y-dependientes)
 
 ### Contenidos
 
@@ -101,16 +100,4 @@ Instrucciones:
 
 -   Recupera el **histograma del ejercicio anterior para esa variable**. Si dibujaras líneas verticales para marcar la Media, Moda y Mediana. ¿Coinciden los tres valores?  ¿Cuál es más sensible a los valores extremos? ¿Por qué?
 
-### El rol de las variables
-
-**Ejercicio: Efectividad de una intervención terapéutica**
-
--   Lee el apartado [El rol de las variables: predictoras y dependientes](https://almadana.github.io/libro_cuanti/01-Science_Data.html#el-rol-de-las-variables-predictoras-y-dependientes) del Capítulo 1 del libro.
-
-Un equipo de investigación está evaluando la efectividad de la terapia EMDR (Desensibilización y Reprocesamiento por los Movimientos Oculares) para tratar la ansiedad generalizada. Diseñan un estudio en el que reclutan a 60 personas con diagnóstico de trastorno de ansiedad generalizada. A la mitad de los participantes se les aplicaron 8 sesiones de EMDR, y a la otra mitad, 8 sesiones de terapia cognitivo-conductual (TCC), usada como comparación activa. Antes y después del tratamiento, los participantes completaron un cuestionario estandarizado de ansiedad (por ejemplo, el GAD-7). Además, les piden que califiquen su nivel de malestar percibido en situaciones sociales (de 0 a 10) y su calidad de sueño durante la última semana.
-
--   Identificá la/s variable/s predictora/s (independiente/s). ¿Qué manipula o controla el investigador?
-
--   Identificá la/s variable/s dependiente/s. ¿Qué se mide como resultado del experimento?
-
--   ¿Qué otras variables podrían influir en los resultados si no se controlan?
+### 
