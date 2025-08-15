@@ -8,7 +8,7 @@ title: "Práctico: ¿Por qué estadística?"
 
 [Capítulo 1. ¿Por qué estadística?](https://almadana.github.io/libro_cuanti/01-Science_Data.html#sobre-la-psicolog%C3%ADa-de-la-estad%C3%ADstica)
 
-## Debate: ¿Necesitamos saber estadística para ser un buen psicólogo/a?
+## Debate: ¿Necesitamos saber estadística para ser buenos psicólogos?
 
 “Como estudiante y futuro profesional de la Psicología necesito formarme en metodología cuantitativa”.
 
