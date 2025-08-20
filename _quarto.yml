@@ -19,6 +19,9 @@ format:
     number-offset: [0]
     toc: true
     toc-depth: 2
+    
+resources:
+  - descargables/**
 
 editor: visual
 

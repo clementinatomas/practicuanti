@@ -10,4 +10,8 @@ La idea es que este trabajo te ayude a desarrollar cierta autonomía en el plant
 
 Este trabajo se va a desarrollar paso a paso a lo largo del semestre según avanzamos en las distintas unidades temáticas, hasta realizar la entrega final (a coordinar con tu docente referente de seminario).
 
-Para realizar el trabajo debes [descargar el modelo de reporte en Word](docs/entregable.docx), que ya contiene las secciones y formato esperado del entregable.
+Para realizar el trabajo debes descargar el modelo de reporte en Word, que ya contiene las secciones y formato esperado del entregable.
+
+<a href="descargabes/entregable.docx" download>
+  📥 Descargar Word
+</a>
