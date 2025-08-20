@@ -9,6 +9,7 @@ book:
     - index.qmd
     - practico_0.qmd
     - practico_1.qmd
+    - entregable.qmd
  
 format:
   html:
