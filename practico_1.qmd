@@ -28,16 +28,25 @@ Este Panel tiene integradas una serie de bases de datos nacionales que refieren 
 
 ### Actividad introductoria al Panel
 
-Se te asignará una base de datos. Tu tarea es familiarizarte con ella para presentarla a tus compañeros. Recupera la siguiente información:
+Se te asignará una **base de datos**. Tu tarea es familiarizarte con ella para presentarla a tus compañeros. Recupera y registra la siguiente información:
 
--   Contexto institucional y temática general\
--   Muestra\
--   Variables, instrumentos, informantes\
--   ¿Qué temáticas crees que se podrían analizar a través de estos datos?
+-   Contexto institucional y temática general 
 
-Ahora que sabes un poco más sobre esta base de datos, observa las variables disponibles con mayor detalle. ¿Se te ocurren algunas preguntas/hipótesis de investigación?
+-   Muestra
 
-Forma un grupo con otros compañeros. Pongan en común lo que sistematizaron respecto a cada base. Acuerden las preguntas de investigación que se podrían plantear a partir de los datos.
+-   ¿Cuántas variables contiene? ¿Qué variables utiliza? ¿De qué tipo son? ¿Cuál es su escala o nivel de medida? 
+
+-   ¿Qué instrumentos crees que utilizaron para obtener las distintas medidas?
+
+-   ¿Qué temáticas crees que se podrían analizar a través de estos datos? 
+
+Ahora que sabes un poco más sobre esta base de datos, observa las variables disponibles con mayor detalle.
+
+-   ¿Se te ocurren algunas preguntas/hipótesis de investigación?
+
+-   ¿Qué otras cosas te parecería relevante evaluar? ¿Cómo lo operacionalizarías?
+
+Forma un grupo con los compañeros que han trabajado con la misma base de datos. Pongan en común lo que sistematizaron respecto a la base. Acuerden las preguntas de investigación que se podrían plantear a partir de estos datos.
 
 <details>
 
@@ -56,9 +65,9 @@ Forma un grupo con otros compañeros. Pongan en común lo que sistematizaron res
 
 **Ejercicio: Efectividad de una intervención terapéutica**
 
--   Lee el apartado [El rol de las variables: predictoras y dependientes](https://almadana.github.io/libro_cuanti/01-Science_Data.html#el-rol-de-las-variables-predictoras-y-dependientes) del Capítulo 1 del libro.
+Ya que obviamente leíste el apartado [El rol de las variables: predictoras y dependientes](https://almadana.github.io/libro_cuanti/01-Science_Data.html#el-rol-de-las-variables-predictoras-y-dependientes) del Capítulo 1 antes de venir a clase (¿verdad que sí?), te proponemos el siguiente ejercicio:
 
-Un equipo de investigación está evaluando la efectividad de la terapia EMDR (Desensibilización y Reprocesamiento por los Movimientos Oculares) para tratar la ansiedad generalizada. Diseñan un estudio en el que reclutan a 60 personas con diagnóstico de trastorno de ansiedad generalizada. A la mitad de los participantes se les aplicaron 8 sesiones de EMDR, y a la otra mitad, 8 sesiones de terapia cognitivo-conductual (TCC), usada como comparación activa. Antes y después del tratamiento, los participantes completaron un cuestionario estandarizado de ansiedad (por ejemplo, el GAD-7). Además, les piden que califiquen su nivel de malestar percibido en situaciones sociales (de 0 a 10) y su calidad de sueño durante la última semana.
+Un equipo de investigación está evaluando la efectividad de la terapia EMDR (Desensibilización y Reprocesamiento por los Movimientos Oculares) para tratar la **ansiedad generalizada**. Diseñan un estudio en el que reclutan a 60 personas con diagnóstico de trastorno de ansiedad generalizada. A la mitad de los participantes se les aplicaron 8 sesiones de [**EMDR**](https://en.wikipedia.org/wiki/Eye_movement_desensitization_and_reprocessing), y a la otra mitad, 8 sesiones de **terapia cognitivo-conductual ([TCC](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy))**, usada como comparación activa. Antes y después del tratamiento, los participantes completaron un cuestionario estandarizado de ansiedad (por ejemplo, el [GAD-7](https://en.wikipedia.org/wiki/Generalized_Anxiety_Disorder_7)). Además, les piden que califiquen su **nivel de malestar percibido en situaciones sociales** (de 0 a 10) y su **calidad de sueño** durante la última semana.
 
 -   Identificá la/s variable/s predictora/s (independiente/s). ¿Qué manipula o controla el investigador?
 
