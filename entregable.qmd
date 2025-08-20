@@ -1,0 +1,13 @@
+---
+title: "Entregable final: Informe de análisis de datos"
+---
+
+Esta actividad es **obligatoria para los estudiantes que cursan en modalidad seminario** (si sos estudiante de plenario te lo ofrecemos como un recurso más para practicar).
+
+La propuesta consiste en realizar una secuencia de análisis de datos a partir de una de las bases disponibles en [cuanti.psico.edu.uy/panel](http://cuanti.psico.edu.uy/panel) (en particular ENDIS, ARISTAS, SERCE o Triada Oscura).
+
+La idea es que este trabajo te ayude a desarrollar cierta autonomía en el planteo de preguntas de investigación, a darte cuenta qué análisis son adecuados según las variables disponibles y la pregunta que pretendes responder y, por último, que puedas ensayar la comunicación escrita de estos resultados.
+
+Este trabajo se va a desarrollar paso a paso a lo largo del semestre según avanzamos en las distintas unidades temáticas, hasta realizar la entrega final (a coordinar con tu docente referente de seminario).
+
+Para realizar el trabajo debes [descargar el modelo de reporte en Word](docs/entregable.docx), que ya contiene las secciones y formato esperado del entregable.
