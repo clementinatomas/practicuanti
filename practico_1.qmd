@@ -68,7 +68,7 @@ Un equipo de investigación está evaluando la efectividad de la terapia EMDR (D
 
 ## Ahora que ya calentaste motores, poné a prueba lo que aprendiste sobre tipos de variable y escalas de medida con la lección interactiva
 
-[LECCIÓN INTERCATIVA Introducción a la Estadística: Conceptos fundamentales para el análisis de datos](https://cuanti.psico.edu.uy/lecciones/lessons/introduction.html)
+[LECCIÓN INTERACTIVA Introducción a la Estadística: Conceptos fundamentales para el análisis de datos](https://cuanti.psico.edu.uy/lecciones/lessons/introduction.html)
 
 ## Y para terminar, un par de ejercicios múltiple opción, como los del parcial
 
