@@ -1,0 +1,12 @@
+---
+title: "Describir los datos - Cuantiles y boxplot"
+format: html
+---
+
+<details>
+
+<summary><strong>¿Necesitás ayuda?</strong></summary>
+
+![](imgs/2_boxplot.png)
+
+</details>

@@ -1,5 +1,6 @@
 ---
 title: "Práctico: Estadística para ser un buen ciudadano"
+number-sections: true
 ---
 
 ## Introducción

@@ -4,119 +4,149 @@
     "href": "index.html",
     "title": "Practicuanti",
     "section": "",
-    "text": "0.1 ¿Cómo me organizo para trabajar en aula invertida?\nBienvenido al cuaderno de prácticos.\nLa idea es que a través de cada práctico puedas ejercitar los conceptos que trabajamos en las unidades temáticas.\nRecuerda que para sacar el máximo provecho de estos ejercicios la secuencia sugerida es la siguiente:\nUsá el menú de la izquierda para navegar entre los temas.",
+    "text": "Bienvenido al cuaderno de prácticos\nLa idea es que a través de cada práctico puedas ejercitar los conceptos que trabajamos en las unidades temáticas.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Practicuanti</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span>"
     ]
   },
   {
     "objectID": "index.html#cómo-me-organizo-para-trabajar-en-aula-invertida",
     "href": "index.html#cómo-me-organizo-para-trabajar-en-aula-invertida",
     "title": "Practicuanti",
+    "section": "¿Cómo me organizo para trabajar en aula invertida?",
+    "text": "¿Cómo me organizo para trabajar en aula invertida?\nRecuerda que para sacar el máximo provecho de estos ejercicios la secuencia sugerida es la siguiente:\n\nMirar los audiovisuales correspondientes a la unidad (asincrónico)\nLeer el capítulo del libro (asincrónico)\nTransitar por la lección interactiva (fundamentalmente asincrónico, y algunos momentos de trabajo en clase)\nRealizar los ejercicios prácticos, recuerda que en varios momentos vamos a utilizar el Panel de análisis de datos (en clase y en forma asincrónica)\n\nUsá el menú de la izquierda para navegar entre los temas.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#introducción",
+    "href": "index.html#introducción",
+    "title": "Practicuanti",
+    "section": "Introducción",
+    "text": "Introducción\nEn este curso vamos a explorar por qué la formación en metodología cuantitativa es necesaria para el trabajo en Psicología. Pero antes de meternos de lleno en eso, pensemos:\n¿Para qué me sirve desarrollar estas competencias si no voy a ser investigador/a? ¿Conocer sobre métodos cuantitativos es útil incluso fuera del ámbito profesional? ¿Tiene sentido en mi condición de ciudadano o ciudadana?\nA lo largo de esta unidad vamos a intentar demostrar que sí.\n\nNoticia 1: Niveles de aprobación presidencial\nEl siguiente posteo se publicó en redes sociales en junio de 2025, y se aclara que la afirmación se extrae de resultados publicados por FACTUM.\n\nLa publicación original de FACTUM presenta el siguiente gráfico:\n\nTomando en consideración esta información, ¿podemos afirmar que 53 % de la población “no aprueba la gestión de Yamandú Orsi”?\nConsulta la fuente de datos aquí: FACTUM Aprobación presidente Yamandú Orsi - Junio 2025\n\n\nPara leer luego de responder\n\nAquí encuentras la nota de prensa completa de La Diaria Verifica analizando este asunto: Nota completa en La Diaria Verifica\n\n\n\nNoticia 2: Tasa de suicidio en Uruguay\nSegún datos preliminares, el Ministerio de Salud Pública (MSP) anunció que en 2023 hubo un 8 % menos de suicidios que el año anterior. Según una nota de La Diaria del 11 de abril de 2024:\n“La ministra de Salud Pública, Karina Rando, celebró que se quebró ‘una tendencia’ al alza, que se venía registrando desde 2013. En 2023 hubo 754 suicidios, 64 menos que en 2022 y cuatro menos que en 2021.”\n\nEn una nota de La Diaria Verifica, el sociólogo Pablo Hein reflexiona que los motivos de la baja pueden deberse a “una baja de la globalidad de la carga de muerte” en Uruguay, ya que en 2023 hubo 5500 muertos menos que en 2022 y 7000 muertes menos que en 2021.\nAsimismo, si bien la tasa de suicidios de 2023 es más baja que años anteriores, alertó sobre no referirse a tendencias con un único dato.\n¿Es verdadero afirmar que ocurrió un “quiebre” en la tendencia de suicidios?\n\n\nPara leer luego de responder\n\nSi bien ocurrieron menos suicidios en 2023 que en 2022 no es posible hablar de un quiebre sin conocer las cifras de los próximos años. Asimismo, si observamos las variaciones en el número de suicidios a lo largo de los años se observan descensos locales (años 2008 y 2013 por ejemplo) pero sobre una tendencia sostenida al aumento de la tasa de suicidios. Por lo tanto no es posible afirmar que ocurrió un ‘quiebre’ en la tasa de suicidios.\n\n\n\nNoticia 3: Funcionarios públicos en Uruguay y Nueva Zelanda\nEn junio de 2024, la entonces precandidata a la presidencia por el Partido Colorado, Carolina Ache, dijo en el programa Lado B de TV Ciudad que Nueva Zelanda tiene solamente “63.000 funcionarios públicos y cinco millones de habitantes”.\nEn una nota de La Diaria Verifica se presentan los siguientes datos obtenidos de la página web de la Comisión de Servicio Público de Nueva Zelanda.\n\n¿Se puede sugerir que hay muchos funcionarios públicos en Uruguay comparado con Nueva Zelanda?\n\n\nPara leer luego de responder\n\nSi bien al considerar los funcionarios de la categoría “Administración central” parecería cierta la afirmación de Carolina Ache, el conjunto total de funcionarios públicos (Administración central, educación, salud, empresas públicas, gobiernos locales, y otros) es mucho mayor, e incluso supera al de Uruguay.\nEl número en sí mismo no es informativo si no se pondera por la población de cada país y por la cantidad de personas que conforman la masa laboral (por ejemplo, sin contar a niños y jubilados).\nTomando en cuenta estos factores, se concluye que Uruguay y Nueva Zelanda tienen una proporción de funcionarios públicos similar.\n\n\n\nNoticia 4: Muertes por COVID en Uruguay\nEn un acto partidario en junio de 2024, la exministra de salud María Julia Muñoz dijo:\n“Debemos ser claros, la pandemia se manejó mal. No se manejó bien porque el presidente haya puesto la cara todos los días; se manejó mal porque cuando hubo que tomar acciones en defensa de los más necesitados, no se hicieron, y nuestro país es el que tiene más muertes por COVID de personas en el mundo”.\nEn declaraciones posteriores, aclaró que se refería a que Uruguay fue el país de Latinoamérica con más muertes por COVID.\n¿La afirmación de la exministra de salud es correcta o incorrecta?\n\nEl exceso de mortalidad es un término utilizado en epidemiología y salud pública que se refiere al número de muertes por todas las causas durante una crisis, por encima de lo que hubiéramos esperado en condiciones “normales”. En este caso, se compara el número de muertes durante la pandemia con las muertes esperadas sin pandemia. Fuente: Our World In Data\n\n\nPara leer luego de responder\n\nDe acuerdo con los datos de exceso de muerte de Our World in Data, Uruguay no presenta la tasa de muertes por COVID más alta del mundo.\nAl comparar con otros países de la región como Argentina, Perú, Brasil, Bolivia y México, estos presentan un número mayor de exceso de muertes por COVID que Uruguay.\nPor lo tanto, la afirmación de la exministra de salud es incorrecta.\n\n\n\nNoticia 5: Desempleo en Uruguay\nEn una publicidad partidaria, el senador Sebastián Da Silva afirmaba que durante la pasada administración (2020–2023) se alcanzó “la menor tasa de desempleo de los últimos 30 años”, haciendo referencia a la tasa de 7.8 % correspondiente al cierre del año 2023.\n¿Es verdadera la afirmación realizada por el senador?\n\n\n\nPara leer luego de responder\n\nDe acuerdo a los datos del Instituto Nacional de Estadística, el desempleo al cierre de 2023 fue de 7,8 %.\nSin embargo, el número más bajo de desempleo en los últimos 30 años corresponde a una tasa del 5.6 % en diciembre de 2012.\nPor lo tanto, la afirmación del senador no es verdadera.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#necesito-saber-estadística-si-estudio-psicología",
+    "href": "index.html#necesito-saber-estadística-si-estudio-psicología",
+    "title": "Practicuanti",
+    "section": "1.1 ¿Necesito saber estadística si estudio Psicología?",
+    "text": "1.1 ¿Necesito saber estadística si estudio Psicología?\n\nLectura asociada\nCapítulo 1. ¿Por qué estadística?",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#debate-necesitamos-saber-estadística-para-ser-buenos-psicólogos",
+    "href": "index.html#debate-necesitamos-saber-estadística-para-ser-buenos-psicólogos",
+    "title": "Practicuanti",
+    "section": "1.2 Debate: ¿Necesitamos saber estadística para ser buenos psicólogos?",
+    "text": "1.2 Debate: ¿Necesitamos saber estadística para ser buenos psicólogos?\n“Como estudiante y futuro profesional de la Psicología necesito formarme en metodología cuantitativa”.\n\nSegún el rol que te fue asignado en el debate, sistematiza argumentos a favor/en contra de esta afirmación.\nDiscute con tus compañeros.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#cómo-funciona-el-panel-de-análisis-de-datos",
+    "href": "index.html#cómo-funciona-el-panel-de-análisis-de-datos",
+    "title": "Practicuanti",
+    "section": "1.3 ¿Cómo funciona el Panel de análisis de datos?",
+    "text": "1.3 ¿Cómo funciona el Panel de análisis de datos?\n\nEste Panel tiene integradas una serie de bases de datos nacionales que refieren a temáticas de interés en el campo de la psicología.\n\nMenú datos: permite seleccionar una de las bases de datos disponibles.\n\nAcerca de la base: se presenta un texto breve con información de soporte que ayuda a contextualizar los datos que contiene la base.\n\nMostrar resumen: Permite visualizar nombres de las variables, su descripción, su tratamiento (tipo de variable) y valores posibles.\n\n\nActividad introductoria al Panel\nSe te asignará una base de datos. Tu tarea es familiarizarte con ella para presentarla a tus compañeros. Recupera y registra la siguiente información:\n\nContexto institucional y temática general \nMuestra\n¿Cuántas variables contiene? ¿Qué variables utiliza? ¿De qué tipo son? ¿Cuál es su escala o nivel de medida? \n¿Qué instrumentos crees que utilizaron para obtener las distintas medidas?\n¿Qué temáticas crees que se podrían analizar a través de estos datos? \n\nAhora que sabes un poco más sobre esta base de datos, observa las variables disponibles con mayor detalle.\n\n¿Se te ocurren algunas preguntas/hipótesis de investigación?\n¿Qué otras cosas te parecería relevante evaluar? ¿Cómo lo operacionalizarías?\n\nForma un grupo con los compañeros que han trabajado con la misma base de datos. Pongan en común lo que sistematizaron respecto a la base. Acuerden las preguntas de investigación que se podrían plantear a partir de estos datos.\n\n\n¿Necesitas ayuda?\n\n¿Qué tipo de preguntas nos podemos hacer? Considera que en el curso vamos a:\n\nAprender a resumir muchos datos a través de unos pocos valores que expresan la tendencia central y la dispersión\n\nUtilizar gráficos para entender y mostrar algunos aspectos de nuestros datos en forma visual\n\nExplorar la asociación entre dos variables (considerando dirección y magnitud)\n\nComparar grupos distintos, o un mismo grupo en distintas condiciones",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#el-rol-de-las-variables",
+    "href": "index.html#el-rol-de-las-variables",
+    "title": "Practicuanti",
+    "section": "1.4 El rol de las variables",
+    "text": "1.4 El rol de las variables\nEjercicio: Efectividad de una intervención terapéutica\nYa que obviamente leíste el apartado El rol de las variables: predictoras y dependientes del Capítulo 1 antes de venir a clase (¿verdad que sí?), te proponemos el siguiente ejercicio:\nUn equipo de investigación está evaluando la efectividad de la terapia EMDR (Desensibilización y Reprocesamiento por los Movimientos Oculares) para tratar la ansiedad generalizada. Diseñan un estudio en el que reclutan a 60 personas con diagnóstico de trastorno de ansiedad generalizada. A la mitad de los participantes se les aplicaron 8 sesiones de EMDR, y a la otra mitad, 8 sesiones de terapia cognitivo-conductual (TCC), usada como comparación activa. Antes y después del tratamiento, los participantes completaron un cuestionario estandarizado de ansiedad (por ejemplo, el GAD-7). Además, les piden que califiquen su nivel de malestar percibido en situaciones sociales (de 0 a 10) y su calidad de sueño durante la última semana.\n\nIdentificá la/s variable/s predictora/s (independiente/s). ¿Qué manipula o controla el investigador?\nIdentificá la/s variable/s dependiente/s. ¿Qué se mide como resultado del experimento?\n¿Qué otras variables podrían influir en los resultados si no se controlan?",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#ahora-que-ya-calentaste-motores-poné-a-prueba-lo-que-aprendiste-sobre-tipos-de-variable-y-escalas-de-medida-con-la-lección-interactiva",
+    "href": "index.html#ahora-que-ya-calentaste-motores-poné-a-prueba-lo-que-aprendiste-sobre-tipos-de-variable-y-escalas-de-medida-con-la-lección-interactiva",
+    "title": "Practicuanti",
+    "section": "1.5 Ahora que ya calentaste motores, poné a prueba lo que aprendiste sobre tipos de variable y escalas de medida con la lección interactiva",
+    "text": "1.5 Ahora que ya calentaste motores, poné a prueba lo que aprendiste sobre tipos de variable y escalas de medida con la lección interactiva\nLECCIÓN INTERACTIVA Introducción a la Estadística: Conceptos fundamentales para el análisis de datos",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "href": "index.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "title": "Practicuanti",
+    "section": "1.6 Y para terminar, un par de ejercicios múltiple opción, como los del parcial",
+    "text": "1.6 Y para terminar, un par de ejercicios múltiple opción, como los del parcial\nElige la opción correcta\n\nSobre las variables cuantitativas\n\nPueden ser nominales\nLa altura es un ejemplo de variable discreta\nEl número de hijos es un ejemplo de variable continua\nLas variables continuas pueden tomar cualquier valor de la escala de medición utilizada\n\nSobre las variables categóricas\n\nLa medida ordinal nos informa si un sujeto/objeto posee más o menos de la característica de interés que otro sujeto/objeto\nLa medida nominal es continua\nNo hay diferencias cualitativas entre los sujetos/objetos asignados a categorías diferentes\nEl peso, medido en kilogramos, es una variable ordinal\n\nUn equipo de investigación quiere evaluar si practicar meditación guiada antes de rendir un examen reduce el nivel de ansiedad en estudiantes universitarios. Un grupo realiza 15 minutos de meditación antes del examen y un grupo control activo realiza 15 minutos de estiramiento. ¿Cuál es la variable predictora?\n\nNivel de ansiedad antes del examen\nEl tipo de actividad previa al examen\nNivel de ansiedad después del examen\nTipo de examen que se rinde",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_2.html",
+    "href": "practico_2.html",
+    "title": "Práctico: Describir los datos - Histogramas y Tendencia central (S 02)",
     "section": "",
-    "text": "Mirar los audiovisuales correspondientes a la unidad (asincrónico)\nLeer el capítulo del libro (asincrónico)\nTransitar por la lección interactiva (fundamentalmente asincrónico, y algunos momentos de trabajo en clase)\nRealizar los ejercicios prácticos, recuerda que en varios momentos vamos a utilizar el Panel de análisis de datos (en clase y en forma asincrónica)",
+    "text": "2.1 Primeros pasos: conocer (y amigarme con) los datos",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Practicuanti</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span>"
     ]
   },
   {
-    "objectID": "practico_0.html",
-    "href": "practico_0.html",
-    "title": "2  Práctico: Estadística para ser un buen ciudadano",
+    "objectID": "practico_2.html#primeros-pasos-conocer-y-amigarme-con-los-datos",
+    "href": "practico_2.html#primeros-pasos-conocer-y-amigarme-con-los-datos",
+    "title": "Práctico: Describir los datos - Histogramas y Tendencia central (S 02)",
     "section": "",
-    "text": "2.1 Introducción\nEn este curso vamos a explorar por qué la formación en metodología cuantitativa es necesaria para el trabajo en Psicología. Pero antes de meternos de lleno en eso, pensemos:\n¿Para qué me sirve desarrollar estas competencias si no voy a ser investigador/a? ¿Conocer sobre métodos cuantitativos es útil incluso fuera del ámbito profesional? ¿Tiene sentido en mi condición de ciudadano o ciudadana?\nA lo largo de esta unidad vamos a intentar demostrar que sí.",
+    "text": "Lectura asociada\nCapítulo 2. ¿Por qué estadística? Capítulo 1. El rol de las variables\n\n\nContenidos\n\nVisualización de datos: histograma\nMedidas de tendencia central: moda, media y mediana",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico: Estadística para ser un buen ciudadano</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span>"
     ]
   },
   {
-    "objectID": "practico_0.html#introducción",
-    "href": "practico_0.html#introducción",
-    "title": "2  Práctico: Estadística para ser un buen ciudadano",
-    "section": "",
-    "text": "2.1.1 Noticia 1: Niveles de aprobación presidencial\nEl siguiente posteo se publicó en redes sociales en junio de 2025, y se aclara que la afirmación se extrae de resultados publicados por FACTUM.\n\nLa publicación original de FACTUM presenta el siguiente gráfico:\n\nTomando en consideración esta información, ¿podemos afirmar que 53 % de la población “no aprueba la gestión de Yamandú Orsi”?\nConsulta la fuente de datos aquí: FACTUM Aprobación presidente Yamandú Orsi - Junio 2025\n\n\nPara leer luego de responder\n\nAquí encuentras la nota de prensa completa de La Diaria Verifica analizando este asunto: Nota completa en La Diaria Verifica\n\n\n\n2.1.2 Noticia 2: Tasa de suicidio en Uruguay\nSegún datos preliminares, el Ministerio de Salud Pública (MSP) anunció que en 2023 hubo un 8 % menos de suicidios que el año anterior. Según una nota de La Diaria del 11 de abril de 2024:\n“La ministra de Salud Pública, Karina Rando, celebró que se quebró ‘una tendencia’ al alza, que se venía registrando desde 2013. En 2023 hubo 754 suicidios, 64 menos que en 2022 y cuatro menos que en 2021.”\n\nEn una nota de La Diaria Verifica, el sociólogo Pablo Hein reflexiona que los motivos de la baja pueden deberse a “una baja de la globalidad de la carga de muerte” en Uruguay, ya que en 2023 hubo 5500 muertos menos que en 2022 y 7000 muertes menos que en 2021.\nAsimismo, si bien la tasa de suicidios de 2023 es más baja que años anteriores, alertó sobre no referirse a tendencias con un único dato.\n¿Es verdadero afirmar que ocurrió un “quiebre” en la tendencia de suicidios?\n\n\nPara leer luego de responder\n\nSi bien ocurrieron menos suicidios en 2023 que en 2022 no es posible hablar de un quiebre sin conocer las cifras de los próximos años. Asimismo, si observamos las variaciones en el número de suicidios a lo largo de los años se observan descensos locales (años 2008 y 2013 por ejemplo) pero sobre una tendencia sostenida al aumento de la tasa de suicidios. Por lo tanto no es posible afirmar que ocurrió un ‘quiebre’ en la tasa de suicidios.\n\n\n\n2.1.3 Noticia 3: Funcionarios públicos en Uruguay y Nueva Zelanda\nEn junio de 2024, la entonces precandidata a la presidencia por el Partido Colorado, Carolina Ache, dijo en el programa Lado B de TV Ciudad que Nueva Zelanda tiene solamente “63.000 funcionarios públicos y cinco millones de habitantes”.\nEn una nota de La Diaria Verifica se presentan los siguientes datos obtenidos de la página web de la Comisión de Servicio Público de Nueva Zelanda.\n\n¿Se puede sugerir que hay muchos funcionarios públicos en Uruguay comparado con Nueva Zelanda?\n\n\nPara leer luego de responder\n\nSi bien al considerar los funcionarios de la categoría “Administración central” parecería cierta la afirmación de Carolina Ache, el conjunto total de funcionarios públicos (Administración central, educación, salud, empresas públicas, gobiernos locales, y otros) es mucho mayor, e incluso supera al de Uruguay.\nEl número en sí mismo no es informativo si no se pondera por la población de cada país y por la cantidad de personas que conforman la masa laboral (por ejemplo, sin contar a niños y jubilados).\nTomando en cuenta estos factores, se concluye que Uruguay y Nueva Zelanda tienen una proporción de funcionarios públicos similar.\n\n\n\n2.1.4 Noticia 4: Muertes por COVID en Uruguay\nEn un acto partidario en junio de 2024, la exministra de salud María Julia Muñoz dijo:\n“Debemos ser claros, la pandemia se manejó mal. No se manejó bien porque el presidente haya puesto la cara todos los días; se manejó mal porque cuando hubo que tomar acciones en defensa de los más necesitados, no se hicieron, y nuestro país es el que tiene más muertes por COVID de personas en el mundo”.\nEn declaraciones posteriores, aclaró que se refería a que Uruguay fue el país de Latinoamérica con más muertes por COVID.\n¿La afirmación de la exministra de salud es correcta o incorrecta?\n\nEl exceso de mortalidad es un término utilizado en epidemiología y salud pública que se refiere al número de muertes por todas las causas durante una crisis, por encima de lo que hubiéramos esperado en condiciones “normales”. En este caso, se compara el número de muertes durante la pandemia con las muertes esperadas sin pandemia. Fuente: Our World In Data\n\n\nPara leer luego de responder\n\nDe acuerdo con los datos de exceso de muerte de Our World in Data, Uruguay no presenta la tasa de muertes por COVID más alta del mundo.\nAl comparar con otros países de la región como Argentina, Perú, Brasil, Bolivia y México, estos presentan un número mayor de exceso de muertes por COVID que Uruguay.\nPor lo tanto, la afirmación de la exministra de salud es incorrecta.\n\n\n\n2.1.5 Noticia 5: Desempleo en Uruguay\nEn una publicidad partidaria, el senador Sebastián Da Silva afirmaba que durante la pasada administración (2020–2023) se alcanzó “la menor tasa de desempleo de los últimos 30 años”, haciendo referencia a la tasa de 7.8 % correspondiente al cierre del año 2023.\n¿Es verdadera la afirmación realizada por el senador?\n\n\n\nPara leer luego de responder\n\nDe acuerdo a los datos del Instituto Nacional de Estadística, el desempleo al cierre de 2023 fue de 7,8 %.\nSin embargo, el número más bajo de desempleo en los últimos 30 años corresponde a una tasa del 5.6 % en diciembre de 2012.\nPor lo tanto, la afirmación del senador no es verdadera.",
+    "objectID": "practico_2.html#panel-de-datos-endis",
+    "href": "practico_2.html#panel-de-datos-endis",
+    "title": "Práctico: Describir los datos - Histogramas y Tendencia central (S 02)",
+    "section": "2.2 Panel de datos: ENDIS",
+    "text": "2.2 Panel de datos: ENDIS\nYa que seguro leíste el Capítulo 2. Describir los datos y querés ir más allá de la teoría, te proponemos trabajar con la base de datos de ENDIS para que explores y visualices datos de verdad.\nAccede a cuanti.psico.edu.uy/panel \n\nDescribir datos - Distribución de variables\nAntes de empezar a trabajar con la base ENDIS necesitamos un poco de contexto. Activa el botón “Acerca de la base” para conocer de qué se trata.\n\n\n\n\nY ahora… ¡Miremos los datos!\n\nObserva los datos. ¿Cuántas observaciones tiene la base de datos? ¿Puedes decir algo al respecto de cómo se comportan las observaciones, por ejemplo, si hay algunos valores más o menos frecuentes? \n\n\n\n¿Necesitás ayuda?\n\nElegir análisis &gt; Ver datos\n\nMmm… mejor examinemos los datos en un formato visual. Como vimos en el libro, vamos a convertir esos números a otras formas de visualización de datos.\n\nEl primer resumen oficial: realiza el histograma de una variable.\n\n\n\n¿Necesitás ayuda?\n\nElegir análisis &gt; Histograma &gt; Elegir variable 1 (numérica)\nPor ejemplo, la variable Big Five: Apertura a la experiencia (una variable de personalidad del adulto)\n\n\n\nCambia el ancho de los intervalos (bins) y observa cómo cambia el gráfico. ¿Qué son los bins? ¿Qué ancho de bin seleccionarías finalmente? ¿Cómo es la forma del histograma (ej. simetría/asimetría, “picos”)\nRepite el procedimiento para otras variables de esta base de datos\nDescribe con tus palabras qué representa cada barra de un histograma y qué información nos da esta visualización\n¿Por qué para algunas de las variables de la base de datos no es posible realizar un histograma?\n\n\n\nDe muchos números a uno: tendencia central y dispersión\nEn el libro y en el ejercicio anterior vimos que podemos hacernos una idea de los datos al representarlos mediante gráficos. Ahora vamos a examinar la tendencia central de los datos de la base ENDIS a través de números.\n\nObtené la tabla de estadísticos descriptivos\n¿Por qué para algunas variables no se ofrece el valor de la media ni otros estadísticos?\n¿Qué estadísticos expresan la tendencia central en los datos? Fijate si sos capaz de definir cada uno con tus propias palabras\nLocaliza los valores de tendencia central para la variable Apertura a la experiencia y regístralos\nRecupera el histograma de la variable Apertura a la experiencia, del ejercicio anterior. Copia la distribución en una hoja. Dibuja líneas verticales para marcar la Media, Moda y Mediana. ¿Coinciden los tres valores? ¿Por qué? \nEn la ENDIS, la personalidad se caracteriza a través de 5 factores. Como vimos, Apertura a la experiencia es uno de ellos. Repite el procedimiento para las otras cuatro variables de personalidad\nMira los histogramas de los cinco factores. Comenta y compara la forma de cada uno de ellos",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico: Estadística para ser un buen ciudadano</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span>"
     ]
   },
   {
-    "objectID": "practico_1.html",
-    "href": "practico_1.html",
-    "title": "3  Práctico: ¿Por qué estadística?",
-    "section": "",
-    "text": "3.1 ¿Necesito saber estadística si estudio Psicología?",
+    "objectID": "practico_2.html#un-caso-de-distribución-de-datos-tomados-por-nuestra-institución-la-edad-de-los-psicólogos-en-el-uruguay",
+    "href": "practico_2.html#un-caso-de-distribución-de-datos-tomados-por-nuestra-institución-la-edad-de-los-psicólogos-en-el-uruguay",
+    "title": "Práctico: Describir los datos - Histogramas y Tendencia central (S 02)",
+    "section": "2.3 Un caso de distribución de datos tomados por nuestra institución: la edad de los psicólogos en el Uruguay",
+    "text": "2.3 Un caso de distribución de datos tomados por nuestra institución: la edad de los psicólogos en el Uruguay\nSelecciona la base de datos Censo Nacional de Psicólogos y familiarizate con el origen de los datos. Luego:\n\nRealiza un histograma de la variable edad seleccionando un número de bins adecuado. ¿Qué característica tiene la distribución? ¿A qué podría deberse que los datos se distribuyan así?\n\nMirando la distribución de la edad de los psicólogos, estima qué valores tendrían las medidas de tendencia central\n\nVerifica tu estimación consultando la tabla de estadísticos descriptivos asociada a esta base de datos\n\nRelaciona los valores que toman las medidas de tendencia central con la forma de la distribución",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: ¿Por qué estadística?</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span>"
     ]
   },
   {
-    "objectID": "practico_1.html#necesito-saber-estadística-si-estudio-psicología",
-    "href": "practico_1.html#necesito-saber-estadística-si-estudio-psicología",
-    "title": "3  Práctico: ¿Por qué estadística?",
-    "section": "",
-    "text": "3.1.1 Lectura asociada\nCapítulo 1. ¿Por qué estadística?",
+    "objectID": "practico_2.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "href": "practico_2.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "title": "Práctico: Describir los datos - Histogramas y Tendencia central (S 02)",
+    "section": "2.4 Y para terminar, un par de ejercicios múltiple opción como los del parcial",
+    "text": "2.4 Y para terminar, un par de ejercicios múltiple opción como los del parcial\nPara cada pregunta indique LA opción correcta:\n\nUn histograma es:\n\nUn gráfico de barras en el que se muestra la mediana, la media y el desvío estándar.\nUna forma de cuantificar la dispersión de los datos\nUna forma de representar gráficamente las frecuencias de los diferentes niveles o valores que toma una variable numérica\nUn indicador de tendencia central\n\nEn un histograma, el eje horizontal (X) normalmente muestra:\n\nLa cantidad de participantes en cada categoría\nLos intervalos o rangos de valores de la variable\nLa frecuencia de cada observación\nEl número total de observaciones\n\nEn un histograma, la altura de cada barra indica:\n\nEl valor máximo del intervalo\nLa frecuencia absoluta o relativa de ese intervalo\nLa media de todos los datos\nLa diferencia entre el valor mayor y menor del intervalo\n\nLa mediana es útil porque:\n\nNo se ve afectada por valores extremos (outliers)\nSiempre es igual a la media, en cualquier distribución\nRepresenta el valor más frecuente\nEs necesaria para calcular el rango\n\nSi una distribución de puntajes del BDI (Inventario de Depresión de Beck) es muy asimétrica hacia la derecha, lo más probable es que:\n\nMedia &gt; Mediana\nMedia &lt; Mediana\nMedia = Mediana\nModa &gt; Media\n\nSi en un grupo de 10 estudiantes, 6 obtuvieron 15 puntos en una escala de ansiedad y los otros 4 obtuvieron 10 puntos, la moda es:\n\n15\n10\n12,5\nLa moda solo puede calcularse para variables categóricas (cualitativas)\n\nSobre las medidas de tendencia central:\n\nLa moda es el valor que más se repite\nLa mediana se obtiene sumando todos los valores que toma una variable y se divide entre el rango de la variable\nLa media es el valor que divide la distribución en dos partes iguales\nLa mediana, la moda y la media son iguales en variables con distribuciones asimétricas",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: ¿Por qué estadística?</span>"
-    ]
-  },
-  {
-    "objectID": "practico_1.html#debate-necesitamos-saber-estadística-para-ser-buenos-psicólogos",
-    "href": "practico_1.html#debate-necesitamos-saber-estadística-para-ser-buenos-psicólogos",
-    "title": "3  Práctico: ¿Por qué estadística?",
-    "section": "3.2 Debate: ¿Necesitamos saber estadística para ser buenos psicólogos?",
-    "text": "3.2 Debate: ¿Necesitamos saber estadística para ser buenos psicólogos?\n“Como estudiante y futuro profesional de la Psicología necesito formarme en metodología cuantitativa”.\n\nSegún el rol que te fue asignado en el debate, sistematiza argumentos a favor/en contra de esta afirmación.\nDiscute con tus compañeros.",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: ¿Por qué estadística?</span>"
-    ]
-  },
-  {
-    "objectID": "practico_1.html#cómo-funciona-el-panel-de-análisis-de-datos",
-    "href": "practico_1.html#cómo-funciona-el-panel-de-análisis-de-datos",
-    "title": "3  Práctico: ¿Por qué estadística?",
-    "section": "3.3 ¿Cómo funciona el Panel de análisis de datos?",
-    "text": "3.3 ¿Cómo funciona el Panel de análisis de datos?\n\nEste Panel tiene integradas una serie de bases de datos nacionales que refieren a temáticas de interés en el campo de la psicología.\n\nMenú datos: permite seleccionar una de las bases de datos disponibles.\n\nAcerca de la base: se presenta un texto breve con información de soporte que ayuda a contextualizar los datos que contiene la base.\n\nMostrar resumen: Permite visualizar nombres de las variables, su descripción, su tratamiento (tipo de variable) y valores posibles.\n\n\n3.3.1 Actividad introductoria al Panel\nSe te asignará una base de datos. Tu tarea es familiarizarte con ella para presentarla a tus compañeros. Recupera y registra la siguiente información:\n\nContexto institucional y temática general \nMuestra\n¿Cuántas variables contiene? ¿Qué variables utiliza? ¿De qué tipo son? ¿Cuál es su escala o nivel de medida? \n¿Qué instrumentos crees que utilizaron para obtener las distintas medidas?\n¿Qué temáticas crees que se podrían analizar a través de estos datos? \n\nAhora que sabes un poco más sobre esta base de datos, observa las variables disponibles con mayor detalle.\n\n¿Se te ocurren algunas preguntas/hipótesis de investigación?\n¿Qué otras cosas te parecería relevante evaluar? ¿Cómo lo operacionalizarías?\n\nForma un grupo con los compañeros que han trabajado con la misma base de datos. Pongan en común lo que sistematizaron respecto a la base. Acuerden las preguntas de investigación que se podrían plantear a partir de estos datos.\n\n\n¿Necesitas ayuda?\n\n¿Qué tipo de preguntas nos podemos hacer? Considera que en el curso vamos a:\n\nAprender a resumir muchos datos a través de unos pocos valores que expresan la tendencia central y la dispersión\n\nUtilizar gráficos para entender y mostrar algunos aspectos de nuestros datos en forma visual\n\nExplorar la asociación entre dos variables (considerando dirección y magnitud)\n\nComparar grupos distintos, o un mismo grupo en distintas condiciones",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: ¿Por qué estadística?</span>"
-    ]
-  },
-  {
-    "objectID": "practico_1.html#el-rol-de-las-variables",
-    "href": "practico_1.html#el-rol-de-las-variables",
-    "title": "3  Práctico: ¿Por qué estadística?",
-    "section": "3.4 El rol de las variables",
-    "text": "3.4 El rol de las variables\nEjercicio: Efectividad de una intervención terapéutica\nYa que obviamente leíste el apartado El rol de las variables: predictoras y dependientes del Capítulo 1 antes de venir a clase (¿verdad que sí?), te proponemos el siguiente ejercicio:\nUn equipo de investigación está evaluando la efectividad de la terapia EMDR (Desensibilización y Reprocesamiento por los Movimientos Oculares) para tratar la ansiedad generalizada. Diseñan un estudio en el que reclutan a 60 personas con diagnóstico de trastorno de ansiedad generalizada. A la mitad de los participantes se les aplicaron 8 sesiones de EMDR, y a la otra mitad, 8 sesiones de terapia cognitivo-conductual (TCC), usada como comparación activa. Antes y después del tratamiento, los participantes completaron un cuestionario estandarizado de ansiedad (por ejemplo, el GAD-7). Además, les piden que califiquen su nivel de malestar percibido en situaciones sociales (de 0 a 10) y su calidad de sueño durante la última semana.\n\nIdentificá la/s variable/s predictora/s (independiente/s). ¿Qué manipula o controla el investigador?\nIdentificá la/s variable/s dependiente/s. ¿Qué se mide como resultado del experimento?\n¿Qué otras variables podrían influir en los resultados si no se controlan?",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: ¿Por qué estadística?</span>"
-    ]
-  },
-  {
-    "objectID": "practico_1.html#ahora-que-ya-calentaste-motores-poné-a-prueba-lo-que-aprendiste-sobre-tipos-de-variable-y-escalas-de-medida-con-la-lección-interactiva",
-    "href": "practico_1.html#ahora-que-ya-calentaste-motores-poné-a-prueba-lo-que-aprendiste-sobre-tipos-de-variable-y-escalas-de-medida-con-la-lección-interactiva",
-    "title": "3  Práctico: ¿Por qué estadística?",
-    "section": "3.5 Ahora que ya calentaste motores, poné a prueba lo que aprendiste sobre tipos de variable y escalas de medida con la lección interactiva",
-    "text": "3.5 Ahora que ya calentaste motores, poné a prueba lo que aprendiste sobre tipos de variable y escalas de medida con la lección interactiva\nLECCIÓN INTERACTIVA Introducción a la Estadística: Conceptos fundamentales para el análisis de datos",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: ¿Por qué estadística?</span>"
-    ]
-  },
-  {
-    "objectID": "practico_1.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
-    "href": "practico_1.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
-    "title": "3  Práctico: ¿Por qué estadística?",
-    "section": "3.6 Y para terminar, un par de ejercicios múltiple opción, como los del parcial",
-    "text": "3.6 Y para terminar, un par de ejercicios múltiple opción, como los del parcial\nElige la opción correcta\n\nSobre las variables cuantitativas\n\nPueden ser nominales\nLa altura es un ejemplo de variable discreta\nEl número de hijos es un ejemplo de variable continua\nLas variables continuas pueden tomar cualquier valor de la escala de medición utilizada\n\nSobre las variables categóricas\n\nLa medida ordinal nos informa si un sujeto/objeto posee más o menos de la característica de interés que otro sujeto/objeto\nLa medida nominal es continua\nNo hay diferencias cualitativas entre los sujetos/objetos asignados a categorías diferentes\nEl peso es una variable ordinal\n\nUn equipo de investigación quiere evaluar si practicar meditación guiada antes de rendir un examen reduce el nivel de ansiedad en estudiantes universitarios. Un grupo realiza 15 minutos de meditación antes del examen y un grupo control activo realiza 15 minutos de estiramiento. ¿Cuál es la variable predictora?\n\nNivel de ansiedad antes del examen\nEl tipo de actividad previa al examen\nNivel de ansiedad después del examen\nTipo de examen que se rinde",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: ¿Por qué estadística?</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span>"
     ]
   },
   {
     "objectID": "entregable.html",
     "href": "entregable.html",
-    "title": "4  Entregable final: Informe de análisis de datos",
+    "title": "Entregable final: Informe de análisis de datos",
     "section": "",
-    "text": "Esta actividad es obligatoria para los estudiantes que cursan en modalidad seminario (si sos estudiante de plenario te lo ofrecemos como un recurso más para practicar).\nLa propuesta consiste en realizar una secuencia de análisis de datos a partir de una de las bases disponibles en cuanti.psico.edu.uy/panel (en particular ENDIS, ARISTAS, SERCE o Triada Oscura).\nLa idea es que este trabajo te ayude a desarrollar cierta autonomía en el planteo de preguntas de investigación, a darte cuenta qué análisis son adecuados según las variables disponibles y la pregunta que pretendes responder y, por último, que puedas ensayar la comunicación escrita de estos resultados.\nEste trabajo se va a desarrollar paso a paso a lo largo del semestre según avanzamos en las distintas unidades temáticas, hasta realizar la entrega final (a coordinar con tu docente referente de seminario).\nPara realizar el trabajo debes descargar el modelo de reporte en Word, que ya contiene las secciones y formato esperado del entregable.\n📥 Descargar en Word",
+    "text": "Esta actividad es obligatoria para los estudiantes que cursan en modalidad seminario (si sos estudiante de plenario te lo ofrecemos como un recurso más para practicar).\nLa propuesta consiste en realizar una secuencia de análisis de datos a partir de una de las bases disponibles en cuanti.psico.edu.uy/panel (en particular ENDIS, ARISTAS, SERCE o Triada Oscura).\nLa idea es que este trabajo te ayude a desarrollar cierta autonomía en el planteo de preguntas de investigación, a darte cuenta qué análisis son adecuados según las variables disponibles y la pregunta que pretendes responder y, por último, que puedas ensayar la comunicación escrita de estos resultados.\nEste trabajo se va a desarrollar paso a paso a lo largo del semestre según avanzamos en las distintas unidades temáticas, hasta realizar la entrega final (a coordinar con tu docente referente de seminario).\nPara realizar el trabajo debes descargar el modelo de reporte en Word, que ya contiene las secciones y formato esperado del entregable.\nDescargar en Word",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Entregable final: Informe de análisis de datos</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Entregable final: Informe de análisis de datos</span>"
     ]
   }
 ]

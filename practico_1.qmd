@@ -1,5 +1,6 @@
 ---
 title: "Práctico: ¿Por qué estadística?"
+number-sections: true
 ---
 
 ## ¿Necesito saber estadística si estudio Psicología?
@@ -85,30 +86,30 @@ Elige la opción correcta
 
 1.  Sobre las variables cuantitativas
 
-    1.  Pueden ser nominales
+    a.  Pueden ser nominales
 
-    2.  La altura es un ejemplo de variable discreta
+    b.  La altura es un ejemplo de variable discreta
 
-    3.  El número de hijos es un ejemplo de variable continua
+    c.  El número de hijos es un ejemplo de variable continua
 
-    4.  Las variables continuas pueden tomar cualquier valor de la escala de medición utilizada
+    d.  Las variables continuas pueden tomar cualquier valor de la escala de medición utilizada
 
 2.  Sobre las variables categóricas
 
-    1.  La medida ordinal nos informa si un sujeto/objeto posee más o menos de la característica de interés que otro sujeto/objeto
+    a.  La medida ordinal nos informa si un sujeto/objeto posee más o menos de la característica de interés que otro sujeto/objeto
 
-    2.  La medida nominal es continua
+    b.  La medida nominal es continua
 
-    3.  No hay diferencias cualitativas entre los sujetos/objetos asignados a categorías diferentes
+    c.  No hay diferencias cualitativas entre los sujetos/objetos asignados a categorías diferentes
 
-    4.  El peso es una variable ordinal
+    d.  El peso, medido en kilogramos, es una variable ordinal
 
 3.  Un equipo de investigación quiere evaluar si practicar meditación guiada antes de rendir un examen reduce el nivel de ansiedad en estudiantes universitarios. Un grupo realiza 15 minutos de meditación antes del examen y un grupo control activo realiza 15 minutos de estiramiento. ¿Cuál es la variable predictora?
 
-    1.  Nivel de ansiedad antes del examen
+    a.  Nivel de ansiedad antes del examen
 
-    2.  El tipo de actividad previa al examen
+    b.  El tipo de actividad previa al examen
 
-    3.  Nivel de ansiedad después del examen
+    c.  Nivel de ansiedad después del examen
 
-    4.  Tipo de examen que se rinde
+    d.  Tipo de examen que se rinde

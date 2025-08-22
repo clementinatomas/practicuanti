@@ -1,5 +1,6 @@
 ---
-title: "Práctico: Describir los datos"
+title: "Práctico: Describir los datos - Histogramas y Tendencia central (S 02)"
+number-sections: true
 ---
 
 ## Primeros pasos: conocer (y amigarme con) los datos
@@ -10,37 +11,27 @@ title: "Práctico: Describir los datos"
 
 ### Contenidos
 
--   Inspección visual de una base de datos. Identificar variables y su tratamiento.
 -   Visualización de datos: histograma
--   Visualización de datos: boxplot
+
 -   Medidas de tendencia central: moda, media y mediana
--   Medidas de dispersión: rango, desvío y varianza
--   El rol de las variables en el diseño
 
-### Panel de datos
+## Panel de datos: ENDIS
 
-Accede a: [cuanti.psico.edu.uy/panel](https://cuanti.psico.edu.uy/panel) Localiza la base de datos **ENDIS**. Vamos a explorarla.
+Ya que seguro leíste el [Capítulo 2. Describir los datos](https://almadana.github.io/libro_cuanti/02-Describing_Data.html) y querés ir más allá de la teoría, te proponemos trabajar con la base de datos de **ENDIS** para que explores y visualices datos de verdad.
 
-### Contextualizar los datos
+Accede a [cuanti.psico.edu.uy/panel](http://cuanti.psico.edu.uy/panel) 
 
-Antes de empezar a trabajar con los datos, necesitamos un poco de contexto. Activa el botón **“Acerca de la base”** para conocer de qué se trata.
+### Describir datos - Distribución de variables
 
-### ¿Qué variables contiene la base? ¿Qué tipo de variables son (o cómo fueron tratadas)?
+Antes de empezar a trabajar con la base ENDIS necesitamos un poco de contexto. Activa el botón **“Acerca de la base”** para conocer de qué se trata.
 
--   Lee el apartado [Escalas de medición](https://almadana.github.io/libro_cuanti/01-Science_Data.html#escalas-de-medici%C3%B3n) del libro.
-
--   Activa el botón **“Mostrar resumen”**. Identifica variables y niveles de las variables. ¿Cuántas variables contiene? ¿Qué se evalúa? ¿Cómo lo evaluaron?
+### 
 
 ![](imgs/2_bases.png)
 
--   Identifica cómo ha sido tratada cada variable e intenta clasificarlas
--   Registra tu clasificación. Compara tu registro en tu subgrupo
+**Y ahora… ¡Miremos los datos!**
 
-### ¡Miremos los datos!
-
--   Lee el [Capítulo 2. ¿Por qué estadística?](https://almadana.github.io/libro_cuanti/02-Describing_Data.html)
-
--   Seleccioná la base de datos ENDIS
+-   Observa los datos. ¿Cuántas observaciones tiene la base de datos? ¿Puedes decir algo al respecto de cómo se comportan las observaciones, por ejemplo, si hay algunos valores más o menos frecuentes? 
 
 <details>
 
@@ -58,46 +49,122 @@ Mmm… mejor examinemos los datos en un formato visual. Como vimos en el libro, 
 
 <summary><strong>¿Necesitás ayuda?</strong></summary>
 
-Elegir análisis \> Histograma \> Elegir variable 1 (numérica) Por ejemplo, la variable Big Five: Apertura a la experiencia (una variable de personalidad del adulto)
+Elegir análisis \> Histograma \> Elegir variable 1 (numérica)
+
+Por ejemplo, la variable Big Five: Apertura a la experiencia (una variable de personalidad del adulto)
 
 ![](imgs/2_histograma.png)
 
 </details>
 
--   Cambia el ancho de los intervalos (bins) y observa cómo cambia el gráfico.
+-   Cambia el ancho de los intervalos (bins) y observa cómo cambia el gráfico. ¿Qué son los bins? ¿Qué ancho de bin seleccionarías finalmente? ¿Cómo es la forma del histograma (ej. simetría/asimetría, “picos”)
 
--   ¿Qué ancho de bin seleccionarías finalmente?
+-   Repite el procedimiento para otras variables de esta base de datos
 
--   Repite el procedimiento para otras variables
+-   Describe con tus palabras qué representa cada barra de un histograma y qué información nos da esta visualización
 
--   Describe con tus palabras qué representa cada barra de un histograma y qué información nos da esta forma de visualización
-
--   ¿Cómo es la forma del histograma en cada variable? (ej. simetría, “picos”)
-
--   Ahora explora la opción gráfica **Diagrama de cajas (Boxplot)** para la misma variable. ¿Qué información te ofrece este gráfico? Estima qué valores corresponden al percentil 25, 50 y 75. ¿Qué indica la línea verde?
-
-<details>
-
-<summary><strong>¿Necesitás ayuda?</strong></summary>
-
-![](imgs/2_boxplot.png)
-
-</details>
+-   ¿Por qué para algunas de las variables de la base de datos no es posible realizar un histograma?
 
 ### De muchos números a uno: tendencia central y dispersión
 
-En el libro y en el ejercicio anterior vimos que podemos hacernos una idea de los datos al representarlos mediante gráficos. Ahora vamos a examinar la tendencia central y la dispersión de los datos a través de números.
+En el libro y en el ejercicio anterior vimos que podemos hacernos una idea de los datos al representarlos mediante gráficos. Ahora vamos a examinar la **tendencia central** de los datos de la base **ENDIS** a través de números.
 
-Instrucciones:
+1.  Obtené la **tabla de estadísticos descriptivos**
 
--   Obtené la tabla de estadísticos descriptivos. 
+2.  ¿Por qué para algunas variables no se ofrece el valor de la media ni otros estadísticos?
 
--   ¿Por qué para algunas variables no se ofrece el valor de la media y otros estadísticos?
+3.  ¿Qué estadísticos expresan la **tendencia central** en los datos? Fijate si sos capaz de definir cada uno con tus propias palabras
 
--   ¿Qué estadísticos expresan la **tendencia central** en los datos? ¿Y la **dispersión**?
+4.  Localiza los **valores de tendencia central** para la variable Apertura a la experiencia y regístralos
 
--   Localiza los valores de tendencia central y dispersión para una variable.
+5.  Recupera el **histograma de la variable Apertura a la experiencia, del ejercicio anterior**. Copia la distribución en una hoja. Dibuja líneas verticales para marcar la Media, Moda y Mediana. ¿Coinciden los tres valores? ¿Por qué? 
 
--   Recupera el **histograma del ejercicio anterior para esa variable**. Si dibujaras líneas verticales para marcar la Media, Moda y Mediana. ¿Coinciden los tres valores?  ¿Cuál es más sensible a los valores extremos? ¿Por qué?
+6.  En la ENDIS, la personalidad se caracteriza a través de 5 factores. Como vimos, **Apertura a la experiencia** es uno de ellos. Repite el procedimiento para las otras cuatro variables de personalidad
 
-### 
+7.  Mira los histogramas de los cinco factores. Comenta y compara la forma de cada uno de ellos
+
+## Un caso de distribución de datos tomados por nuestra institución: la edad de los psicólogos en el Uruguay
+
+Selecciona la base de datos **Censo Nacional de Psicólogos** y familiarizate con el origen de los datos. Luego:
+
+1.  Realiza un histograma de la variable **edad** seleccionando un número de bins adecuado. ¿Qué característica tiene la distribución? ¿A qué podría deberse que los datos se distribuyan así?\
+
+2.  Mirando la distribución de la edad de los psicólogos, estima qué valores tendrían las medidas de tendencia central\
+
+3.  Verifica tu estimación consultando la tabla de estadísticos descriptivos asociada a esta base de datos\
+
+4.  Relaciona los valores que toman las medidas de tendencia central con la forma de la distribución
+
+## Y para terminar, un par de ejercicios múltiple opción como los del parcial
+
+Para cada pregunta indique LA opción correcta:
+
+1.  Un histograma es:
+
+    a.  Un gráfico de barras en el que se muestra la mediana, la media y el desvío estándar.
+
+    b.  Una forma de cuantificar la dispersión de los datos
+
+    c.  Una forma de representar gráficamente las frecuencias de los diferentes niveles o valores que toma una variable numérica
+
+    d.  Un indicador de tendencia central
+
+2.  En un histograma, el eje horizontal (X) normalmente muestra:
+
+    a.  La cantidad de participantes en cada categoría
+
+    b.  Los intervalos o rangos de valores de la variable
+
+    c.  La frecuencia de cada observación
+
+    d.  El número total de observaciones
+
+3.  En un histograma, la altura de cada barra indica:
+
+    a.  El valor máximo del intervalo
+
+    b.  La frecuencia absoluta o relativa de ese intervalo
+
+    c.  La media de todos los datos
+
+    d.  La diferencia entre el valor mayor y menor del intervalo
+
+4.  La mediana es útil porque:
+
+    a.  No se ve afectada por valores extremos (outliers)
+
+    b.  Siempre es igual a la media, en cualquier distribución
+
+    c.  Representa el valor más frecuente
+
+    d.  Es necesaria para calcular el rango
+
+5.  Si una distribución de puntajes del BDI (Inventario de Depresión de Beck) es muy asimétrica hacia la derecha, lo más probable es que:
+
+    a.  Media \> Mediana
+
+    b.  Media \< Mediana
+
+    c.  Media = Mediana
+
+    d.  Moda \> Media
+
+6.  Si en un grupo de 10 estudiantes, 6 obtuvieron 15 puntos en una escala de ansiedad y los otros 4 obtuvieron 10 puntos, la moda es:
+
+    a.  15
+
+    b.  10
+
+    c.  12,5
+
+    d.  La moda solo puede calcularse para variables categóricas (cualitativas)
+
+7.  Sobre las medidas de tendencia central:
+
+    a.  La moda es el valor que más se repite
+
+    b.  La mediana se obtiene sumando todos los valores que toma una variable y se divide entre el rango de la variable
+
+    c.  La media es el valor que divide la distribución en dos partes iguales
+
+    d.  La mediana, la moda y la media son iguales en variables con distribuciones asimétricas

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Práctico: Describir los datos</title>
+<title>2&nbsp; Práctico: Describir los datos - Histogramas y Tendencia central (S 02) – Practicuanti</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,30 +23,138 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="practico_2_files/libs/clipboard/clipboard.min.js"></script>
-<script src="practico_2_files/libs/quarto-html/quarto.js" type="module"></script>
-<script src="practico_2_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="practico_2_files/libs/quarto-html/popper.min.js"></script>
-<script src="practico_2_files/libs/quarto-html/tippy.umd.min.js"></script>
-<script src="practico_2_files/libs/quarto-html/anchor.min.js"></script>
-<link href="practico_2_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="practico_2_files/libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="practico_2_files/libs/bootstrap/bootstrap.min.js"></script>
-<link href="practico_2_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="practico_2_files/libs/bootstrap/bootstrap-bb462d781dde1847d9e3ccf7736099dd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./entregable.html" rel="next">
+<link href="./index.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-364982630eef5352dd1537128a8ed5cb.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
 
 
+<link rel="stylesheet" href="cuantistats.css">
 </head>
 
-<body class="fullcontent quarto-light">
+<body class="nav-sidebar floating quarto-light">
 
-<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
-
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./practico_2.html"><span class="chapter-title">Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Practicuanti</a> 
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_2.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./entregable.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Entregable final: Informe de análisis de datos</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#primeros-pasos-conocer-y-amigarme-con-los-datos" id="toc-primeros-pasos-conocer-y-amigarme-con-los-datos" class="nav-link active" data-scroll-target="#primeros-pasos-conocer-y-amigarme-con-los-datos"><span class="header-section-number">2.1</span> Primeros pasos: conocer (y amigarme con) los datos</a>
+  <ul class="collapse">
+  <li><a href="#lectura-asociada" id="toc-lectura-asociada" class="nav-link" data-scroll-target="#lectura-asociada">Lectura asociada</a></li>
+  <li><a href="#contenidos" id="toc-contenidos" class="nav-link" data-scroll-target="#contenidos">Contenidos</a></li>
+  </ul></li>
+  <li><a href="#panel-de-datos-endis" id="toc-panel-de-datos-endis" class="nav-link" data-scroll-target="#panel-de-datos-endis"><span class="header-section-number">2.2</span> Panel de datos: ENDIS</a>
+  <ul class="collapse">
+  <li><a href="#describir-datos---distribución-de-variables" id="toc-describir-datos---distribución-de-variables" class="nav-link" data-scroll-target="#describir-datos---distribución-de-variables">Describir datos - Distribución de variables</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
+  <li><a href="#de-muchos-números-a-uno-tendencia-central-y-dispersión" id="toc-de-muchos-números-a-uno-tendencia-central-y-dispersión" class="nav-link" data-scroll-target="#de-muchos-números-a-uno-tendencia-central-y-dispersión">De muchos números a uno: tendencia central y dispersión</a></li>
+  </ul></li>
+  <li><a href="#un-caso-de-distribución-de-datos-tomados-por-nuestra-institución-la-edad-de-los-psicólogos-en-el-uruguay" id="toc-un-caso-de-distribución-de-datos-tomados-por-nuestra-institución-la-edad-de-los-psicólogos-en-el-uruguay" class="nav-link" data-scroll-target="#un-caso-de-distribución-de-datos-tomados-por-nuestra-institución-la-edad-de-los-psicólogos-en-el-uruguay"><span class="header-section-number">2.3</span> Un caso de distribución de datos tomados por nuestra institución: la edad de los psicólogos en el Uruguay</a></li>
+  <li><a href="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" id="toc-y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="nav-link" data-scroll-target="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial"><span class="header-section-number">2.4</span> Y para terminar, un par de ejercicios múltiple opción como los del parcial</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Práctico: Describir los datos</h1>
+<h1 class="title"><span class="chapter-title">Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span></h1>
 </div>
 
 
@@ -63,8 +171,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="primeros-pasos-conocer-y-amigarme-con-los-datos" class="level2">
-<h2 class="anchored" data-anchor-id="primeros-pasos-conocer-y-amigarme-con-los-datos">Primeros pasos: conocer (y amigarme con) los datos</h2>
+<section id="primeros-pasos-conocer-y-amigarme-con-los-datos" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="primeros-pasos-conocer-y-amigarme-con-los-datos"><span class="header-section-number">2.1</span> Primeros pasos: conocer (y amigarme con) los datos</h2>
 <section id="lectura-asociada" class="level3">
 <h3 class="anchored" data-anchor-id="lectura-asociada">Lectura asociada</h3>
 <p><a href="https://almadana.github.io/libro_cuanti/02-Describing_Data.html">Capítulo 2. ¿Por qué estadística?</a> <a href="https://almadana.github.io/libro_cuanti/01-Science_Data.html#el-rol-de-las-variables-predictoras-y-dependientes">Capítulo 1. El rol de las variables</a></p>
@@ -72,39 +180,25 @@ ul.task-list li input[type="checkbox"] {
 <section id="contenidos" class="level3">
 <h3 class="anchored" data-anchor-id="contenidos">Contenidos</h3>
 <ul>
-<li>Inspección visual de una base de datos. Identificar variables y su tratamiento.</li>
-<li>Visualización de datos: histograma</li>
-<li>Visualización de datos: boxplot</li>
-<li>Medidas de tendencia central: moda, media y mediana</li>
-<li>Medidas de dispersión: rango, desvío y varianza</li>
-<li>El rol de las variables en el diseño</li>
+<li><p>Visualización de datos: histograma</p></li>
+<li><p>Medidas de tendencia central: moda, media y mediana</p></li>
 </ul>
 </section>
-<section id="panel-de-datos" class="level3">
-<h3 class="anchored" data-anchor-id="panel-de-datos">Panel de datos</h3>
-<p>Accede a: <a href="https://cuanti.psico.edu.uy/panel">cuanti.psico.edu.uy/panel</a> Localiza la base de datos <strong>ENDIS</strong>. Vamos a explorarla.</p>
 </section>
-<section id="contextualizar-los-datos" class="level3">
-<h3 class="anchored" data-anchor-id="contextualizar-los-datos">Contextualizar los datos</h3>
-<p>Antes de empezar a trabajar con los datos, necesitamos un poco de contexto. Activa el botón <strong>“Acerca de la base”</strong> para conocer de qué se trata.</p>
+<section id="panel-de-datos-endis" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="panel-de-datos-endis"><span class="header-section-number">2.2</span> Panel de datos: ENDIS</h2>
+<p>Ya que seguro leíste el <a href="https://almadana.github.io/libro_cuanti/02-Describing_Data.html">Capítulo 2. Describir los datos</a> y querés ir más allá de la teoría, te proponemos trabajar con la base de datos de <strong>ENDIS</strong> para que explores y visualices datos de verdad.</p>
+<p>Accede a <a href="http://cuanti.psico.edu.uy/panel">cuanti.psico.edu.uy/panel</a>&nbsp;</p>
+<section id="describir-datos---distribución-de-variables" class="level3">
+<h3 class="anchored" data-anchor-id="describir-datos---distribución-de-variables">Describir datos - Distribución de variables</h3>
+<p>Antes de empezar a trabajar con la base ENDIS necesitamos un poco de contexto. Activa el botón <strong>“Acerca de la base”</strong> para conocer de qué se trata.</p>
 </section>
-<section id="qué-variables-contiene-la-base-qué-tipo-de-variables-son-o-cómo-fueron-tratadas" class="level3">
-<h3 class="anchored" data-anchor-id="qué-variables-contiene-la-base-qué-tipo-de-variables-son-o-cómo-fueron-tratadas">¿Qué variables contiene la base? ¿Qué tipo de variables son (o cómo fueron tratadas)?</h3>
-<ul>
-<li><p>Lee el apartado <a href="https://almadana.github.io/libro_cuanti/01-Science_Data.html#escalas-de-medici%C3%B3n">Escalas de medición</a> del libro.</p></li>
-<li><p>Activa el botón <strong>“Mostrar resumen”</strong>. Identifica variables y niveles de las variables. ¿Cuántas variables contiene? ¿Qué se evalúa? ¿Cómo lo evaluaron?</p></li>
-</ul>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section"></h3>
 <p><img src="imgs/2_bases.png" class="img-fluid"></p>
+<p><strong>Y ahora… ¡Miremos los datos!</strong></p>
 <ul>
-<li>Identifica cómo ha sido tratada cada variable e intenta clasificarlas</li>
-<li>Registra tu clasificación. Compara tu registro en tu subgrupo</li>
-</ul>
-</section>
-<section id="miremos-los-datos" class="level3">
-<h3 class="anchored" data-anchor-id="miremos-los-datos">¡Miremos los datos!</h3>
-<ul>
-<li><p>Lee el <a href="https://almadana.github.io/libro_cuanti/02-Describing_Data.html">Capítulo 2. ¿Por qué estadística?</a></p></li>
-<li><p>Seleccioná la base de datos ENDIS</p></li>
+<li>Observa los datos. ¿Cuántas observaciones tiene la base de datos? ¿Puedes decir algo al respecto de cómo se comportan las observaciones, por ejemplo, si hay algunos valores más o menos frecuentes?&nbsp;</li>
 </ul>
 <details>
 <summary>
@@ -120,53 +214,103 @@ ul.task-list li input[type="checkbox"] {
 <summary>
 <strong>¿Necesitás ayuda?</strong>
 </summary>
-<p>Elegir análisis &gt; Histograma &gt; Elegir variable 1 (numérica) Por ejemplo, la variable Big Five: Apertura a la experiencia (una variable de personalidad del adulto)</p>
+<p>Elegir análisis &gt; Histograma &gt; Elegir variable 1 (numérica)</p>
+<p>Por ejemplo, la variable Big Five: Apertura a la experiencia (una variable de personalidad del adulto)</p>
 <p><img src="imgs/2_histograma.png" class="img-fluid"></p>
 </details>
 <ul>
-<li><p>Cambia el ancho de los intervalos (bins) y observa cómo cambia el gráfico.</p></li>
-<li><p>¿Qué ancho de bin seleccionarías finalmente?</p></li>
-<li><p>Repite el procedimiento para otras variables</p></li>
-<li><p>Describe con tus palabras qué representa cada barra de un histograma y qué información nos da esta forma de visualización</p></li>
-<li><p>¿Cómo es la forma del histograma en cada variable? (ej. simetría, “picos”)</p></li>
-<li><p>Ahora explora la opción gráfica <strong>Diagrama de cajas (Boxplot)</strong> para la misma variable. ¿Qué información te ofrece este gráfico? Estima qué valores corresponden al percentil 25, 50 y 75. ¿Qué indica la línea verde?</p></li>
+<li><p>Cambia el ancho de los intervalos (bins) y observa cómo cambia el gráfico. ¿Qué son los bins? ¿Qué ancho de bin seleccionarías finalmente? ¿Cómo es la forma del histograma (ej. simetría/asimetría, “picos”)</p></li>
+<li><p>Repite el procedimiento para otras variables de esta base de datos</p></li>
+<li><p>Describe con tus palabras qué representa cada barra de un histograma y qué información nos da esta visualización</p></li>
+<li><p>¿Por qué para algunas de las variables de la base de datos no es posible realizar un histograma?</p></li>
 </ul>
-<details>
-<summary>
-<strong>¿Necesitás ayuda?</strong>
-</summary>
-<p><img src="imgs/2_boxplot.png" class="img-fluid"></p>
-</details>
 </section>
 <section id="de-muchos-números-a-uno-tendencia-central-y-dispersión" class="level3">
 <h3 class="anchored" data-anchor-id="de-muchos-números-a-uno-tendencia-central-y-dispersión">De muchos números a uno: tendencia central y dispersión</h3>
-<p>En el libro y en el ejercicio anterior vimos que podemos hacernos una idea de los datos al representarlos mediante gráficos. Ahora vamos a examinar la tendencia central y la dispersión de los datos a través de números.</p>
-<p>Instrucciones:</p>
-<ul>
-<li><p>Obtené la tabla de estadísticos descriptivos.&nbsp;</p></li>
-<li><p>¿Por qué para algunas variables no se ofrece el valor de la media y otros estadísticos?</p></li>
-<li><p>¿Qué estadísticos expresan la <strong>tendencia central</strong> en los datos? ¿Y la <strong>dispersión</strong>?</p></li>
-<li><p>Localiza los valores de tendencia central y dispersión para una variable.</p></li>
-<li><p>Recupera el <strong>histograma del ejercicio anterior para esa variable</strong>. Si dibujaras líneas verticales para marcar la Media, Moda y Mediana. ¿Coinciden los tres valores?&nbsp; ¿Cuál es más sensible a los valores extremos? ¿Por qué?</p></li>
-</ul>
+<p>En el libro y en el ejercicio anterior vimos que podemos hacernos una idea de los datos al representarlos mediante gráficos. Ahora vamos a examinar la <strong>tendencia central</strong> de los datos de la base <strong>ENDIS</strong> a través de números.</p>
+<ol type="1">
+<li><p>Obtené la <strong>tabla de estadísticos descriptivos</strong></p></li>
+<li><p>¿Por qué para algunas variables no se ofrece el valor de la media ni otros estadísticos?</p></li>
+<li><p>¿Qué estadísticos expresan la <strong>tendencia central</strong> en los datos? Fijate si sos capaz de definir cada uno con tus propias palabras</p></li>
+<li><p>Localiza los <strong>valores de tendencia central</strong> para la variable Apertura a la experiencia y regístralos</p></li>
+<li><p>Recupera el <strong>histograma de la variable Apertura a la experiencia, del ejercicio anterior</strong>. Copia la distribución en una hoja. Dibuja líneas verticales para marcar la Media, Moda y Mediana. ¿Coinciden los tres valores? ¿Por qué?&nbsp;</p></li>
+<li><p>En la ENDIS, la personalidad se caracteriza a través de 5 factores. Como vimos, <strong>Apertura a la experiencia</strong> es uno de ellos. Repite el procedimiento para las otras cuatro variables de personalidad</p></li>
+<li><p>Mira los histogramas de los cinco factores. Comenta y compara la forma de cada uno de ellos</p></li>
+</ol>
 </section>
-<section id="el-rol-de-las-variables" class="level3">
-<h3 class="anchored" data-anchor-id="el-rol-de-las-variables">El rol de las variables</h3>
-<p><strong>Ejercicio: Efectividad de una intervención terapéutica</strong></p>
-<ul>
-<li>Lee el apartado <a href="https://almadana.github.io/libro_cuanti/01-Science_Data.html#el-rol-de-las-variables-predictoras-y-dependientes">El rol de las variables: predictoras y dependientes</a> del Capítulo 1 del libro.</li>
-</ul>
-<p>Un equipo de investigación está evaluando la efectividad de la terapia EMDR (Desensibilización y Reprocesamiento por los Movimientos Oculares) para tratar la ansiedad generalizada. Diseñan un estudio en el que reclutan a 60 personas con diagnóstico de trastorno de ansiedad generalizada. A la mitad de los participantes se les aplicaron 8 sesiones de EMDR, y a la otra mitad, 8 sesiones de terapia cognitivo-conductual (TCC), usada como comparación activa. Antes y después del tratamiento, los participantes completaron un cuestionario estandarizado de ansiedad (por ejemplo, el GAD-7). Además, les piden que califiquen su nivel de malestar percibido en situaciones sociales (de 0 a 10) y su calidad de sueño durante la última semana.</p>
-<ul>
-<li><p>Identificá la/s variable/s predictora/s (independiente/s). ¿Qué manipula o controla el investigador?</p></li>
-<li><p>Identificá la/s variable/s dependiente/s. ¿Qué se mide como resultado del experimento?</p></li>
-<li><p>¿Qué otras variables podrían influir en los resultados si no se controlan?</p></li>
-</ul>
 </section>
+<section id="un-caso-de-distribución-de-datos-tomados-por-nuestra-institución-la-edad-de-los-psicólogos-en-el-uruguay" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="un-caso-de-distribución-de-datos-tomados-por-nuestra-institución-la-edad-de-los-psicólogos-en-el-uruguay"><span class="header-section-number">2.3</span> Un caso de distribución de datos tomados por nuestra institución: la edad de los psicólogos en el Uruguay</h2>
+<p>Selecciona la base de datos <strong>Censo Nacional de Psicólogos</strong> y familiarizate con el origen de los datos. Luego:</p>
+<ol type="1">
+<li><p>Realiza un histograma de la variable <strong>edad</strong> seleccionando un número de bins adecuado. ¿Qué característica tiene la distribución? ¿A qué podría deberse que los datos se distribuyan así?<br>
+</p></li>
+<li><p>Mirando la distribución de la edad de los psicólogos, estima qué valores tendrían las medidas de tendencia central<br>
+</p></li>
+<li><p>Verifica tu estimación consultando la tabla de estadísticos descriptivos asociada a esta base de datos<br>
+</p></li>
+<li><p>Relaciona los valores que toman las medidas de tendencia central con la forma de la distribución</p></li>
+</ol>
+</section>
+<section id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="level2" data-number="2.4">
+<h2 data-number="2.4" class="anchored" data-anchor-id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial"><span class="header-section-number">2.4</span> Y para terminar, un par de ejercicios múltiple opción como los del parcial</h2>
+<p>Para cada pregunta indique LA opción correcta:</p>
+<ol type="1">
+<li><p>Un histograma es:</p>
+<ol type="a">
+<li><p>Un gráfico de barras en el que se muestra la mediana, la media y el desvío estándar.</p></li>
+<li><p>Una forma de cuantificar la dispersión de los datos</p></li>
+<li><p>Una forma de representar gráficamente las frecuencias de los diferentes niveles o valores que toma una variable numérica</p></li>
+<li><p>Un indicador de tendencia central</p></li>
+</ol></li>
+<li><p>En un histograma, el eje horizontal (X) normalmente muestra:</p>
+<ol type="a">
+<li><p>La cantidad de participantes en cada categoría</p></li>
+<li><p>Los intervalos o rangos de valores de la variable</p></li>
+<li><p>La frecuencia de cada observación</p></li>
+<li><p>El número total de observaciones</p></li>
+</ol></li>
+<li><p>En un histograma, la altura de cada barra indica:</p>
+<ol type="a">
+<li><p>El valor máximo del intervalo</p></li>
+<li><p>La frecuencia absoluta o relativa de ese intervalo</p></li>
+<li><p>La media de todos los datos</p></li>
+<li><p>La diferencia entre el valor mayor y menor del intervalo</p></li>
+</ol></li>
+<li><p>La mediana es útil porque:</p>
+<ol type="a">
+<li><p>No se ve afectada por valores extremos (outliers)</p></li>
+<li><p>Siempre es igual a la media, en cualquier distribución</p></li>
+<li><p>Representa el valor más frecuente</p></li>
+<li><p>Es necesaria para calcular el rango</p></li>
+</ol></li>
+<li><p>Si una distribución de puntajes del BDI (Inventario de Depresión de Beck) es muy asimétrica hacia la derecha, lo más probable es que:</p>
+<ol type="a">
+<li><p>Media &gt; Mediana</p></li>
+<li><p>Media &lt; Mediana</p></li>
+<li><p>Media = Mediana</p></li>
+<li><p>Moda &gt; Media</p></li>
+</ol></li>
+<li><p>Si en un grupo de 10 estudiantes, 6 obtuvieron 15 puntos en una escala de ansiedad y los otros 4 obtuvieron 10 puntos, la moda es:</p>
+<ol type="a">
+<li><p>15</p></li>
+<li><p>10</p></li>
+<li><p>12,5</p></li>
+<li><p>La moda solo puede calcularse para variables categóricas (cualitativas)</p></li>
+</ol></li>
+<li><p>Sobre las medidas de tendencia central:</p>
+<ol type="a">
+<li><p>La moda es el valor que más se repite</p></li>
+<li><p>La mediana se obtiene sumando todos los valores que toma una variable y se divide entre el rango de la variable</p></li>
+<li><p>La media es el valor que divide la distribución en dos partes iguales</p></li>
+<li><p>La mediana, la moda y la media son iguales en variables con distribuciones asimétricas</p></li>
+</ol></li>
+</ol>
+
+
 </section>
 
-</main>
-<!-- /main column -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -566,6 +710,18 @@ ul.task-list li input[type="checkbox"] {
     }
   });
   </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./index.html" class="pagination-link" aria-label="Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./entregable.html" class="pagination-link" aria-label="Entregable final: Informe de análisis de datos">
+        <span class="nav-page-text"><span class="chapter-title">Entregable final: Informe de análisis de datos</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
 </div> <!-- /content -->
 
 

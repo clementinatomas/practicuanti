@@ -7,18 +7,17 @@ book:
   author: "Docentes Cuanti"
   chapters:
     - index.qmd
-    - practico_0.qmd
-    - practico_1.qmd
+    - practico_2.qmd
     - entregable.qmd
  
 format:
   html:
     theme: cosmo
     css: cuantistats.css
-    number-sections: true
-    number-offset: [0]
+    number-sections: false
     toc: true
-    toc-depth: 2
+    toc-depth: 3
+    number-depth: 2
     
 resources:
   - descargables/**
