@@ -23,15 +23,15 @@ En esta unidad estamos viendo que las medidas de tendencia central, por sí sola
 
 **Recuperemos el histograma del ejercicio anterior (variable Apertura a la experiencia)**
 
--   Mirando el histograma ¿cuál dirías que es el **rango** de la variable?
+1.  Mirando el histograma ¿cuál dirías que es el **rango** de la variable?
 
--   ¿Qué datos del histograma usaste para calcularlo? ¿Cómo lo calculaste?
+2.  ¿Qué datos del histograma usaste para calcularlo? ¿Cómo lo calculaste?
 
--   Ahora explora la opción gráfica **diagrama de cajas** (Boxplot) para esta misma variable. ¿Qué información te ofrece este gráfico? ¿Qué indica la línea verde? Estima qué valores corresponden al percentil 25, 50 y 75. 
+3.  Ahora explora la opción gráfica **diagrama de cajas** (Boxplot) para esta misma variable. ¿Qué información te ofrece este gráfico? ¿Qué indica la línea verde? Estima qué valores corresponden al percentil 25, 50 y 75. 
 
--   ¿A través de qué otra funcionalidad del panel puedes acceder al valor de los percentiles 25, 50 y 75? Contrasta estos valores con la estimación que habías realizado a partir del boxplot. 
+4.  ¿A través de qué otra funcionalidad del panel puedes acceder al valor de los percentiles 25, 50 y 75? Contrasta estos valores con la estimación que habías realizado a partir del boxplot. 
 
--   Ahora repite el procedimiento de análisis con los otros cuatro factores de personalidad. ¿Es similar la distribución?
+5.  Ahora repite el procedimiento de análisis con los otros cuatro factores de personalidad. ¿Es similar la distribución?
 
 <details>
 
