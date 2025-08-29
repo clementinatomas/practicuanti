@@ -5,11 +5,11 @@ number-sections: true
 
 ## Rango, cuantiles, y diagrama de cajas
 
-### **Lectura asociada**
+### Lectura asociada
 
 [Capítulo 2. Describir los datos](https://almadana.github.io/libro_cuanti/02-Describing_Data.html)
 
-### **Contenidos**
+### Contenidos
 
 -   Medidas de dispersión: rango
 
@@ -17,7 +17,7 @@ number-sections: true
 
 -   Visualización de datos: diagrama de cajas (boxplot)
 
-## **Panel de datos: Factores de personalidad del cuidador en ENDIS**
+## Panel de datos: Factores de personalidad del cuidador en ENDIS
 
 En esta unidad estamos viendo que las medidas de tendencia central, por sí solas, no son suficientes para “entender” del todo nuestros datos. Por este motivo, contamos con una serie de estadísticos que nos permiten caracterizar la dispersión de los datos.
 
@@ -41,7 +41,7 @@ En esta unidad estamos viendo que las medidas de tendencia central, por sí sola
 
 </details>
 
-## **Actividad: Informes de evaluación del desarrollo**
+## Actividad: Informes de evaluación del desarrollo
 
 En los videos de esta unidad vimos un ejemplo de aplicación de cuantiles. En particular, que son útiles para comparar. Por ejemplo, entre los resultados de aplicar instrumentos estandarizados de evaluación psicológica es frecuente la referencia a percentiles. En otras palabras, podemos saber la posición de un sujeto u observación con respecto a una muestra de referencia. 
 
@@ -49,7 +49,7 @@ En los videos de esta unidad vimos un ejemplo de aplicación de cuantiles. En pa
 
 El siguiente es un extracto del informe de resultados de la aplicación de un instrumento para la identificación temprana del riesgo lector (el documento tiene algunas omisiones a los efectos de este ejercicio). 
 
-### **Informe de riesgo lector**
+### Informe de riesgo lector
 
 Fecha del informe: 07/11/24
 
@@ -80,14 +80,14 @@ El punto azul marca el puntaje obtenido por **2eb2a023-482d-4** en las tres dime
 
 5.  El informe corresponde a un caso específico (observa la ubicación de los puntos azules).  Describe la situación de este caso específico, comparado con la muestra de referencia, en cada una de las tres dimensiones evaluadas.
 
-### **Las siguientes tablas muestran los estadísticos descriptivos correspondientes a las distintas tareas de Lexiland, aplicadas a niños que cursaban Nivel 5, en el primer caso, y Primer año en el segundo**
+### Las siguientes tablas muestran los estadísticos descriptivos correspondientes a las distintas tareas de Lexiland, aplicadas a niños que cursaban Nivel 5, en el primer caso, y Primer año en el segundo
 
 ![](imgs/3_lexiland_tablas.png)
 
 6.  Si un niño que cursa Nivel 5 obtiene como resultado 0.66 en la prueba de Memoria ¿cuál es su posición en relación a los otros niños de Nivel 5 que integraban la muestra? ¿Qué puedes concluir respecto a su desempeño en esa tarea a partir de estos datos?
 7.  ¿Cómo se interpretaría esa misma puntuación si la obtiene un niño de Primer año? 
 
-## **Actividad: Medidas de tendencia central y quintiles aplicado al ingreso de los hogares uruguayos**
+## Actividad: Medidas de tendencia central y quintiles aplicado al ingreso de los hogares uruguayos
 
 Observa el gráfico presentado a continuación y contesta las siguientes preguntas:
 
@@ -97,11 +97,11 @@ Observa el gráfico presentado a continuación y contesta las siguientes pregunt
 
 2.  ¿A qué corresponden los quintiles? Discute las diferencias en ingreso y en su variación real según el quintil.
 
-## **Panel de datos: Triada Oscura y SERCE**
+## Panel de datos: Triada Oscura y SERCE
 
 Usando el cálculo de media, mediana y cuartiles de las siguientes variables, responde las siguientes preguntas. Puedes ayudarte ubicando sus posiciones manualmente en el histograma  y utilizando diagramas de caja. 
 
-### **Datos Tríada Oscura**
+### Datos Tríada Oscura
 
 1.  ¿Puede decirse que más de la mitad de los sujetos de la base tienen puntuaciones de narcisismo mayores a 25?
 
@@ -113,7 +113,7 @@ Usando el cálculo de media, mediana y cuartiles de las siguientes variables, re
 
 5.  ¿Puede decirse que los estudiantes provenientes del exterior muestran menores niveles de narcisismo? ¿Y de maquiavelismo?
 
-### **Datos SERCE**
+### Datos SERCE
 
 1.  ¿Puede decirse que la mayoría de las niñas y niños tiene 12 años? 
 
@@ -121,7 +121,7 @@ Usando el cálculo de media, mediana y cuartiles de las siguientes variables, re
 
 3.  ¿Puede decirse que la mayoría de los estudiantes obtuvo puntuaciones mayores a 550 en la prueba de literatura? ¿Y en la de ciencias? ¿Y en la de matemática?\
 
-## **Y para terminar, un par de ejercicios múltiple opción, como los del parcial**
+## Y para terminar, un par de ejercicios múltiple opción, como los del parcial
 
 1.  En un Informe del Mides de 2011, se presenta el siguiente gráfico en el que se muestra la distribución de años de estudio de mujeres de 25 años y más según el número de hijos. Indica qué afirmación es correcta:
 
