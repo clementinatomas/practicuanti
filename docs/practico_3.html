@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>2&nbsp; Práctico: Describir los datos - Histogramas y Tendencia central (S 02) – Practicuanti</title>
+<title>3&nbsp; Práctico: Describir los datos: rango, cuantiles, y diagrama de cajas (S03) – Practicuanti</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./practico_3.html" rel="next">
-<link href="./index.html" rel="prev">
+<link href="./entregable.html" rel="next">
+<link href="./practico_2.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./practico_2.html"><span class="chapter-title">Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./practico_3.html"><span class="chapter-title">Práctico: Describir los datos: rango, cuantiles, y diagrama de cajas (S03)</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -115,12 +115,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./practico_2.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span></a>
+  <a href="./practico_2.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./practico_3.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Describir los datos: rango, cuantiles, y diagrama de cajas (S03)</span></a>
+  <a href="./practico_3.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Práctico: Describir los datos: rango, cuantiles, y diagrama de cajas (S03)</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -138,19 +138,24 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#primeros-pasos-conocer-y-amigarme-con-los-datos" id="toc-primeros-pasos-conocer-y-amigarme-con-los-datos" class="nav-link active" data-scroll-target="#primeros-pasos-conocer-y-amigarme-con-los-datos"><span class="header-section-number">2.1</span> Primeros pasos: conocer (y amigarme con) los datos</a>
+  <li><a href="#rango-cuantiles-y-diagrama-de-cajas" id="toc-rango-cuantiles-y-diagrama-de-cajas" class="nav-link active" data-scroll-target="#rango-cuantiles-y-diagrama-de-cajas"><span class="header-section-number">3.1</span> Rango, cuantiles, y diagrama de cajas</a>
   <ul class="collapse">
-  <li><a href="#lectura-asociada" id="toc-lectura-asociada" class="nav-link" data-scroll-target="#lectura-asociada">Lectura asociada</a></li>
-  <li><a href="#contenidos" id="toc-contenidos" class="nav-link" data-scroll-target="#contenidos">Contenidos</a></li>
+  <li><a href="#lectura-asociada" id="toc-lectura-asociada" class="nav-link" data-scroll-target="#lectura-asociada"><strong>Lectura asociada</strong></a></li>
+  <li><a href="#contenidos" id="toc-contenidos" class="nav-link" data-scroll-target="#contenidos"><strong>Contenidos</strong></a></li>
   </ul></li>
-  <li><a href="#panel-de-datos-endis" id="toc-panel-de-datos-endis" class="nav-link" data-scroll-target="#panel-de-datos-endis"><span class="header-section-number">2.2</span> Panel de datos: ENDIS</a>
+  <li><a href="#panel-de-datos-factores-de-personalidad-del-cuidador-en-endis" id="toc-panel-de-datos-factores-de-personalidad-del-cuidador-en-endis" class="nav-link" data-scroll-target="#panel-de-datos-factores-de-personalidad-del-cuidador-en-endis"><span class="header-section-number">3.2</span> <strong>Panel de datos: Factores de personalidad del cuidador en ENDIS</strong></a></li>
+  <li><a href="#actividad-informes-de-evaluación-del-desarrollo" id="toc-actividad-informes-de-evaluación-del-desarrollo" class="nav-link" data-scroll-target="#actividad-informes-de-evaluación-del-desarrollo"><span class="header-section-number">3.3</span> <strong>Actividad: Informes de evaluación del desarrollo</strong></a>
   <ul class="collapse">
-  <li><a href="#describir-datos---distribución-de-variables" id="toc-describir-datos---distribución-de-variables" class="nav-link" data-scroll-target="#describir-datos---distribución-de-variables">Describir datos - Distribución de variables</a></li>
-  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
-  <li><a href="#de-muchos-números-a-uno-tendencia-central-y-dispersión" id="toc-de-muchos-números-a-uno-tendencia-central-y-dispersión" class="nav-link" data-scroll-target="#de-muchos-números-a-uno-tendencia-central-y-dispersión">De muchos números a uno: tendencia central y dispersión</a></li>
+  <li><a href="#informe-de-riesgo-lector" id="toc-informe-de-riesgo-lector" class="nav-link" data-scroll-target="#informe-de-riesgo-lector"><strong>Informe de riesgo lector</strong></a></li>
+  <li><a href="#las-siguientes-tablas-muestran-los-estadísticos-descriptivos-correspondientes-a-las-distintas-tareas-de-lexiland-aplicadas-a-niños-que-cursaban-nivel-5-en-el-primer-caso-y-primer-año-en-el-segundo" id="toc-las-siguientes-tablas-muestran-los-estadísticos-descriptivos-correspondientes-a-las-distintas-tareas-de-lexiland-aplicadas-a-niños-que-cursaban-nivel-5-en-el-primer-caso-y-primer-año-en-el-segundo" class="nav-link" data-scroll-target="#las-siguientes-tablas-muestran-los-estadísticos-descriptivos-correspondientes-a-las-distintas-tareas-de-lexiland-aplicadas-a-niños-que-cursaban-nivel-5-en-el-primer-caso-y-primer-año-en-el-segundo"><strong>Las siguientes tablas muestran los estadísticos descriptivos correspondientes a las distintas tareas de Lexiland, aplicadas a niños que cursaban Nivel 5, en el primer caso, y Primer año en el segundo</strong></a></li>
   </ul></li>
-  <li><a href="#un-caso-de-distribución-de-datos-tomados-por-nuestra-institución-la-edad-de-los-psicólogos-en-el-uruguay" id="toc-un-caso-de-distribución-de-datos-tomados-por-nuestra-institución-la-edad-de-los-psicólogos-en-el-uruguay" class="nav-link" data-scroll-target="#un-caso-de-distribución-de-datos-tomados-por-nuestra-institución-la-edad-de-los-psicólogos-en-el-uruguay"><span class="header-section-number">2.3</span> Un caso de distribución de datos tomados por nuestra institución: la edad de los psicólogos en el Uruguay</a></li>
-  <li><a href="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" id="toc-y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="nav-link" data-scroll-target="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial"><span class="header-section-number">2.4</span> Y para terminar, un par de ejercicios múltiple opción como los del parcial</a></li>
+  <li><a href="#actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos" id="toc-actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos" class="nav-link" data-scroll-target="#actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos"><span class="header-section-number">3.4</span> <strong>Actividad: Medidas de tendencia central y quintiles aplicado al ingreso de los hogares uruguayos</strong></a></li>
+  <li><a href="#panel-de-datos-triada-oscura-y-serce" id="toc-panel-de-datos-triada-oscura-y-serce" class="nav-link" data-scroll-target="#panel-de-datos-triada-oscura-y-serce"><span class="header-section-number">3.5</span> <strong>Panel de datos: Triada Oscura y SERCE</strong></a>
+  <ul class="collapse">
+  <li><a href="#datos-tríada-oscura" id="toc-datos-tríada-oscura" class="nav-link" data-scroll-target="#datos-tríada-oscura"><strong>Datos Tríada Oscura</strong></a></li>
+  <li><a href="#datos-serce" id="toc-datos-serce" class="nav-link" data-scroll-target="#datos-serce"><strong>Datos SERCE</strong></a></li>
+  </ul></li>
+  <li><a href="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" id="toc-y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="nav-link" data-scroll-target="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial"><span class="header-section-number">3.6</span> <strong>Y para terminar, un par de ejercicios múltiple opción, como los del parcial</strong></a></li>
   </ul>
 </nav>
     </div>
@@ -159,7 +164,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span></h1>
+<h1 class="title"><span class="chapter-title">Práctico: Describir los datos: rango, cuantiles, y diagrama de cajas (S03)</span></h1>
 </div>
 
 
@@ -176,140 +181,127 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="primeros-pasos-conocer-y-amigarme-con-los-datos" class="level2" data-number="2.1">
-<h2 data-number="2.1" class="anchored" data-anchor-id="primeros-pasos-conocer-y-amigarme-con-los-datos"><span class="header-section-number">2.1</span> Primeros pasos: conocer (y amigarme con) los datos</h2>
+<section id="rango-cuantiles-y-diagrama-de-cajas" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="rango-cuantiles-y-diagrama-de-cajas"><span class="header-section-number">3.1</span> Rango, cuantiles, y diagrama de cajas</h2>
 <section id="lectura-asociada" class="level3">
-<h3 class="anchored" data-anchor-id="lectura-asociada">Lectura asociada</h3>
-<p><a href="https://almadana.github.io/libro_cuanti/02-Describing_Data.html">Capítulo 2. ¿Por qué estadística?</a> <a href="https://almadana.github.io/libro_cuanti/01-Science_Data.html#el-rol-de-las-variables-predictoras-y-dependientes">Capítulo 1. El rol de las variables</a></p>
+<h3 class="anchored" data-anchor-id="lectura-asociada"><strong>Lectura asociada</strong></h3>
+<p><a href="https://almadana.github.io/libro_cuanti/02-Describing_Data.html">Capítulo 2. Describir los datos</a></p>
 </section>
 <section id="contenidos" class="level3">
-<h3 class="anchored" data-anchor-id="contenidos">Contenidos</h3>
+<h3 class="anchored" data-anchor-id="contenidos"><strong>Contenidos</strong></h3>
 <ul>
-<li><p>Visualización de datos: histograma</p></li>
-<li><p>Medidas de tendencia central: moda, media y mediana</p></li>
+<li><p>Medidas de dispersión: rango</p></li>
+<li><p>Cuantiles</p></li>
+<li><p>Visualización de datos: diagrama de cajas (boxplot)</p></li>
 </ul>
 </section>
 </section>
-<section id="panel-de-datos-endis" class="level2" data-number="2.2">
-<h2 data-number="2.2" class="anchored" data-anchor-id="panel-de-datos-endis"><span class="header-section-number">2.2</span> Panel de datos: ENDIS</h2>
-<p>Ya que seguro leíste el <a href="https://almadana.github.io/libro_cuanti/02-Describing_Data.html">Capítulo 2. Describir los datos</a> y querés ir más allá de la teoría, te proponemos trabajar con la base de datos de <strong>ENDIS</strong> para que explores y visualices datos de verdad.</p>
-<p>Accede a <a href="http://cuanti.psico.edu.uy/panel">cuanti.psico.edu.uy/panel</a>&nbsp;</p>
-<section id="describir-datos---distribución-de-variables" class="level3">
-<h3 class="anchored" data-anchor-id="describir-datos---distribución-de-variables">Describir datos - Distribución de variables</h3>
-<p>Antes de empezar a trabajar con la base ENDIS necesitamos un poco de contexto. Activa el botón <strong>“Acerca de la base”</strong> para conocer de qué se trata.</p>
-</section>
-<section id="section" class="level3">
-<h3 class="anchored" data-anchor-id="section"></h3>
-<p><img src="imgs/2_bases.png" class="img-fluid"></p>
-<p><strong>Y ahora… ¡Miremos los datos!</strong></p>
+<section id="panel-de-datos-factores-de-personalidad-del-cuidador-en-endis" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="panel-de-datos-factores-de-personalidad-del-cuidador-en-endis"><span class="header-section-number">3.2</span> <strong>Panel de datos: Factores de personalidad del cuidador en ENDIS</strong></h2>
+<p>En esta unidad estamos viendo que las medidas de tendencia central, por sí solas, no son suficientes para “entender” del todo nuestros datos. Por este motivo, contamos con una serie de estadísticos que nos permiten caracterizar la dispersión de los datos.</p>
+<p><strong>Recuperemos el histograma del ejercicio anterior (variable Apertura a la experiencia)</strong></p>
 <ul>
-<li>Observa los datos. ¿Cuántas observaciones tiene la base de datos? ¿Puedes decir algo al respecto de cómo se comportan las observaciones, por ejemplo, si hay algunos valores más o menos frecuentes?&nbsp;</li>
+<li><p>Mirando el histograma ¿cuál dirías que es el <strong>rango</strong> de la variable?</p></li>
+<li><p>¿Qué datos del histograma usaste para calcularlo? ¿Cómo lo calculaste?</p></li>
+<li><p>Ahora explora la opción gráfica <strong>diagrama de cajas</strong> (Boxplot) para esta misma variable. ¿Qué información te ofrece este gráfico? ¿Qué indica la línea verde? Estima qué valores corresponden al percentil 25, 50 y 75.&nbsp;</p></li>
+<li><p>¿A través de qué otra funcionalidad del panel puedes acceder al valor de los percentiles 25, 50 y 75? Contrasta estos valores con la estimación que habías realizado a partir del boxplot.&nbsp;</p></li>
+<li><p>Ahora repite el procedimiento de análisis con los otros cuatro factores de personalidad. ¿Es similar la distribución?</p></li>
 </ul>
 <details>
 <summary>
 <strong>¿Necesitás ayuda?</strong>
 </summary>
-<p>Elegir análisis &gt; Ver datos</p>
+<p><img src="imgs/2_boxplot.png" class="img-fluid"></p>
 </details>
-<p>Mmm… mejor examinemos los datos en un formato visual. Como vimos en el libro, vamos a convertir esos números a otras formas de visualización de datos.</p>
-<ul>
-<li>El primer resumen oficial: realiza el <strong>histograma</strong> de una variable.</li>
-</ul>
-<details>
-<summary>
-<strong>¿Necesitás ayuda?</strong>
-</summary>
-<p>Elegir análisis &gt; Histograma &gt; Elegir variable 1 (numérica)</p>
-<p>Por ejemplo, la variable Big Five: Apertura a la experiencia (una variable de personalidad del adulto)</p>
-<p><img src="imgs/2_histograma.png" class="img-fluid"></p>
-</details>
-<ul>
-<li><p>Cambia el ancho de los intervalos (bins) y observa cómo cambia el gráfico. ¿Qué son los bins? ¿Qué ancho de bin seleccionarías finalmente? ¿Cómo es la forma del histograma (ej. simetría/asimetría, “picos”)</p></li>
-<li><p>Repite el procedimiento para otras variables de esta base de datos</p></li>
-<li><p>Describe con tus palabras qué representa cada barra de un histograma y qué información nos da esta visualización</p></li>
-<li><p>¿Por qué para algunas de las variables de la base de datos no es posible realizar un histograma?</p></li>
-</ul>
 </section>
-<section id="de-muchos-números-a-uno-tendencia-central-y-dispersión" class="level3">
-<h3 class="anchored" data-anchor-id="de-muchos-números-a-uno-tendencia-central-y-dispersión">De muchos números a uno: tendencia central y dispersión</h3>
-<p>En el libro y en el ejercicio anterior vimos que podemos hacernos una idea de los datos al representarlos mediante gráficos. Ahora vamos a examinar la <strong>tendencia central</strong> de los datos de la base <strong>ENDIS</strong> a través de números.</p>
+<section id="actividad-informes-de-evaluación-del-desarrollo" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="actividad-informes-de-evaluación-del-desarrollo"><span class="header-section-number">3.3</span> <strong>Actividad: Informes de evaluación del desarrollo</strong></h2>
+<p>En los videos de esta unidad vimos un ejemplo de aplicación de cuantiles. En particular, que son útiles para comparar. Por ejemplo, entre los resultados de aplicar instrumentos estandarizados de evaluación psicológica es frecuente la referencia a percentiles. En otras palabras, podemos saber la posición de un sujeto u observación con respecto a una muestra de referencia.&nbsp;</p>
+<p><strong>Veamos el siguiente ejemplo:</strong></p>
+<p>El siguiente es un extracto del informe de resultados de la aplicación de un instrumento para la identificación temprana del riesgo lector (el documento tiene algunas omisiones a los efectos de este ejercicio).&nbsp;</p>
+<section id="informe-de-riesgo-lector" class="level3">
+<h3 class="anchored" data-anchor-id="informe-de-riesgo-lector"><strong>Informe de riesgo lector</strong></h3>
+<p>Fecha del informe: 07/11/24</p>
+<p>Identificador (ID) del niño/a: 2eb2a023-482d-4</p>
+<p>Introducción</p>
+<p>En el siguiente informe se presentan los resultados de la evaluación de Lexiland correspondientes al ID <strong>2eb2a023-482d-4</strong>. Los datos asociados a dicho identificador son confidenciales y solo se encuentran a disposición de la institución educativa en donde se llevó a cabo la evaluación.</p>
+<p>Descripción de la evaluación</p>
+<p>Lexiland es una herramienta digital que evalúa habilidades pre-lectoras en tres dimensiones: conocimiento de las letras, conciencia fonológica, y memoria. Las tres habilidades fueron seleccionadas a través de un estudio de investigación científica que determinó la confiabilidad de su utilización para identificar el riesgo lector a edades tempranas. Su aplicación está destinada a niños y niñas de nivel inicial y primaria y puede ser utilizada tanto en entornos escolares como clínicos.</p>
+<p>Resultados en las dimensiones evaluadas</p>
+<p>La siguiente gráfica muestra los resultados obtenidos por el niño/a. Las diferentes dimensiones evaluadas fueron analizadas en relación a la base de datos de Lexiland, con una muestra de 400 niños y niñas de 26 escuelas públicas de Montevideo de contexto sociocultural cuatro y cinco. El nivel de desempeño <strong>esperado</strong> marca el rango de valores obtenidos por el 50% de los niños y niñas. El nivel de <strong>zona de monitoreo</strong> marca el rango de valores obtenido por el 30% de los niños y niñas con desempeño más descendido. El nivel <strong>elevado</strong> marca el rango de valores obtenidos por el 20% de los niños y niñas con desempeño más elevado.<br>
+El punto azul marca el puntaje obtenido por <strong>2eb2a023-482d-4</strong> en las tres dimensiones evaluadas.</p>
+<p><img src="imgs/3_lexiland.png" class="img-fluid"></p>
 <ol type="1">
-<li><p>Obtené la <strong>tabla de estadísticos descriptivos</strong></p></li>
-<li><p>¿Por qué para algunas variables no se ofrece el valor de la media ni otros estadísticos?</p></li>
-<li><p>¿Qué estadísticos expresan la <strong>tendencia central</strong> en los datos? Fijate si sos capaz de definir cada uno con tus propias palabras</p></li>
-<li><p>Localiza los <strong>valores de tendencia central</strong> para la variable Apertura a la experiencia y regístralos</p></li>
-<li><p>Recupera el <strong>histograma de la variable Apertura a la experiencia, del ejercicio anterior</strong>. Copia la distribución en una hoja. Dibuja líneas verticales para marcar la Media, Moda y Mediana. ¿Coinciden los tres valores? ¿Por qué?&nbsp;</p></li>
-<li><p>En la ENDIS, la personalidad se caracteriza a través de 5 factores. Como vimos, <strong>Apertura a la experiencia</strong> es uno de ellos. Repite el procedimiento para las otras cuatro variables de personalidad</p></li>
-<li><p>Mira los histogramas de los cinco factores. Comenta y compara la forma de cada uno de ellos</p></li>
+<li><p>¿Qué evalúa este instrumento?</p></li>
+<li><p>¿Cuál es la muestra de referencia? ¿Para qué se utilizó esta muestra?</p></li>
+<li><p>¿Qué porcentaje de niños se espera encontrar en cada una de las categorías de desempeño (elevado, esperado, zona de monitoreo)?</p></li>
+<li><p>Concluye sobre cuáles son los puntos de corte de las categorías de desempeño (elevado, esperado, zona de monitoreo), expresados en percentiles.&nbsp;</p></li>
+<li><p>El informe corresponde a un caso específico (observa la ubicación de los puntos azules).&nbsp; Describe la situación de este caso específico, comparado con la muestra de referencia, en cada una de las tres dimensiones evaluadas.</p></li>
+</ol>
+</section>
+<section id="las-siguientes-tablas-muestran-los-estadísticos-descriptivos-correspondientes-a-las-distintas-tareas-de-lexiland-aplicadas-a-niños-que-cursaban-nivel-5-en-el-primer-caso-y-primer-año-en-el-segundo" class="level3">
+<h3 class="anchored" data-anchor-id="las-siguientes-tablas-muestran-los-estadísticos-descriptivos-correspondientes-a-las-distintas-tareas-de-lexiland-aplicadas-a-niños-que-cursaban-nivel-5-en-el-primer-caso-y-primer-año-en-el-segundo"><strong>Las siguientes tablas muestran los estadísticos descriptivos correspondientes a las distintas tareas de Lexiland, aplicadas a niños que cursaban Nivel 5, en el primer caso, y Primer año en el segundo</strong></h3>
+<p><img src="imgs/3_lexiland_tablas.png" class="img-fluid"></p>
+<ol start="6" type="1">
+<li>Si un niño que cursa Nivel 5 obtiene como resultado 0.66 en la prueba de Memoria ¿cuál es su posición en relación a los otros niños de Nivel 5 que integraban la muestra? ¿Qué puedes concluir respecto a su desempeño en esa tarea a partir de estos datos?</li>
+<li>¿Cómo se interpretaría esa misma puntuación si la obtiene un niño de Primer año?&nbsp;</li>
 </ol>
 </section>
 </section>
-<section id="un-caso-de-distribución-de-datos-tomados-por-nuestra-institución-la-edad-de-los-psicólogos-en-el-uruguay" class="level2" data-number="2.3">
-<h2 data-number="2.3" class="anchored" data-anchor-id="un-caso-de-distribución-de-datos-tomados-por-nuestra-institución-la-edad-de-los-psicólogos-en-el-uruguay"><span class="header-section-number">2.3</span> Un caso de distribución de datos tomados por nuestra institución: la edad de los psicólogos en el Uruguay</h2>
-<p>Selecciona la base de datos <strong>Censo Nacional de Psicólogos</strong> y familiarizate con el origen de los datos. Luego:</p>
+<section id="actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos" class="level2" data-number="3.4">
+<h2 data-number="3.4" class="anchored" data-anchor-id="actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos"><span class="header-section-number">3.4</span> <strong>Actividad: Medidas de tendencia central y quintiles aplicado al ingreso de los hogares uruguayos</strong></h2>
+<p>Observa el gráfico presentado a continuación y contesta las siguientes preguntas:</p>
+<p><img src="imgs/3_ingreso.png" class="img-fluid"></p>
 <ol type="1">
-<li><p>Realiza un histograma de la variable <strong>edad</strong> seleccionando un número de bins adecuado. ¿Qué característica tiene la distribución? ¿A qué podría deberse que los datos se distribuyan así?<br>
-</p></li>
-<li><p>Mirando la distribución de la edad de los psicólogos, estima qué valores tendrían las medidas de tendencia central<br>
-</p></li>
-<li><p>Verifica tu estimación consultando la tabla de estadísticos descriptivos asociada a esta base de datos<br>
-</p></li>
-<li><p>Relaciona los valores que toman las medidas de tendencia central con la forma de la distribución</p></li>
+<li><p>¿A qué se refiere con ‘Ingreso promedio’ en el gráfico de más a la izquierda? ¿Cómo fueron los ingresos promedio en el año 2023 comparado con los ingresos promedio en el año 2019? ¿Y comparado con el año 2019?</p></li>
+<li><p>¿A qué corresponden los quintiles? Discute las diferencias en ingreso y en su variación real según el quintil.</p></li>
 </ol>
 </section>
-<section id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="level2" data-number="2.4">
-<h2 data-number="2.4" class="anchored" data-anchor-id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial"><span class="header-section-number">2.4</span> Y para terminar, un par de ejercicios múltiple opción como los del parcial</h2>
-<p>Para cada pregunta indique LA opción correcta:</p>
+<section id="panel-de-datos-triada-oscura-y-serce" class="level2" data-number="3.5">
+<h2 data-number="3.5" class="anchored" data-anchor-id="panel-de-datos-triada-oscura-y-serce"><span class="header-section-number">3.5</span> <strong>Panel de datos: Triada Oscura y SERCE</strong></h2>
+<p>Usando el cálculo de media, mediana y cuartiles de las siguientes variables, responde las siguientes preguntas. Puedes ayudarte ubicando sus posiciones manualmente en el histograma&nbsp; y utilizando diagramas de caja.&nbsp;</p>
+<section id="datos-tríada-oscura" class="level3">
+<h3 class="anchored" data-anchor-id="datos-tríada-oscura"><strong>Datos Tríada Oscura</strong></h3>
 <ol type="1">
-<li><p>Un histograma es:</p>
+<li><p>¿Puede decirse que más de la mitad de los sujetos de la base tienen puntuaciones de narcisismo mayores a 25?</p></li>
+<li><p>Una puntuación en la escala de maquiavelismo de 18, ¿es más bien baja o más bien alta? Fundamenta tu respuesta.</p></li>
+<li><p>Identifica al sujeto nº 6 en la base de datos. ¿Qué edad tiene? ¿Proviene del interior?¿Cuántas veces entra a Facebook o Instagram por día? ¿Es un número relativamente bajo o relativamente alto?</p></li>
+<li><p>¿Puede decirse que los hombres poseen en general, niveles de maquiavelismo más altos? ¿Y de narcisismo?&nbsp;</p></li>
+<li><p>¿Puede decirse que los estudiantes provenientes del exterior muestran menores niveles de narcisismo? ¿Y de maquiavelismo?</p></li>
+</ol>
+</section>
+<section id="datos-serce" class="level3">
+<h3 class="anchored" data-anchor-id="datos-serce"><strong>Datos SERCE</strong></h3>
+<ol type="1">
+<li><p>¿Puede decirse que la mayoría de las niñas y niños tiene 12 años?&nbsp;</p></li>
+<li><p>Una puntuación de 620 en matemática, ¿es una puntuación muy alta? ¿Y la misma puntuación en la prueba de ciencia?</p></li>
+<li><p>¿Puede decirse que la mayoría de los estudiantes obtuvo puntuaciones mayores a 550 en la prueba de literatura? ¿Y en la de ciencias? ¿Y en la de matemática?<br>
+</p></li>
+</ol>
+</section>
+</section>
+<section id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="level2" data-number="3.6">
+<h2 data-number="3.6" class="anchored" data-anchor-id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial"><span class="header-section-number">3.6</span> <strong>Y para terminar, un par de ejercicios múltiple opción, como los del parcial</strong></h2>
+<ol type="1">
+<li>En un Informe del Mides de 2011, se presenta el siguiente gráfico en el que se muestra la distribución de años de estudio de mujeres de 25 años y más según el número de hijos. Indica qué afirmación es correcta:</li>
+</ol>
+<p><img src="imgs/3_censo_ine.png" class="img-fluid"></p>
 <ol type="a">
-<li><p>Un gráfico de barras en el que se muestra la mediana, la media y el desvío estándar.</p></li>
-<li><p>Una forma de cuantificar la dispersión de los datos</p></li>
-<li><p>Una forma de representar gráficamente las frecuencias de los diferentes niveles o valores que toma una variable numérica</p></li>
-<li><p>Un indicador de tendencia central</p></li>
-</ol></li>
-<li><p>En un histograma, el eje horizontal (X) normalmente muestra:</p>
+<li>La cantidad de años de estudio de las mujeres aumenta a mayor número de hijos</li>
+<li>A mayor número de hijos, la mediana de años de estudio disminuye</li>
+<li>La distribución de años de estudio es simétrica, para cada categoría de la variable hijos</li>
+<li>Más del 25% de las mujeres con 5 hijos o más tienen 10 años o más de estudio</li>
+</ol>
+<!-- -->
+<ol start="2" type="1">
+<li>Con respecto a los cuartiles:</li>
+</ol>
+<!-- -->
 <ol type="a">
-<li><p>La cantidad de participantes en cada categoría</p></li>
-<li><p>Los intervalos o rangos de valores de la variable</p></li>
-<li><p>La frecuencia de cada observación</p></li>
-<li><p>El número total de observaciones</p></li>
-</ol></li>
-<li><p>En un histograma, la altura de cada barra indica:</p>
-<ol type="a">
-<li><p>El valor máximo del intervalo</p></li>
-<li><p>La frecuencia absoluta o relativa de ese intervalo</p></li>
-<li><p>La media de todos los datos</p></li>
-<li><p>La diferencia entre el valor mayor y menor del intervalo</p></li>
-</ol></li>
-<li><p>La mediana es útil porque:</p>
-<ol type="a">
-<li><p>No se ve afectada por valores extremos (outliers)</p></li>
-<li><p>Siempre es igual a la media, en cualquier distribución</p></li>
-<li><p>Representa el valor más frecuente</p></li>
-<li><p>Es necesaria para calcular el rango</p></li>
-</ol></li>
-<li><p>Si una distribución de puntajes del BDI (Inventario de Depresión de Beck) es muy asimétrica hacia la derecha, lo más probable es que:</p>
-<ol type="a">
-<li><p>Media &gt; Mediana</p></li>
-<li><p>Media &lt; Mediana</p></li>
-<li><p>Media = Mediana</p></li>
-<li><p>Moda &gt; Media</p></li>
-</ol></li>
-<li><p>Si en un grupo de 10 estudiantes, 6 obtuvieron 15 puntos en una escala de ansiedad y los otros 4 obtuvieron 10 puntos, la moda es:</p>
-<ol type="a">
-<li><p>15</p></li>
-<li><p>10</p></li>
-<li><p>12,5</p></li>
-<li><p>La moda solo puede calcularse para variables categóricas (cualitativas)</p></li>
-</ol></li>
-<li><p>Sobre las medidas de tendencia central:</p>
-<ol type="a">
-<li><p>La moda es el valor que más se repite</p></li>
-<li><p>La mediana se obtiene sumando todos los valores que toma una variable y se divide entre el rango de la variable</p></li>
-<li><p>La media es el valor que divide la distribución en dos partes iguales</p></li>
-<li><p>La mediana, la moda y la media son iguales en variables con distribuciones asimétricas</p></li>
-</ol></li>
+<li>Dividen a la muestra en 5 partes iguales</li>
+<li>Dividen a la muestra en 3 partes iguales</li>
+<li>El cuartil 2 corresponde a la mediana</li>
+<li>El cuartil 3 corresponde a la mediana</li>
 </ol>
 
 
@@ -717,13 +709,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./index.html" class="pagination-link" aria-label="Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span></span>
+      <a href="./practico_2.html" class="pagination-link" aria-label="Práctico: Describir los datos - Histogramas y Tendencia central (S 02)">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./practico_3.html" class="pagination-link" aria-label="Práctico: Describir los datos: rango, cuantiles,  y diagrama de cajas (S03)">
-        <span class="nav-page-text"><span class="chapter-title">Práctico: Describir los datos: rango, cuantiles, y diagrama de cajas (S03)</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./entregable.html" class="pagination-link" aria-label="Entregable final: Informe de análisis de datos">
+        <span class="nav-page-text"><span class="chapter-title">Entregable final: Informe de análisis de datos</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
