@@ -95,9 +95,9 @@ Observa el gráfico presentado a continuación y contesta las siguientes pregunt
 
 ![](imgs/3_ingreso.png)
 
-1.  ¿A qué se refiere con ‘Ingreso promedio’ en el gráfico de más a la izquierda? ¿Cómo fueron los ingresos promedio en el año 2023 comparado con los ingresos promedio en el año 2019? ¿Y comparado con el año 2019?
+1.  ¿A qué se refiere con ‘Ingreso promedio’ en el gráfico de más a la izquierda? ¿Cómo fueron los ingresos promedio en el año 2023 comparado con los ingresos promedio en el año 2019? ¿Y comparado con el año 2022?
 
-2.  ¿A qué corresponden los quintiles? Discute las diferencias en ingreso y en su variación real según el quintil.
+2.  ¿A qué corresponden los quintiles? Discute las diferencias en ingreso mensual líquido y en su variación real según el quintil.
 
 ## Panel de datos: Triada Oscura y SERCE
 
