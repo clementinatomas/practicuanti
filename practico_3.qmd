@@ -65,8 +65,9 @@ Lexiland es una herramienta digital que evalúa habilidades pre-lectoras en tres
 
 **Resultados en las dimensiones evaluadas**
 
-La siguiente gráfica muestra los resultados obtenidos por el niño/a. Las diferentes dimensiones evaluadas fueron analizadas en relación a la base de datos de Lexiland, con una muestra de 400 niños y niñas de 26 escuelas públicas de Montevideo de contexto sociocultural quintil cuatro y quintil cinco. El nivel de desempeño **esperado** marca el rango de valores obtenidos por el 50% de los niños y niñas. El nivel de **zona de monitoreo** marca el rango de valores obtenido por el 30% de los niños y niñas con desempeño más descendido. El nivel **elevado** marca el rango de valores obtenidos por el 20% de los niños y niñas con desempeño más elevado.\
-El punto azul marca el puntaje obtenido por **2eb2a023-482d-4** en las tres dimensiones evaluadas.
+La siguiente gráfica muestra los resultados obtenidos por el niño/a. Las diferentes dimensiones evaluadas fueron analizadas en relación a la base de datos de Lexiland, con una muestra de 400 niños y niñas de 26 escuelas públicas de Montevideo de contexto sociocultural quintil cuatro y quintil cinco.
+
+El nivel de **zona de monitoreo** marca el rango de valores obtenido por el 30% de los niños y niñas con desempeño más descendido. El nivel de desempeño **esperado** marca el rango de valores obtenidos por el 50% de los niños y niñas. El nivel **elevado** marca el rango de valores obtenidos por el 20% de los niños y niñas con desempeño más elevado. El punto azul marca el puntaje obtenido por **2eb2a023-482d-4** en las tres dimensiones evaluadas.
 
 ![](imgs/3_lexiland.png)
 
