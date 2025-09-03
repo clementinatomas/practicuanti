@@ -65,7 +65,7 @@ Lexiland es una herramienta digital que evalúa habilidades pre-lectoras en tres
 
 **Resultados en las dimensiones evaluadas**
 
-La siguiente gráfica muestra los resultados obtenidos por el niño/a. Las diferentes dimensiones evaluadas fueron analizadas en relación a la base de datos de Lexiland, con una muestra de 400 niños y niñas de 26 escuelas públicas de Montevideo de contexto sociocultural cuatro y cinco. El nivel de desempeño **esperado** marca el rango de valores obtenidos por el 50% de los niños y niñas. El nivel de **zona de monitoreo** marca el rango de valores obtenido por el 30% de los niños y niñas con desempeño más descendido. El nivel **elevado** marca el rango de valores obtenidos por el 20% de los niños y niñas con desempeño más elevado.\
+La siguiente gráfica muestra los resultados obtenidos por el niño/a. Las diferentes dimensiones evaluadas fueron analizadas en relación a la base de datos de Lexiland, con una muestra de 400 niños y niñas de 26 escuelas públicas de Montevideo de contexto sociocultural quintil cuatro y quintil cinco. El nivel de desempeño **esperado** marca el rango de valores obtenidos por el 50% de los niños y niñas. El nivel de **zona de monitoreo** marca el rango de valores obtenido por el 30% de los niños y niñas con desempeño más descendido. El nivel **elevado** marca el rango de valores obtenidos por el 20% de los niños y niñas con desempeño más elevado.\
 El punto azul marca el puntaje obtenido por **2eb2a023-482d-4** en las tres dimensiones evaluadas.
 
 ![](imgs/3_lexiland.png)
@@ -82,12 +82,13 @@ El punto azul marca el puntaje obtenido por **2eb2a023-482d-4** en las tres dime
 
 ### Ejercicio con tablas de Lexiland
 
-Las siguientes tablas muestran los estadísticos descriptivos correspondientes a las distintas tareas de Lexiland, aplicadas a niños que cursaban Nivel 5, en el primer caso, y Primer año en el segundo
+Las siguientes tablas muestran los estadísticos descriptivos correspondientes a las distintas tareas de Lexiland, aplicadas a niños que cursaban Nivel 5, en el primer caso, y Primer año en el segundo. La muestra estuvo compuesta por 1111 alumnos de centros educativos de los cinco quintiles socioeconómicos (categorización de ANEP), ubicados en los departamentos de Montevideo, Canelones, Salto, San José, Colonia y Soriano.
 
 ![](imgs/3_lexiland_tablas.png)
 
-6.  Si un niño que cursa Nivel 5 obtiene como resultado 0.66 en la prueba de Memoria ¿cuál es su posición en relación a los otros niños de Nivel 5 que integraban la muestra? ¿Qué puedes concluir respecto a su desempeño en esa tarea a partir de estos datos?
-7.  ¿Cómo se interpretaría esa misma puntuación si la obtiene un niño de Primer año? 
+1.  Si un niño que cursa Nivel 5 obtiene como resultado 0.66 en la prueba de Memoria ¿cuál es su posición en relación a los otros niños de Nivel 5 que integraban la muestra? ¿Qué puedes concluir respecto a su desempeño en esa tarea a partir de estos datos?
+
+2.  ¿Cómo se interpretaría esa misma puntuación si la obtiene un niño de Primer año?
 
 ## Actividad: Medidas de tendencia central y quintiles aplicado al ingreso de los hogares uruguayos
 
