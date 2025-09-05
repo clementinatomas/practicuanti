@@ -142,71 +142,111 @@
   {
     "objectID": "practico_3.html",
     "href": "practico_3.html",
-    "title": "Práctico: Describir los datos: rango, cuantiles, y diagrama de cajas (S03)",
+    "title": "Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)",
     "section": "",
     "text": "3.1 Rango, cuantiles, y diagrama de cajas",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos: rango, cuantiles,  y diagrama de cajas (S03)</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos - rango, cuantiles,  y diagrama de cajas (S03)</span>"
     ]
   },
   {
     "objectID": "practico_3.html#rango-cuantiles-y-diagrama-de-cajas",
     "href": "practico_3.html#rango-cuantiles-y-diagrama-de-cajas",
-    "title": "Práctico: Describir los datos: rango, cuantiles, y diagrama de cajas (S03)",
+    "title": "Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)",
     "section": "",
     "text": "Lectura asociada\nCapítulo 2. Describir los datos\n\n\nContenidos\n\nMedidas de dispersión: rango\nCuantiles\nVisualización de datos: diagrama de cajas (boxplot)",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos: rango, cuantiles,  y diagrama de cajas (S03)</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos - rango, cuantiles,  y diagrama de cajas (S03)</span>"
     ]
   },
   {
     "objectID": "practico_3.html#panel-de-datos-factores-de-personalidad-del-cuidador-en-endis",
     "href": "practico_3.html#panel-de-datos-factores-de-personalidad-del-cuidador-en-endis",
-    "title": "Práctico: Describir los datos: rango, cuantiles, y diagrama de cajas (S03)",
+    "title": "Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)",
     "section": "3.2 Panel de datos: Factores de personalidad del cuidador en ENDIS",
     "text": "3.2 Panel de datos: Factores de personalidad del cuidador en ENDIS\nEn esta unidad estamos viendo que las medidas de tendencia central, por sí solas, no son suficientes para “entender” del todo nuestros datos. Por este motivo, contamos con una serie de estadísticos que nos permiten caracterizar la dispersión de los datos.\nRecuperemos el histograma del ejercicio anterior (variable Apertura a la experiencia)\n\nMirando el histograma ¿cuál dirías que es el rango de la variable?\n¿Qué datos del histograma usaste para calcularlo? ¿Cómo lo calculaste?\nAhora explora la opción gráfica diagrama de cajas (Boxplot) para esta misma variable. ¿Qué información te ofrece este gráfico? ¿Qué indica la línea verde? Estima qué valores corresponden al percentil 25, 50 y 75. \n¿A través de qué otra funcionalidad del panel puedes acceder al valor de los percentiles 25, 50 y 75? Contrasta estos valores con la estimación que habías realizado a partir del boxplot. \nAhora repite el procedimiento de análisis con los otros cuatro factores de personalidad. ¿Es similar la distribución?\n\n\n\n¿Necesitás ayuda?",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos: rango, cuantiles,  y diagrama de cajas (S03)</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos - rango, cuantiles,  y diagrama de cajas (S03)</span>"
     ]
   },
   {
     "objectID": "practico_3.html#actividad-informes-de-evaluación-del-desarrollo",
     "href": "practico_3.html#actividad-informes-de-evaluación-del-desarrollo",
-    "title": "Práctico: Describir los datos: rango, cuantiles, y diagrama de cajas (S03)",
+    "title": "Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)",
     "section": "3.3 Actividad: Informes de evaluación del desarrollo",
     "text": "3.3 Actividad: Informes de evaluación del desarrollo\nEn los videos de esta unidad vimos un ejemplo de aplicación de cuantiles. En particular, que son útiles para comparar. Por ejemplo, entre los resultados de aplicar instrumentos estandarizados de evaluación psicológica es frecuente la referencia a percentiles. En otras palabras, podemos saber la posición de un sujeto u observación con respecto a una muestra de referencia. \nVeamos el siguiente ejemplo:\nEl siguiente es un extracto del informe de resultados de la aplicación de un instrumento para la identificación temprana del riesgo lector (el documento tiene algunas omisiones a los efectos de este ejercicio). \n\nInforme de riesgo lector\nFecha del informe: 07/11/24\nIdentificador (ID) del niño/a: 2eb2a023-482d-4\nIntroducción\nEn el siguiente informe se presentan los resultados de la evaluación de Lexiland correspondientes al ID 2eb2a023-482d-4. Los datos asociados a dicho identificador son confidenciales y solo se encuentran a disposición de la institución educativa en donde se llevó a cabo la evaluación.\nDescripción de la evaluación\nLexiland es una herramienta digital que evalúa habilidades pre-lectoras en tres dimensiones: conocimiento de las letras, conciencia fonológica, y memoria. Las tres habilidades fueron seleccionadas a través de un estudio de investigación científica que determinó la confiabilidad de su utilización para identificar el riesgo lector a edades tempranas. Su aplicación está destinada a niños y niñas de nivel inicial y primaria y puede ser utilizada tanto en entornos escolares como clínicos.\nResultados en las dimensiones evaluadas\nLa siguiente gráfica muestra los resultados obtenidos por el niño/a. Las diferentes dimensiones evaluadas fueron analizadas en relación a la base de datos de Lexiland, con una muestra de 400 niños y niñas de 26 escuelas públicas de Montevideo de contexto sociocultural quintil cuatro y quintil cinco.\nEl nivel de zona de monitoreo marca el rango de valores obtenido por el 30% de los niños y niñas con desempeño más descendido. El nivel de desempeño esperado marca el rango de valores obtenidos por el 50% de los niños y niñas. El nivel elevado marca el rango de valores obtenidos por el 20% de los niños y niñas con desempeño más elevado. El punto azul marca el puntaje obtenido por 2eb2a023-482d-4 en las tres dimensiones evaluadas.\n\n\n¿Qué evalúa este instrumento?\n¿Cuál es la muestra de referencia? ¿Para qué se utilizó esta muestra?\n¿Qué porcentaje de niños se espera encontrar en cada una de las categorías de desempeño (elevado, esperado, zona de monitoreo)?\nConcluye sobre cuáles son los puntos de corte de las categorías de desempeño (elevado, esperado, zona de monitoreo), expresados en percentiles. \nEl informe corresponde a un caso específico (observa la ubicación de los puntos azules).  Describe la situación de este caso específico, comparado con la muestra de referencia, en cada una de las tres dimensiones evaluadas.\n\n\n\nEjercicio con tablas de Lexiland\nLas siguientes tablas muestran los estadísticos descriptivos correspondientes a las distintas tareas de Lexiland, aplicadas a niños que cursaban Nivel 5, en el primer caso, y Primer año en el segundo. La muestra estuvo compuesta por 1111 alumnos de centros educativos de los cinco quintiles socioeconómicos (categorización de ANEP), ubicados en los departamentos de Montevideo, Canelones, Salto, San José, Colonia y Soriano.\n\n\nSi un niño que cursa Nivel 5 obtiene como resultado 0.66 en la prueba de Memoria ¿cuál es su posición en relación a los otros niños de Nivel 5 que integraban la muestra? ¿Qué puedes concluir respecto a su desempeño en esa tarea a partir de estos datos?\n¿Cómo se interpretaría esa misma puntuación si la obtiene un niño de Primer año?",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos: rango, cuantiles,  y diagrama de cajas (S03)</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos - rango, cuantiles,  y diagrama de cajas (S03)</span>"
     ]
   },
   {
     "objectID": "practico_3.html#actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos",
     "href": "practico_3.html#actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos",
-    "title": "Práctico: Describir los datos: rango, cuantiles, y diagrama de cajas (S03)",
+    "title": "Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)",
     "section": "3.4 Actividad: Medidas de tendencia central y quintiles aplicado al ingreso de los hogares uruguayos",
     "text": "3.4 Actividad: Medidas de tendencia central y quintiles aplicado al ingreso de los hogares uruguayos\nObserva el gráfico presentado a continuación y contesta las siguientes preguntas:\n\n\n¿A qué se refiere con ‘Ingreso promedio’ en el gráfico de más a la izquierda? ¿Cómo fueron los ingresos promedio en el año 2023 comparado con los ingresos promedio en el año 2019? ¿Y comparado con el año 2022?\n¿A qué corresponden los quintiles? Discute las diferencias en ingreso mensual líquido y en su variación real según el quintil.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos: rango, cuantiles,  y diagrama de cajas (S03)</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos - rango, cuantiles,  y diagrama de cajas (S03)</span>"
     ]
   },
   {
     "objectID": "practico_3.html#panel-de-datos-triada-oscura-y-serce",
     "href": "practico_3.html#panel-de-datos-triada-oscura-y-serce",
-    "title": "Práctico: Describir los datos: rango, cuantiles, y diagrama de cajas (S03)",
+    "title": "Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)",
     "section": "3.5 Panel de datos: Triada Oscura y SERCE",
     "text": "3.5 Panel de datos: Triada Oscura y SERCE\nUsando el cálculo de media, mediana y cuartiles de las siguientes variables, responde las siguientes preguntas. Puedes ayudarte ubicando sus posiciones manualmente en el histograma  y utilizando diagramas de caja. \n\nDatos Tríada Oscura\n\n¿Puede decirse que más de la mitad de los sujetos de la base tienen puntuaciones de narcisismo mayores a 25?\nUna puntuación en la escala de maquiavelismo de 18, ¿es más bien baja o más bien alta? Fundamenta tu respuesta.\nIdentifica al sujeto nº 6 en la base de datos. ¿Qué edad tiene? ¿Proviene del interior?¿Cuántas veces entra a Facebook o Instagram por día? ¿Es un número relativamente bajo o relativamente alto?\n¿Puede decirse que los hombres poseen en general, niveles de maquiavelismo más altos? ¿Y de narcisismo? \n¿Puede decirse que los estudiantes provenientes del exterior muestran menores niveles de narcisismo? ¿Y de maquiavelismo?\n\n\n\nDatos SERCE\n\n¿Puede decirse que la mayoría de las niñas y niños tiene 12 años? \nUna puntuación de 620 en matemática, ¿es una puntuación muy alta? ¿Y la misma puntuación en la prueba de ciencia?\n¿Puede decirse que la mayoría de los estudiantes obtuvo puntuaciones mayores a 550 en la prueba de literatura? ¿Y en la de ciencias? ¿Y en la de matemática?",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos: rango, cuantiles,  y diagrama de cajas (S03)</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos - rango, cuantiles,  y diagrama de cajas (S03)</span>"
     ]
   },
   {
     "objectID": "practico_3.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
     "href": "practico_3.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
-    "title": "Práctico: Describir los datos: rango, cuantiles, y diagrama de cajas (S03)",
+    "title": "Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)",
     "section": "3.6 Y para terminar, un par de ejercicios múltiple opción, como los del parcial",
     "text": "3.6 Y para terminar, un par de ejercicios múltiple opción, como los del parcial\n\nEn un Informe del Mides de 2011, se presenta el siguiente gráfico en el que se muestra la distribución de años de estudio de mujeres de 25 años y más según el número de hijos. Indica qué afirmación es correcta:\n\n\n\nLa cantidad de años de estudio de las mujeres aumenta a mayor número de hijos\nA mayor número de hijos, la mediana de años de estudio disminuye\nLa distribución de años de estudio es simétrica, para cada categoría de la variable hijos\nMás del 25% de las mujeres con 5 hijos o más tienen 10 años o más de estudio\n\n\n\nCon respecto a los cuartiles:\n\n\n\nDividen a la muestra en 5 partes iguales\nDividen a la muestra en 3 partes iguales\nEl cuartil 2 corresponde a la mediana\nEl cuartil 3 corresponde a la mediana",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos: rango, cuantiles,  y diagrama de cajas (S03)</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos - rango, cuantiles,  y diagrama de cajas (S03)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_4.html",
+    "href": "practico_4.html",
+    "title": "Práctico: Describir los datos - varianza y desvío estándar (S04)",
+    "section": "",
+    "text": "4.1 Varianza y desvío estándar",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico: Describir los datos - varianza y desvío estándar (S04)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_4.html#varianza-y-desvío-estándar",
+    "href": "practico_4.html#varianza-y-desvío-estándar",
+    "title": "Práctico: Describir los datos - varianza y desvío estándar (S04)",
+    "section": "",
+    "text": "Lectura asociada\nCapítulo 2. Describir los datos Desde 2.8 La varianza en adelante\n\n\nContenidos\n\nMedidas de dispersión: varianza y desvío estándar",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico: Describir los datos - varianza y desvío estándar (S04)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_4.html#las-variables-varían-tomando-nuestros-primeros-datos",
+    "href": "practico_4.html#las-variables-varían-tomando-nuestros-primeros-datos",
+    "title": "Práctico: Describir los datos - varianza y desvío estándar (S04)",
+    "section": "4.2 Las variables varían: Tomando nuestros primeros datos",
+    "text": "4.2 Las variables varían: Tomando nuestros primeros datos\nEl ejercicio de hoy consiste en adivinar la edad de un conjunto de personas a partir de su foto.\n\nIngresa a este formulario 🔗 y adivina las edades de las fotos. Anota en una hoja las iniciales de cada foto y la edad que estimaste.\n\nConforma grupos de 5 personas\n\nDiscute con tus compañeros cómo varían las estimaciones de las fotografías en el grupo\nSeleccionen la foto para la que hubo menos variabilidad (es decir, más acuerdo) en las edades y la foto para la que hubo más variabilidad (es decir, mayor desacuerdo) en las edades\n\nPara cada una de las dos fotos seleccionadas:\n\nRealicen una tabla recabando las edades estimadas por cada uno de los integrantes del grupo\n¿Cuál es el rango de las estimaciones para la foto?\nCalcular la mediana de edad para la foto (pista: ordeno los datos de menor a mayor y encuentro el valor que cae en la posición que divide mi muestra en dos)\nCalcular la media (o promedio) de edad para la foto\nCalcular la suma de los desvíos cuadráticos de edad para la foto\nCalcular la varianza de edad para la foto\nCalcular la desviación estándar (o desvío estándar, o desviación típica, o desvío típico) de la edad para la foto\n\n\n\n¿Necesitás ayuda?\n\n\n\n\n¿Cómo se relaciona la varianza con la edad promedio? ¿Y la desviación estándar con la edad promedio? Discute si uno de los estadísticos resulta más intuitivo\nCompara e interpreta las varianzas y las desviaciones estándar para las dos fotos seleccionadas\n¿Qué nos dicen estos estadísticos descriptivos de la incertidumbre que tenemos sobre la edad de los fotografiados?\n¿Qué habría pasado con la varianza y el desvío estándar si uno de los integrantes del grupo hubiera estimado una edad extrema como 100 años?\nIngresa a esta página 🔗. Observa las estimaciones de todos los compañeros de cuanti\n¿Cómo es tu estimación comparada con la de todo el grupo de estudiantes?\n¿Cómo es la estimación de tu grupo comparada con la de todos los estudiantes de cuanti?",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico: Describir los datos - varianza y desvío estándar (S04)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_4.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "href": "practico_4.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "title": "Práctico: Describir los datos - varianza y desvío estándar (S04)",
+    "section": "4.3 Y para terminar, un par de ejercicios múltiple opción, como los del parcial",
+    "text": "4.3 Y para terminar, un par de ejercicios múltiple opción, como los del parcial\n\n¿Por qué motivo se considera al promedio una medida poco robusta?\n\n\n\nPorque presenta siempre valores menores a la mediana\nDebido a que es una medida derivada de la moda\nPorque es el valor que menos se repite en la distribución\nPorque es una medida sensible a los valores extremos de la distribución\n\n\n\nIndique cuál de las siguientes afirmaciones sobre la varianza es correcta:\n\n\n\nLa varianza es el rango de valores que puede tomar la variable\nLa varianza es un indicador de tendencia central\nLa varianza siempre es mayor o igual a cero\nEs frecuente que la varianza valga 1",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico: Describir los datos - varianza y desvío estándar (S04)</span>"
     ]
   },
   {
@@ -216,7 +256,7 @@
     "section": "",
     "text": "Esta actividad es obligatoria para los estudiantes que cursan en modalidad seminario (si sos estudiante de plenario te lo ofrecemos como un recurso más para practicar).\nLa propuesta consiste en realizar una secuencia de análisis de datos a partir de una de las bases disponibles en cuanti.psico.edu.uy/panel (en particular ENDIS, ARISTAS, SERCE o Triada Oscura).\nLa idea es que este trabajo te ayude a desarrollar cierta autonomía en el planteo de preguntas de investigación, a darte cuenta qué análisis son adecuados según las variables disponibles y la pregunta que pretendes responder y, por último, que puedas ensayar la comunicación escrita de estos resultados.\nEste trabajo se va a desarrollar paso a paso a lo largo del semestre según avanzamos en las distintas unidades temáticas, hasta realizar la entrega final (a coordinar con tu docente referente de seminario).\nPara realizar el trabajo debes descargar el modelo de reporte en Word, que ya contiene las secciones y formato esperado del entregable.\n⬇️️️📄Descargar en Word📄⬇️",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Entregable final: Informe de análisis de datos</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Entregable final: Informe de análisis de datos</span>"
     ]
   }
 ]

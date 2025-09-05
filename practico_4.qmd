@@ -1,0 +1,92 @@
+---
+title: "Práctico: Describir los datos - varianza y desvío estándar (S04)"
+number-sections: true
+---
+
+## Varianza y desvío estándar
+
+### Lectura asociada
+
+[Capítulo 2. Describir los datos](https://almadana.github.io/libro_cuanti/02-Describing_Data.html) Desde 2.8 La varianza en adelante
+
+### Contenidos
+
+-   Medidas de dispersión: varianza y desvío estándar
+
+## Las variables varían: Tomando nuestros primeros datos
+
+El ejercicio de hoy consiste en adivinar la edad de un conjunto de personas a partir de su foto.
+
+1.  Ingresa a este **[formulario 🔗](https://docs.google.com/forms/d/e/1FAIpQLSc-yjtYrsLTw7p8KFp4NOp2Acu2ilD6yLQQjc5p82N4YDZI2A/viewform?usp=header)** y adivina las edades de las fotos. Anota en una hoja las iniciales de cada foto y la edad que estimaste.
+
+Conforma grupos de 5 personas
+
+2.  Discute con tus compañeros cómo varían las estimaciones de las fotografías en el grupo
+
+3.  Seleccionen la foto para la que hubo menos variabilidad (es decir, más acuerdo) en las edades y la foto para la que hubo más variabilidad (es decir, mayor desacuerdo) en las edades
+
+Para cada una de las dos fotos seleccionadas:
+
+4.  Realicen una tabla recabando las edades estimadas por cada uno de los integrantes del grupo
+
+5.  ¿Cuál es el rango de las estimaciones para la foto?
+
+6.  Calcular la mediana de edad para la foto (pista: ordeno los datos de menor a mayor y encuentro el valor que cae en la posición que divide mi muestra en dos)
+
+7.  Calcular la media (o promedio) de edad para la foto
+
+8.  Calcular la suma de los desvíos cuadráticos de edad para la foto
+
+9.  Calcular la varianza de edad para la foto
+
+10. Calcular la desviación estándar (o desvío estándar, o desviación típica, o desvío típico) de la edad para la foto
+
+<details>
+
+<summary><strong>¿Necesitás ayuda?</strong></summary>
+
+![](imgs/tabla_calculo.jpg)
+
+</details>
+
+11. ¿Cómo se relaciona la varianza con la edad promedio? ¿Y la desviación estándar con la edad promedio? Discute si uno de los estadísticos resulta más intuitivo
+
+12. Compara e interpreta las varianzas y las desviaciones estándar para las dos fotos seleccionadas
+
+13. ¿Qué nos dicen estos estadísticos descriptivos de la incertidumbre que tenemos sobre la edad de los fotografiados?
+
+14. ¿Qué habría pasado con la varianza y el desvío estándar si uno de los integrantes del grupo hubiera estimado una edad extrema como 100 años?
+
+15. Ingresa a esta [página 🔗](https://em-fl.github.io/edadesMyTC/). Observa las estimaciones de todos los compañeros de cuanti
+
+16. ¿Cómo es tu estimación comparada con la de todo el grupo de estudiantes?
+
+17. ¿Cómo es la estimación de tu grupo comparada con la de todos los estudiantes de cuanti?
+
+## Y para terminar, un par de ejercicios múltiple opción, como los del parcial
+
+1.  ¿Por qué motivo se considera al promedio una medida poco robusta?
+
+<!-- -->
+
+a.  Porque presenta siempre valores menores a la mediana
+
+b.  Debido a que es una medida derivada de la moda
+
+c.  Porque es el valor que menos se repite en la distribución
+
+d.  Porque es una medida sensible a los valores extremos de la distribución
+
+<!-- -->
+
+2.  Indique cuál de las siguientes afirmaciones sobre la varianza es correcta:
+
+<!-- -->
+
+a.  La varianza es el rango de valores que puede tomar la variable
+
+b.  La varianza es un indicador de tendencia central
+
+c.  La varianza siempre es mayor o igual a cero
+
+d.  Es frecuente que la varianza valga 1

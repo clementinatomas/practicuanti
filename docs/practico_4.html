@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>3&nbsp; Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03) – Practicuanti</title>
+<title>4&nbsp; Práctico: Describir los datos - varianza y desvío estándar (S04) – Practicuanti</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./practico_4.html" rel="next">
-<link href="./practico_2.html" rel="prev">
+<link href="./entregable.html" rel="next">
+<link href="./practico_3.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./practico_3.html"><span class="chapter-title">Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./practico_4.html"><span class="chapter-title">Práctico: Describir los datos - varianza y desvío estándar (S04)</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -120,12 +120,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./practico_3.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)</span></a>
+  <a href="./practico_3.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./practico_4.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Describir los datos - varianza y desvío estándar (S04)</span></a>
+  <a href="./practico_4.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Práctico: Describir los datos - varianza y desvío estándar (S04)</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -143,24 +143,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#rango-cuantiles-y-diagrama-de-cajas" id="toc-rango-cuantiles-y-diagrama-de-cajas" class="nav-link active" data-scroll-target="#rango-cuantiles-y-diagrama-de-cajas"><span class="header-section-number">3.1</span> Rango, cuantiles, y diagrama de cajas</a>
+  <li><a href="#varianza-y-desvío-estándar" id="toc-varianza-y-desvío-estándar" class="nav-link active" data-scroll-target="#varianza-y-desvío-estándar"><span class="header-section-number">4.1</span> Varianza y desvío estándar</a>
   <ul class="collapse">
   <li><a href="#lectura-asociada" id="toc-lectura-asociada" class="nav-link" data-scroll-target="#lectura-asociada">Lectura asociada</a></li>
   <li><a href="#contenidos" id="toc-contenidos" class="nav-link" data-scroll-target="#contenidos">Contenidos</a></li>
   </ul></li>
-  <li><a href="#panel-de-datos-factores-de-personalidad-del-cuidador-en-endis" id="toc-panel-de-datos-factores-de-personalidad-del-cuidador-en-endis" class="nav-link" data-scroll-target="#panel-de-datos-factores-de-personalidad-del-cuidador-en-endis"><span class="header-section-number">3.2</span> Panel de datos: Factores de personalidad del cuidador en ENDIS</a></li>
-  <li><a href="#actividad-informes-de-evaluación-del-desarrollo" id="toc-actividad-informes-de-evaluación-del-desarrollo" class="nav-link" data-scroll-target="#actividad-informes-de-evaluación-del-desarrollo"><span class="header-section-number">3.3</span> Actividad: Informes de evaluación del desarrollo</a>
-  <ul class="collapse">
-  <li><a href="#informe-de-riesgo-lector" id="toc-informe-de-riesgo-lector" class="nav-link" data-scroll-target="#informe-de-riesgo-lector">Informe de riesgo lector</a></li>
-  <li><a href="#ejercicio-con-tablas-de-lexiland" id="toc-ejercicio-con-tablas-de-lexiland" class="nav-link" data-scroll-target="#ejercicio-con-tablas-de-lexiland">Ejercicio con tablas de Lexiland</a></li>
-  </ul></li>
-  <li><a href="#actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos" id="toc-actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos" class="nav-link" data-scroll-target="#actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos"><span class="header-section-number">3.4</span> Actividad: Medidas de tendencia central y quintiles aplicado al ingreso de los hogares uruguayos</a></li>
-  <li><a href="#panel-de-datos-triada-oscura-y-serce" id="toc-panel-de-datos-triada-oscura-y-serce" class="nav-link" data-scroll-target="#panel-de-datos-triada-oscura-y-serce"><span class="header-section-number">3.5</span> Panel de datos: Triada Oscura y SERCE</a>
-  <ul class="collapse">
-  <li><a href="#datos-tríada-oscura" id="toc-datos-tríada-oscura" class="nav-link" data-scroll-target="#datos-tríada-oscura">Datos Tríada Oscura</a></li>
-  <li><a href="#datos-serce" id="toc-datos-serce" class="nav-link" data-scroll-target="#datos-serce">Datos SERCE</a></li>
-  </ul></li>
-  <li><a href="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" id="toc-y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="nav-link" data-scroll-target="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial"><span class="header-section-number">3.6</span> Y para terminar, un par de ejercicios múltiple opción, como los del parcial</a></li>
+  <li><a href="#las-variables-varían-tomando-nuestros-primeros-datos" id="toc-las-variables-varían-tomando-nuestros-primeros-datos" class="nav-link" data-scroll-target="#las-variables-varían-tomando-nuestros-primeros-datos"><span class="header-section-number">4.2</span> Las variables varían: Tomando nuestros primeros datos</a></li>
+  <li><a href="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" id="toc-y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="nav-link" data-scroll-target="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial"><span class="header-section-number">4.3</span> Y para terminar, un par de ejercicios múltiple opción, como los del parcial</a></li>
   </ul>
 </nav>
     </div>
@@ -169,7 +158,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)</span></h1>
+<h1 class="title"><span class="chapter-title">Práctico: Describir los datos - varianza y desvío estándar (S04)</span></h1>
 </div>
 
 
@@ -186,128 +175,78 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="rango-cuantiles-y-diagrama-de-cajas" class="level2" data-number="3.1">
-<h2 data-number="3.1" class="anchored" data-anchor-id="rango-cuantiles-y-diagrama-de-cajas"><span class="header-section-number">3.1</span> Rango, cuantiles, y diagrama de cajas</h2>
+<section id="varianza-y-desvío-estándar" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="varianza-y-desvío-estándar"><span class="header-section-number">4.1</span> Varianza y desvío estándar</h2>
 <section id="lectura-asociada" class="level3">
 <h3 class="anchored" data-anchor-id="lectura-asociada">Lectura asociada</h3>
-<p><a href="https://almadana.github.io/libro_cuanti/02-Describing_Data.html">Capítulo 2. Describir los datos</a></p>
+<p><a href="https://almadana.github.io/libro_cuanti/02-Describing_Data.html">Capítulo 2. Describir los datos</a> Desde 2.8 La varianza en adelante</p>
 </section>
 <section id="contenidos" class="level3">
 <h3 class="anchored" data-anchor-id="contenidos">Contenidos</h3>
 <ul>
-<li><p>Medidas de dispersión: rango</p></li>
-<li><p>Cuantiles</p></li>
-<li><p>Visualización de datos: diagrama de cajas (boxplot)</p></li>
+<li>Medidas de dispersión: varianza y desvío estándar</li>
 </ul>
 </section>
 </section>
-<section id="panel-de-datos-factores-de-personalidad-del-cuidador-en-endis" class="level2" data-number="3.2">
-<h2 data-number="3.2" class="anchored" data-anchor-id="panel-de-datos-factores-de-personalidad-del-cuidador-en-endis"><span class="header-section-number">3.2</span> Panel de datos: Factores de personalidad del cuidador en ENDIS</h2>
-<p>En esta unidad estamos viendo que las medidas de tendencia central, por sí solas, no son suficientes para “entender” del todo nuestros datos. Por este motivo, contamos con una serie de estadísticos que nos permiten caracterizar la dispersión de los datos.</p>
-<p><strong>Recuperemos el histograma del ejercicio anterior (variable Apertura a la experiencia)</strong></p>
+<section id="las-variables-varían-tomando-nuestros-primeros-datos" class="level2" data-number="4.2">
+<h2 data-number="4.2" class="anchored" data-anchor-id="las-variables-varían-tomando-nuestros-primeros-datos"><span class="header-section-number">4.2</span> Las variables varían: Tomando nuestros primeros datos</h2>
+<p>El ejercicio de hoy consiste en adivinar la edad de un conjunto de personas a partir de su foto.</p>
 <ol type="1">
-<li><p>Mirando el histograma ¿cuál dirías que es el <strong>rango</strong> de la variable?</p></li>
-<li><p>¿Qué datos del histograma usaste para calcularlo? ¿Cómo lo calculaste?</p></li>
-<li><p>Ahora explora la opción gráfica <strong>diagrama de cajas</strong> (Boxplot) para esta misma variable. ¿Qué información te ofrece este gráfico? ¿Qué indica la línea verde? Estima qué valores corresponden al percentil 25, 50 y 75.&nbsp;</p></li>
-<li><p>¿A través de qué otra funcionalidad del panel puedes acceder al valor de los percentiles 25, 50 y 75? Contrasta estos valores con la estimación que habías realizado a partir del boxplot.&nbsp;</p></li>
-<li><p>Ahora repite el procedimiento de análisis con los otros cuatro factores de personalidad. ¿Es similar la distribución?</p></li>
+<li>Ingresa a este <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc-yjtYrsLTw7p8KFp4NOp2Acu2ilD6yLQQjc5p82N4YDZI2A/viewform?usp=header">formulario 🔗</a></strong> y adivina las edades de las fotos. Anota en una hoja las iniciales de cada foto y la edad que estimaste.</li>
+</ol>
+<p>Conforma grupos de 5 personas</p>
+<ol start="2" type="1">
+<li><p>Discute con tus compañeros cómo varían las estimaciones de las fotografías en el grupo</p></li>
+<li><p>Seleccionen la foto para la que hubo menos variabilidad (es decir, más acuerdo) en las edades y la foto para la que hubo más variabilidad (es decir, mayor desacuerdo) en las edades</p></li>
+</ol>
+<p>Para cada una de las dos fotos seleccionadas:</p>
+<ol start="4" type="1">
+<li><p>Realicen una tabla recabando las edades estimadas por cada uno de los integrantes del grupo</p></li>
+<li><p>¿Cuál es el rango de las estimaciones para la foto?</p></li>
+<li><p>Calcular la mediana de edad para la foto (pista: ordeno los datos de menor a mayor y encuentro el valor que cae en la posición que divide mi muestra en dos)</p></li>
+<li><p>Calcular la media (o promedio) de edad para la foto</p></li>
+<li><p>Calcular la suma de los desvíos cuadráticos de edad para la foto</p></li>
+<li><p>Calcular la varianza de edad para la foto</p></li>
+<li><p>Calcular la desviación estándar (o desvío estándar, o desviación típica, o desvío típico) de la edad para la foto</p></li>
 </ol>
 <details>
 <summary>
 <strong>¿Necesitás ayuda?</strong>
 </summary>
-<p><img src="imgs/2_boxplot.png" class="img-fluid"></p>
+<p><img src="imgs/tabla_calculo.jpg" class="img-fluid"></p>
 </details>
-</section>
-<section id="actividad-informes-de-evaluación-del-desarrollo" class="level2" data-number="3.3">
-<h2 data-number="3.3" class="anchored" data-anchor-id="actividad-informes-de-evaluación-del-desarrollo"><span class="header-section-number">3.3</span> Actividad: Informes de evaluación del desarrollo</h2>
-<p>En los videos de esta unidad vimos un ejemplo de aplicación de cuantiles. En particular, que son útiles para comparar. Por ejemplo, entre los resultados de aplicar instrumentos estandarizados de evaluación psicológica es frecuente la referencia a percentiles. En otras palabras, podemos saber la posición de un sujeto u observación con respecto a una muestra de referencia.&nbsp;</p>
-<p><strong>Veamos el siguiente ejemplo:</strong></p>
-<p>El siguiente es un extracto del informe de resultados de la aplicación de un instrumento para la identificación temprana del riesgo lector (el documento tiene algunas omisiones a los efectos de este ejercicio).&nbsp;</p>
-<section id="informe-de-riesgo-lector" class="level3">
-<h3 class="anchored" data-anchor-id="informe-de-riesgo-lector">Informe de riesgo lector</h3>
-<p><strong>Fecha del informe: 07/11/24</strong></p>
-<p><strong>Identificador (ID) del niño/a: 2eb2a023-482d-4</strong></p>
-<p><strong>Introducción</strong></p>
-<p>En el siguiente informe se presentan los resultados de la evaluación de Lexiland correspondientes al ID <strong>2eb2a023-482d-4</strong>. Los datos asociados a dicho identificador son confidenciales y solo se encuentran a disposición de la institución educativa en donde se llevó a cabo la evaluación.</p>
-<p><strong>Descripción de la evaluación</strong></p>
-<p>Lexiland es una herramienta digital que evalúa habilidades pre-lectoras en tres dimensiones: conocimiento de las letras, conciencia fonológica, y memoria. Las tres habilidades fueron seleccionadas a través de un estudio de investigación científica que determinó la confiabilidad de su utilización para identificar el riesgo lector a edades tempranas. Su aplicación está destinada a niños y niñas de nivel inicial y primaria y puede ser utilizada tanto en entornos escolares como clínicos.</p>
-<p><strong>Resultados en las dimensiones evaluadas</strong></p>
-<p>La siguiente gráfica muestra los resultados obtenidos por el niño/a. Las diferentes dimensiones evaluadas fueron analizadas en relación a la base de datos de Lexiland, con una muestra de 400 niños y niñas de 26 escuelas públicas de Montevideo de contexto sociocultural quintil cuatro y quintil cinco.</p>
-<p>El nivel de <strong>zona de monitoreo</strong> marca el rango de valores obtenido por el 30% de los niños y niñas con desempeño más descendido. El nivel de desempeño <strong>esperado</strong> marca el rango de valores obtenidos por el 50% de los niños y niñas. El nivel <strong>elevado</strong> marca el rango de valores obtenidos por el 20% de los niños y niñas con desempeño más elevado. El punto azul marca el puntaje obtenido por <strong>2eb2a023-482d-4</strong> en las tres dimensiones evaluadas.</p>
-<p><img src="imgs/3_lexiland.png" class="img-fluid"></p>
-<ol type="1">
-<li><p>¿Qué evalúa este instrumento?</p></li>
-<li><p>¿Cuál es la muestra de referencia? ¿Para qué se utilizó esta muestra?</p></li>
-<li><p>¿Qué porcentaje de niños se espera encontrar en cada una de las categorías de desempeño (elevado, esperado, zona de monitoreo)?</p></li>
-<li><p>Concluye sobre cuáles son los puntos de corte de las categorías de desempeño (elevado, esperado, zona de monitoreo), expresados en percentiles.&nbsp;</p></li>
-<li><p>El informe corresponde a un caso específico (observa la ubicación de los puntos azules).&nbsp; Describe la situación de este caso específico, comparado con la muestra de referencia, en cada una de las tres dimensiones evaluadas.</p></li>
+<ol start="11" type="1">
+<li><p>¿Cómo se relaciona la varianza con la edad promedio? ¿Y la desviación estándar con la edad promedio? Discute si uno de los estadísticos resulta más intuitivo</p></li>
+<li><p>Compara e interpreta las varianzas y las desviaciones estándar para las dos fotos seleccionadas</p></li>
+<li><p>¿Qué nos dicen estos estadísticos descriptivos de la incertidumbre que tenemos sobre la edad de los fotografiados?</p></li>
+<li><p>¿Qué habría pasado con la varianza y el desvío estándar si uno de los integrantes del grupo hubiera estimado una edad extrema como 100 años?</p></li>
+<li><p>Ingresa a esta <a href="https://em-fl.github.io/edadesMyTC/">página 🔗</a>. Observa las estimaciones de todos los compañeros de cuanti</p></li>
+<li><p>¿Cómo es tu estimación comparada con la de todo el grupo de estudiantes?</p></li>
+<li><p>¿Cómo es la estimación de tu grupo comparada con la de todos los estudiantes de cuanti?</p></li>
 </ol>
 </section>
-<section id="ejercicio-con-tablas-de-lexiland" class="level3">
-<h3 class="anchored" data-anchor-id="ejercicio-con-tablas-de-lexiland">Ejercicio con tablas de Lexiland</h3>
-<p>Las siguientes tablas muestran los estadísticos descriptivos correspondientes a las distintas tareas de Lexiland, aplicadas a niños que cursaban Nivel 5, en el primer caso, y Primer año en el segundo. La muestra estuvo compuesta por 1111 alumnos de centros educativos de los cinco quintiles socioeconómicos (categorización de ANEP), ubicados en los departamentos de Montevideo, Canelones, Salto, San José, Colonia y Soriano.</p>
-<p><img src="imgs/3_lexiland_tablas.png" class="img-fluid"></p>
+<section id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="level2" data-number="4.3">
+<h2 data-number="4.3" class="anchored" data-anchor-id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial"><span class="header-section-number">4.3</span> Y para terminar, un par de ejercicios múltiple opción, como los del parcial</h2>
 <ol type="1">
-<li><p>Si un niño que cursa Nivel 5 obtiene como resultado 0.66 en la prueba de Memoria ¿cuál es su posición en relación a los otros niños de Nivel 5 que integraban la muestra? ¿Qué puedes concluir respecto a su desempeño en esa tarea a partir de estos datos?</p></li>
-<li><p>¿Cómo se interpretaría esa misma puntuación si la obtiene un niño de Primer año?</p></li>
+<li>¿Por qué motivo se considera al promedio una medida poco robusta?</li>
 </ol>
-</section>
-</section>
-<section id="actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos" class="level2" data-number="3.4">
-<h2 data-number="3.4" class="anchored" data-anchor-id="actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos"><span class="header-section-number">3.4</span> Actividad: Medidas de tendencia central y quintiles aplicado al ingreso de los hogares uruguayos</h2>
-<p>Observa el gráfico presentado a continuación y contesta las siguientes preguntas:</p>
-<p><img src="imgs/3_ingreso.png" class="img-fluid"></p>
-<ol type="1">
-<li><p>¿A qué se refiere con ‘Ingreso promedio’ en el gráfico de más a la izquierda? ¿Cómo fueron los ingresos promedio en el año 2023 comparado con los ingresos promedio en el año 2019? ¿Y comparado con el año 2022?</p></li>
-<li><p>¿A qué corresponden los quintiles? Discute las diferencias en ingreso mensual líquido y en su variación real según el quintil.</p></li>
-</ol>
-</section>
-<section id="panel-de-datos-triada-oscura-y-serce" class="level2" data-number="3.5">
-<h2 data-number="3.5" class="anchored" data-anchor-id="panel-de-datos-triada-oscura-y-serce"><span class="header-section-number">3.5</span> Panel de datos: Triada Oscura y SERCE</h2>
-<p>Usando el cálculo de media, mediana y cuartiles de las siguientes variables, responde las siguientes preguntas. Puedes ayudarte ubicando sus posiciones manualmente en el histograma&nbsp; y utilizando diagramas de caja.&nbsp;</p>
-<section id="datos-tríada-oscura" class="level3">
-<h3 class="anchored" data-anchor-id="datos-tríada-oscura">Datos Tríada Oscura</h3>
-<ol type="1">
-<li><p>¿Puede decirse que más de la mitad de los sujetos de la base tienen puntuaciones de narcisismo mayores a 25?</p></li>
-<li><p>Una puntuación en la escala de maquiavelismo de 18, ¿es más bien baja o más bien alta? Fundamenta tu respuesta.</p></li>
-<li><p>Identifica al sujeto nº 6 en la base de datos. ¿Qué edad tiene? ¿Proviene del interior?¿Cuántas veces entra a Facebook o Instagram por día? ¿Es un número relativamente bajo o relativamente alto?</p></li>
-<li><p>¿Puede decirse que los hombres poseen en general, niveles de maquiavelismo más altos? ¿Y de narcisismo?&nbsp;</p></li>
-<li><p>¿Puede decirse que los estudiantes provenientes del exterior muestran menores niveles de narcisismo? ¿Y de maquiavelismo?</p></li>
-</ol>
-</section>
-<section id="datos-serce" class="level3">
-<h3 class="anchored" data-anchor-id="datos-serce">Datos SERCE</h3>
-<ol type="1">
-<li><p>¿Puede decirse que la mayoría de las niñas y niños tiene 12 años?&nbsp;</p></li>
-<li><p>Una puntuación de 620 en matemática, ¿es una puntuación muy alta? ¿Y la misma puntuación en la prueba de ciencia?</p></li>
-<li><p>¿Puede decirse que la mayoría de los estudiantes obtuvo puntuaciones mayores a 550 en la prueba de literatura? ¿Y en la de ciencias? ¿Y en la de matemática?<br>
-</p></li>
-</ol>
-</section>
-</section>
-<section id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="level2" data-number="3.6">
-<h2 data-number="3.6" class="anchored" data-anchor-id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial"><span class="header-section-number">3.6</span> Y para terminar, un par de ejercicios múltiple opción, como los del parcial</h2>
-<ol type="1">
-<li>En un Informe del Mides de 2011, se presenta el siguiente gráfico en el que se muestra la distribución de años de estudio de mujeres de 25 años y más según el número de hijos. Indica qué afirmación es correcta:</li>
-</ol>
-<p><img src="imgs/3_censo_ine.png" class="img-fluid"></p>
+<!-- -->
 <ol type="a">
-<li>La cantidad de años de estudio de las mujeres aumenta a mayor número de hijos</li>
-<li>A mayor número de hijos, la mediana de años de estudio disminuye</li>
-<li>La distribución de años de estudio es simétrica, para cada categoría de la variable hijos</li>
-<li>Más del 25% de las mujeres con 5 hijos o más tienen 10 años o más de estudio</li>
+<li><p>Porque presenta siempre valores menores a la mediana</p></li>
+<li><p>Debido a que es una medida derivada de la moda</p></li>
+<li><p>Porque es el valor que menos se repite en la distribución</p></li>
+<li><p>Porque es una medida sensible a los valores extremos de la distribución</p></li>
 </ol>
 <!-- -->
 <ol start="2" type="1">
-<li>Con respecto a los cuartiles:</li>
+<li>Indique cuál de las siguientes afirmaciones sobre la varianza es correcta:</li>
 </ol>
 <!-- -->
 <ol type="a">
-<li>Dividen a la muestra en 5 partes iguales</li>
-<li>Dividen a la muestra en 3 partes iguales</li>
-<li>El cuartil 2 corresponde a la mediana</li>
-<li>El cuartil 3 corresponde a la mediana</li>
+<li><p>La varianza es el rango de valores que puede tomar la variable</p></li>
+<li><p>La varianza es un indicador de tendencia central</p></li>
+<li><p>La varianza siempre es mayor o igual a cero</p></li>
+<li><p>Es frecuente que la varianza valga 1</p></li>
 </ol>
 
 
@@ -715,13 +654,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./practico_2.html" class="pagination-link" aria-label="Práctico: Describir los datos - Histogramas y Tendencia central (S 02)">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span></span>
+      <a href="./practico_3.html" class="pagination-link" aria-label="Práctico: Describir los datos - rango, cuantiles,  y diagrama de cajas (S03)">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./practico_4.html" class="pagination-link" aria-label="Práctico: Describir los datos - varianza y desvío estándar (S04)">
-        <span class="nav-page-text"><span class="chapter-title">Práctico: Describir los datos - varianza y desvío estándar (S04)</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./entregable.html" class="pagination-link" aria-label="Entregable final: Informe de análisis de datos">
+        <span class="nav-page-text"><span class="chapter-title">Entregable final: Informe de análisis de datos</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

@@ -1,5 +1,5 @@
 ---
-title: "Práctico: Describir los datos: rango, cuantiles,  y diagrama de cajas (S03)"
+title: "Práctico: Describir los datos - rango, cuantiles,  y diagrama de cajas (S03)"
 number-sections: true
 ---
 
