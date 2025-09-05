@@ -17,7 +17,7 @@ number-sections: true
 
 El ejercicio de hoy consiste en adivinar la edad de un conjunto de personas a partir de su foto.
 
-1.  Ingresa a este **[formulario 🔗](https://docs.google.com/forms/d/e/1FAIpQLSc-yjtYrsLTw7p8KFp4NOp2Acu2ilD6yLQQjc5p82N4YDZI2A/viewform?usp=header)** y adivina las edades de las fotos. Anota en una hoja las iniciales de cada foto y la edad que estimaste.
+1.  Ingresa a este [**formulario 🔗**](https://docs.google.com/forms/d/e/1FAIpQLSc-yjtYrsLTw7p8KFp4NOp2Acu2ilD6yLQQjc5p82N4YDZI2A/viewform?usp=header) y adivina las edades de las fotos. Anota en una hoja las iniciales de cada foto y la edad que estimaste.
 
 Conforma grupos de 5 personas
 
@@ -45,7 +45,7 @@ Para cada una de las dos fotos seleccionadas:
 
 <summary><strong>¿Necesitás ayuda?</strong></summary>
 
-![](imgs/tabla_calculo.jpg)
+![](imgs/tabla_calculo.jpg){width="571"}
 
 </details>
 
@@ -57,7 +57,7 @@ Para cada una de las dos fotos seleccionadas:
 
 14. ¿Qué habría pasado con la varianza y el desvío estándar si uno de los integrantes del grupo hubiera estimado una edad extrema como 100 años?
 
-15. Ingresa a esta [página 🔗](https://em-fl.github.io/edadesMyTC/). Observa las estimaciones de todos los compañeros de cuanti
+15. Ingresa a esta [**página 🔗**](https://em-fl.github.io/edadesMyTC/). Observa las estimaciones de todos los compañeros de cuanti
 
 16. ¿Cómo es tu estimación comparada con la de todo el grupo de estudiantes?
 
