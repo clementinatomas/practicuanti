@@ -188,21 +188,21 @@ Usando el [Panel](https://cuanti.psico.edu.uy/panel/) de análisis de datos, emp
 
 2.  Cruce las variables **Vives_Madre** y **Vives_Padre** de la base de datos **SERCE**\
 
-    a. El 97.5 % de los estudiantes vive con ambos padre y madre
+    a.  El 97.5 % de los estudiantes vive con ambos padre y madre
     b.  De aquellos estudiantes que NO viven con su padre, el 26 % vive con su madre
-    c.  De aquellos estudiantes que SI viven con su padre, el 2,4 % NO viven con su madre
-    d.  El 26 % de los estudiantes **no** vive con el padre y **sí** viven con la madre
+    c.  De aquellos estudiantes que SÍ viven con su padre, el 2,4 % NO viven con su madre
+    d.  El 26 % de los estudiantes NO vive con el padre y SÍ viven con la madre
 
 3.  Cruce las variables **Vivienda_Ud_es** y **Estado_conyugal** de la base de datos **Encuesta Nacional de Psicólogos**\
 
-    a. El 9.5 % de los psicólogos que se encuentran en una unión libre es miembro de una cooperativa de ayuda mutua
+    a.  El 9.5 % de los psicólogos que se encuentran en una unión libre es miembro de una cooperativa de ayuda mutua
     b.  El 0.3 % de los que son inquilinos o arrendatarios se encuentran solteros
     c.  El 33.8 % de los psicólogos casados son propietarios y ya pagaron la vivienda
     d.  El 22.2 % de los propietarios que están pagando su vivienda son viudos
 
 4.  Cruce las variables **Sexo** y **Nro_trabajo**s de la base de datos **Encuesta Nacional de Psicólogos**
 
-    a. El 75 % de las psicólogas reporta tener 5 trabajos
+    a.  El 75 % de las psicólogas reporta tener 5 trabajos
     b.  El 3.1 % de las psicólogas  y el 2 % de los psicólogos reportan tener 4 o más trabajos
     c.  El 19.1 % de los psicólogos reporta tener 2 trabajos
     d.  La mayoría de los psicólogos y psicólogas reporta tener 3 trabajos o más
