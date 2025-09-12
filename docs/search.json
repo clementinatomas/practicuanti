@@ -250,13 +250,93 @@
     ]
   },
   {
+    "objectID": "practico_5.html",
+    "href": "practico_5.html",
+    "title": "Práctico: Describir los datos - Tablas y gráficos de barras (S05)",
+    "section": "",
+    "text": "5.1 Variables categóricas: tablas y gráficos de barra",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_5.html#variables-categóricas-tablas-y-gráficos-de-barra",
+    "href": "practico_5.html#variables-categóricas-tablas-y-gráficos-de-barra",
+    "title": "Práctico: Describir los datos - Tablas y gráficos de barras (S05)",
+    "section": "",
+    "text": "Lectura asociada\nCapítulo 3. Tablas\n\n\nContenidos\n\nFrecuencias absolutas, relativas y porcentuales. Frecuencia acumulada\nTablas de frecuencia\nTablas bivariadas\nGráficos de barras \nErrores comunes en la interpretación: confundir proporciones absolutas y relativas, errores al leer el tipo de total (fila, columna o total general)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_5.html#los-uruguayos-y-la-confianza-en-las-instituciones",
+    "href": "practico_5.html#los-uruguayos-y-la-confianza-en-las-instituciones",
+    "title": "Práctico: Describir los datos - Tablas y gráficos de barras (S05)",
+    "section": "5.2 Los uruguayos y la confianza en las instituciones",
+    "text": "5.2 Los uruguayos y la confianza en las instituciones\n\nIntroducción\nImagina que accedemos a una muestra representativa de uruguayos adultos y les preguntamos los siguiente:\n\n¿Cuánta confianza tiene en la prensa?\n¿Cuánta confianza tiene en las iglesias?\n¿Cuánta confianza tiene en los sindicatos?\n¿Cuánta confianza tiene en la policía?\n¿Cuánta confianza tiene en las organizaciones de mujeres?\n¿Cuánta confianza tiene en las fuerzas armadas?\n\n\nSi las opciones de respuesta son Nada, Poco, Algo o Mucha, ¿cómo crees que sería la distribución de respuestas para cada pregunta? Basado en los videos y el capítulo 3 del libro, selecciona una forma de representarlo.\nCompara tu respuesta con la de tus compañeros\n\n\n\nEl primer paso: contar\nLo cierto es que estas preguntas forman parte de la Encuesta mundial de valores, una iniciativa internacional en la que participa Uruguay. Vamos a trabajar con los datos reales de esta encuesta, correspondientes a nuestro país.\n\nActiva el botón Acerca de la base para conocer con mayor detalle de qué se trata.\nActiva el botón Mostrar resumen. Identifica variables y niveles de las variables disponibles en la base de datos del panel.\nSelecciona la variable categórica Confianza en la prensa.\n\n¿Cuántas personas eligieron cada opción? ¿Cómo lo observaste? Encuentra formas alternativas de observar esto mismo.\n\n\n\n¿Necesitás ayuda?\n\nElegir análisis &gt; Tabla de frecuencias univariada &gt; Elegir variable 1 (Confianza en la prensa) Puedes observar las frecuencias absolutas\n\nElegir análisis &gt; Gráfico de barras &gt; Elegir variable 1 (alguna categórica) &gt; Frecuencias: absolutas\n\n\n\n¿Qué parte del total eligió cada opción? ¿Cómo lo observaste? Encuentra formas alternativas de observar esto mismo.\n\n\n\n¿Necesitás ayuda?\n\nElegir análisis &gt; Tabla de frecuencias univariada &gt; Elegir variable 1 (alguna categórica) Ahora puedes observar las frecuencias porcentuales\n\n\nRepite el procedimiento para las otras variables que refieren a la confianza en las instituciones (iglesias, sindicatos, policía, organizaciones de mujeres y fuerzas armadas) y compara la distribución de respuestas con tus hipótesis iniciales.\n\n\n\n¿Cómo se sitúa la confianza en la prensa en Uruguay en relación a otros países del mundo?\nObserva el siguiente gráfico basado en los datos de la Encuesta Mundial de Valores, en este caso con datos de 2020, extraído de la web Our World in Data.\nPorcentaje de personas que confían en los periodistas en su país, 2020\nPorcentaje de entrevistados que respondieron “mucho” y “algo” a la pregunta “¿Qué tanto confías en los periodistas de tu país?”\nAccede al mapa interactivo aquí\n\n\n¿De qué forma fueron calculadas las frecuencias? ¿Recuerdas qué nombre recibe ese tratamiento de las frecuencias?\n¿Para qué otras variables de la base tendría sentido calcular las frecuencias de ese modo?",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_5.html#dos-variables-una-tabla",
+    "href": "practico_5.html#dos-variables-una-tabla",
+    "title": "Práctico: Describir los datos - Tablas y gráficos de barras (S05)",
+    "section": "5.3 Dos variables, una tabla",
+    "text": "5.3 Dos variables, una tabla\nHasta ahora venimos trabajando con una única variable a la vez. Demos un paso más: ahora nos interesa poner en relación dos variables categóricas.\nPor ejemplo, vamos a poner en relación la variable Confianza en la prensa con otra variable (variable 2). En otras palabras, queremos ver cuántos casos caen simultáneamente en cada combinación posible de categorías.\n\nSelecciona otra variable (variable 2) que tenga sentido examinar en forma conjunta con la variable Confianza en la prensa.\n\n\n\n¿Necesitás inspiración?\n\nPor ejemplo, Confianza en la prensa y Nivel educativo En Uruguay, ¿el nivel educativo de las personas se asocia a su nivel de confianza en la prensa?\n\n\nObtiene una tabla de frecuencia bivariada (absolutas). ¿Cuántas personas (casos) hay en cada cruce de categorías?\nAhora, para la misma tabla bivariada modifica la opción Frecuencias para mostrar las Frecuencias porcentuales. Observa los cambios si los porcentajes están calculados por fila o por columna\nFormula 3 preguntas específicas que se podrían contestar a partir de la tabla (en función de la pregunta, considera si necesitas visualizar los totales por fila o por columna).\n\n\n\n¿Necesitás ayuda?\n\nEjemplo de pregunta: Entre las personas que tienen mucha confianza en la prensa ¿Cuántas alcanzaron el nivel de Posgrado-Doctorado?\n\n\n\nPlantea hipótesis respecto a otros pares de variables. Realiza los análisis correspondientes en el panel de análisis y contrasta los resultados con tus hipótesis iniciales.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_5.html#los-totales-mandan",
+    "href": "practico_5.html#los-totales-mandan",
+    "title": "Práctico: Describir los datos - Tablas y gráficos de barras (S05)",
+    "section": "5.4 Los totales mandan",
+    "text": "5.4 Los totales mandan\nAhora, manteniendo las mismas variables (variable 1: Confianza en la Prensa, variable 2: Nivel educativo), cambia la especificación del panel de Frecuencias absolutas a Frecuencias porcentuales. Puedes visualizar los porcentajes por filas o por columnas.\n\nQué forma es oportuna para responder la pregunta “¿De todas las personas cuyo máximo nivel educativo es Maestría, qué porcentaje tiene mucha confianza en la prensa?”\nQué forma es oportuna para responder la pregunta “¿De todas las personas que tienen mucha confianza en la prensa, qué porcentaje completó Maestría?”\nAhora vamos a visualizar estos mismos datos de forma gráfica. Busca una solución gráfica útil para responder la primera pregunta. Ahora intentalo para la segunda pregunta.\n\n\n\n¿Necesitás ayuda?\n\nElegir análisis &gt; Gráfico de barras &gt; Elegir variable 1: Confianza en la Prensa, variable 2: Nivel educativo &gt; Barras: apiladas &gt; Frecuencias: porcentuales\nAhora invierte las variables 1 y 2 en el panel. Observa el nuevo gráfico.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_5.html#aristas---desempeños-en-lectura-en-3er-año-escolar",
+    "href": "practico_5.html#aristas---desempeños-en-lectura-en-3er-año-escolar",
+    "title": "Práctico: Describir los datos - Tablas y gráficos de barras (S05)",
+    "section": "5.5 ARISTAS - Desempeños en lectura en 3er año escolar",
+    "text": "5.5 ARISTAS - Desempeños en lectura en 3er año escolar\nEl siguiente gráfico fue trabajado en uno de los videos correspondientes a esta semana. El mismo fue extraído del informe de Aristas 2023, publicado por el Instituto Nacional de Evaluación Educativa.\nConsiderando que refiere a alumnos de tercer año escolar de Uruguay, y que las variables representadas son el Contexto socioeconómico y cultural del centro (niveles Muy favorable, Favorable, etc.) y Desempeño en lectura (Nivel 1, Nivel 2, etc.)\n\n¿Qué título le darías al gráfico? ¿Cómo están expresadas las frecuencias? Recuerda explicitar si la representación fue realizada según contexto socioeconómico o según desempeño en lectura.\n¿Qué afirmaciones puedes realizar a partir de las distribuciones observadas en el nivel socioeconómico y cultural Muy favorable y en el nivel Muy desfavorable?",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_5.html#endis-2023---métodos-de-disciplina-violentos",
+    "href": "practico_5.html#endis-2023---métodos-de-disciplina-violentos",
+    "title": "Práctico: Describir los datos - Tablas y gráficos de barras (S05)",
+    "section": "5.6 ENDIS 2023 - Métodos de disciplina violentos",
+    "text": "5.6 ENDIS 2023 - Métodos de disciplina violentos\nEl siguiente gráfico forma parte de un informe del MIDES basado en la ENDIS 2023, y representa la prevalencia de métodos de disciplina violentos, según características del hogar.\n\nEste texto es una transcripción del informe, con algunas omisiones y modificaciones. Observa el gráfico y completa la información faltante en el texto.\nEn cuanto al nivel de ingresos del hogar, se observa que una proporción ________ de niños y niñas fueron sometidos a métodos de disciplina que involucraban violencia física en los hogares de menores ingresos ( ___ % en el tercil más bajo frente a ___ % en el más alto). Por el contrario, los niños y niñas en el tercil de ingresos _____________  fueron sometidos en mayor medida a la violencia psicológica ( ___ % frente a ___ % en el más bajo).\nPor otro lado, en cuanto a la región del país, el porcentaje de niños y niñas que fueron sometidos a la violencia psicológica fue mayor en _____________  ( ___ %) que en _______ ( ___ %), mientras que no se observaron diferencias importantes en cuanto a la prevalencia de _____________.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_5.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "href": "practico_5.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "title": "Práctico: Describir los datos - Tablas y gráficos de barras (S05)",
+    "section": "5.7 Y para terminar, un par de ejercicios múltiple opción, como los del parcial",
+    "text": "5.7 Y para terminar, un par de ejercicios múltiple opción, como los del parcial\nUsando el Panel de análisis de datos, empleando tablas de frecuencia bivariadas, indique la afirmación correcta para cada ejercicio.\n\nCruce las variables Educación_Madre y Educación_Padre de la base de datos SERCE\n\nLa mayoría de los estudiantes cuya madre tiene “Primaria” como mayor nivel educativo alcanzado, tienen padres con igual nivel educativo\nDe entre aquellos cuya madre tiene “Primaria” como mayor nivel alcanzado, el 17.7 % tiene padre con nivel “Secundaria”\nUn 69 % de los estudiantes tiene padre y madre con nivel de educación universitaria\nUn 34.2 % de los estudiantes tiene madre con estudios universitarios y padre con ‘Primaria’ como mayor nivel educativo alcanzado\n\nCruce las variables Vives_Madre y Vives_Padre de la base de datos SERCE\n\n\nEl 97.5 % de los estudiantes vive con ambos padre y madre\nDe aquellos estudiantes que NO viven con su padre, el 26 % vive con su madre\nDe aquellos estudiantes que SI viven con su padre, el 2,4 % NO viven con su madre\nEl 26 % de los estudiantes no vive con el padre y sí viven con la madre\n\nCruce las variables Vivienda_Ud_es y Estado_conyugal de la base de datos Encuesta Nacional de Psicólogos\n\n\nEl 9.5 % de los psicólogos que se encuentran en una unión libre es miembro de una cooperativa de ayuda mutua\nEl 0.3 % de los que son inquilinos o arrendatarios se encuentran solteros\nEl 33.8 % de los psicólogos casados son propietarios y ya pagaron la vivienda\nEl 22.2 % de los propietarios que están pagando su vivienda son viudos\n\nCruce las variables Sexo y Nro_trabajos de la base de datos Encuesta Nacional de Psicólogos\n\nEl 75 % de las psicólogas reporta tener 5 trabajos\nEl 3.1 % de las psicólogas  y el 2 % de los psicólogos reportan tener 4 o más trabajos\nEl 19.1 % de los psicólogos reporta tener 2 trabajos\nLa mayoría de los psicólogos y psicólogas reporta tener 3 trabajos o más\n\nObserva las variables ESCS_Alumno_cat y Niveles_MAT de la base de datos Aristas, en un gráfico de barras apiladas.\n\nNo se observa relación entre el desempeño en matemática y Estatus socioeconómico y cultural del estudiante\nLa mayoría de los estudiantes que integran el quintil 1 de estatus socioeconómico y cultural tienen niveles de desempeño en matemática menores o iguales a N2\nLa mayoría de los estudiantes que integran el quintil 3 de estatus socioeconómico y cultural tienen niveles de desempeño en matemática menores o iguales a N2\nLa mayoría de los estudiantes con desempeño en matemática N3 pertenecen al quintil 3 de estatus socioeconómico y cultural",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span>"
+    ]
+  },
+  {
     "objectID": "entregable.html",
     "href": "entregable.html",
     "title": "Entregable final: Informe de análisis de datos",
     "section": "",
     "text": "Esta actividad es obligatoria para los estudiantes que cursan en modalidad seminario (si sos estudiante de plenario te lo ofrecemos como un recurso más para practicar).\nLa propuesta consiste en realizar una secuencia de análisis de datos a partir de una de las bases disponibles en cuanti.psico.edu.uy/panel (en particular ENDIS, ARISTAS, SERCE o Triada Oscura).\nLa idea es que este trabajo te ayude a desarrollar cierta autonomía en el planteo de preguntas de investigación, a darte cuenta qué análisis son adecuados según las variables disponibles y la pregunta que pretendes responder y, por último, que puedas ensayar la comunicación escrita de estos resultados.\nEste trabajo se va a desarrollar paso a paso a lo largo del semestre según avanzamos en las distintas unidades temáticas, hasta realizar la entrega final (a coordinar con tu docente referente de seminario).\nPara realizar el trabajo debes descargar el modelo de reporte en Word, que ya contiene las secciones y formato esperado del entregable.\n⬇️️️📄Descargar en Word📄⬇️",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Entregable final: Informe de análisis de datos</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Entregable final: Informe de análisis de datos</span>"
     ]
   }
 ]
