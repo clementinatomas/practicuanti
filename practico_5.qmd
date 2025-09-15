@@ -85,7 +85,7 @@ Elegir análisis \> Tabla de frecuencias univariada \> Elegir variable 1 (alguna
 
 ### ¿Cómo se sitúa la confianza en la prensa en Uruguay en relación a otros países del mundo?
 
-Observa el siguiente gráfico basado en los datos de la Encuesta Mundial de Valores, en este caso con datos de 2020, extraído de la web Our World in Data.
+Observa el siguiente gráfico basado en los datos de la Encuesta Mundial de Valores, en este caso con datos de 2020, extraído de la web [Our World in Data](https://ourworldindata.org/).
 
 **Porcentaje de personas que confían en los periodistas en su país, 2020**
 
@@ -97,7 +97,7 @@ Accede al mapa interactivo [aquí](https://ourworldindata.org/grapher/share-peop
 
 4.  ¿De qué forma fueron calculadas las frecuencias? ¿Recuerdas qué nombre recibe ese tratamiento de las frecuencias?
 
-5.  ¿Para qué otras variables de la base tendría sentido calcular las frecuencias de ese modo?
+5.  ¿Para qué otras variables de la base Encuesta Mundial de Valores tendría sentido calcular las frecuencias de ese modo?
 
 ## Dos variables, una tabla
 
@@ -155,23 +155,23 @@ Ahora invierte las variables 1 y 2 en el panel. Observa el nuevo gráfico.
 
 El siguiente gráfico fue trabajado en uno de los videos correspondientes a esta semana. El mismo fue extraído del informe de Aristas 2023, publicado por el Instituto Nacional de Evaluación Educativa.
 
-Considerando que refiere a alumnos de tercer año escolar de Uruguay, y que las variables representadas son el Contexto socioeconómico y cultural del centro (niveles Muy favorable, Favorable, etc.) y Desempeño en lectura (Nivel 1, Nivel 2, etc.)
+Considerando que refiere a alumnos de tercer año escolar de Uruguay, y que las variables representadas son el Contexto socioeconómico y cultural del centro (niveles Muy favorable, Favorable, etc.) y Desempeño en lectura (Nivel 1, Nivel 2, etc.).
 
 1.  ¿Qué título le darías al gráfico? ¿Cómo están expresadas las frecuencias? Recuerda explicitar si la representación fue realizada según contexto socioeconómico o según desempeño en lectura.
 
 2.  ¿Qué afirmaciones puedes realizar a partir de las distribuciones observadas en el nivel socioeconómico y cultural Muy favorable y en el nivel Muy desfavorable?
 
-![](imgs/aristas.png)
+![](imgs/ref_color.jpg) ![](imgs/aristas.png)
 
 ## ENDIS 2023 - Métodos de disciplina violentos
 
-El siguiente gráfico forma parte de un informe del MIDES basado en la ENDIS 2023, y representa la prevalencia de métodos de disciplina violentos, según características del hogar.
+El siguiente gráfico forma parte de un informe del MIDES basado en la Encuesta de Nutrición Desarrollo Infantil y Salud (ENDIS) 2023, y representa la prevalencia de métodos de disciplina violentos, según características del hogar.
 
 ![](imgs/endis_disciplina.png)
 
 Este texto es una transcripción del informe, con algunas omisiones y modificaciones. Observa el gráfico y completa la información faltante en el texto.
 
-En cuanto al nivel de ingresos del hogar, se observa que una proporción \_\_\_\_\_\_\_\_ de niños y niñas fueron sometidos a métodos de disciplina que involucraban violencia física en los hogares de menores ingresos ( \_\_\_ % en el tercil más bajo frente a \_\_\_ % en el más alto). Por el contrario, los niños y niñas en el tercil de ingresos \_\_\_\_\_\_\_\_\_\_\_\_\_  fueron sometidos en mayor medida a la violencia psicológica ( \_\_\_ % frente a \_\_\_ % en el más bajo).
+En cuanto al nivel de ingresos del hogar, se observa que una proporción mayor/menor de niños y niñas fueron sometidos a métodos de disciplina que involucraban violencia física en los hogares de menores ingresos ( \_\_\_ % en el tercil más bajo frente a \_\_\_ % en el más alto). Por el contrario, los niños y niñas en el tercil de ingresos \_\_\_\_\_\_\_\_\_\_\_\_\_  fueron sometidos en mayor medida a la violencia psicológica ( \_\_\_ % frente a \_\_\_ % en el más bajo).
 
 Por otro lado, en cuanto a la región del país, el porcentaje de niños y niñas que fueron sometidos a la violencia psicológica fue mayor en \_\_\_\_\_\_\_\_\_\_\_\_\_  ( \_\_\_ %) que en \_\_\_\_\_\_\_ ( \_\_\_ %), mientras que no se observaron diferencias importantes en cuanto a la prevalencia de \_\_\_\_\_\_\_\_\_\_\_\_\_.
 
