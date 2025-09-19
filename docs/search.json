@@ -330,13 +330,63 @@
     ]
   },
   {
+    "objectID": "practico_6.html",
+    "href": "practico_6.html",
+    "title": "Práctico: Correlación (S06)",
+    "section": "",
+    "text": "6.1 Correlación",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Práctico: Correlación (S06)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_6.html#correlación",
+    "href": "practico_6.html#correlación",
+    "title": "Práctico: Correlación (S06)",
+    "section": "",
+    "text": "Lectura asociada\nCapítulo 4. Correlación\n\n\nContenidos\n\nDiagramas de dispersión (scatter plots): correlación positiva, negativa, nula\nCovarianza\nCoeficiente de correlación r de Pearson",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Práctico: Correlación (S06)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_6.html#representando-la-relación-entre-dos-variables-desempeño-en-literatura-y-matemáticas",
+    "href": "practico_6.html#representando-la-relación-entre-dos-variables-desempeño-en-literatura-y-matemáticas",
+    "title": "Práctico: Correlación (S06)",
+    "section": "6.2 Representando la relación entre dos variables: desempeño en literatura y matemáticas",
+    "text": "6.2 Representando la relación entre dos variables: desempeño en literatura y matemáticas\nSeguramente alguna vez escuchaste frases como “Lo mío son las letras, soy muy malo para los números”, o al revés, pero ¿qué dicen los datos respecto a esto?\nImagina que se aplican pruebas de desempeño en literatura y matemáticas a adolescentes entre 11 y 15 años que cursan Educación Secundaria en Uruguay. \n\nEn tu opinión ¿Cuál de los siguientes diagramas de dispersión representaría mejor la relación entre esas dos variables?\n\n\n¿Qué tal si miramos datos reales? Ingresa al panel de análisis y localiza la base correspondiente al Segundo Estudio Regional Comparativo y Explicativo (SERCE).\n\nActiva el botón Acerca de la base para recordar de qué se trata\nSelecciona las variables Literatura y Matemáticas y obtiene un diagrama de dispersión\n\n\n\n¿Necesitás ayuda?\n\nGráfico de dispersión &gt; seleccionar variable 1 &gt; seleccionar variable 2\n\n\nAquí te mostramos un ejemplo de la base ENDIS\n\nInterpreta el diagrama de dispersión obtenido. Compara estos resultados con tu estimación inicial\nInterpreta el valor r de Pearson observado en el panel\nDiscute si las siguientes afirmaciones son compatibles con el resultado obtenido:\n\nLos puntajes en matemática y literatura son independientes\nSi un estudiante tiene un desempeño alto en matemática es probable que tenga un desempeño alto en literatura\nSi un estudiante tiene un desempeño alto en literatura es probable que tenga un desempeño bajo en matemática\nSi un estudiante tiene un desempeño alto en literatura es seguro que también tendrá un desempeño alto en matemática, y viceversa\n\nAhora realiza un gráfico de dispersión para las variables Matemática y Edad. Señala la opción es correcta:\n\nLa edad y el puntaje en matemática muestran una relación negativa\nA mayor edad mejor desempeño en matemática\nEl coeficiente de correlación de Pearson es negativo indicando que a menor edad menor desempeño en matemática\nLa edad y el puntaje en matemática son dos variables que no covarían",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Práctico: Correlación (S06)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_6.html#covarianza-qué-significa-que-dos-variables-cambien-juntas",
+    "href": "practico_6.html#covarianza-qué-significa-que-dos-variables-cambien-juntas",
+    "title": "Práctico: Correlación (S06)",
+    "section": "6.3 Covarianza: ¿Qué significa que dos variables “cambien juntas”?",
+    "text": "6.3 Covarianza: ¿Qué significa que dos variables “cambien juntas”?\n\nIngresa al Panel de análisis de datos cuanti.psico.edu.uy/panel\nSelecciona la base de datos ARISTAS\nActiva el botón Acerca de la base para recordar de qué se trata\nPlantea tus hipótesis respecto a la relación entre los siguientes pares de variables:\n\n\nMotivación_y_autorregulación (variable 1) y Habilidades_interpersonales (variable 2)\nMotivación_y_autorregulación y Habilidades_intrapersonales\nHabilidades_interpersonales y Habilidades_interpersonales\n\n\nAntes de activar el panel, dibuja un gráfico de dispersión para cada par de variables en base a tu conocimiento previo o incluso tu intuición al respecto (es decir, 3 diagramas de dispersión). Luego dibuja la línea recta que mejor resume el patrón de los datos.\n¿Cuál crees que sería el signo y valor del coeficiente r de Parson en cada caso?\nAhora obtené los mismos gráficos en el panel de análisis. ¿Qué tan distinto es respecto al tuyo? Interpreta la magnitud y dirección de la correlación.\nSelecciona otra base de datos ¿Para qué variables dirías que existe una asociación débil? ¿Moderada? ¿Fuerte? ¿Son esas asociaciones positivas o negativas? Formula tus hipótesis y luego realiza el análisis de correlación para las variables de interés.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Práctico: Correlación (S06)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_6.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción",
+    "href": "practico_6.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción",
+    "title": "Práctico: Correlación (S06)",
+    "section": "6.4 Y para terminar, un par de ejercicios múltiple opción",
+    "text": "6.4 Y para terminar, un par de ejercicios múltiple opción\n\nEn una investigación sobre rendimiento escolar en Uruguay que empleaba una muestra de 2.372 niños de entre 7 y 10 años, el coeficiente de correlación calculado para las variables ingreso del hogar y puntaje en una prueba de lenguaje fue de r = 0,692.  A partir de ese resultado se puede afirmar que:\n\nLa covarianza entre las variables ingreso del hogar y el puntaje de lengua es negativa\nA medida que aumenta el ingreso del hogar, disminuye el rendimiento en lenguaje de los niños de entre 7 y 10 años en el país\nExiste una relación lineal positiva entre el ingreso del hogar y el puntaje en la prueba de lenguaje para los niños de entre 7 y 10 años en Uruguay\nExiste una correlación negativa entre el ingreso del hogar y el desempeño en la prueba de lenguaje en la muestra estudiada\n\nEn una investigación reciente sobre competitividad se analizó la relación entre la ansiedad de las personas y el número de errores que estas cometían en un test numérico. Se correlacionaron ambas variables (nivel de ansiedad y número de errores) y se obtuvo un r = 0,734. De estos resultados podemos inferir:\n\nDado que el coeficiente de correlación es menor que 1, no existe una correlación entre ambas variables\nDado que el coeficiente de correlación es positivo, aciertan mayor cantidad de veces cuanto más ansiosas son\nDado que el coeficiente de correlación es positivo, cometen mayor número de errores cuanto más ansiosas son\nLa covarianza entre nivel de ansiedad y número de errores es negativa\n\nIngresa al panel y selecciona la base de datos Encuesta estudiantes de cuanti. Realiza un gráfico de dispersión para las variables horas de sueño y grado de satisfacción con la vida. La opción correcta es:\n\nNo hay relación entre ambas variables\nCuantas más horas de sueño, menor es el grado de satisfacción con la vida\nDe acuerdo con el coeficiente r de Pearson, la covarianza entre las variables es positiva\nHay una correlación negativa entre ambas variables",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Práctico: Correlación (S06)</span>"
+    ]
+  },
+  {
     "objectID": "entregable.html",
     "href": "entregable.html",
     "title": "Entregable final: Informe de análisis de datos",
     "section": "",
     "text": "Esta actividad es obligatoria para los estudiantes que cursan en modalidad seminario (si sos estudiante de plenario te lo ofrecemos como un recurso más para practicar).\nLa propuesta consiste en realizar una secuencia de análisis de datos a partir de una de las bases disponibles en cuanti.psico.edu.uy/panel (en particular ENDIS, ARISTAS, SERCE o Triada Oscura).\nLa idea es que este trabajo te ayude a desarrollar cierta autonomía en el planteo de preguntas de investigación, a darte cuenta qué análisis son adecuados según las variables disponibles y la pregunta que pretendes responder y, por último, que puedas ensayar la comunicación escrita de estos resultados.\nEste trabajo se va a desarrollar paso a paso a lo largo del semestre según avanzamos en las distintas unidades temáticas, hasta realizar la entrega final (a coordinar con tu docente referente de seminario).\nPara realizar el trabajo debes descargar el modelo de reporte en Word, que ya contiene las secciones y formato esperado del entregable.\n⬇️️️📄Descargar en Word📄⬇️",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Entregable final: Informe de análisis de datos</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Entregable final: Informe de análisis de datos</span>"
     ]
   }
 ]

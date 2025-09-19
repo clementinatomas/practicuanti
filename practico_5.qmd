@@ -202,10 +202,10 @@ Usando el [Panel](https://cuanti.psico.edu.uy/panel/) de análisis de datos, emp
 
 4.  A partir de la base de datos **Encuesta Nacional de Psicólogos,** cruce las variables **Sexo** y **Estado_conyugal**
 
-     a. El 80,6% de las psicólogas son inquilinas o arrendatarias
-     b. El 14.7% de los psicólogos es propietario y ya pagó su vivienda
-     c. El 2.1% de las psicólogas son miembro de una cooperativa de ayuda mutua
-     d. El 16.6% de los encuestados son ocupantes gratuitos
+    a.  El 80,6% de las psicólogas son inquilinas o arrendatarias
+    b.  El 14.7% de los psicólogos es propietario y ya pagó su vivienda
+    c.  El 2.1% de las psicólogas son miembro de una cooperativa de ayuda mutua
+    d.  El 16.6% de los encuestados son ocupantes gratuitos
 
 5.  En la base **Aristas,** observa las variables **ESCS_Alumno_cat** y **Niveles_MAT** a partir de un **gráfico de barras apiladas**
 

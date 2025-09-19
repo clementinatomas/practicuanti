@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>3&nbsp; Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03) – Practicuanti</title>
+<title>6&nbsp; Práctico: Correlación (S06) – Practicuanti</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./practico_4.html" rel="next">
-<link href="./practico_2.html" rel="prev">
+<link href="./entregable.html" rel="next">
+<link href="./practico_5.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./practico_3.html"><span class="chapter-title">Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./practico_6.html"><span class="chapter-title">Práctico: Correlación (S06)</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -120,7 +120,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./practico_3.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)</span></a>
+  <a href="./practico_3.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -135,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./practico_6.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Correlación (S06)</span></a>
+  <a href="./practico_6.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Práctico: Correlación (S06)</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -153,24 +153,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#rango-cuantiles-y-diagrama-de-cajas" id="toc-rango-cuantiles-y-diagrama-de-cajas" class="nav-link active" data-scroll-target="#rango-cuantiles-y-diagrama-de-cajas"><span class="header-section-number">3.1</span> Rango, cuantiles, y diagrama de cajas</a>
+  <li><a href="#correlación" id="toc-correlación" class="nav-link active" data-scroll-target="#correlación"><span class="header-section-number">6.1</span> Correlación</a>
   <ul class="collapse">
   <li><a href="#lectura-asociada" id="toc-lectura-asociada" class="nav-link" data-scroll-target="#lectura-asociada">Lectura asociada</a></li>
   <li><a href="#contenidos" id="toc-contenidos" class="nav-link" data-scroll-target="#contenidos">Contenidos</a></li>
   </ul></li>
-  <li><a href="#panel-de-datos-factores-de-personalidad-del-cuidador-en-endis" id="toc-panel-de-datos-factores-de-personalidad-del-cuidador-en-endis" class="nav-link" data-scroll-target="#panel-de-datos-factores-de-personalidad-del-cuidador-en-endis"><span class="header-section-number">3.2</span> Panel de datos: Factores de personalidad del cuidador en ENDIS</a></li>
-  <li><a href="#actividad-informes-de-evaluación-del-desarrollo" id="toc-actividad-informes-de-evaluación-del-desarrollo" class="nav-link" data-scroll-target="#actividad-informes-de-evaluación-del-desarrollo"><span class="header-section-number">3.3</span> Actividad: Informes de evaluación del desarrollo</a>
-  <ul class="collapse">
-  <li><a href="#informe-de-riesgo-lector" id="toc-informe-de-riesgo-lector" class="nav-link" data-scroll-target="#informe-de-riesgo-lector">Informe de riesgo lector</a></li>
-  <li><a href="#ejercicio-con-tablas-de-lexiland" id="toc-ejercicio-con-tablas-de-lexiland" class="nav-link" data-scroll-target="#ejercicio-con-tablas-de-lexiland">Ejercicio con tablas de Lexiland</a></li>
-  </ul></li>
-  <li><a href="#actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos" id="toc-actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos" class="nav-link" data-scroll-target="#actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos"><span class="header-section-number">3.4</span> Actividad: Medidas de tendencia central y quintiles aplicado al ingreso de los hogares uruguayos</a></li>
-  <li><a href="#panel-de-datos-triada-oscura-y-serce" id="toc-panel-de-datos-triada-oscura-y-serce" class="nav-link" data-scroll-target="#panel-de-datos-triada-oscura-y-serce"><span class="header-section-number">3.5</span> Panel de datos: Triada Oscura y SERCE</a>
-  <ul class="collapse">
-  <li><a href="#datos-tríada-oscura" id="toc-datos-tríada-oscura" class="nav-link" data-scroll-target="#datos-tríada-oscura">Datos Tríada Oscura</a></li>
-  <li><a href="#datos-serce" id="toc-datos-serce" class="nav-link" data-scroll-target="#datos-serce">Datos SERCE</a></li>
-  </ul></li>
-  <li><a href="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" id="toc-y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="nav-link" data-scroll-target="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial"><span class="header-section-number">3.6</span> Y para terminar, un par de ejercicios múltiple opción, como los del parcial</a></li>
+  <li><a href="#representando-la-relación-entre-dos-variables-desempeño-en-literatura-y-matemáticas" id="toc-representando-la-relación-entre-dos-variables-desempeño-en-literatura-y-matemáticas" class="nav-link" data-scroll-target="#representando-la-relación-entre-dos-variables-desempeño-en-literatura-y-matemáticas"><span class="header-section-number">6.2</span> Representando la relación entre dos variables: desempeño en literatura y matemáticas</a></li>
+  <li><a href="#covarianza-qué-significa-que-dos-variables-cambien-juntas" id="toc-covarianza-qué-significa-que-dos-variables-cambien-juntas" class="nav-link" data-scroll-target="#covarianza-qué-significa-que-dos-variables-cambien-juntas"><span class="header-section-number">6.3</span> Covarianza: ¿Qué significa que dos variables “cambien juntas”?</a></li>
+  <li><a href="#y-para-terminar-un-par-de-ejercicios-múltiple-opción" id="toc-y-para-terminar-un-par-de-ejercicios-múltiple-opción" class="nav-link" data-scroll-target="#y-para-terminar-un-par-de-ejercicios-múltiple-opción"><span class="header-section-number">6.4</span> Y para terminar, un par de ejercicios múltiple opción</a></li>
   </ul>
 </nav>
     </div>
@@ -179,7 +169,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)</span></h1>
+<h1 class="title"><span class="chapter-title">Práctico: Correlación (S06)</span></h1>
 </div>
 
 
@@ -196,128 +186,105 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="rango-cuantiles-y-diagrama-de-cajas" class="level2" data-number="3.1">
-<h2 data-number="3.1" class="anchored" data-anchor-id="rango-cuantiles-y-diagrama-de-cajas"><span class="header-section-number">3.1</span> Rango, cuantiles, y diagrama de cajas</h2>
+<section id="correlación" class="level2" data-number="6.1">
+<h2 data-number="6.1" class="anchored" data-anchor-id="correlación"><span class="header-section-number">6.1</span> Correlación</h2>
 <section id="lectura-asociada" class="level3">
 <h3 class="anchored" data-anchor-id="lectura-asociada">Lectura asociada</h3>
-<p><a href="https://almadana.github.io/libro_cuanti/02-Describing_Data.html">Capítulo 2. Describir los datos</a></p>
+<p><a href="https://cuanti.psico.edu.uy/libro/03-Correlation.html">Capítulo 4. Correlación</a></p>
 </section>
 <section id="contenidos" class="level3">
 <h3 class="anchored" data-anchor-id="contenidos">Contenidos</h3>
 <ul>
-<li><p>Medidas de dispersión: rango</p></li>
-<li><p>Cuantiles</p></li>
-<li><p>Visualización de datos: diagrama de cajas (boxplot)</p></li>
+<li><p>Diagramas de dispersión (scatter plots): correlación positiva, negativa, nula</p></li>
+<li><p>Covarianza</p></li>
+<li><p>Coeficiente de correlación r de Pearson</p></li>
 </ul>
 </section>
 </section>
-<section id="panel-de-datos-factores-de-personalidad-del-cuidador-en-endis" class="level2" data-number="3.2">
-<h2 data-number="3.2" class="anchored" data-anchor-id="panel-de-datos-factores-de-personalidad-del-cuidador-en-endis"><span class="header-section-number">3.2</span> Panel de datos: Factores de personalidad del cuidador en ENDIS</h2>
-<p>En esta unidad estamos viendo que las medidas de tendencia central, por sí solas, no son suficientes para “entender” del todo nuestros datos. Por este motivo, contamos con una serie de estadísticos que nos permiten caracterizar la dispersión de los datos.</p>
-<p><strong>Recuperemos el histograma del ejercicio anterior (variable Apertura a la experiencia)</strong></p>
+<section id="representando-la-relación-entre-dos-variables-desempeño-en-literatura-y-matemáticas" class="level2" data-number="6.2">
+<h2 data-number="6.2" class="anchored" data-anchor-id="representando-la-relación-entre-dos-variables-desempeño-en-literatura-y-matemáticas"><span class="header-section-number">6.2</span> Representando la relación entre dos variables: desempeño en literatura y matemáticas</h2>
+<p>Seguramente alguna vez escuchaste frases como “Lo mío son las letras, soy muy malo para los números”, o al revés, pero ¿qué dicen los datos respecto a esto?</p>
+<p>Imagina que se aplican pruebas de desempeño en literatura y matemáticas a adolescentes entre 11 y 15 años que cursan Educación Secundaria en Uruguay.&nbsp;</p>
 <ol type="1">
-<li><p>Mirando el histograma ¿cuál dirías que es el <strong>rango</strong> de la variable?</p></li>
-<li><p>¿Qué datos del histograma usaste para calcularlo? ¿Cómo lo calculaste?</p></li>
-<li><p>Ahora explora la opción gráfica <strong>diagrama de cajas</strong> (Boxplot) para esta misma variable. ¿Qué información te ofrece este gráfico? ¿Qué indica la línea verde? Estima qué valores corresponden al percentil 25, 50 y 75.&nbsp;</p></li>
-<li><p>¿A través de qué otra funcionalidad del panel puedes acceder al valor de los percentiles 25, 50 y 75? Contrasta estos valores con la estimación que habías realizado a partir del boxplot.&nbsp;</p></li>
-<li><p>Ahora repite el procedimiento de análisis con los otros cuatro factores de personalidad. ¿Es similar la distribución?</p></li>
+<li>En tu opinión ¿Cuál de los siguientes diagramas de dispersión representaría mejor la relación entre esas dos variables?</li>
+</ol>
+<p><img src="imgs/corr.png" class="img-fluid"></p>
+<p>¿Qué tal si miramos datos reales? Ingresa al panel de análisis y localiza la base correspondiente al <strong>Segundo Estudio Regional Comparativo y Explicativo (SERCE).</strong></p>
+<ol type="1">
+<li><p>Activa el botón Acerca de la base para recordar de qué se trata</p></li>
+<li><p>Selecciona las variables Literatura y Matemáticas y obtiene un diagrama de dispersión</p></li>
 </ol>
 <details>
 <summary>
 <strong>¿Necesitás ayuda?</strong>
 </summary>
-<p><img src="imgs/2_boxplot.png" class="img-fluid"></p>
+<p>Gráfico de dispersión &gt; seleccionar variable 1 &gt; seleccionar variable 2</p>
+<p><img src="imgs/diag_disp.jpg" class="img-fluid"></p>
 </details>
-</section>
-<section id="actividad-informes-de-evaluación-del-desarrollo" class="level2" data-number="3.3">
-<h2 data-number="3.3" class="anchored" data-anchor-id="actividad-informes-de-evaluación-del-desarrollo"><span class="header-section-number">3.3</span> Actividad: Informes de evaluación del desarrollo</h2>
-<p>En los videos de esta unidad vimos un ejemplo de aplicación de cuantiles. En particular, que son útiles para comparar. Por ejemplo, entre los resultados de aplicar instrumentos estandarizados de evaluación psicológica es frecuente la referencia a percentiles. En otras palabras, podemos saber la posición de un sujeto u observación con respecto a una muestra de referencia.&nbsp;</p>
-<p><strong>Veamos el siguiente ejemplo:</strong></p>
-<p>El siguiente es un extracto del informe de resultados de la aplicación de un instrumento para la identificación temprana del riesgo lector (el documento tiene algunas omisiones a los efectos de este ejercicio).&nbsp;</p>
-<section id="informe-de-riesgo-lector" class="level3">
-<h3 class="anchored" data-anchor-id="informe-de-riesgo-lector">Informe de riesgo lector</h3>
-<p><strong>Fecha del informe: 07/11/24</strong></p>
-<p><strong>Identificador (ID) del niño/a: 2eb2a023-482d-4</strong></p>
-<p><strong>Introducción</strong></p>
-<p>En el siguiente informe se presentan los resultados de la evaluación de Lexiland correspondientes al ID <strong>2eb2a023-482d-4</strong>. Los datos asociados a dicho identificador son confidenciales y solo se encuentran a disposición de la institución educativa en donde se llevó a cabo la evaluación.</p>
-<p><strong>Descripción de la evaluación</strong></p>
-<p>Lexiland es una herramienta digital que evalúa habilidades pre-lectoras en tres dimensiones: conocimiento de las letras, conciencia fonológica, y memoria. Las tres habilidades fueron seleccionadas a través de un estudio de investigación científica que determinó la confiabilidad de su utilización para identificar el riesgo lector a edades tempranas. Su aplicación está destinada a niños y niñas de nivel inicial y primaria y puede ser utilizada tanto en entornos escolares como clínicos.</p>
-<p><strong>Resultados en las dimensiones evaluadas</strong></p>
-<p>La siguiente gráfica muestra los resultados obtenidos por el niño/a. Las diferentes dimensiones evaluadas fueron analizadas en relación a la base de datos de Lexiland, con una muestra de 400 niños y niñas de 26 escuelas públicas de Montevideo de contexto sociocultural quintil cuatro y quintil cinco.</p>
-<p>El nivel de <strong>zona de monitoreo</strong> marca el rango de valores obtenido por el 30% de los niños y niñas con desempeño más descendido. El nivel de desempeño <strong>esperado</strong> marca el rango de valores obtenidos por el 50% de los niños y niñas. El nivel <strong>elevado</strong> marca el rango de valores obtenidos por el 20% de los niños y niñas con desempeño más elevado. El punto azul marca el puntaje obtenido por <strong>2eb2a023-482d-4</strong> en las tres dimensiones evaluadas.</p>
-<p><img src="imgs/3_lexiland.png" class="img-fluid"></p>
+<p>Aquí te mostramos un ejemplo de la base ENDIS</p>
 <ol type="1">
-<li><p>¿Qué evalúa este instrumento?</p></li>
-<li><p>¿Cuál es la muestra de referencia? ¿Para qué se utilizó esta muestra?</p></li>
-<li><p>¿Qué porcentaje de niños se espera encontrar en cada una de las categorías de desempeño (elevado, esperado, zona de monitoreo)?</p></li>
-<li><p>Concluye sobre cuáles son los puntos de corte de las categorías de desempeño (elevado, esperado, zona de monitoreo), expresados en percentiles.&nbsp;</p></li>
-<li><p>El informe corresponde a un caso específico (observa la ubicación de los puntos azules).&nbsp; Describe la situación de este caso específico, comparado con la muestra de referencia, en cada una de las tres dimensiones evaluadas.</p></li>
-</ol>
-</section>
-<section id="ejercicio-con-tablas-de-lexiland" class="level3">
-<h3 class="anchored" data-anchor-id="ejercicio-con-tablas-de-lexiland">Ejercicio con tablas de Lexiland</h3>
-<p>Las siguientes tablas muestran los estadísticos descriptivos correspondientes a las distintas tareas de Lexiland, aplicadas a niños que cursaban Nivel 5, en el primer caso, y Primer año en el segundo. La muestra estuvo compuesta por 1111 alumnos de centros educativos de los cinco quintiles socioeconómicos (categorización de ANEP), ubicados en los departamentos de Montevideo, Canelones, Salto, San José, Colonia y Soriano.</p>
-<p><img src="imgs/3_lexiland_tablas.png" class="img-fluid"></p>
-<ol type="1">
-<li><p>Si un niño que cursa Nivel 5 obtiene como resultado 0.66 en la prueba de Memoria ¿cuál es su posición en relación a los otros niños de Nivel 5 que integraban la muestra? ¿Qué puedes concluir respecto a su desempeño en esa tarea a partir de estos datos?</p></li>
-<li><p>¿Cómo se interpretaría esa misma puntuación si la obtiene un niño de Primer año?</p></li>
-</ol>
-</section>
-</section>
-<section id="actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos" class="level2" data-number="3.4">
-<h2 data-number="3.4" class="anchored" data-anchor-id="actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos"><span class="header-section-number">3.4</span> Actividad: Medidas de tendencia central y quintiles aplicado al ingreso de los hogares uruguayos</h2>
-<p>Observa el gráfico presentado a continuación y contesta las siguientes preguntas:</p>
-<p><img src="imgs/3_ingreso.png" class="img-fluid"></p>
-<ol type="1">
-<li><p>¿A qué se refiere con ‘Ingreso promedio’ en el gráfico de más a la izquierda? ¿Cómo fueron los ingresos promedio en el año 2023 comparado con los ingresos promedio en el año 2019? ¿Y comparado con el año 2022?</p></li>
-<li><p>¿A qué corresponden los quintiles? Discute las diferencias en ingreso mensual líquido y en su variación real según el quintil.</p></li>
-</ol>
-</section>
-<section id="panel-de-datos-triada-oscura-y-serce" class="level2" data-number="3.5">
-<h2 data-number="3.5" class="anchored" data-anchor-id="panel-de-datos-triada-oscura-y-serce"><span class="header-section-number">3.5</span> Panel de datos: Triada Oscura y SERCE</h2>
-<p>Usando el cálculo de media, mediana y cuartiles de las siguientes variables, responde las siguientes preguntas. Puedes ayudarte ubicando sus posiciones manualmente en el histograma&nbsp; y utilizando diagramas de caja.&nbsp;</p>
-<section id="datos-tríada-oscura" class="level3">
-<h3 class="anchored" data-anchor-id="datos-tríada-oscura">Datos Tríada Oscura</h3>
-<ol type="1">
-<li><p>¿Puede decirse que más de la mitad de los sujetos de la base tienen puntuaciones de narcisismo mayores a 25?</p></li>
-<li><p>Una puntuación en la escala de maquiavelismo de 18, ¿es más bien baja o más bien alta? Fundamenta tu respuesta.</p></li>
-<li><p>Identifica al sujeto nº 6 en la base de datos. ¿Qué edad tiene? ¿Proviene del interior?¿Cuántas veces entra a Facebook o Instagram por día? ¿Es un número relativamente bajo o relativamente alto?</p></li>
-<li><p>¿Puede decirse que los hombres poseen en general, niveles de maquiavelismo más altos? ¿Y de narcisismo?&nbsp;</p></li>
-<li><p>¿Puede decirse que los estudiantes provenientes del exterior muestran menores niveles de narcisismo? ¿Y de maquiavelismo?</p></li>
-</ol>
-</section>
-<section id="datos-serce" class="level3">
-<h3 class="anchored" data-anchor-id="datos-serce">Datos SERCE</h3>
-<ol type="1">
-<li><p>¿Puede decirse que la mayoría de las niñas y niños tiene 12 años?&nbsp;</p></li>
-<li><p>Una puntuación de 620 en matemática, ¿es una puntuación muy alta? ¿Y la misma puntuación en la prueba de ciencia?</p></li>
-<li><p>¿Puede decirse que la mayoría de los estudiantes obtuvo puntuaciones mayores a 550 en la prueba de literatura? ¿Y en la de ciencias? ¿Y en la de matemática?<br>
-</p></li>
-</ol>
-</section>
-</section>
-<section id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="level2" data-number="3.6">
-<h2 data-number="3.6" class="anchored" data-anchor-id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial"><span class="header-section-number">3.6</span> Y para terminar, un par de ejercicios múltiple opción, como los del parcial</h2>
-<ol type="1">
-<li>En un Informe del Mides de 2011, se presenta el siguiente gráfico en el que se muestra la distribución de años de estudio de mujeres de 25 años y más según el número de hijos. Indica qué afirmación es correcta:</li>
-</ol>
-<p><img src="imgs/3_censo_ine.png" class="img-fluid"></p>
+<li><p>Interpreta el diagrama de dispersión obtenido. Compara estos resultados con tu estimación inicial</p></li>
+<li><p>Interpreta el valor r de Pearson observado en el panel</p></li>
+<li><p>Discute si las siguientes afirmaciones son compatibles con el resultado obtenido:</p>
 <ol type="a">
-<li>La cantidad de años de estudio de las mujeres aumenta a mayor número de hijos</li>
-<li>A mayor número de hijos, la mediana de años de estudio disminuye</li>
-<li>La distribución de años de estudio es simétrica, para cada categoría de la variable hijos</li>
-<li>Más del 25% de las mujeres con 5 hijos o más tienen 10 años o más de estudio</li>
-</ol>
-<!-- -->
-<ol start="2" type="1">
-<li>Con respecto a los cuartiles:</li>
-</ol>
-<!-- -->
+<li>Los puntajes en matemática y literatura son independientes</li>
+<li>Si un estudiante tiene un desempeño alto en matemática es probable que tenga un desempeño alto en literatura</li>
+<li>Si un estudiante tiene un desempeño alto en literatura es probable que tenga un desempeño bajo en matemática</li>
+<li>Si un estudiante tiene un desempeño alto en literatura es seguro que también tendrá un desempeño alto en matemática, y viceversa</li>
+</ol></li>
+<li><p>Ahora realiza un gráfico de dispersión para las variables Matemática y Edad. Señala la opción es correcta:</p>
 <ol type="a">
-<li>Dividen a la muestra en 5 partes iguales</li>
-<li>Dividen a la muestra en 3 partes iguales</li>
-<li>El cuartil 2 corresponde a la mediana</li>
-<li>El cuartil 3 corresponde a la mediana</li>
+<li>La edad y el puntaje en matemática muestran una relación negativa</li>
+<li>A mayor edad mejor desempeño en matemática</li>
+<li>El coeficiente de correlación de Pearson es negativo indicando que a menor edad menor desempeño en matemática</li>
+<li>La edad y el puntaje en matemática son dos variables que no covarían</li>
+</ol></li>
+</ol>
+</section>
+<section id="covarianza-qué-significa-que-dos-variables-cambien-juntas" class="level2" data-number="6.3">
+<h2 data-number="6.3" class="anchored" data-anchor-id="covarianza-qué-significa-que-dos-variables-cambien-juntas"><span class="header-section-number">6.3</span> Covarianza: ¿Qué significa que dos variables “cambien juntas”?</h2>
+<ol type="1">
+<li><p>Ingresa al Panel de análisis de datos <a href="http://cuanti.psico.edu.uy/panel">cuanti.psico.edu.uy/panel</a></p></li>
+<li><p>Selecciona la base de datos <strong>ARISTAS</strong></p></li>
+<li><p>Activa el botón Acerca de la base para recordar de qué se trata</p></li>
+<li><p>Plantea tus hipótesis respecto a la relación entre los siguientes pares de variables:</p></li>
+</ol>
+<ul>
+<li><p>Motivación_y_autorregulación (variable 1) y Habilidades_interpersonales (variable 2)</p></li>
+<li><p>Motivación_y_autorregulación y Habilidades_intrapersonales</p></li>
+<li><p>Habilidades_interpersonales y Habilidades_interpersonales</p></li>
+</ul>
+<ol start="4" type="1">
+<li><p>Antes de activar el panel, dibuja un gráfico de dispersión para cada par de variables en base a tu conocimiento previo o incluso tu intuición al respecto (es decir, 3 diagramas de dispersión). Luego dibuja la línea recta que mejor resume el patrón de los datos.</p></li>
+<li><p>¿Cuál crees que sería el signo y valor del coeficiente r de Parson en cada caso?</p></li>
+<li><p>Ahora obtené los mismos gráficos en el panel de análisis. ¿Qué tan distinto es respecto al tuyo? Interpreta la magnitud y dirección de la correlación.</p></li>
+<li><p>Selecciona otra base de datos ¿Para qué variables dirías que existe una asociación débil? ¿Moderada? ¿Fuerte? ¿Son esas asociaciones positivas o negativas? Formula tus hipótesis y luego realiza el análisis de correlación para las variables de interés.</p></li>
+</ol>
+</section>
+<section id="y-para-terminar-un-par-de-ejercicios-múltiple-opción" class="level2" data-number="6.4">
+<h2 data-number="6.4" class="anchored" data-anchor-id="y-para-terminar-un-par-de-ejercicios-múltiple-opción"><span class="header-section-number">6.4</span> Y para terminar, un par de ejercicios múltiple opción</h2>
+<ol type="1">
+<li><p>En una investigación sobre rendimiento escolar en Uruguay que empleaba una muestra de 2.372 niños de entre 7 y 10 años, el coeficiente de correlación calculado para las variables ingreso del hogar y puntaje en una prueba de lenguaje fue de r = 0,692.&nbsp; A partir de ese resultado se puede afirmar que:</p>
+<ol type="a">
+<li>La covarianza entre las variables ingreso del hogar y el puntaje de lengua es negativa</li>
+<li>A medida que aumenta el ingreso del hogar, disminuye el rendimiento en lenguaje de los niños de entre 7 y 10 años en el país</li>
+<li>Existe una relación lineal positiva entre el ingreso del hogar y el puntaje en la prueba de lenguaje para los niños de entre 7 y 10 años en Uruguay</li>
+<li>Existe una correlación negativa entre el ingreso del hogar y el desempeño en la prueba de lenguaje en la muestra estudiada</li>
+</ol></li>
+<li><p>En una investigación reciente sobre competitividad se analizó la relación entre la ansiedad de las personas y el número de errores que estas cometían en un test numérico. Se correlacionaron ambas variables (nivel de ansiedad y número de errores) y se obtuvo un r = 0,734. De estos resultados podemos inferir:</p>
+<ol type="a">
+<li>Dado que el coeficiente de correlación es menor que 1, no existe una correlación entre ambas variables</li>
+<li>Dado que el coeficiente de correlación es positivo, aciertan mayor cantidad de veces cuanto más ansiosas son</li>
+<li>Dado que el coeficiente de correlación es positivo, cometen mayor número de errores cuanto más ansiosas son</li>
+<li>La covarianza entre nivel de ansiedad y número de errores es negativa</li>
+</ol></li>
+<li><p>Ingresa al <a href="http://cuanti.psico.edu.uy/panel">panel</a> y selecciona la base de datos <strong>Encuesta estudiantes de cuanti.</strong> Realiza un gráfico de dispersión para las variables horas de sueño y grado de satisfacción con la vida. La opción correcta es:</p>
+<ol type="a">
+<li>No hay relación entre ambas variables</li>
+<li>Cuantas más horas de sueño, menor es el grado de satisfacción con la vida</li>
+<li>De acuerdo con el coeficiente r de Pearson, la covarianza entre las variables es positiva</li>
+<li>Hay una correlación negativa entre ambas variables</li>
+</ol></li>
 </ol>
 
 
@@ -725,13 +692,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./practico_2.html" class="pagination-link" aria-label="Práctico: Describir los datos - Histogramas y Tendencia central (S 02)">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span></span>
+      <a href="./practico_5.html" class="pagination-link" aria-label="Práctico: Describir los datos - Tablas y gráficos de barras (S05)">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./practico_4.html" class="pagination-link" aria-label="Práctico: Describir los datos - varianza y desvío estándar (S04)">
-        <span class="nav-page-text"><span class="chapter-title">Práctico: Describir los datos - varianza y desvío estándar (S04)</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./entregable.html" class="pagination-link" aria-label="Entregable final: Informe de análisis de datos">
+        <span class="nav-page-text"><span class="chapter-title">Entregable final: Informe de análisis de datos</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
