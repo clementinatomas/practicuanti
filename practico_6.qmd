@@ -37,13 +37,13 @@ Imagina que se aplican pruebas de desempeño en literatura y matemáticas a adol
 
 <summary><strong>¿Necesitás ayuda?</strong></summary>
 
+Aquí te mostramos un ejemplo de la base ENDIS
+
 Gráfico de dispersión \> seleccionar variable 1 \> seleccionar variable 2
 
 ![](imgs/diag_disp.jpg)
 
 </details>
-
-Aquí te mostramos un ejemplo de la base ENDIS
 
 1.  Interpreta el diagrama de dispersión obtenido. Compara estos resultados con tu estimación inicial
 
