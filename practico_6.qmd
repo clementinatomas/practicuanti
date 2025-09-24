@@ -23,7 +23,8 @@ Seguramente alguna vez escuchaste frases como “Lo mío son las letras, soy muy
 
 Imagina que se aplican pruebas de desempeño en literatura y matemáticas a adolescentes entre 11 y 15 años que cursan Educación Secundaria en Uruguay. 
 
-1.  En tu opinión ¿Cuál de los siguientes diagramas de dispersión representaría mejor la relación entre esas dos variables?
+1.  Observa los siguientes diagramas de dispersión. ¿Qué representa cada punto violeta? ¿Y los ejes x e y? 
+2.  En tu opinión ¿Cuál de los diagramas representaría mejor la relación entre los desempeños en literatura y matemáticas?
 
 ![](imgs/corr.png)
 
@@ -69,7 +70,7 @@ Gráfico de dispersión \> seleccionar variable 1 \> seleccionar variable 2
 
 2.  Selecciona la base de datos **ARISTAS**
 
-3.  Activa el botón Acerca de la base para recordar de qué se trata
+3.  Activa el botón Acerca de la base para recordar de qué se trata, con especial atención en las **dimensiones del módulo socioemocional** de Aristas. Además, puedes encontrar algunos ejemplos de ítems del cuestionario presentado a los estudiantes en este [video de la semana 01 de este curso](https://www.youtube.com/watch?v=U0aBVLWz-cQ&list=PLQRHe0Sf8EkzrzYeffIc98YYxWol8NNAx&index=4)
 
 4.  Plantea tus hipótesis respecto a la relación entre los siguientes pares de variables:
 
@@ -77,7 +78,7 @@ Gráfico de dispersión \> seleccionar variable 1 \> seleccionar variable 2
 
 -   Motivación_y_autorregulación y Habilidades_intrapersonales
 
--   Habilidades_interpersonales y Habilidades_interpersonales
+-   Habilidades_interpersonales y Habilidades_intrapersonales
 
 4.  Antes de activar el panel, dibuja un gráfico de dispersión para cada par de variables en base a tu conocimiento previo o incluso tu intuición al respecto (es decir, 3 diagramas de dispersión). Luego dibuja la línea recta que mejor resume el patrón de los datos.
 
