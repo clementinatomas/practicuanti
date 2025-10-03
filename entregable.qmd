@@ -12,4 +12,4 @@ Este trabajo se va a desarrollar paso a paso a lo largo del semestre según avan
 
 Para realizar el trabajo debes descargar el modelo de reporte en Word, que ya contiene las secciones y formato esperado del entregable.
 
-⬇️️️<a href="descargables/entregable.docx" download>📄**Descargar en Word**📄</a>⬇️
+⬇️️️<a href="descargables/entregable_1_2.docx" download>📄**Descargar en Word**📄</a>⬇️
