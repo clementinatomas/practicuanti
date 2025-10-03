@@ -200,7 +200,7 @@ Usando el [Panel](https://cuanti.psico.edu.uy/panel/) de análisis de datos, emp
     c.  El 41.1 % de los psicólogos casados son propietarios y ya pagaron la vivienda
     d.  El 22.2 % de los propietarios que están pagando su vivienda son viudos
 
-4.  A partir de la base de datos **Encuesta Nacional de Psicólogos,** cruce las variables **Sexo** y **Estado_conyugal**
+4.  A partir de la base de datos **Censo Nacional de Psicólogos**, cruce las variables **Vivienda_Ud_es** y **Estado_conyugal**
 
     a.  El 80,6% de las psicólogas son inquilinas o arrendatarias
     b.  El 14.7% de los psicólogos es propietario y ya pagó su vivienda

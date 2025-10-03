@@ -12,6 +12,8 @@ book:
     - practico_4.qmd
     - practico_5.qmd
     - practico_6.qmd
+    - practico_7.qmd
+    - practico_8.qmd
     - entregable.qmd
  
 format:

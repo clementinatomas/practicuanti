@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>6&nbsp; Práctico: Correlación (S06) – Practicuanti</title>
+<title>8&nbsp; Práctico: Regresión (S08) – Practicuanti</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./practico_7.html" rel="next">
-<link href="./practico_5.html" rel="prev">
+<link href="./entregable.html" rel="next">
+<link href="./practico_7.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./practico_6.html"><span class="chapter-title">Práctico: Correlación (S06)</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./practico_8.html"><span class="chapter-title">Práctico: Regresión (S08)</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -135,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./practico_6.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Práctico: Correlación (S06)</span></a>
+  <a href="./practico_6.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Correlación (S06)</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -145,7 +145,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./practico_8.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Regresión (S08)</span></a>
+  <a href="./practico_8.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Práctico: Regresión (S08)</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -163,14 +163,15 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#correlación" id="toc-correlación" class="nav-link active" data-scroll-target="#correlación"><span class="header-section-number">6.1</span> Correlación</a>
+  <li><a href="#regresión" id="toc-regresión" class="nav-link active" data-scroll-target="#regresión"><span class="header-section-number">8.1</span> Regresión</a>
   <ul class="collapse">
   <li><a href="#lectura-asociada" id="toc-lectura-asociada" class="nav-link" data-scroll-target="#lectura-asociada">Lectura asociada</a></li>
   <li><a href="#contenidos" id="toc-contenidos" class="nav-link" data-scroll-target="#contenidos">Contenidos</a></li>
   </ul></li>
-  <li><a href="#representando-la-relación-entre-dos-variables-desempeño-en-literatura-y-matemáticas" id="toc-representando-la-relación-entre-dos-variables-desempeño-en-literatura-y-matemáticas" class="nav-link" data-scroll-target="#representando-la-relación-entre-dos-variables-desempeño-en-literatura-y-matemáticas"><span class="header-section-number">6.2</span> Representando la relación entre dos variables: desempeño en literatura y matemáticas</a></li>
-  <li><a href="#covarianza-qué-significa-que-dos-variables-cambien-juntas" id="toc-covarianza-qué-significa-que-dos-variables-cambien-juntas" class="nav-link" data-scroll-target="#covarianza-qué-significa-que-dos-variables-cambien-juntas"><span class="header-section-number">6.3</span> Covarianza: ¿Qué significa que dos variables “cambien juntas”?</a></li>
-  <li><a href="#y-para-terminar-un-par-de-ejercicios-múltiple-opción" id="toc-y-para-terminar-un-par-de-ejercicios-múltiple-opción" class="nav-link" data-scroll-target="#y-para-terminar-un-par-de-ejercicios-múltiple-opción"><span class="header-section-number">6.4</span> Y para terminar, un par de ejercicios múltiple opción</a></li>
+  <li><a href="#regresión-lección-interactiva" id="toc-regresión-lección-interactiva" class="nav-link" data-scroll-target="#regresión-lección-interactiva"><span class="header-section-number">8.2</span> Regresión: Lección interactiva</a></li>
+  <li><a href="#la-regresión-nos-permite-predecir" id="toc-la-regresión-nos-permite-predecir" class="nav-link" data-scroll-target="#la-regresión-nos-permite-predecir"><span class="header-section-number">8.3</span> La Regresión nos permite predecir</a></li>
+  <li><a href="#y-si-los-datos-no-tuvieran-relación" id="toc-y-si-los-datos-no-tuvieran-relación" class="nav-link" data-scroll-target="#y-si-los-datos-no-tuvieran-relación"><span class="header-section-number">8.4</span> ¿Y si los datos no tuvieran relación?</a></li>
+  <li><a href="#y-para-terminar-un-par-de-ejercicios-múltiple-opción" id="toc-y-para-terminar-un-par-de-ejercicios-múltiple-opción" class="nav-link" data-scroll-target="#y-para-terminar-un-par-de-ejercicios-múltiple-opción"><span class="header-section-number">8.5</span> Y para terminar, un par de ejercicios múltiple opción</a></li>
   </ul>
 </nav>
     </div>
@@ -179,7 +180,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Práctico: Correlación (S06)</span></h1>
+<h1 class="title"><span class="chapter-title">Práctico: Regresión (S08)</span></h1>
 </div>
 
 
@@ -196,106 +197,77 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="correlación" class="level2" data-number="6.1">
-<h2 data-number="6.1" class="anchored" data-anchor-id="correlación"><span class="header-section-number">6.1</span> Correlación</h2>
+<section id="regresión" class="level2" data-number="8.1">
+<h2 data-number="8.1" class="anchored" data-anchor-id="regresión"><span class="header-section-number">8.1</span> Regresión</h2>
 <section id="lectura-asociada" class="level3">
 <h3 class="anchored" data-anchor-id="lectura-asociada">Lectura asociada</h3>
-<p><a href="https://cuanti.psico.edu.uy/libro/03-Correlation.html">Capítulo 4. Correlación</a></p>
+<p><a href="https://cuanti.psico.edu.uy/libro/03-Correlation.html#regresi%C3%B3n-una-mini-introducci%C3%B3n">Capítulo 4. Sección 4.5. Regresión</a></p>
 </section>
 <section id="contenidos" class="level3">
 <h3 class="anchored" data-anchor-id="contenidos">Contenidos</h3>
 <ul>
-<li><p>Diagramas de dispersión (scatter plots): correlación positiva, negativa, nula</p></li>
-<li><p>Covarianza</p></li>
-<li><p>Coeficiente de correlación r de Pearson</p></li>
+<li><p>Línea de mejor ajuste</p></li>
+<li><p>Intercepto y Pendiente</p></li>
+<li><p>Coeficiente de determinación (R²)</p></li>
 </ul>
 </section>
 </section>
-<section id="representando-la-relación-entre-dos-variables-desempeño-en-literatura-y-matemáticas" class="level2" data-number="6.2">
-<h2 data-number="6.2" class="anchored" data-anchor-id="representando-la-relación-entre-dos-variables-desempeño-en-literatura-y-matemáticas"><span class="header-section-number">6.2</span> Representando la relación entre dos variables: desempeño en literatura y matemáticas</h2>
-<p>Seguramente alguna vez escuchaste frases como “Lo mío son las letras, soy muy malo para los números”, o al revés, pero ¿qué dicen los datos respecto a esto?</p>
-<p>Imagina que se aplican pruebas de desempeño en literatura y matemáticas a adolescentes entre 11 y 15 años que cursan Educación Secundaria en Uruguay.&nbsp;</p>
+<section id="regresión-lección-interactiva" class="level2" data-number="8.2">
+<h2 data-number="8.2" class="anchored" data-anchor-id="regresión-lección-interactiva"><span class="header-section-number">8.2</span> Regresión: Lección interactiva</h2>
+<p>Ingresa a la <a href="https://cuanti.psico.edu.uy/lecciones/lessons/regression">Lección Interactiva Regresión Lineal</a></p>
+<p>Explora la lección y define: - línea de regresión, pendiente, intercepto y R²</p>
+</section>
+<section id="la-regresión-nos-permite-predecir" class="level2" data-number="8.3">
+<h2 data-number="8.3" class="anchored" data-anchor-id="la-regresión-nos-permite-predecir"><span class="header-section-number">8.3</span> La Regresión nos permite predecir</h2>
+<p>En este práctico vamos a responder la siguiente pregunta:&nbsp;</p>
+<p><strong>¿Es posible predecir la longitud del brazo de una persona a partir de su altura?</strong></p>
 <ol type="1">
-<li>Observa los siguientes diagramas de dispersión. ¿Qué representa cada punto violeta? ¿Y los ejes x e y?&nbsp;</li>
-<li>En tu opinión ¿Cuál de los diagramas representaría mejor la relación entre los desempeños en literatura y matemáticas?</li>
-</ol>
-<p><img src="imgs/corr.png" class="img-fluid"></p>
-<p>¿Qué tal si miramos datos reales? Ingresa al panel de análisis y localiza la base correspondiente al <strong>Segundo Estudio Regional Comparativo y Explicativo (SERCE).</strong></p>
-<ol type="1">
-<li><p>Activa el botón Acerca de la base para recordar de qué se trata</p></li>
-<li><p>Selecciona las variables Literatura y Matemáticas y obtiene un diagrama de dispersión</p></li>
+<li><p>Recolección de datos</p>
+<ol type="a">
+<li><p>Altura (x): altura de pie en centímetros</p></li>
+<li><p>Longitud del brazo (y): desde el hombro hasta la punta de los dedos de la mano dominante (en cm)</p></li>
+</ol></li>
+<li><p>Organizar los datos en una tabla en el pizarrón</p></li>
+<li><p>Cada estudiante deberá realizar un gráfico de dispersión con los datos del grupo. A continuación, interpreta junto con tus compañeros el gráfico obtenido.</p></li>
+<li><p>Realiza una regresión lineal sobre los datos utilizando <a href="https://cuanti.psico.edu.uy/lecciones/lessons/regression-editable">el editor de la lección interactiva de regresión</a></p></li>
+<li><p>¿Cuál es el valor del coeficiente de correlación de Pearson obtenido para las variables relacionadas?</p></li>
+<li><p>¿Cuál es el R²? ¿Cómo lo interpretas?</p></li>
+<li><p>¿Qué significa el valor de la pendiente en nuestra ecuación de regresión?</p></li>
 </ol>
 <details>
 <summary>
 <strong>¿Necesitás ayuda?</strong>
 </summary>
-<p>Aquí te mostramos un ejemplo de la base ENDIS</p>
-<p>Gráfico de dispersión &gt; seleccionar variable 1 &gt; seleccionar variable 2</p>
-<p><img src="imgs/diag_disp.jpg" class="img-fluid"></p>
+<p>¿Cuántos cm aumenta la longitud del brazo, en promedio, por cada cm de altura?</p>
 </details>
-<ol type="1">
-<li><p>Interpreta el diagrama de dispersión obtenido. Compara estos resultados con tu estimación inicial</p></li>
-<li><p>Interpreta el valor r de Pearson observado en el panel</p></li>
-<li><p>Discute si las siguientes afirmaciones son compatibles con el resultado obtenido:</p>
-<ol type="a">
-<li>Los puntajes en matemática y literatura son independientes</li>
-<li>Si un estudiante tiene un desempeño alto en matemática es probable que tenga un desempeño alto en literatura</li>
-<li>Si un estudiante tiene un desempeño alto en literatura es probable que tenga un desempeño bajo en matemática</li>
-<li>Si un estudiante tiene un desempeño alto en literatura es seguro que también tendrá un desempeño alto en matemática, y viceversa</li>
-</ol></li>
-<li><p>Ahora realiza un gráfico de dispersión para las variables Matemática y Edad. Señala la opción es correcta:</p>
-<ol type="a">
-<li>La edad y el puntaje en matemática muestran una relación negativa</li>
-<li>A mayor edad mejor desempeño en matemática</li>
-<li>El coeficiente de correlación de Pearson es negativo indicando que a menor edad menor desempeño en matemática</li>
-<li>La edad y el puntaje en matemática son dos variables que no covarían</li>
-</ol></li>
+<ol start="8" type="1">
+<li><p>Obtenga la altura del profesor, prediga la longitud de su brazo a partir de la misma</p></li>
+<li><p>Obtenga la longitud real del brazo del profesor. ¿Cómo es la predicción comparada con el valor real?</p></li>
+<li><p>Reflexiona sobre el uso y los límites de una regresión. ¿Se trata de una regla perfecta o una tendencia promedio?</p></li>
 </ol>
 </section>
-<section id="covarianza-qué-significa-que-dos-variables-cambien-juntas" class="level2" data-number="6.3">
-<h2 data-number="6.3" class="anchored" data-anchor-id="covarianza-qué-significa-que-dos-variables-cambien-juntas"><span class="header-section-number">6.3</span> Covarianza: ¿Qué significa que dos variables “cambien juntas”?</h2>
+<section id="y-si-los-datos-no-tuvieran-relación" class="level2" data-number="8.4">
+<h2 data-number="8.4" class="anchored" data-anchor-id="y-si-los-datos-no-tuvieran-relación"><span class="header-section-number">8.4</span> ¿Y si los datos no tuvieran relación?</h2>
 <ol type="1">
-<li><p>Ingresa al Panel de análisis de datos <a href="http://cuanti.psico.edu.uy/panel">cuanti.psico.edu.uy/panel</a></p></li>
-<li><p>Selecciona la base de datos <strong>ARISTAS</strong></p></li>
-<li><p>Activa el botón Acerca de la base para recordar de qué se trata, con especial atención en las <strong>dimensiones del módulo socioemocional</strong> de Aristas. Además, puedes encontrar algunos ejemplos de ítems del cuestionario presentado a los estudiantes en este <a href="https://www.youtube.com/watch?v=U0aBVLWz-cQ&amp;list=PLQRHe0Sf8EkzrzYeffIc98YYxWol8NNAx&amp;index=4">video de la semana 01 de este curso</a></p></li>
-<li><p>Plantea tus hipótesis respecto a la relación entre los siguientes pares de variables:</p></li>
-</ol>
-<ul>
-<li><p>Motivación_y_autorregulación (variable 1) y Habilidades_interpersonales (variable 2)</p></li>
-<li><p>Motivación_y_autorregulación y Habilidades_intrapersonales</p></li>
-<li><p>Habilidades_interpersonales y Habilidades_intrapersonales</p></li>
-</ul>
-<ol start="4" type="1">
-<li><p>Antes de activar el panel, dibuja un gráfico de dispersión para cada par de variables en base a tu conocimiento previo o incluso tu intuición al respecto (es decir, 3 diagramas de dispersión). Luego dibuja la línea recta que mejor resume el patrón de los datos.</p></li>
-<li><p>¿Cuál crees que sería el signo y valor del coeficiente r de Parson en cada caso?</p></li>
-<li><p>Ahora obtené los mismos gráficos en el panel de análisis. ¿Qué tan distinto es respecto al tuyo? Interpreta la magnitud y dirección de la correlación.</p></li>
-<li><p>Selecciona otra base de datos ¿Para qué variables dirías que existe una asociación débil? ¿Moderada? ¿Fuerte? ¿Son esas asociaciones positivas o negativas? Formula tus hipótesis y luego realiza el análisis de correlación para las variables de interés.</p></li>
+<li><p>Reordena aleatoriamente los datos generando nuevos pares de altura y longitud de brazo.&nbsp;</p></li>
+<li><p>Vuelve a realizar la regresión lineal pero ahora sobre estos pares de datos aleatorios</p></li>
+<li><p>¿Qué coeficiente de correlación obtienes? ¿Por qué?</p></li>
+<li><p>Pide los coeficientes de correlación de los pares de datos aleatorios de los otros grupos. ¿Cómo son estos coeficientes comparados con el valor de correlación de Pearson de los datos originales?</p></li>
 </ol>
 </section>
-<section id="y-para-terminar-un-par-de-ejercicios-múltiple-opción" class="level2" data-number="6.4">
-<h2 data-number="6.4" class="anchored" data-anchor-id="y-para-terminar-un-par-de-ejercicios-múltiple-opción"><span class="header-section-number">6.4</span> Y para terminar, un par de ejercicios múltiple opción</h2>
+<section id="y-para-terminar-un-par-de-ejercicios-múltiple-opción" class="level2" data-number="8.5">
+<h2 data-number="8.5" class="anchored" data-anchor-id="y-para-terminar-un-par-de-ejercicios-múltiple-opción"><span class="header-section-number">8.5</span> Y para terminar, un par de ejercicios múltiple opción</h2>
 <ol type="1">
-<li><p>En una investigación sobre rendimiento escolar en Uruguay que empleaba una muestra de 2.372 niños de entre 7 y 10 años, el coeficiente de correlación calculado para las variables ingreso del hogar y puntaje en una prueba de lenguaje fue de r = 0,692.&nbsp; A partir de ese resultado se puede afirmar que:</p>
-<ol type="a">
-<li>La covarianza entre las variables ingreso del hogar y el puntaje de lengua es negativa</li>
-<li>A medida que aumenta el ingreso del hogar, disminuye el rendimiento en lenguaje de los niños de entre 7 y 10 años en el país</li>
-<li>Existe una relación lineal positiva entre el ingreso del hogar y el puntaje en la prueba de lenguaje para los niños de entre 7 y 10 años en Uruguay</li>
-<li>Existe una correlación negativa entre el ingreso del hogar y el desempeño en la prueba de lenguaje en la muestra estudiada</li>
-</ol></li>
-<li><p>En una investigación reciente sobre competitividad se analizó la relación entre la ansiedad de las personas y el número de errores que estas cometían en un test numérico. Se correlacionaron ambas variables (nivel de ansiedad y número de errores) y se obtuvo un r = 0,734. De estos resultados podemos inferir:</p>
-<ol type="a">
-<li>Dado que el coeficiente de correlación es menor que 1, no existe una correlación entre ambas variables</li>
-<li>Dado que el coeficiente de correlación es positivo, aciertan mayor cantidad de veces cuanto más ansiosas son</li>
-<li>Dado que el coeficiente de correlación es positivo, cometen mayor número de errores cuanto más ansiosas son</li>
-<li>La covarianza entre nivel de ansiedad y número de errores es negativa</li>
-</ol></li>
-<li><p>Ingresa al <a href="http://cuanti.psico.edu.uy/panel">panel</a> y selecciona la base de datos <strong>Encuesta estudiantes de cuanti.</strong> Realiza un gráfico de dispersión para las variables horas de sueño y grado de satisfacción con la vida. La opción correcta es:</p>
-<ol type="a">
-<li>No hay relación entre ambas variables</li>
-<li>Cuantas más horas de sueño, menor es el grado de satisfacción con la vida</li>
-<li>De acuerdo con el coeficiente r de Pearson, la covarianza entre las variables es positiva</li>
-<li>Hay una correlación negativa entre ambas variables</li>
-</ol></li>
+<li><p>¿Cuál es la característica principal de la línea de mejor ajuste en un análisis de regresión lineal simple?</p>
+<p>a. Existen infinitas líneas que pueden ajustarse igual de bien si los datos son perfectamente lineales</p>
+<p>b. Varias líneas pueden minimizar la suma de errores cuadrados, pero la elección depende del método estadístico utilizado</p>
+<p>c. Es la línea que pasa por al menos tres puntos de los datos</p>
+<p>d. Es la única línea que minimiza la suma de los errores cuadrados entre los valores observados y los valores predichos</p></li>
+<li><p>Una psicóloga investigó si el número de horas de meditación por semana predice los niveles de ansiedad (cuanto mayor el puntaje, mayor la ansiedad). La ecuación de regresión obtenida fue: Ansiedad = 30 − 2*Horas. ¿Qué predice esta ecuación?</p>
+<p>a. Por cada hora adicional de meditación, la ansiedad aumenta en 2 puntos</p>
+<p>b. Si alguien medita 0 horas, su ansiedad estimada es de 30</p>
+<p>c. La meditación no tiene efecto sobre la ansiedad</p>
+<p>d. La ansiedad es 2 veces el número de horas de meditación</p></li>
 </ol>
 
 
@@ -703,13 +675,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./practico_5.html" class="pagination-link" aria-label="Práctico: Describir los datos - Tablas y gráficos de barras (S05)">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span></span>
+      <a href="./practico_7.html" class="pagination-link" aria-label="Práctico: Semana de revisión (S07)">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Práctico: Semana de revisión (S07)</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./practico_7.html" class="pagination-link" aria-label="Práctico: Semana de revisión (S07)">
-        <span class="nav-page-text"><span class="chapter-title">Práctico: Semana de revisión (S07)</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./entregable.html" class="pagination-link" aria-label="Entregable final: Informe de análisis de datos">
+        <span class="nav-page-text"><span class="chapter-title">Entregable final: Informe de análisis de datos</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

@@ -1,0 +1,94 @@
+---
+title: "Práctico: Regresión (S08)"
+number-sections: true
+---
+
+## Regresión
+
+### Lectura asociada
+
+[Capítulo 4. Sección 4.5. Regresión](https://cuanti.psico.edu.uy/libro/03-Correlation.html#regresi%C3%B3n-una-mini-introducci%C3%B3n)
+
+### Contenidos
+
+-   Línea de mejor ajuste
+
+-   Intercepto y Pendiente
+
+-   Coeficiente de determinación (R²)
+
+## Regresión: Lección interactiva
+
+Ingresa a la [Lección Interactiva Regresión Lineal](https://cuanti.psico.edu.uy/lecciones/lessons/regression)
+
+Explora la lección y define: - línea de regresión, pendiente, intercepto y R²
+
+## La Regresión nos permite predecir
+
+En este práctico vamos a responder la siguiente pregunta: 
+
+**¿Es posible predecir la longitud del brazo de una persona a partir de su altura?**
+
+1.  Recolección de datos
+
+    a.  Altura (x): altura de pie en centímetros
+
+    b.  Longitud del brazo (y): desde el hombro hasta la punta de los dedos de la mano dominante (en cm)
+
+2.  Organizar los datos en una tabla en el pizarrón
+
+3.  Cada estudiante deberá realizar un gráfico de dispersión con los datos del grupo. A continuación, interpreta junto con tus compañeros el gráfico obtenido.
+
+4.  Realiza una regresión lineal sobre los datos utilizando [el editor de la lección interactiva de regresión](https://cuanti.psico.edu.uy/lecciones/lessons/regression-editable)
+
+5.  ¿Cuál es el valor del coeficiente de correlación de Pearson obtenido para las variables relacionadas?
+
+6.  ¿Cuál es el R²? ¿Cómo lo interpretas?
+
+7.  ¿Qué significa el valor de la pendiente en nuestra ecuación de regresión?
+
+<details>
+
+<summary><strong>¿Necesitás ayuda?</strong></summary>
+
+¿Cuántos cm aumenta la longitud del brazo, en promedio, por cada cm de altura?
+
+</details>
+
+8.  Obtenga la altura del profesor, prediga la longitud de su brazo a partir de la misma
+
+9.  Obtenga la longitud real del brazo del profesor. ¿Cómo es la predicción comparada con el valor real?
+
+10. Reflexiona sobre el uso y los límites de una regresión. ¿Se trata de una regla perfecta o una tendencia promedio?
+
+## ¿Y si los datos no tuvieran relación?
+
+1.  Reordena aleatoriamente los datos generando nuevos pares de altura y longitud de brazo. 
+
+2.  Vuelve a realizar la regresión lineal pero ahora sobre estos pares de datos aleatorios
+
+3.  ¿Qué coeficiente de correlación obtienes? ¿Por qué?
+
+4.  Pide los coeficientes de correlación de los pares de datos aleatorios de los otros grupos. ¿Cómo son estos coeficientes comparados con el valor de correlación de Pearson de los datos originales?
+
+## Y para terminar, un par de ejercicios múltiple opción
+
+1.  ¿Cuál es la característica principal de la línea de mejor ajuste en un análisis de regresión lineal simple?
+
+    a\. Existen infinitas líneas que pueden ajustarse igual de bien si los datos son perfectamente lineales
+
+    b\. Varias líneas pueden minimizar la suma de errores cuadrados, pero la elección depende del método estadístico utilizado
+
+    c\. Es la línea que pasa por al menos tres puntos de los datos
+
+    d\. Es la única línea que minimiza la suma de los errores cuadrados entre los valores observados y los valores predichos
+
+2.  Una psicóloga investigó si el número de horas de meditación por semana predice los niveles de ansiedad (cuanto mayor el puntaje, mayor la ansiedad). La ecuación de regresión obtenida fue: Ansiedad = 30 − 2\*Horas. ¿Qué predice esta ecuación?
+
+    a\. Por cada hora adicional de meditación, la ansiedad aumenta en 2 puntos
+
+    b\. Si alguien medita 0 horas, su ansiedad estimada es de 30
+
+    c\. La meditación no tiene efecto sobre la ansiedad
+
+    d\. La ansiedad es 2 veces el número de horas de meditación
