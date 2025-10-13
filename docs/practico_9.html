@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>5&nbsp; Práctico: Describir los datos - Tablas y gráficos de barras (S05) – Practicuanti</title>
+<title>9&nbsp; Práctico: Distribución normal, muestreo y puntuaciones Z (S09) – Practicuanti</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./practico_6.html" rel="next">
-<link href="./practico_4.html" rel="prev">
+<link href="./entregable.html" rel="next">
+<link href="./practico_8.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./practico_5.html"><span class="chapter-title">Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./practico_9.html"><span class="chapter-title">Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -130,7 +130,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./practico_5.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span></a>
+  <a href="./practico_5.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -150,7 +150,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./practico_9.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span></a>
+  <a href="./practico_9.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -168,22 +168,17 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#variables-categóricas-tablas-y-gráficos-de-barra" id="toc-variables-categóricas-tablas-y-gráficos-de-barra" class="nav-link active" data-scroll-target="#variables-categóricas-tablas-y-gráficos-de-barra"><span class="header-section-number">5.1</span> Variables categóricas: tablas y gráficos de barra</a>
+  <li><a href="#distribución-normal-muestreo-y-puntuaciones-z" id="toc-distribución-normal-muestreo-y-puntuaciones-z" class="nav-link active" data-scroll-target="#distribución-normal-muestreo-y-puntuaciones-z"><span class="header-section-number">9.1</span> Distribución normal, muestreo y puntuaciones Z</a>
   <ul class="collapse">
   <li><a href="#lectura-asociada" id="toc-lectura-asociada" class="nav-link" data-scroll-target="#lectura-asociada">Lectura asociada</a></li>
   <li><a href="#contenidos" id="toc-contenidos" class="nav-link" data-scroll-target="#contenidos">Contenidos</a></li>
   </ul></li>
-  <li><a href="#los-uruguayos-y-la-confianza-en-las-instituciones" id="toc-los-uruguayos-y-la-confianza-en-las-instituciones" class="nav-link" data-scroll-target="#los-uruguayos-y-la-confianza-en-las-instituciones"><span class="header-section-number">5.2</span> Los uruguayos y la confianza en las instituciones</a>
-  <ul class="collapse">
-  <li><a href="#introducción" id="toc-introducción" class="nav-link" data-scroll-target="#introducción">Introducción</a></li>
-  <li><a href="#el-primer-paso-contar" id="toc-el-primer-paso-contar" class="nav-link" data-scroll-target="#el-primer-paso-contar">El primer paso: contar</a></li>
-  <li><a href="#cómo-se-sitúa-la-confianza-en-la-prensa-en-uruguay-en-relación-a-otros-países-del-mundo" id="toc-cómo-se-sitúa-la-confianza-en-la-prensa-en-uruguay-en-relación-a-otros-países-del-mundo" class="nav-link" data-scroll-target="#cómo-se-sitúa-la-confianza-en-la-prensa-en-uruguay-en-relación-a-otros-países-del-mundo">¿Cómo se sitúa la confianza en la prensa en Uruguay en relación a otros países del mundo?</a></li>
-  </ul></li>
-  <li><a href="#dos-variables-una-tabla" id="toc-dos-variables-una-tabla" class="nav-link" data-scroll-target="#dos-variables-una-tabla"><span class="header-section-number">5.3</span> Dos variables, una tabla</a></li>
-  <li><a href="#los-totales-mandan" id="toc-los-totales-mandan" class="nav-link" data-scroll-target="#los-totales-mandan"><span class="header-section-number">5.4</span> Los totales mandan</a></li>
-  <li><a href="#aristas---desempeños-en-lectura-en-3er-año-escolar" id="toc-aristas---desempeños-en-lectura-en-3er-año-escolar" class="nav-link" data-scroll-target="#aristas---desempeños-en-lectura-en-3er-año-escolar"><span class="header-section-number">5.5</span> ARISTAS - Desempeños en lectura en 3er año escolar</a></li>
-  <li><a href="#endis-2023---métodos-de-disciplina-violentos" id="toc-endis-2023---métodos-de-disciplina-violentos" class="nav-link" data-scroll-target="#endis-2023---métodos-de-disciplina-violentos"><span class="header-section-number">5.6</span> ENDIS 2023 - Métodos de disciplina violentos</a></li>
-  <li><a href="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" id="toc-y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="nav-link" data-scroll-target="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial"><span class="header-section-number">5.7</span> Y para terminar, un par de ejercicios múltiple opción, como los del parcial</a></li>
+  <li><a href="#juegos-con-dados" id="toc-juegos-con-dados" class="nav-link" data-scroll-target="#juegos-con-dados"><span class="header-section-number">9.2</span> Juegos con dados</a></li>
+  <li><a href="#tablero-de-galton" id="toc-tablero-de-galton" class="nav-link" data-scroll-target="#tablero-de-galton"><span class="header-section-number">9.3</span> Tablero de Galton</a></li>
+  <li><a href="#la-distribución-de-las-alturas-de-los-adultos" id="toc-la-distribución-de-las-alturas-de-los-adultos" class="nav-link" data-scroll-target="#la-distribución-de-las-alturas-de-los-adultos"><span class="header-section-number">9.4</span> La distribución de las alturas de los adultos</a></li>
+  <li><a href="#puntuaciones-z" id="toc-puntuaciones-z" class="nav-link" data-scroll-target="#puntuaciones-z"><span class="header-section-number">9.5</span> Puntuaciones Z</a></li>
+  <li><a href="#población-y-muestra-por-qué-estamos-interesados-en-la-probabilidad" id="toc-población-y-muestra-por-qué-estamos-interesados-en-la-probabilidad" class="nav-link" data-scroll-target="#población-y-muestra-por-qué-estamos-interesados-en-la-probabilidad"><span class="header-section-number">9.6</span> Población y muestra: ¿por qué estamos interesados en la probabilidad?</a></li>
+  <li><a href="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" id="toc-y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="nav-link" data-scroll-target="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial"><span class="header-section-number">9.7</span> Y para terminar, un par de ejercicios múltiple opción, como los del parcial</a></li>
   </ul>
 </nav>
     </div>
@@ -192,7 +187,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span></h1>
+<h1 class="title"><span class="chapter-title">Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span></h1>
 </div>
 
 
@@ -209,188 +204,235 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="variables-categóricas-tablas-y-gráficos-de-barra" class="level2" data-number="5.1">
-<h2 data-number="5.1" class="anchored" data-anchor-id="variables-categóricas-tablas-y-gráficos-de-barra"><span class="header-section-number">5.1</span> Variables categóricas: tablas y gráficos de barra</h2>
+<section id="distribución-normal-muestreo-y-puntuaciones-z" class="level2" data-number="9.1">
+<h2 data-number="9.1" class="anchored" data-anchor-id="distribución-normal-muestreo-y-puntuaciones-z"><span class="header-section-number">9.1</span> Distribución normal, muestreo y puntuaciones Z</h2>
 <section id="lectura-asociada" class="level3">
 <h3 class="anchored" data-anchor-id="lectura-asociada">Lectura asociada</h3>
-<p><a href="https://cuanti.psico.edu.uy/libro/02b-tablas_final.html">Capítulo 3. Tablas</a></p>
+<p>Capítulo 5</p>
+<p><a href="https://cuanti.psico.edu.uy/libro/04-SamplesPopulations.html#la-distribuci%C3%B3n-normal">Apartado 5.5 La distribución normal (incluye 5.5.1 Distribución de probabilidad)</a></p>
+<p><a href="https://cuanti.psico.edu.uy/libro/04-SamplesPopulations.html#muestras-poblaciones-y-muestreo">Apartado 5.8 Muestras, poblaciones y muestreo (hasta 5.8.1 Definir una población)</a></p>
+<p><a href="https://cuanti.psico.edu.uy/libro/04-SamplesPopulations.html#par%C3%A1metros-poblacionales-y-estad%C3%ADsticas-muestrales">Apartado 5.8.5 Parámetros poblacionales y estadísticas muestrales</a></p>
 </section>
 <section id="contenidos" class="level3">
 <h3 class="anchored" data-anchor-id="contenidos">Contenidos</h3>
 <ul>
-<li><p>Frecuencias absolutas, relativas y porcentuales. Frecuencia acumulada</p></li>
-<li><p>Tablas de frecuencia</p></li>
-<li><p>Tablas bivariadas</p></li>
-<li><p>Gráficos de barras&nbsp;</p></li>
-<li><p>Errores comunes en la interpretación: confundir proporciones absolutas y relativas, errores al leer el tipo de total (fila, columna o total general)</p></li>
+<li><p>Distribución normal</p></li>
+<li><p>Población y muestra</p></li>
+<li><p>Parámetros poblacionales y estadísticos muestrales</p></li>
+<li><p>Puntuaciones Z</p></li>
 </ul>
 </section>
 </section>
-<section id="los-uruguayos-y-la-confianza-en-las-instituciones" class="level2" data-number="5.2">
-<h2 data-number="5.2" class="anchored" data-anchor-id="los-uruguayos-y-la-confianza-en-las-instituciones"><span class="header-section-number">5.2</span> Los uruguayos y la confianza en las instituciones</h2>
-<section id="introducción" class="level3">
-<h3 class="anchored" data-anchor-id="introducción">Introducción</h3>
-<p>Imagina que accedemos a una muestra representativa de uruguayos adultos y les preguntamos los siguiente:</p>
+<section id="juegos-con-dados" class="level2" data-number="9.2">
+<h2 data-number="9.2" class="anchored" data-anchor-id="juegos-con-dados"><span class="header-section-number">9.2</span> Juegos con dados</h2>
 <ul>
-<li><p>¿Cuánta confianza tiene en la <strong>prensa</strong>?</p></li>
-<li><p>¿Cuánta confianza tiene en las <strong>iglesias</strong>?</p></li>
-<li><p>¿Cuánta confianza tiene en los <strong>sindicatos</strong>?</p></li>
-<li><p>¿Cuánta confianza tiene en la <strong>policía</strong>?</p></li>
-<li><p>¿Cuánta confianza tiene en las <strong>organizaciones de mujeres</strong>?</p></li>
-<li><p>¿Cuánta confianza tiene en las <strong>fuerzas armadas</strong>?</p></li>
+<li><p>Imagina que tiras un dado. ¿Cuál es la probabilidad de que salga cada una de las seis caras del dado? ¿Tienen todas las caras la misma posibilidad de salir? Entonces ¿cómo lo graficarías?</p></li>
+<li><p>Puedes simular esto en <a href="https://academo.org/demos/dice-roll-statistics/">Demo dados (click)</a>. Configura la opción <strong>Number of dice: 1</strong> y <strong>“Roll automatically”</strong>.</p></li>
+<li><p>Espera a que el gráfico se estabilice y observa la distribución.</p></li>
+<li><p>Ahora imagina que tiramos dos dados a la misma vez y nos interesa registrar la suma de los puntos de ambos dados en cada intento. ¿Son igualmente probables todos los resultados?&nbsp;</p></li>
+<li><p>Puedes simular esto en <a href="https://academo.org/demos/dice-roll-statistics/">Demo dados (click)</a>. Configura la opción <strong>Number of dice: 2</strong> y <strong>“Roll automatically”</strong>.</p></li>
+<li><p>Espera a que el gráfico se estabilice y observa la distribución.</p></li>
+<li><p>Revisa tu respuesta a ¿Son igualmente probables todos los valores?&nbsp;</p></li>
 </ul>
-<ol type="1">
-<li><p>Si las opciones de respuesta son <strong>Nada, Poco, Algo o Mucha</strong>, ¿cómo crees que sería la distribución de respuestas para cada pregunta? Basado en los videos y el capítulo 3 del libro, selecciona una forma de representarlo.</p></li>
-<li><p>Compara tu respuesta con la de tus compañeros</p></li>
-</ol>
 </section>
-<section id="el-primer-paso-contar" class="level3">
-<h3 class="anchored" data-anchor-id="el-primer-paso-contar">El primer paso: contar</h3>
-<p>Lo cierto es que estas preguntas forman parte de la <strong>Encuesta mundial de valores</strong>, una iniciativa internacional en la que participa Uruguay. Vamos a trabajar con los datos reales de esta encuesta, correspondientes a nuestro país.</p>
-<p><img src="imgs/wvs.png" class="img-fluid"></p>
-<p>Activa el botón <strong>Acerca de la base</strong> para conocer con mayor detalle de qué se trata.</p>
-<p>Activa el botón <strong>Mostrar resumen</strong>. Identifica variables y niveles de las variables disponibles en la base de datos del panel.</p>
-<p>Selecciona la variable categórica <strong>Confianza en la prensa</strong>.</p>
+<section id="tablero-de-galton" class="level2" data-number="9.3">
+<h2 data-number="9.3" class="anchored" data-anchor-id="tablero-de-galton"><span class="header-section-number">9.3</span> Tablero de Galton</h2>
+<p>Veamos otro caso específico en la siguiente animación: <a href="https://phet.colorado.edu/sims/html/plinko-probability/latest/plinko-probability_es.html">Tablero de Galton (click)</a></p>
+<ul>
+<li><p>Explora la animación en el botón <strong>Intro.</strong> Al tirar una canica, ¿en qué tubo es más probable que caiga?</p></li>
+<li><p>Realiza varios intentos usando la opción <strong>xTodo</strong></p></li>
+<li><p>Ahora explora la opción <strong>Laboratorio.</strong> Mantiene las especificaciones por defecto (<strong>Filas 12 y Probabilidad 0.5</strong>). Luego cambia la opción a <strong>Camino</strong>.&nbsp;</p></li>
+<li><p>¿Tiene una canica la misma probabilidad de caer en cada tubo? Luego de que el gráfico se estabiliza, observa la distribución.</p></li>
+<li><p>Imagina que pudieras prolongar la caída de canicas infinitamente. ¿Cómo sería la distribución?</p></li>
+<li><p>¿A qué refiere la opción de ajuste Probabilidad = 0.5? ¿Qué sucede con la distribución si cambias la Probabilidad a 0.7? ¿Y si la cambias a 0.2?</p></li>
+</ul>
+</section>
+<section id="la-distribución-de-las-alturas-de-los-adultos" class="level2" data-number="9.4">
+<h2 data-number="9.4" class="anchored" data-anchor-id="la-distribución-de-las-alturas-de-los-adultos"><span class="header-section-number">9.4</span> La distribución de las alturas de los adultos</h2>
+<ul>
+<li><p>Vamos a graficar a mano la distribución de las <strong>alturas</strong> de todas las personas <strong>adultas y de de sexo femenino</strong> de Uruguay. En otras palabras, queremos representar visualmente la probabilidad de observar las distintas alturas posibles en nuestra población.</p></li>
+<li><p>Ahora realiza el mismo gráfico para los <strong>adultos de sexo masculino</strong> de Uruguay.</p></li>
+<li><p>¿Cómo se vería cada representación?</p></li>
+</ul>
+<details>
+<summary>
+<strong>Desplegar luego de responder</strong>
+</summary>
+<p>La altura humana está afectada por una serie de factores genéticos y ambientales que dan lugar a su variabilidad en la población. No obstante, al igual que otros fenómenos de la naturaleza y rasgos en la psicología, a nivel poblacional la altura se distribuye siguiendo una curva normal. Pero ¿Qué implicancias tiene saber que la distribución es normal? Si conocemos la media y la desviación estándar de las alturas podemos tener una buena comprensión de la forma en que se distribuye esa característica, fenómeno o rasgo en una determinada población.</p>
+</details>
+<p>La siguiente figura corresponde a un estudio en el que se recuperaron datos de altura de 150.000 pares de gemelos nacidos entre 1886 y 1994 en Europa, América del Norte, Australia y Asia Oriental (Jelenkovic et al., 2016 en Our World in Data, 2024).</p>
+<p><strong>Distribución de alturas masculinas y femeninas (Our World in Data, 2024)</strong></p>
+<p>Distribución de alturas de adultos basado en estudios de cohortes de 20 países de Europa, América del Norte, Australia y Asia Oriental. Se muestra la distribución ponderada por el tamaño de la muestra a través de todas las cohortes nacidas entre 1980 y 1994 (y que entonces alcanzaron la edad de 18 años entre 1988 y 2012).</p>
+<details>
+<summary>
+<strong>Despliega la imagen solamente si ya resolviste la primera parte del ejercicio</strong>
+</summary>
+<p><img src="imgs/normal_owd_es.png" class="img-fluid"></p>
+<p><em>Nota.</em> Adaptado al español de Our World in Data (2024).</p>
+</details>
+<p><strong>Observemos algunos detalles:</strong></p>
+<ul>
+<li><p>¿Por qué el gráfico de mujeres tiene un pico más alto que el de hombres, si su altura promedio fue más baja?</p></li>
+<li><p>¿Cómo cambiaría la forma de la curva si la variabilidad en las alturas aumentara?</p></li>
+</ul>
+<details>
+<summary>
+<strong>¿Necesitas ayuda?</strong>
+</summary>
+<p>¿Recuerdas las siguientes animaciones del Capítulo 5 del libro? ¿Cuál corresponde a una media cambiante? ¿Cuál a la desviación estándar cambiante?</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="imgs/normal_media_sin_titulo.gif" class="img-fluid figure-img" width="369"></p>
+<figcaption>a.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="imgs/normal_sd_sin_titulo.gif" class="img-fluid figure-img" width="365"></p>
+<figcaption>b.</figcaption>
+</figure>
+</div>
+</details>
+<ul>
+<li><p>Si seleccionamos una persona de sexo femenino al azar, ¿qué probabilidad hay de que mida más de 171,8 cm?</p></li>
+<li><p>¿Qué proporción de casos esperás encontrar fuera del rango de ±2 desviaciones estándar?</p></li>
+</ul>
+<details>
+<summary>
+<strong>¿Necesitas ayuda?</strong>
+</summary>
+<p>Para auxiliarte en la interpretación de la distribución normal, utiliza el gráfico 5.20 del libro.</p>
+<p><img src="imgs/normal.png" class="img-fluid" width="548"></p>
+</details>
+<ul>
+<li>Basandote en la información ofrecida en el gráfico y tus conocimientos sobre las propiedades de la distribución normal, completa:</li>
+</ul>
+<p><em>Para la cohorte de nacimiento comprendida entre 1980 y 1994, los autores encontraron que la altura media de los hombres era de 178,4 centímetros (cm). La desviación estándar fue de 7,59 cm. Esto significa que el ___% de los hombres medían entre 170,8 y 186 cm; y el ___% entre 163,2 y 193,6 cm.</em></p>
+<p><em>Las mujeres eran, en promedio, más bajas, con una altura media de 164,7 cm y una desviación estándar de 7,07 cm. Esto implica que el ___ % de las mujeres medían entre 157,6 y 171,8 cm, y el ___% entre 150,6 y 178,84 cm.</em></p>
+</section>
+<section id="puntuaciones-z" class="level2" data-number="9.5">
+<h2 data-number="9.5" class="anchored" data-anchor-id="puntuaciones-z"><span class="header-section-number">9.5</span> Puntuaciones Z</h2>
+<ul>
+<li><p>Imagina que eres un profesional de la psicología interesado en la evaluación psicológica. Intenta pensar qué estrategias podrías utilizar si te interesa comparar:</p>
+<ul>
+<li><p>El desempeño de un sujeto en pruebas que tienen escalas de puntuación distintas</p></li>
+<li><p>El desempeño de un sujeto con respecto a una población de referencia</p></li>
+</ul></li>
+</ul>
+<details>
+<summary>
+<strong>¿Necesitas ayuda?</strong>
+</summary>
+<p>En el apartado 5.11 del libro vimos que cuando la distribución es normal es posible expresar las puntuaciones originales (por ejemplo, la puntuación directa obtenida en una prueba) en función de desviaciones estándar (DE) respecto a la media.</p>
+<p>Así, podemos decir que la puntuación obtenida por un estudiante se encuentra, por ejemplo, 2 DE por encima de la media (o, lo que es lo mismo, z = 2).</p>
+<p>Recuerda, se calcula:</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="imgs/z.png" class="img-fluid quarto-figure quarto-figure-left figure-img"></p>
+</figure>
+</div>
+</details>
+</section>
+<section id="población-y-muestra-por-qué-estamos-interesados-en-la-probabilidad" class="level2" data-number="9.6">
+<h2 data-number="9.6" class="anchored" data-anchor-id="población-y-muestra-por-qué-estamos-interesados-en-la-probabilidad"><span class="header-section-number">9.6</span> Población y muestra: ¿por qué estamos interesados en la probabilidad?</h2>
+<ul>
+<li><p>A partir de la lectura asignada para esta semana, define y diferencia los siguientes conceptos: <strong>población, muestra, parámetro y estadístico</strong> (Sección 5.12 del libro)</p></li>
+<li><p>Intercambia con tu subgrupo al respecto</p></li>
+</ul>
+<details>
+<summary>
+<strong>Desplegar luego de responder</strong>
+</summary>
+<p>Cuando investigamos sobre una temática, en general no es posible acceder a todos los casos que serían de nuestro interés (población). Generalmente solo voy a tener la capacidad de observar algunos (una muestra) y necesitamos algunas herramientas que nos permitan manejar la <strong>incertidumbre que conlleva trabajar con muestras.</strong></p>
+</details>
+<ul>
+<li><p>Explora la lección <a href="https://cuanti.psico.edu.uy/lecciones/lessons/sampling.html">Lección interactiva muestreo (click)</a> y contrasta tus definiciones con las ofrecidas al final de la lección</p></li>
+<li><p>Sitúa los cuatro conceptos en el marco de la base de datos con la que estás trabajando en el Entregable</p></li>
+<li><p>¿Qué es el error estándar? ¿Cuál es la relación entre éste y el tamaño de la muestra?</p></li>
+<li><p>Utilizando la web <a href="https://www.esci-dances.thenewstatistics.com/">The new statistics (click)</a>:<br>
+</p>
+<ul>
+<li><p>Compara la distribución de las medias muestrales (N=100) obtenidas a partir de una población con distribución normal (media=50, desvío estándar =20) con la obtenida a partir de una población con distribución uniforme-(media=50, desvío estándar=20).</p></li>
+<li><p>Realiza lo mismo que antes pero ahora utilizando muestras más pequeñas, por ejemplo N=10. ¿Qué ocurre con la distribución muestral de la media?</p></li>
+</ul></li>
+</ul>
+<details>
+<summary>
+<strong>Desplegar luego de responder</strong>
+</summary>
+<ul>
+<li><p>El hecho de tener que trabajar con muestras en lugar de poblaciones obliga a recurrir a la <strong>inferencia</strong> y a tener que establecer una <strong>regla de decisión en términos de probabilidad.</strong></p></li>
+<li><p>Requiere entender <strong>cómo se comportan las muestras cuando se extraen de distribuciones</strong> (definidas por la teoría de la probabilidad…).</p></li>
+</ul>
+</details>
+</section>
+<section id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="level2" data-number="9.7">
+<h2 data-number="9.7" class="anchored" data-anchor-id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial"><span class="header-section-number">9.7</span> Y para terminar, un par de ejercicios múltiple opción, como los del parcial</h2>
 <ol type="1">
-<li>¿Cuántas personas eligieron cada opción? ¿Cómo lo observaste? Encuentra formas alternativas de observar esto mismo.</li>
+<li>La distribución muestral de la media:</li>
 </ol>
-<details>
-<summary>
-<strong>¿Necesitás ayuda?</strong>
-</summary>
-<p>Elegir análisis &gt; Tabla de frecuencias univariada &gt; Elegir variable 1 (Confianza en la prensa) Puedes observar las frecuencias absolutas</p>
-<p><img src="imgs/prensa.png" class="img-fluid"></p>
-<p>Elegir análisis &gt; Gráfico de barras &gt; Elegir variable 1 (alguna categórica) &gt; Frecuencias: absolutas</p>
-<p><img src="imgs/prensa_barras.png" class="img-fluid"></p>
-</details>
+<!-- -->
+<ol type="a">
+<li><p>Describe la frecuencia de los distintos valores de la variable en la población.</p></li>
+<li><p>Es una distribución empírica que permite estimar el error en cada muestra.</p></li>
+<li><p>Es una distribución cuya media es la media poblacional, y cuyo desvío estándar aumenta con el tamaño de la muestra.</p></li>
+<li><p>Es una distribución teórica que muestra la frecuencia de los valores de media obtenidos a partir de todas las muestras posibles de una población.</p></li>
+</ol>
+<!-- -->
 <ol start="2" type="1">
-<li>¿Qué parte del total eligió cada opción? ¿Cómo lo observaste? Encuentra formas alternativas de observar esto mismo.</li>
+<li>Con respecto a las puntuaciones Z:</li>
 </ol>
-<details>
-<summary>
-<strong>¿Necesitás ayuda?</strong>
-</summary>
-<p>Elegir análisis &gt; Tabla de frecuencias univariada &gt; Elegir variable 1 (alguna categórica) Ahora puedes observar las frecuencias porcentuales</p>
-</details>
+<!-- -->
+<ol type="a">
+<li><p>Si la puntuación directa es positiva, la puntuación Z siempre será positiva.</p></li>
+<li><p>La media de las puntuaciones Z es 1, y su desvío es 0.</p></li>
+<li><p>Si la puntuación Z es negativa, la puntuación directa es inferior a la media.</p></li>
+<li><p>La media de las puntuaciones Z es 1, y su desvío será igual al desvío estándar de las puntuaciones directas.</p></li>
+</ol>
+<!-- -->
 <ol start="3" type="1">
-<li>Repite el procedimiento para las <strong>otras variables</strong> que refieren a la confianza en las instituciones (iglesias, sindicatos, policía, organizaciones de mujeres y fuerzas armadas) y compara la distribución de respuestas con tus hipótesis iniciales.</li>
+<li>Si la distribución de un conjunto de datos es normal, puede decirse que:</li>
 </ol>
-</section>
-<section id="cómo-se-sitúa-la-confianza-en-la-prensa-en-uruguay-en-relación-a-otros-países-del-mundo" class="level3">
-<h3 class="anchored" data-anchor-id="cómo-se-sitúa-la-confianza-en-la-prensa-en-uruguay-en-relación-a-otros-países-del-mundo">¿Cómo se sitúa la confianza en la prensa en Uruguay en relación a otros países del mundo?</h3>
-<p>Observa el siguiente gráfico basado en los datos de la Encuesta Mundial de Valores, en este caso con datos de 2020, extraído de la web <a href="https://ourworldindata.org/">Our World in Data</a>.</p>
-<p><strong>Porcentaje de personas que confían en los periodistas en su país, 2020</strong></p>
-<p>Porcentaje de entrevistados que respondieron “mucho” y “algo” a la pregunta “¿Qué tanto confías en los periodistas de tu país?”</p>
-<p>Accede al mapa interactivo <a href="https://ourworldindata.org/grapher/share-people-trust-journalists-country">aquí</a></p>
-<p><img src="imgs/prensa_mundial.png" class="img-fluid"></p>
+<!-- -->
+<ol type="a">
+<li><p>Puntuaciones Z entre -1 y 1 ocurren aprox. un 50% de las veces.</p></li>
+<li><p>Puntuaciones Z entre -1 y 1 ocurren aprox. un 95% de las veces.</p></li>
+<li><p>Puntuaciones Z entre -2 y 2 ocurren aprox. un 68% de las veces.</p></li>
+<li><p>Puntuaciones Z entre -2 y 2 ocurren aprox. un 95% de las veces.</p></li>
+</ol>
+<!-- -->
 <ol start="4" type="1">
-<li><p>¿De qué forma fueron calculadas las frecuencias? ¿Recuerdas qué nombre recibe ese tratamiento de las frecuencias?</p></li>
-<li><p>¿Para qué otras variables de la base Encuesta Mundial de Valores tendría sentido calcular las frecuencias de ese modo?</p></li>
+<li>Un estudiante sacó 540 tanto en la prueba de ciencias como en la de matemáticas de SERCE. Al comparar el resultado del estudiante con el resto de los estudiantes evaluados se puede afirmar que:</li>
 </ol>
-</section>
-</section>
-<section id="dos-variables-una-tabla" class="level2" data-number="5.3">
-<h2 data-number="5.3" class="anchored" data-anchor-id="dos-variables-una-tabla"><span class="header-section-number">5.3</span> Dos variables, una tabla</h2>
-<p>Hasta ahora venimos trabajando con una única variable a la vez. Demos un paso más: ahora nos interesa poner en relación dos variables categóricas.</p>
-<p>Por ejemplo, vamos a poner en relación la variable <strong>Confianza en la prensa</strong> con otra variable (<strong>variable 2</strong>). En otras palabras, queremos ver cuántos casos caen simultáneamente en cada combinación posible de categorías.</p>
-<ol type="1">
-<li>Selecciona otra variable (variable 2) que tenga sentido examinar en forma conjunta con la variable Confianza en la prensa.</li>
+<!-- -->
+<ol type="a">
+<li><p>La nota de Juan de matemáticas se encuentra a -0,40 desvíos estándar de la media. Esto quiere decir que Juan está por encima de la media.</p></li>
+<li><p>En matemáticas Juan está a -1 desvío estándar de la media y en ciencias a +1. Esto quiere decir que a Juan le fue mejor en ciencias pero no en matemáticas en comparación con el resto de sus compañeros.</p></li>
+<li><p>Juan tiene un rendimiento promedio en ambas pruebas.</p></li>
+<li><p>La puntuación de Juan se encuentra a 0,02 desvíos estándar en ciencias y a -0,40 en matemáticas. Esto quiere decir que Juan tiene una puntuación parecida a la media en ciencias pero en matemática le fue un poco por debajo del promedio.</p></li>
 </ol>
-<details>
-<summary>
-<strong>¿Necesitás inspiración?</strong>
-</summary>
-<p>Por ejemplo, Confianza en la prensa y Nivel educativo En Uruguay, ¿el nivel educativo de las personas se asocia a su nivel de confianza en la prensa?</p>
-</details>
-<ol start="2" type="1">
-<li>Obtiene una <strong>tabla de frecuencia bivariada (absolutas).</strong> ¿Cuántas personas (casos) hay en cada cruce de categorías?</li>
-<li>Ahora, para la misma tabla bivariada modifica la opción Frecuencias para mostrar las <strong>Frecuencias porcentuales.</strong> Observa los cambios si los porcentajes están calculados <strong>por fila o por columna</strong></li>
-<li>Formula 3 preguntas específicas que se podrían contestar a partir de la tabla (en función de la pregunta, considera si necesitas visualizar los totales por fila o por columna).</li>
-</ol>
-<details>
-<summary>
-<strong>¿Necesitás ayuda?</strong>
-</summary>
-<p>Ejemplo de pregunta: Entre las personas que tienen mucha confianza en la prensa ¿Cuántas alcanzaron el nivel de Posgrado-Doctorado?</p>
-<p><img src="imgs/bivariada.png" class="img-fluid"></p>
-</details>
+<!-- -->
 <ol start="5" type="1">
-<li>Plantea hipótesis respecto a otros pares de variables. Realiza los análisis correspondientes en el panel de análisis y contrasta los resultados con tus hipótesis iniciales.</li>
+<li>En un estudio realizado en la Facultad de Psicología (Paz et al., 2016) acerca de la incidencia de la autoestima en la toma de decisiones, se solicitó a los participantes que cuantificaran su nivel de “enojo” ante diferentes situaciones. En el siguiente gráfico se muestra, mediante diagramas de cajas, la distribución de puntuaciones de “enojo”, según sexo y nivel de autoestima.</li>
 </ol>
-</section>
-<section id="los-totales-mandan" class="level2" data-number="5.4">
-<h2 data-number="5.4" class="anchored" data-anchor-id="los-totales-mandan"><span class="header-section-number">5.4</span> Los totales mandan</h2>
-<p>Ahora, manteniendo las mismas variables (variable 1: Confianza en la Prensa, variable 2: Nivel educativo), cambia la especificación del panel de Frecuencias absolutas a <strong>Frecuencias porcentuales</strong>. Puedes visualizar los <strong>porcentajes por filas o por columnas</strong>.</p>
-<ol type="1">
-<li><p>Qué forma es oportuna para responder la pregunta “¿De todas las personas cuyo máximo nivel educativo es Maestría, qué porcentaje tiene mucha confianza en la prensa?”</p></li>
-<li><p>Qué forma es oportuna para responder la pregunta “¿De todas las personas que tienen mucha confianza en la prensa, qué porcentaje completó Maestría?”</p></li>
-<li><p>Ahora vamos a visualizar estos mismos datos de forma gráfica. Busca una solución gráfica útil para responder la primera pregunta. Ahora intentalo para la segunda pregunta.</p></li>
+<p><img src="imgs/autoestima.png" class="img-fluid"></p>
+<p>A partir del gráfico, indique cuál de las siguientes afirmaciones es correcta.</p>
+<ol type="a">
+<li><p>Hay mayor variabilidad de los niveles de enojo en los hombres que en las mujeres.</p></li>
+<li><p>Los hombres con autoestima alta reportan mayor nivel de enojo que los hombres con autoestima baja.</p></li>
+<li><p>Los mujeres con autoestima alta reportan mayor nivel de enojo que las mujeres con autoestima baja.</p></li>
+<li><p>Para personas con valores de autoestima alta, hay mayor variabilidad en los niveles de enojo en los hombres que en las mujeres. El patrón es inverso para valores de autoestima bajos.</p></li>
 </ol>
-<details>
-<summary>
-<strong>¿Necesitás ayuda?</strong>
-</summary>
-<p>Elegir análisis &gt; Gráfico de barras &gt; Elegir variable 1: Confianza en la Prensa, variable 2: Nivel educativo &gt; Barras: apiladas &gt; Frecuencias: porcentuales</p>
-<p>Ahora invierte las variables 1 y 2 en el panel. Observa el nuevo gráfico.</p>
-</details>
-</section>
-<section id="aristas---desempeños-en-lectura-en-3er-año-escolar" class="level2" data-number="5.5">
-<h2 data-number="5.5" class="anchored" data-anchor-id="aristas---desempeños-en-lectura-en-3er-año-escolar"><span class="header-section-number">5.5</span> ARISTAS - Desempeños en lectura en 3er año escolar</h2>
-<p>El siguiente gráfico fue trabajado en uno de los videos correspondientes a esta semana. El mismo fue extraído del informe de Aristas 2023, publicado por el Instituto Nacional de Evaluación Educativa.</p>
-<p>Considerando que refiere a alumnos de tercer año escolar de Uruguay, y que las variables representadas son el Contexto socioeconómico y cultural del centro (niveles Muy favorable, Favorable, etc.) y Desempeño en lectura (Nivel 1, Nivel 2, etc.).</p>
-<ol type="1">
-<li><p>¿Qué título le darías al gráfico? ¿Cómo están expresadas las frecuencias? Recuerda explicitar si la representación fue realizada según contexto socioeconómico o según desempeño en lectura.</p></li>
-<li><p>¿Qué afirmaciones puedes realizar a partir de las distribuciones observadas en el nivel socioeconómico y cultural Muy favorable y en el nivel Muy desfavorable?</p></li>
+<!-- -->
+<ol start="6" type="1">
+<li>En el estudio de la pregunta anterior (autoestima y enojo), el valor medio de enojo en hombres de autoestima alta es 2, y el desvío estándar 2,5. Un participante (llamémosle Pedro) reportó autoestima alta y un enojo de 4,5. ¿Cuál es el valor Z de la puntuación de Pedro?</li>
 </ol>
-<p><img src="imgs/ref_color.jpg" class="img-fluid"> <img src="imgs/aristas.png" class="img-fluid"></p>
-</section>
-<section id="endis-2023---métodos-de-disciplina-violentos" class="level2" data-number="5.6">
-<h2 data-number="5.6" class="anchored" data-anchor-id="endis-2023---métodos-de-disciplina-violentos"><span class="header-section-number">5.6</span> ENDIS 2023 - Métodos de disciplina violentos</h2>
-<p>El siguiente gráfico forma parte de un informe del MIDES basado en la Encuesta de Nutrición Desarrollo Infantil y Salud (ENDIS) 2023, y representa la prevalencia de métodos de disciplina violentos, según características del hogar.</p>
-<p><img src="imgs/endis_disciplina.png" class="img-fluid"></p>
-<p>Este texto es una transcripción del informe, con algunas omisiones y modificaciones. Observa el gráfico y completa la información faltante en el texto.</p>
-<p>En cuanto al nivel de ingresos del hogar, se observa que una proporción ____________ de niños y niñas fueron sometidos a métodos de disciplina que involucraban violencia física en los hogares de menor ingreso comparado con los de mayor ingreso ( ___ % en el tercil más bajo frente a ___ % en el más alto). Por el contrario, los niños y niñas en el tercil de ingresos _____________&nbsp; fueron sometidos en mayor medida a la violencia psicológica ( ___ % frente a ___ % en el más bajo).</p>
-<p>Por otro lado, en cuanto a la región del país, el porcentaje de niños y niñas que fueron sometidos a la violencia psicológica fue mayor en _____________&nbsp; ( ___ %) que en _______ ( ___ %), mientras que no se observaron diferencias importantes en cuanto a la prevalencia de _____________.</p>
-</section>
-<section id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="level2" data-number="5.7">
-<h2 data-number="5.7" class="anchored" data-anchor-id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial"><span class="header-section-number">5.7</span> Y para terminar, un par de ejercicios múltiple opción, como los del parcial</h2>
-<p>Usando el <a href="https://cuanti.psico.edu.uy/panel/">Panel</a> de análisis de datos, empleando tablas de frecuencia bivariadas, indique la <strong>afirmación correcta</strong> para cada ejercicio.</p>
-<ol type="1">
-<li><p>A partir de la base de datos <strong>SERCE</strong>, cruce las variables <strong>Educación_Madre</strong> y <strong>Educación_Padre</strong></p>
+<!-- -->
 <ol type="a">
-<li>La mayoría de los estudiantes cuya madre tiene “Primaria” como mayor nivel educativo alcanzado, tienen padres con igual nivel educativo</li>
-<li>De entre aquellos cuya madre tiene “Primaria” como mayor nivel alcanzado, el 17.7 % tiene padre con nivel “Secundaria”</li>
-<li>Un 69.1 % de los estudiantes tiene padre y madre con nivel de educación universitaria</li>
-<li>Un 34.2 % de los estudiantes tiene madre con estudios universitarios y padre con ‘Primaria’ como mayor nivel educativo alcanzado</li>
-</ol></li>
-<li><p>A partir de la base de datos <strong>SERCE</strong>, cruce las variables <strong>Vives_Madre</strong> y <strong>Vives_Padre</strong></p>
-<ol type="a">
-<li>El 97.5 % de los estudiantes vive con ambos padre y madre</li>
-<li>De aquellos estudiantes que NO viven con su padre, el 26 % vive con su madre</li>
-<li>De aquellos estudiantes que SÍ viven con su padre, el 2,4 % NO viven con su madre</li>
-<li>El 26 % de los estudiantes NO vive con el padre y SÍ viven con la madre</li>
-</ol></li>
-<li><p>A partir de la base de datos <strong>Encuesta Nacional de Psicólogos,</strong> cruce las variables <strong>Vivienda_Ud_es</strong> y <strong>Estado_conyugal</strong></p>
-<ol type="a">
-<li>El 9.5 % de los psicólogos que se encuentran en una unión libre es miembro de una cooperativa de ayuda mutua</li>
-<li>El 42.8 % de los que son inquilinos o arrendatarios se encuentran solteros</li>
-<li>El 41.1 % de los psicólogos casados son propietarios y ya pagaron la vivienda</li>
-<li>El 22.2 % de los propietarios que están pagando su vivienda son viudos</li>
-</ol></li>
-<li><p>A partir de la base de datos <strong>Censo Nacional de Psicólogos</strong>, cruce las variables <strong>Vivienda_Ud_es</strong> y <strong>Estado_conyugal</strong></p>
-<ol type="a">
-<li>El 80,6% de las psicólogas son inquilinas o arrendatarias</li>
-<li>El 14.7% de los psicólogos es propietario y ya pagó su vivienda</li>
-<li>El 2.1% de las psicólogas son miembro de una cooperativa de ayuda mutua</li>
-<li>El 16.6% de los encuestados son ocupantes gratuitos</li>
-</ol></li>
-<li><p>En la base <strong>Aristas,</strong> observa las variables <strong>ESCS_Alumno_cat</strong> y <strong>Niveles_MAT</strong> a partir de un <strong>gráfico de barras apiladas</strong></p>
-<ol type="a">
-<li>No se observa relación entre el desempeño en matemática y Estatus socioeconómico y cultural del estudiante</li>
-<li>La mayoría de los estudiantes que integran el quintil 1 de estatus socioeconómico y cultural tienen niveles de desempeño en matemática menores o iguales a N2</li>
-<li>La mayoría de los estudiantes que integran el quintil 3 de estatus socioeconómico y cultural tienen niveles de desempeño en matemática menores o iguales a N2</li>
-<li>La mayoría de los estudiantes con desempeño en matemática N3 pertenecen al quintil 3 de estatus socioeconómico y cultural</li>
-</ol></li>
+<li><p>Z = 6,5</p></li>
+<li><p>Z = 1</p></li>
+<li><p>Z = 0</p></li>
+<li><p>Un valor de Z negativo porque está por encima de la media.</p></li>
 </ol>
 
 
@@ -798,13 +840,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./practico_4.html" class="pagination-link" aria-label="Práctico: Describir los datos - varianza y desvío estándar (S04)">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Práctico: Describir los datos - varianza y desvío estándar (S04)</span></span>
+      <a href="./practico_8.html" class="pagination-link" aria-label="Práctico: Regresión (S08)">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Práctico: Regresión (S08)</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./practico_6.html" class="pagination-link" aria-label="Práctico: Correlación (S06)">
-        <span class="nav-page-text"><span class="chapter-title">Práctico: Correlación (S06)</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./entregable.html" class="pagination-link" aria-label="Entregable final: Informe de análisis de datos">
+        <span class="nav-page-text"><span class="chapter-title">Entregable final: Informe de análisis de datos</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

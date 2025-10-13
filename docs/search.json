@@ -450,13 +450,93 @@
     ]
   },
   {
+    "objectID": "practico_9.html",
+    "href": "practico_9.html",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "section": "",
+    "text": "9.1 Distribución normal, muestreo y puntuaciones Z",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_9.html#distribución-normal-muestreo-y-puntuaciones-z",
+    "href": "practico_9.html#distribución-normal-muestreo-y-puntuaciones-z",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "section": "",
+    "text": "Lectura asociada\nCapítulo 5\nApartado 5.5 La distribución normal (incluye 5.5.1 Distribución de probabilidad)\nApartado 5.8 Muestras, poblaciones y muestreo (hasta 5.8.1 Definir una población)\nApartado 5.8.5 Parámetros poblacionales y estadísticas muestrales\n\n\nContenidos\n\nDistribución normal\nPoblación y muestra\nParámetros poblacionales y estadísticos muestrales\nPuntuaciones Z",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_9.html#juegos-con-dados",
+    "href": "practico_9.html#juegos-con-dados",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "section": "9.2 Juegos con dados",
+    "text": "9.2 Juegos con dados\n\nImagina que tiras un dado. ¿Cuál es la probabilidad de que salga cada una de las seis caras del dado? ¿Tienen todas las caras la misma posibilidad de salir? Entonces ¿cómo lo graficarías?\nPuedes simular esto en Demo dados (click). Configura la opción Number of dice: 1 y “Roll automatically”.\nEspera a que el gráfico se estabilice y observa la distribución.\nAhora imagina que tiramos dos dados a la misma vez y nos interesa registrar la suma de los puntos de ambos dados en cada intento. ¿Son igualmente probables todos los resultados? \nPuedes simular esto en Demo dados (click). Configura la opción Number of dice: 2 y “Roll automatically”.\nEspera a que el gráfico se estabilice y observa la distribución.\nRevisa tu respuesta a ¿Son igualmente probables todos los valores?",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_9.html#tablero-de-galton",
+    "href": "practico_9.html#tablero-de-galton",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "section": "9.3 Tablero de Galton",
+    "text": "9.3 Tablero de Galton\nVeamos otro caso específico en la siguiente animación: Tablero de Galton (click)\n\nExplora la animación en el botón Intro. Al tirar una canica, ¿en qué tubo es más probable que caiga?\nRealiza varios intentos usando la opción xTodo\nAhora explora la opción Laboratorio. Mantiene las especificaciones por defecto (Filas 12 y Probabilidad 0.5). Luego cambia la opción a Camino. \n¿Tiene una canica la misma probabilidad de caer en cada tubo? Luego de que el gráfico se estabiliza, observa la distribución.\nImagina que pudieras prolongar la caída de canicas infinitamente. ¿Cómo sería la distribución?\n¿A qué refiere la opción de ajuste Probabilidad = 0.5? ¿Qué sucede con la distribución si cambias la Probabilidad a 0.7? ¿Y si la cambias a 0.2?",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_9.html#la-distribución-de-las-alturas-de-los-adultos",
+    "href": "practico_9.html#la-distribución-de-las-alturas-de-los-adultos",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "section": "9.4 La distribución de las alturas de los adultos",
+    "text": "9.4 La distribución de las alturas de los adultos\n\nVamos a graficar a mano la distribución de las alturas de todas las personas adultas y de de sexo femenino de Uruguay. En otras palabras, queremos representar visualmente la probabilidad de observar las distintas alturas posibles en nuestra población.\nAhora realiza el mismo gráfico para los adultos de sexo masculino de Uruguay.\n¿Cómo se vería cada representación?\n\n\n\nDesplegar luego de responder\n\nLa altura humana está afectada por una serie de factores genéticos y ambientales que dan lugar a su variabilidad en la población. No obstante, al igual que otros fenómenos de la naturaleza y rasgos en la psicología, a nivel poblacional la altura se distribuye siguiendo una curva normal. Pero ¿Qué implicancias tiene saber que la distribución es normal? Si conocemos la media y la desviación estándar de las alturas podemos tener una buena comprensión de la forma en que se distribuye esa característica, fenómeno o rasgo en una determinada población.\n\nLa siguiente figura corresponde a un estudio en el que se recuperaron datos de altura de 150.000 pares de gemelos nacidos entre 1886 y 1994 en Europa, América del Norte, Australia y Asia Oriental (Jelenkovic et al., 2016 en Our World in Data, 2024).\nDistribución de alturas masculinas y femeninas (Our World in Data, 2024)\nDistribución de alturas de adultos basado en estudios de cohortes de 20 países de Europa, América del Norte, Australia y Asia Oriental. Se muestra la distribución ponderada por el tamaño de la muestra a través de todas las cohortes nacidas entre 1980 y 1994 (y que entonces alcanzaron la edad de 18 años entre 1988 y 2012).\n\n\nDespliega la imagen solamente si ya resolviste la primera parte del ejercicio\n\n\nNota. Adaptado al español de Our World in Data (2024).\n\nObservemos algunos detalles:\n\n¿Por qué el gráfico de mujeres tiene un pico más alto que el de hombres, si su altura promedio fue más baja?\n¿Cómo cambiaría la forma de la curva si la variabilidad en las alturas aumentara?\n\n\n\n¿Necesitas ayuda?\n\n¿Recuerdas las siguientes animaciones del Capítulo 5 del libro? ¿Cuál corresponde a una media cambiante? ¿Cuál a la desviación estándar cambiante?\n\n\n\na.\n\n\n\n\n\nb.\n\n\n\n\nSi seleccionamos una persona de sexo femenino al azar, ¿qué probabilidad hay de que mida más de 171,8 cm?\n¿Qué proporción de casos esperás encontrar fuera del rango de ±2 desviaciones estándar?\n\n\n\n¿Necesitas ayuda?\n\nPara auxiliarte en la interpretación de la distribución normal, utiliza el gráfico 5.20 del libro.\n\n\n\nBasandote en la información ofrecida en el gráfico y tus conocimientos sobre las propiedades de la distribución normal, completa:\n\nPara la cohorte de nacimiento comprendida entre 1980 y 1994, los autores encontraron que la altura media de los hombres era de 178,4 centímetros (cm). La desviación estándar fue de 7,59 cm. Esto significa que el ___% de los hombres medían entre 170,8 y 186 cm; y el ___% entre 163,2 y 193,6 cm.\nLas mujeres eran, en promedio, más bajas, con una altura media de 164,7 cm y una desviación estándar de 7,07 cm. Esto implica que el ___ % de las mujeres medían entre 157,6 y 171,8 cm, y el ___% entre 150,6 y 178,84 cm.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_9.html#puntuaciones-z",
+    "href": "practico_9.html#puntuaciones-z",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "section": "9.5 Puntuaciones Z",
+    "text": "9.5 Puntuaciones Z\n\nImagina que eres un profesional de la psicología interesado en la evaluación psicológica. Intenta pensar qué estrategias podrías utilizar si te interesa comparar:\n\nEl desempeño de un sujeto en pruebas que tienen escalas de puntuación distintas\nEl desempeño de un sujeto con respecto a una población de referencia\n\n\n\n\n¿Necesitas ayuda?\n\nEn el apartado 5.11 del libro vimos que cuando la distribución es normal es posible expresar las puntuaciones originales (por ejemplo, la puntuación directa obtenida en una prueba) en función de desviaciones estándar (DE) respecto a la media.\nAsí, podemos decir que la puntuación obtenida por un estudiante se encuentra, por ejemplo, 2 DE por encima de la media (o, lo que es lo mismo, z = 2).\nRecuerda, se calcula:",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_9.html#población-y-muestra-por-qué-estamos-interesados-en-la-probabilidad",
+    "href": "practico_9.html#población-y-muestra-por-qué-estamos-interesados-en-la-probabilidad",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "section": "9.6 Población y muestra: ¿por qué estamos interesados en la probabilidad?",
+    "text": "9.6 Población y muestra: ¿por qué estamos interesados en la probabilidad?\n\nA partir de la lectura asignada para esta semana, define y diferencia los siguientes conceptos: población, muestra, parámetro y estadístico (Sección 5.12 del libro)\nIntercambia con tu subgrupo al respecto\n\n\n\nDesplegar luego de responder\n\nCuando investigamos sobre una temática, en general no es posible acceder a todos los casos que serían de nuestro interés (población). Generalmente solo voy a tener la capacidad de observar algunos (una muestra) y necesitamos algunas herramientas que nos permitan manejar la incertidumbre que conlleva trabajar con muestras.\n\n\nExplora la lección Lección interactiva muestreo (click) y contrasta tus definiciones con las ofrecidas al final de la lección\nSitúa los cuatro conceptos en el marco de la base de datos con la que estás trabajando en el Entregable\n¿Qué es el error estándar? ¿Cuál es la relación entre éste y el tamaño de la muestra?\nUtilizando la web The new statistics (click):\n\n\nCompara la distribución de las medias muestrales (N=100) obtenidas a partir de una población con distribución normal (media=50, desvío estándar =20) con la obtenida a partir de una población con distribución uniforme-(media=50, desvío estándar=20).\nRealiza lo mismo que antes pero ahora utilizando muestras más pequeñas, por ejemplo N=10. ¿Qué ocurre con la distribución muestral de la media?\n\n\n\n\nDesplegar luego de responder\n\n\nEl hecho de tener que trabajar con muestras en lugar de poblaciones obliga a recurrir a la inferencia y a tener que establecer una regla de decisión en términos de probabilidad.\nRequiere entender cómo se comportan las muestras cuando se extraen de distribuciones (definidas por la teoría de la probabilidad…).",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_9.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "href": "practico_9.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "section": "9.7 Y para terminar, un par de ejercicios múltiple opción, como los del parcial",
+    "text": "9.7 Y para terminar, un par de ejercicios múltiple opción, como los del parcial\n\nLa distribución muestral de la media:\n\n\n\nDescribe la frecuencia de los distintos valores de la variable en la población.\nEs una distribución empírica que permite estimar el error en cada muestra.\nEs una distribución cuya media es la media poblacional, y cuyo desvío estándar aumenta con el tamaño de la muestra.\nEs una distribución teórica que muestra la frecuencia de los valores de media obtenidos a partir de todas las muestras posibles de una población.\n\n\n\nCon respecto a las puntuaciones Z:\n\n\n\nSi la puntuación directa es positiva, la puntuación Z siempre será positiva.\nLa media de las puntuaciones Z es 1, y su desvío es 0.\nSi la puntuación Z es negativa, la puntuación directa es inferior a la media.\nLa media de las puntuaciones Z es 1, y su desvío será igual al desvío estándar de las puntuaciones directas.\n\n\n\nSi la distribución de un conjunto de datos es normal, puede decirse que:\n\n\n\nPuntuaciones Z entre -1 y 1 ocurren aprox. un 50% de las veces.\nPuntuaciones Z entre -1 y 1 ocurren aprox. un 95% de las veces.\nPuntuaciones Z entre -2 y 2 ocurren aprox. un 68% de las veces.\nPuntuaciones Z entre -2 y 2 ocurren aprox. un 95% de las veces.\n\n\n\nUn estudiante sacó 540 tanto en la prueba de ciencias como en la de matemáticas de SERCE. Al comparar el resultado del estudiante con el resto de los estudiantes evaluados se puede afirmar que:\n\n\n\nLa nota de Juan de matemáticas se encuentra a -0,40 desvíos estándar de la media. Esto quiere decir que Juan está por encima de la media.\nEn matemáticas Juan está a -1 desvío estándar de la media y en ciencias a +1. Esto quiere decir que a Juan le fue mejor en ciencias pero no en matemáticas en comparación con el resto de sus compañeros.\nJuan tiene un rendimiento promedio en ambas pruebas.\nLa puntuación de Juan se encuentra a 0,02 desvíos estándar en ciencias y a -0,40 en matemáticas. Esto quiere decir que Juan tiene una puntuación parecida a la media en ciencias pero en matemática le fue un poco por debajo del promedio.\n\n\n\nEn un estudio realizado en la Facultad de Psicología (Paz et al., 2016) acerca de la incidencia de la autoestima en la toma de decisiones, se solicitó a los participantes que cuantificaran su nivel de “enojo” ante diferentes situaciones. En el siguiente gráfico se muestra, mediante diagramas de cajas, la distribución de puntuaciones de “enojo”, según sexo y nivel de autoestima.\n\n\nA partir del gráfico, indique cuál de las siguientes afirmaciones es correcta.\n\nHay mayor variabilidad de los niveles de enojo en los hombres que en las mujeres.\nLos hombres con autoestima alta reportan mayor nivel de enojo que los hombres con autoestima baja.\nLos mujeres con autoestima alta reportan mayor nivel de enojo que las mujeres con autoestima baja.\nPara personas con valores de autoestima alta, hay mayor variabilidad en los niveles de enojo en los hombres que en las mujeres. El patrón es inverso para valores de autoestima bajos.\n\n\n\nEn el estudio de la pregunta anterior (autoestima y enojo), el valor medio de enojo en hombres de autoestima alta es 2, y el desvío estándar 2,5. Un participante (llamémosle Pedro) reportó autoestima alta y un enojo de 4,5. ¿Cuál es el valor Z de la puntuación de Pedro?\n\n\n\nZ = 6,5\nZ = 1\nZ = 0\nUn valor de Z negativo porque está por encima de la media.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+    ]
+  },
+  {
     "objectID": "entregable.html",
     "href": "entregable.html",
     "title": "Entregable final: Informe de análisis de datos",
     "section": "",
     "text": "Esta actividad es obligatoria para los estudiantes que cursan en modalidad seminario (si sos estudiante de plenario te lo ofrecemos como un recurso más para practicar).\nLa propuesta consiste en realizar una secuencia de análisis de datos a partir de una de las bases disponibles en cuanti.psico.edu.uy/panel (en particular ENDIS, ARISTAS, SERCE o Triada Oscura).\nLa idea es que este trabajo te ayude a desarrollar cierta autonomía en el planteo de preguntas de investigación, a darte cuenta qué análisis son adecuados según las variables disponibles y la pregunta que pretendes responder y, por último, que puedas ensayar la comunicación escrita de estos resultados.\nEste trabajo se va a desarrollar paso a paso a lo largo del semestre según avanzamos en las distintas unidades temáticas, hasta realizar la entrega final (a coordinar con tu docente referente de seminario).\nPara realizar el trabajo debes descargar el modelo de reporte en Word, que ya contiene las secciones y formato esperado del entregable.\n⬇️️️📄Descargar en Word📄⬇️",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Entregable final: Informe de análisis de datos</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Entregable final: Informe de análisis de datos</span>"
     ]
   }
 ]

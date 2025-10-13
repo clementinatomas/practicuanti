@@ -19,7 +19,7 @@ number-sections: true
 
 ## Regresión: Lección interactiva
 
-Ingresa a la [Lección Interactiva Regresión Lineal](https://cuanti.psico.edu.uy/lecciones/lessons/regression)
+Ingresa a la [Lección Interactiva Regresión Lineal](https://cuanti.psico.edu.uy/lecciones/lessons/regression.html)
 
 Explora la lección y define: - línea de regresión, pendiente, intercepto y R²
 
@@ -39,7 +39,7 @@ En este práctico vamos a responder la siguiente pregunta: 
 
 3.  Cada estudiante deberá realizar un gráfico de dispersión con los datos del grupo. A continuación, interpreta junto con tus compañeros el gráfico obtenido.
 
-4.  Realiza una regresión lineal sobre los datos utilizando [el editor de la lección interactiva de regresión](https://cuanti.psico.edu.uy/lecciones/lessons/regression-editable)
+4.  Realiza una regresión lineal sobre los datos utilizando [el editor de la lección interactiva de regresión](https://cuanti.psico.edu.uy/lecciones/lessons/regression-editable.html)
 
 5.  ¿Cuál es el valor del coeficiente de correlación de Pearson obtenido para las variables relacionadas?
 
