@@ -530,13 +530,93 @@
     ]
   },
   {
+    "objectID": "practico_10.html",
+    "href": "practico_10.html",
+    "title": "Intervalo de confianza y Error estándar (S10)",
+    "section": "",
+    "text": "Lectura asociada\nCapítulo 5. Probabilidad, muestreo y estimación\nSección 5.12. Estimación de parámetros poblacionales\nSección 5.13. Estimación de un intervalo de confianza",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_10.html#lección-interactiva-muestreo",
+    "href": "practico_10.html#lección-interactiva-muestreo",
+    "title": "Intervalo de confianza y Error estándar (S10)",
+    "section": "10.1 Lección interactiva: Muestreo",
+    "text": "10.1 Lección interactiva: Muestreo\n\nA partir de la lectura (Sección 5.12. del libro) y videos asignados a esta semana, define y diferencia los siguientes conceptos: población, muestra, parámetro y estadístico \nIntercambia con tu subgrupo al respecto\n\n\n\nDesplegar luego de responder\n\nCuando investigamos sobre una temática, en general no es posible acceder a todos los casos de interés (población). Generalmente solo vamos a tener la capacidad de observar algunos casos (una muestra) y necesitamos algunas herramientas que nos permitan manejar la incertidumbre que conlleva trabajar con muestras.\n\nEl hecho de tener que trabajar con muestras en lugar de poblaciones obliga a recurrir a la inferencia y a tener que establecer una regla de decisión en términos de probabilidad.\nRequiere entender cómo se comportan las muestras cuando se extraen de distribuciones (definidas por la teoría de la probabilidad…).\n\n\n\nExplora la Lección interactiva (Muestreo) y contrasta tus definiciones con las ofrecidas al final de la lección\nSitúa los cuatro conceptos en el marco de la base de datos con la que estás trabajando en el Entregable.\n\nEn la lección, activa la simulación con los controles que vienen por defecto: muestra n = 10, número de muestras = 100, velocidad normal)\n\n¿Qué variable se está midiendo?\n¿Qué representa cada uno de los 3 gráficos?\n¿Qué representa la línea roja? ¿La azul? ¿Y la verde?\nUna vez que la simulación termine, observa el gráfico de la distribución muestral de la media.\nAhora aumenta el tamaño de la muestra a n = 25, observa el gráfico de la distribución muestral de la media y nota diferencias respecto al que obtuviste cuando la muestra era n = 10.\nEntonces ¿Qué es el error estándar de la media? ¿Cuál es la relación entre éste y el tamaño de la muestra?",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_10.html#lección-interactiva-intervalo-de-confianza",
+    "href": "practico_10.html#lección-interactiva-intervalo-de-confianza",
+    "title": "Intervalo de confianza y Error estándar (S10)",
+    "section": "10.2 Lección interactiva: Intervalo de confianza",
+    "text": "10.2 Lección interactiva: Intervalo de confianza\nObserva la animación ofrecida en la Lección interactiva (Intervalo de confianza), especialmente el gráfico de Intervalos de confianza. \n\n¿Qué representan los intervalos verdes?\n¿Qué representan los intervalos rojos?\nPara un nivel de confianza del 95 %, si repetimos el muestreo suficientes veces, ¿cuántos intervalos esperamos que contengan a la media poblacional?\n\nCompara los intervalos cuando el nivel de confianza es 90 % vs cuando es 99 %\n\nObserva: ¿Qué sucede con el ancho del intervalo cuando exijo un mayor nivel de confianza?\n\nRealiza distintos intentos variando el tamaño de la muestra:\n\nObserva: ¿Qué sucede con el ancho del intervalo cuando aumento el tamaño de la muestra?\n\nIntenta responder las siguientes preguntas, a modo de puesta a punto:\n\n¿Cómo se construye un intervalo de confianza? ¿Qué aspectos dependen de la muestra y qué aspectos son una elección?\nConstruyendo un intervalo de confianza de ancho 1 error estándar ¿Qué porcentaje de las veces el intervalo contendrá a la media poblacional? ¿Es suficiente?\nConstruyendo un intervalo de confianza de ancho 2 errores estándar (en realidad 1,96) ¿Qué porcentaje de las veces el intervalo contendrá a la media poblacional? ¿Es suficiente?",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_10.html#construyendo-intervalos-de-confianza",
+    "href": "practico_10.html#construyendo-intervalos-de-confianza",
+    "title": "Intervalo de confianza y Error estándar (S10)",
+    "section": "10.3 Construyendo Intervalos de confianza",
+    "text": "10.3 Construyendo Intervalos de confianza\n¿Cómo podemos estimar en qué rango se encuentra la media poblacional de riesgo en salud mental de cuidadores adultos de niños de hasta 56 meses en Uruguay?\n\nConstruye un intervalo de confianza del 95 % para la variable Riesgo en salud mental de la ENDIS, si la muestra es N = 2566. Intenta recordar los otros elementos que necesitas para construirlo. \n\n\n\n¿Necesitas ayuda?\n\nEn otras palabras, nos están pidiendo que una vez definido un nivel de confianza (en este caso 95 %), calculemos el correspondiente intervalo de confianza.\nA partir del video y la lectura del capítulo intenta recordar: ¿De qué depende el ancho del intervalo de confianza?\n\n\n\n¿Necesitas algo más de ayuda?\n\nPara calcular el intervalo de confianza necesitas calcular el error estándar. Aquí una ayuda:\n\n\nAhora que ya calculaste el intervalo de confianza, ¿Hay alguna herramienta del panel que te permita observar los intervalos de confianza sin calcularlos a mano?\n\nRealiza el análisis utilizando el menú desplegable que corresponda y contrasta el intervalo que calculaste con el que te ofrece el panel. \nEntonces, ¿En qué rango de puntuación sería esperable encontrar la media poblacional, con un nivel de confianza del 95 %?",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_10.html#aplicaciones-de-los-intervalos-de-confianza",
+    "href": "practico_10.html#aplicaciones-de-los-intervalos-de-confianza",
+    "title": "Intervalo de confianza y Error estándar (S10)",
+    "section": "10.4 Aplicaciones de los Intervalos de confianza",
+    "text": "10.4 Aplicaciones de los Intervalos de confianza\nBien, pero ¿para qué nos sirve construir intervalos de confianza?\nImagina que queremos analizar si, en la población, existen diferencias en el riesgo en salud mental del cuidador principal comparando grupos de niños que presentan distintos niveles de conducta agresiva (clasificados como Normal, Riesgo y Clínico).\n\nIngresa al Panel de análisis de datos, base ENDIS, desplegable Intervalos de confianza (Variable 1: SRQ20: riesgo salud mental, Variable 2: agresiva) \nA partir de la observación del gráfico, ¿Es más probable que los grupos (Normal, Riesgo y Clínico) tengan la misma media poblacional de riesgo en salud mental del cuidador o medias significativamente distintas? ¿Qué observaste para responder esta pregunta?\n¿Qué podría explicar que el intervalo de confianza para el nivel Clínico sea así de amplio?\n\n\n\n¿Necesitas ayuda?\n\nIntenta recordar: El intervalo de confianza depende del nivel de confianza y del error estándar. Y el error estándar ¿De qué depende?\n\n\nRepite el ejercicio con variables de interés para tu Entregable.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_10.html#ic-desempeños-en-lectura-y-matemáticas-en-3er-año-de-ed.-primaria-en-uruguay-aristas",
+    "href": "practico_10.html#ic-desempeños-en-lectura-y-matemáticas-en-3er-año-de-ed.-primaria-en-uruguay-aristas",
+    "title": "Intervalo de confianza y Error estándar (S10)",
+    "section": "10.5 IC: Desempeños en lectura y matemáticas en 3er año de Ed. Primaria en Uruguay (Aristas)",
+    "text": "10.5 IC: Desempeños en lectura y matemáticas en 3er año de Ed. Primaria en Uruguay (Aristas)\nComo vimos en los videos de esta semana, los intervalos de confianza pueden verse representados en gráficos y tablas. Los siguientes son ejemplos extraídos del informe Aristas 2023 (INEEd, 2025) y refieren a los desempeños en lectura y matemática de los estudiantes de 3er año de Educación Primaria en nuestro país.\n\n\n¿Qué porcentaje de escolares estaban categorizados en el Nivel 1 de desempeño en lectura en la muestra en 2017? ¿Qué puedes decir sobre el porcentaje de niños en Nivel 1 de desempeño en lectura en la población? Intenta redactar estos resultados.\nSi observamos las muestras 2017 y 2023, el porcentaje de niños categorizados en nivel 1 de desempeño cambió de 4,4 en 2017 a 3,6 en 2023. Observando los respectivos intervalos de confianza ¿qué podemos inferir respecto al cambio en la población?\nIntenta repetir el ejercicio para los otros niveles de desempeño en lectura (2 al 6).\n\nAhora, de la misma manera, examina el caso de matemáticas\n\nAhora miremos los desempeños según contexto socioeconómico y cultural del centro, esta vez representando los intervalos de confianza en forma gráfica. Interpreta cada gráfico.\n\n\nEn el informe se incluyen varios ejemplos más: comparaciones según tipo de escuela (Privada, Urbana común, Tiempo Completo, etc.), género, región, etc. Te invitamos a consultarlo aquí informe Aristas 2023 (pags. 390 - 402).",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_10.html#otro-ejercicio-interactivo-teorema-central-del-límite",
+    "href": "practico_10.html#otro-ejercicio-interactivo-teorema-central-del-límite",
+    "title": "Intervalo de confianza y Error estándar (S10)",
+    "section": "10.6 Otro ejercicio interactivo: Teorema Central del Límite",
+    "text": "10.6 Otro ejercicio interactivo: Teorema Central del Límite\nUtilizando la web https://www.esci-dances.thenewstatistics.com/ vamos a comprobar que independientemente de la forma que tenga una distribución poblacional, la distribución muestral de la media tiene distribución normal.\n\n\nCompara la distribución de las medias muestrales (N=100) obtenidas a partir de una población con distribución normal (media=50, desviación estándar=20) con la obtenida a partir de una población con distribución uniforme (media=50, desviación estándar=20).\n\nRealiza lo mismo que antes pero ahora utilizando muestras más pequeñas, por ejemplo, N=10. ¿Qué ocurre con la distribución muestral de la media?",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_10.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "href": "practico_10.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "title": "Intervalo de confianza y Error estándar (S10)",
+    "section": "10.7 Y para terminar, un par de ejercicios múltiple opción, como los del parcial",
+    "text": "10.7 Y para terminar, un par de ejercicios múltiple opción, como los del parcial\n\nAcerca de los intervalos de confianza:\n\nSon estimaciones puntuales de un parámetro desconocido con cierto nivel de confianza.\nPueden usarse en variables tanto categóricas como numéricas.\nPermiten estimar un intervalo de valores dentro del cual puede encontrarse el parámetro poblacional, con cierto nivel de confianza.\nPermiten estimar con exactitud el valor del parámetro poblacional.\n\nCon respecto a los intervalos de confianza:\n\nAl aumentar el nivel de confianza, disminuye el tamaño del intervalo.\nAl aumentar el nivel de confianza, disminuye el error muestral.\nAl aumentar el tamaño de la muestra, aumenta el tamaño del intervalo.\nA igual nivel de confianza, su tamaño disminuye al aumentar el tamaño de la muestra.\n\nEn un informe del Instituto Nacional de Evaluación Educativa, figura la siguiente tabla en donde se muestra la Tasa de Egreso Oportuno de la Educación Media Básica (TEO-EMB) de jóvenes entre 15 y 16 años, desagregada según nivel socioeconómico (NSE), para los años 2006, 2010 y 2016. En cada cruce, se muestra el valor estimado (V), y el límite inferior (LI) y superior (LS) del intervalo de confianza respectivo.\n\nA partir de esta tabla, ¿qué afirmaciones pueden realizarse?\n\na.  La TEO-EMB para el nivel “muy bajo” disminuyó entre 2006 y 2010.\n\nb.  La TEO-EMB para el nivel “muy bajo” aumentó entre 2010 y 2016.\n\nc.  No hay diferencias en TEO-EMB entre 2006 y 2010 para el nivel “medio”.\n\nd.  Hay diferencias en TEO-EMB entre 2010 y 2016 para el nivel “muy alto”.\n\nLa distribución muestral de la media:\n\nInforma sobre la frecuencia de los distintos niveles de la variable en la población.\nEs una distribución empírica que permite identificar el nivel de error en cada muestra.\nEs una distribución cuya media es la media poblacional, y el desvío aumenta con el tamaño de la muestra.\nEs una distribución teórica que informa sobre la frecuencia de los diferentes valores de media de las diferentes muestras posibles.\n\nEn un estudio se realizaron pruebas de matemática a estudiantes de primaria, de diferentes niveles socioeconómicos. En la siguiente gráfica se muestran los intervalos de confianza al 95% para las medias de los puntajes, según el nivel socioeconómico.\n\n\nEn base a esta gráfica, indique qué afirmación puede realizarse.\na.  Los puntajes para el nivel 3 son significativamente más bajos que para el nivel 4.\n\nb.  Los puntajes para el nivel 1 son significativamente más bajos que para el nivel 5.\n\nc.  Los puntajes para el nivel 1 son significativamente más bajos que para el nivel 3.\n\nd.  Los puntajes para el nivel 1 son significativamente más altos que para el nivel 3\n\nAcerca de los intervalos de confianza para la media:\n\nPermiten identificar el valor exacto de la media poblacional a partir de la estimación muestral.\nPermiten estimar cuál es el valor de la media poblacional más probable, dada la estimación muestral.\nPermiten estimar un rango de valores en el que puede, con un cierto nivel de confianza, encontrarse la media poblacional.\nPermiten estimar un rango de valores en el que puede, con un cierto nivel de confianza, encontrarse la media muestral.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+    ]
+  },
+  {
     "objectID": "entregable.html",
     "href": "entregable.html",
     "title": "Entregable final: Informe de análisis de datos",
     "section": "",
     "text": "Esta actividad es obligatoria para los estudiantes que cursan en modalidad seminario (si sos estudiante de plenario te lo ofrecemos como un recurso más para practicar).\nLa propuesta consiste en realizar una secuencia de análisis de datos a partir de una de las bases disponibles en cuanti.psico.edu.uy/panel (en particular ENDIS, ARISTAS, SERCE o Triada Oscura).\nLa idea es que este trabajo te ayude a desarrollar cierta autonomía en el planteo de preguntas de investigación, a darte cuenta qué análisis son adecuados según las variables disponibles y la pregunta que pretendes responder y, por último, que puedas ensayar la comunicación escrita de estos resultados.\nEste trabajo se va a desarrollar paso a paso a lo largo del semestre según avanzamos en las distintas unidades temáticas, hasta realizar la entrega final (a coordinar con tu docente referente de seminario).\nPara realizar el trabajo debes descargar el modelo de reporte en Word, que ya contiene las secciones y formato esperado del entregable.\n⬇️️️📄Descargar en Word📄⬇️",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Entregable final: Informe de análisis de datos</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Entregable final: Informe de análisis de datos</span>"
     ]
   }
 ]
