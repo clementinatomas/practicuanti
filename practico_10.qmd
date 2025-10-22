@@ -199,14 +199,13 @@ A partir de esta tabla, ¿qué afirmaciones pueden realizarse?
 
 ![](imgs/IC1.png)
 
+  a.  La TEO-EMB para el nivel “muy bajo” disminuyó entre 2006 y 2010.
 
-    a.  La TEO-EMB para el nivel “muy bajo” disminuyó entre 2006 y 2010.
+  b.  La TEO-EMB para el nivel “muy bajo” aumentó entre 2010 y 2016.
 
-    b.  La TEO-EMB para el nivel “muy bajo” aumentó entre 2010 y 2016.
+  c.  No hay diferencias en TEO-EMB entre 2006 y 2010 para el nivel “medio”.
 
-    c.  No hay diferencias en TEO-EMB entre 2006 y 2010 para el nivel “medio”.
-
-    d.  Hay diferencias en TEO-EMB entre 2010 y 2016 para el nivel “muy alto”.
+  d.  Hay diferencias en TEO-EMB entre 2010 y 2016 para el nivel “muy alto”.
 
 
 4.  La distribución muestral de la media:
