@@ -1,0 +1,622 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Practicuanti",
+    "section": "",
+    "text": "Bienvenido al cuaderno de prácticos\nLa idea es que a través de cada práctico puedas ejercitar los conceptos que trabajamos en las unidades temáticas.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#cómo-me-organizo-para-trabajar-en-aula-invertida",
+    "href": "index.html#cómo-me-organizo-para-trabajar-en-aula-invertida",
+    "title": "Practicuanti",
+    "section": "¿Cómo me organizo para trabajar en aula invertida?",
+    "text": "¿Cómo me organizo para trabajar en aula invertida?\nRecuerda que para sacar el máximo provecho de estos ejercicios la secuencia sugerida es la siguiente:\n\nMirar los audiovisuales correspondientes a la unidad (asincrónico)\nLeer el capítulo del libro (asincrónico)\nTransitar por la lección interactiva (fundamentalmente asincrónico, y algunos momentos de trabajo en clase)\nRealizar los ejercicios prácticos, recuerda que en varios momentos vamos a utilizar el Panel de análisis de datos (en clase y en forma asincrónica)\n\nUsá el menú de la izquierda para navegar entre los temas.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#introducción",
+    "href": "index.html#introducción",
+    "title": "Practicuanti",
+    "section": "Introducción",
+    "text": "Introducción\nEn este curso vamos a explorar por qué la formación en metodología cuantitativa es necesaria para el trabajo en Psicología. Pero antes de meternos de lleno en eso, pensemos:\n¿Para qué me sirve desarrollar estas competencias si no voy a ser investigador/a? ¿Conocer sobre métodos cuantitativos es útil incluso fuera del ámbito profesional? ¿Tiene sentido en mi condición de ciudadano o ciudadana?\nA lo largo de esta unidad vamos a intentar demostrar que sí.\n\nNoticia 1: Niveles de aprobación presidencial\nEl siguiente posteo se publicó en redes sociales en junio de 2025, y se aclara que la afirmación se extrae de resultados publicados por FACTUM.\n\nLa publicación original de FACTUM presenta el siguiente gráfico:\n\nTomando en consideración esta información, ¿podemos afirmar que 53 % de la población “no aprueba la gestión de Yamandú Orsi”?\nConsulta la fuente de datos aquí: FACTUM Aprobación presidente Yamandú Orsi - Junio 2025\n\n\nPara leer luego de responder\n\nAquí encuentras la nota de prensa completa de La Diaria Verifica analizando este asunto: Nota completa en La Diaria Verifica\n\n\n\nNoticia 2: Tasa de suicidio en Uruguay\nSegún datos preliminares, el Ministerio de Salud Pública (MSP) anunció que en 2023 hubo un 8 % menos de suicidios que el año anterior. Según una nota de La Diaria del 11 de abril de 2024:\n“La ministra de Salud Pública, Karina Rando, celebró que se quebró ‘una tendencia’ al alza, que se venía registrando desde 2013. En 2023 hubo 754 suicidios, 64 menos que en 2022 y cuatro menos que en 2021.”\n\nEn una nota de La Diaria Verifica, el sociólogo Pablo Hein reflexiona que los motivos de la baja pueden deberse a “una baja de la globalidad de la carga de muerte” en Uruguay, ya que en 2023 hubo 5500 muertos menos que en 2022 y 7000 muertes menos que en 2021.\nAsimismo, si bien la tasa de suicidios de 2023 es más baja que años anteriores, alertó sobre no referirse a tendencias con un único dato.\n¿Es verdadero afirmar que ocurrió un “quiebre” en la tendencia de suicidios?\n\n\nPara leer luego de responder\n\nSi bien ocurrieron menos suicidios en 2023 que en 2022 no es posible hablar de un quiebre sin conocer las cifras de los próximos años. Asimismo, si observamos las variaciones en el número de suicidios a lo largo de los años se observan descensos locales (años 2008 y 2013 por ejemplo) pero sobre una tendencia sostenida al aumento de la tasa de suicidios. Por lo tanto no es posible afirmar que ocurrió un ‘quiebre’ en la tasa de suicidios.\n\n\n\nNoticia 3: Funcionarios públicos en Uruguay y Nueva Zelanda\nEn junio de 2024, la entonces precandidata a la presidencia por el Partido Colorado, Carolina Ache, dijo en el programa Lado B de TV Ciudad que Nueva Zelanda tiene solamente “63.000 funcionarios públicos y cinco millones de habitantes”.\nEn una nota de La Diaria Verifica se presentan los siguientes datos obtenidos de la página web de la Comisión de Servicio Público de Nueva Zelanda.\n\n¿Se puede sugerir que hay muchos funcionarios públicos en Uruguay comparado con Nueva Zelanda?\n\n\nPara leer luego de responder\n\nSi bien al considerar los funcionarios de la categoría “Administración central” parecería cierta la afirmación de Carolina Ache, el conjunto total de funcionarios públicos (Administración central, educación, salud, empresas públicas, gobiernos locales, y otros) es mucho mayor, e incluso supera al de Uruguay.\nEl número en sí mismo no es informativo si no se pondera por la población de cada país y por la cantidad de personas que conforman la masa laboral (por ejemplo, sin contar a niños y jubilados).\nTomando en cuenta estos factores, se concluye que Uruguay y Nueva Zelanda tienen una proporción de funcionarios públicos similar.\n\n\n\nNoticia 4: Muertes por COVID en Uruguay\nEn un acto partidario en junio de 2024, la exministra de salud María Julia Muñoz dijo:\n“Debemos ser claros, la pandemia se manejó mal. No se manejó bien porque el presidente haya puesto la cara todos los días; se manejó mal porque cuando hubo que tomar acciones en defensa de los más necesitados, no se hicieron, y nuestro país es el que tiene más muertes por COVID de personas en el mundo”.\nEn declaraciones posteriores, aclaró que se refería a que Uruguay fue el país de Latinoamérica con más muertes por COVID.\n¿La afirmación de la exministra de salud es correcta o incorrecta?\n\nEl exceso de mortalidad es un término utilizado en epidemiología y salud pública que se refiere al número de muertes por todas las causas durante una crisis, por encima de lo que hubiéramos esperado en condiciones “normales”. En este caso, se compara el número de muertes durante la pandemia con las muertes esperadas sin pandemia. Fuente: Our World In Data\n\n\nPara leer luego de responder\n\nDe acuerdo con los datos de exceso de muerte de Our World in Data, Uruguay no presenta la tasa de muertes por COVID más alta del mundo.\nAl comparar con otros países de la región como Argentina, Perú, Brasil, Bolivia y México, estos presentan un número mayor de exceso de muertes por COVID que Uruguay.\nPor lo tanto, la afirmación de la exministra de salud es incorrecta.\n\n\n\nNoticia 5: Desempleo en Uruguay\nEn una publicidad partidaria, el senador Sebastián Da Silva afirmaba que durante la pasada administración (2020–2023) se alcanzó “la menor tasa de desempleo de los últimos 30 años”, haciendo referencia a la tasa de 7.8 % correspondiente al cierre del año 2023.\n¿Es verdadera la afirmación realizada por el senador?\n\n\n\nPara leer luego de responder\n\nDe acuerdo a los datos del Instituto Nacional de Estadística, el desempleo al cierre de 2023 fue de 7,8 %.\nSin embargo, el número más bajo de desempleo en los últimos 30 años corresponde a una tasa del 5.6 % en diciembre de 2012.\nPor lo tanto, la afirmación del senador no es verdadera.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#necesito-saber-estadística-si-estudio-psicología",
+    "href": "index.html#necesito-saber-estadística-si-estudio-psicología",
+    "title": "Practicuanti",
+    "section": "1.1 ¿Necesito saber estadística si estudio Psicología?",
+    "text": "1.1 ¿Necesito saber estadística si estudio Psicología?\n\nLectura asociada\nCapítulo 1. ¿Por qué estadística?",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#debate-necesitamos-saber-estadística-para-ser-buenos-psicólogos",
+    "href": "index.html#debate-necesitamos-saber-estadística-para-ser-buenos-psicólogos",
+    "title": "Practicuanti",
+    "section": "1.2 Debate: ¿Necesitamos saber estadística para ser buenos psicólogos?",
+    "text": "1.2 Debate: ¿Necesitamos saber estadística para ser buenos psicólogos?\n“Como estudiante y futuro profesional de la Psicología necesito formarme en metodología cuantitativa”.\n\nSegún el rol que te fue asignado en el debate, sistematiza argumentos a favor/en contra de esta afirmación.\nDiscute con tus compañeros.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#cómo-funciona-el-panel-de-análisis-de-datos",
+    "href": "index.html#cómo-funciona-el-panel-de-análisis-de-datos",
+    "title": "Practicuanti",
+    "section": "1.3 ¿Cómo funciona el Panel de análisis de datos?",
+    "text": "1.3 ¿Cómo funciona el Panel de análisis de datos?\n\nEste Panel tiene integradas una serie de bases de datos nacionales que refieren a temáticas de interés en el campo de la psicología.\n\nMenú datos: permite seleccionar una de las bases de datos disponibles.\n\nAcerca de la base: se presenta un texto breve con información de soporte que ayuda a contextualizar los datos que contiene la base.\n\nMostrar resumen: Permite visualizar nombres de las variables, su descripción, su tratamiento (tipo de variable) y valores posibles.\n\n\nActividad introductoria al Panel\nSe te asignará una base de datos. Tu tarea es familiarizarte con ella para presentarla a tus compañeros. Recupera y registra la siguiente información:\n\nContexto institucional y temática general \nMuestra\n¿Cuántas variables contiene? ¿Qué variables utiliza? ¿De qué tipo son? ¿Cuál es su escala o nivel de medida? \n¿Qué instrumentos crees que utilizaron para obtener las distintas medidas?\n¿Qué temáticas crees que se podrían analizar a través de estos datos? \n\nAhora que sabes un poco más sobre esta base de datos, observa las variables disponibles con mayor detalle.\n\n¿Se te ocurren algunas preguntas/hipótesis de investigación?\n¿Qué otras cosas te parecería relevante evaluar? ¿Cómo lo operacionalizarías?\n\nForma un grupo con los compañeros que han trabajado con la misma base de datos. Pongan en común lo que sistematizaron respecto a la base. Acuerden las preguntas de investigación que se podrían plantear a partir de estos datos.\n\n\n¿Necesitas ayuda?\n\n¿Qué tipo de preguntas nos podemos hacer? Considera que en el curso vamos a:\n\nAprender a resumir muchos datos a través de unos pocos valores que expresan la tendencia central y la dispersión\n\nUtilizar gráficos para entender y mostrar algunos aspectos de nuestros datos en forma visual\n\nExplorar la asociación entre dos variables (considerando dirección y magnitud)\n\nComparar grupos distintos, o un mismo grupo en distintas condiciones",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#el-rol-de-las-variables",
+    "href": "index.html#el-rol-de-las-variables",
+    "title": "Practicuanti",
+    "section": "1.4 El rol de las variables",
+    "text": "1.4 El rol de las variables\nEjercicio: Efectividad de una intervención terapéutica\nYa que obviamente leíste el apartado El rol de las variables: predictoras y dependientes del Capítulo 1 antes de venir a clase (¿verdad que sí?), te proponemos el siguiente ejercicio:\nUn equipo de investigación está evaluando la efectividad de la terapia EMDR (Desensibilización y Reprocesamiento por los Movimientos Oculares) para tratar la ansiedad generalizada. Diseñan un estudio en el que reclutan a 60 personas con diagnóstico de trastorno de ansiedad generalizada. A la mitad de los participantes se les aplicaron 8 sesiones de EMDR, y a la otra mitad, 8 sesiones de terapia cognitivo-conductual (TCC), usada como comparación activa. Antes y después del tratamiento, los participantes completaron un cuestionario estandarizado de ansiedad (por ejemplo, el GAD-7). Además, les piden que califiquen su nivel de malestar percibido en situaciones sociales (de 0 a 10) y su calidad de sueño durante la última semana.\n\nIdentificá la/s variable/s predictora/s (independiente/s). ¿Qué manipula o controla el investigador?\nIdentificá la/s variable/s dependiente/s. ¿Qué se mide como resultado del experimento?\n¿Qué otras variables podrían influir en los resultados si no se controlan?",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#ahora-que-ya-calentaste-motores-poné-a-prueba-lo-que-aprendiste-sobre-tipos-de-variable-y-escalas-de-medida-con-la-lección-interactiva",
+    "href": "index.html#ahora-que-ya-calentaste-motores-poné-a-prueba-lo-que-aprendiste-sobre-tipos-de-variable-y-escalas-de-medida-con-la-lección-interactiva",
+    "title": "Practicuanti",
+    "section": "1.5 Ahora que ya calentaste motores, poné a prueba lo que aprendiste sobre tipos de variable y escalas de medida con la lección interactiva",
+    "text": "1.5 Ahora que ya calentaste motores, poné a prueba lo que aprendiste sobre tipos de variable y escalas de medida con la lección interactiva\nLECCIÓN INTERACTIVA Introducción a la Estadística: Conceptos fundamentales para el análisis de datos",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "href": "index.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "title": "Practicuanti",
+    "section": "1.6 Y para terminar, un par de ejercicios múltiple opción, como los del parcial",
+    "text": "1.6 Y para terminar, un par de ejercicios múltiple opción, como los del parcial\nElige la opción correcta\n\nSobre las variables cuantitativas\n\nPueden ser nominales\nLa altura es un ejemplo de variable discreta\nEl número de hijos es un ejemplo de variable continua\nLas variables continuas pueden tomar cualquier valor de la escala de medición utilizada\n\nSobre las variables categóricas\n\nLa medida ordinal nos informa si un sujeto/objeto posee más o menos de la característica de interés que otro sujeto/objeto\nLa medida nominal es continua\nNo hay diferencias cualitativas entre los sujetos/objetos asignados a categorías diferentes\nEl peso, medido en kilogramos, es una variable ordinal\n\nUn equipo de investigación quiere evaluar si practicar meditación guiada antes de rendir un examen reduce el nivel de ansiedad en estudiantes universitarios. Un grupo realiza 15 minutos de meditación antes del examen y un grupo control activo realiza 15 minutos de estiramiento. ¿Cuál es la variable predictora?\n\nNivel de ansiedad antes del examen\nEl tipo de actividad previa al examen\nNivel de ansiedad después del examen\nTipo de examen que se rinde",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_2.html",
+    "href": "practico_2.html",
+    "title": "Práctico: Describir los datos - Histogramas y Tendencia central (S 02)",
+    "section": "",
+    "text": "2.1 Primeros pasos: conocer (y amigarme con) los datos",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_2.html#primeros-pasos-conocer-y-amigarme-con-los-datos",
+    "href": "practico_2.html#primeros-pasos-conocer-y-amigarme-con-los-datos",
+    "title": "Práctico: Describir los datos - Histogramas y Tendencia central (S 02)",
+    "section": "",
+    "text": "Lectura asociada\nCapítulo 2. ¿Por qué estadística? Capítulo 1. El rol de las variables\n\n\nContenidos\n\nVisualización de datos: histograma\nMedidas de tendencia central: moda, media y mediana",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_2.html#panel-de-datos-endis",
+    "href": "practico_2.html#panel-de-datos-endis",
+    "title": "Práctico: Describir los datos - Histogramas y Tendencia central (S 02)",
+    "section": "2.2 Panel de datos: ENDIS",
+    "text": "2.2 Panel de datos: ENDIS\nYa que seguro leíste el Capítulo 2. Describir los datos y querés ir más allá de la teoría, te proponemos trabajar con la base de datos de ENDIS para que explores y visualices datos de verdad.\nAccede a cuanti.psico.edu.uy/panel \n\nDescribir datos - Distribución de variables\nAntes de empezar a trabajar con la base ENDIS necesitamos un poco de contexto. Activa el botón “Acerca de la base” para conocer de qué se trata.\n\n\n\n\nY ahora… ¡Miremos los datos!\n\nObserva los datos. ¿Cuántas observaciones tiene la base de datos? ¿Puedes decir algo al respecto de cómo se comportan las observaciones, por ejemplo, si hay algunos valores más o menos frecuentes? \n\n\n\n¿Necesitás ayuda?\n\nElegir análisis &gt; Ver datos\n\nMmm… mejor examinemos los datos en un formato visual. Como vimos en el libro, vamos a convertir esos números a otras formas de visualización de datos.\n\nEl primer resumen oficial: realiza el histograma de una variable.\n\n\n\n¿Necesitás ayuda?\n\nElegir análisis &gt; Histograma &gt; Elegir variable 1 (numérica)\nPor ejemplo, la variable Big Five: Apertura a la experiencia (una variable de personalidad del adulto)\n\n\n\nCambia el ancho de los intervalos (bins) y observa cómo cambia el gráfico. ¿Qué son los bins? ¿Qué ancho de bin seleccionarías finalmente? ¿Cómo es la forma del histograma (ej. simetría/asimetría, “picos”)\nRepite el procedimiento para otras variables de esta base de datos\nDescribe con tus palabras qué representa cada barra de un histograma y qué información nos da esta visualización\n¿Por qué para algunas de las variables de la base de datos no es posible realizar un histograma?\n\n\n\nDe muchos números a uno: tendencia central y dispersión\nEn el libro y en el ejercicio anterior vimos que podemos hacernos una idea de los datos al representarlos mediante gráficos. Ahora vamos a examinar la tendencia central de los datos de la base ENDIS a través de números.\n\nObtené la tabla de estadísticos descriptivos\n¿Por qué para algunas variables no se ofrece el valor de la media ni otros estadísticos?\n¿Qué estadísticos expresan la tendencia central en los datos? Fijate si sos capaz de definir cada uno con tus propias palabras\nLocaliza los valores de tendencia central para la variable Apertura a la experiencia y regístralos\nRecupera el histograma de la variable Apertura a la experiencia, del ejercicio anterior. Copia la distribución en una hoja. Dibuja líneas verticales para marcar la Media, Moda y Mediana. ¿Coinciden los tres valores? ¿Por qué? \nEn la ENDIS, la personalidad se caracteriza a través de 5 factores. Como vimos, Apertura a la experiencia es uno de ellos. Repite el procedimiento para las otras cuatro variables de personalidad\nMira los histogramas de los cinco factores. Comenta y compara la forma de cada uno de ellos",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_2.html#un-caso-de-distribución-de-datos-tomados-por-nuestra-institución-la-edad-de-los-psicólogos-en-el-uruguay",
+    "href": "practico_2.html#un-caso-de-distribución-de-datos-tomados-por-nuestra-institución-la-edad-de-los-psicólogos-en-el-uruguay",
+    "title": "Práctico: Describir los datos - Histogramas y Tendencia central (S 02)",
+    "section": "2.3 Un caso de distribución de datos tomados por nuestra institución: la edad de los psicólogos en el Uruguay",
+    "text": "2.3 Un caso de distribución de datos tomados por nuestra institución: la edad de los psicólogos en el Uruguay\nSelecciona la base de datos Censo Nacional de Psicólogos y familiarizate con el origen de los datos. Luego:\n\nRealiza un histograma de la variable edad seleccionando un número de bins adecuado. ¿Qué característica tiene la distribución? ¿A qué podría deberse que los datos se distribuyan así?\n\nMirando la distribución de la edad de los psicólogos, estima qué valores tendrían las medidas de tendencia central\n\nVerifica tu estimación consultando la tabla de estadísticos descriptivos asociada a esta base de datos\n\nRelaciona los valores que toman las medidas de tendencia central con la forma de la distribución",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_2.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "href": "practico_2.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "title": "Práctico: Describir los datos - Histogramas y Tendencia central (S 02)",
+    "section": "2.4 Y para terminar, un par de ejercicios múltiple opción como los del parcial",
+    "text": "2.4 Y para terminar, un par de ejercicios múltiple opción como los del parcial\nPara cada pregunta indique LA opción correcta:\n\nUn histograma es:\n\nUn gráfico de barras en el que se muestra la mediana, la media y el desvío estándar.\nUna forma de cuantificar la dispersión de los datos\nUna forma de representar gráficamente las frecuencias de los diferentes niveles o valores que toma una variable numérica\nUn indicador de tendencia central\n\nEn un histograma, el eje horizontal (X) normalmente muestra:\n\nLa cantidad de participantes en cada categoría\nLos intervalos o rangos de valores de la variable\nLa frecuencia de cada observación\nEl número total de observaciones\n\nEn un histograma, la altura de cada barra indica:\n\nEl valor máximo del intervalo\nLa frecuencia absoluta o relativa de ese intervalo\nLa media de todos los datos\nLa diferencia entre el valor mayor y menor del intervalo\n\nLa mediana es útil porque:\n\nNo se ve afectada por valores extremos (outliers)\nSiempre es igual a la media, en cualquier distribución\nRepresenta el valor más frecuente\nEs necesaria para calcular el rango\n\nSi una distribución de puntajes del BDI (Inventario de Depresión de Beck) es muy asimétrica hacia la derecha, lo más probable es que:\n\nMedia &gt; Mediana\nMedia &lt; Mediana\nMedia = Mediana\nModa &gt; Media\n\nSi en un grupo de 10 estudiantes, 6 obtuvieron 15 puntos en una escala de ansiedad y los otros 4 obtuvieron 10 puntos, la moda es:\n\n15\n10\n12,5\nLa moda solo puede calcularse para variables categóricas (cualitativas)\n\nSobre las medidas de tendencia central:\n\nLa moda es el valor que más se repite\nLa mediana se obtiene sumando todos los valores que toma una variable y se divide entre el rango de la variable\nLa media es el valor que divide la distribución en dos partes iguales\nLa mediana, la moda y la media son iguales en variables con distribuciones asimétricas",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_3.html",
+    "href": "practico_3.html",
+    "title": "Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)",
+    "section": "",
+    "text": "3.1 Rango, cuantiles, y diagrama de cajas",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos - rango, cuantiles,  y diagrama de cajas (S03)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_3.html#rango-cuantiles-y-diagrama-de-cajas",
+    "href": "practico_3.html#rango-cuantiles-y-diagrama-de-cajas",
+    "title": "Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)",
+    "section": "",
+    "text": "Lectura asociada\nCapítulo 2. Describir los datos\n\n\nContenidos\n\nMedidas de dispersión: rango\nCuantiles\nVisualización de datos: diagrama de cajas (boxplot)",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos - rango, cuantiles,  y diagrama de cajas (S03)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_3.html#panel-de-datos-factores-de-personalidad-del-cuidador-en-endis",
+    "href": "practico_3.html#panel-de-datos-factores-de-personalidad-del-cuidador-en-endis",
+    "title": "Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)",
+    "section": "3.2 Panel de datos: Factores de personalidad del cuidador en ENDIS",
+    "text": "3.2 Panel de datos: Factores de personalidad del cuidador en ENDIS\nEn esta unidad estamos viendo que las medidas de tendencia central, por sí solas, no son suficientes para “entender” del todo nuestros datos. Por este motivo, contamos con una serie de estadísticos que nos permiten caracterizar la dispersión de los datos.\nRecuperemos el histograma del ejercicio anterior (variable Apertura a la experiencia)\n\nMirando el histograma ¿cuál dirías que es el rango de la variable?\n¿Qué datos del histograma usaste para calcularlo? ¿Cómo lo calculaste?\nAhora explora la opción gráfica diagrama de cajas (Boxplot) para esta misma variable. ¿Qué información te ofrece este gráfico? ¿Qué indica la línea verde? Estima qué valores corresponden al percentil 25, 50 y 75. \n¿A través de qué otra funcionalidad del panel puedes acceder al valor de los percentiles 25, 50 y 75? Contrasta estos valores con la estimación que habías realizado a partir del boxplot. \nAhora repite el procedimiento de análisis con los otros cuatro factores de personalidad. ¿Es similar la distribución?\n\n\n\n¿Necesitás ayuda?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos - rango, cuantiles,  y diagrama de cajas (S03)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_3.html#actividad-informes-de-evaluación-del-desarrollo",
+    "href": "practico_3.html#actividad-informes-de-evaluación-del-desarrollo",
+    "title": "Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)",
+    "section": "3.3 Actividad: Informes de evaluación del desarrollo",
+    "text": "3.3 Actividad: Informes de evaluación del desarrollo\nEn los videos de esta unidad vimos un ejemplo de aplicación de cuantiles. En particular, que son útiles para comparar. Por ejemplo, entre los resultados de aplicar instrumentos estandarizados de evaluación psicológica es frecuente la referencia a percentiles. En otras palabras, podemos saber la posición de un sujeto u observación con respecto a una muestra de referencia. \nVeamos el siguiente ejemplo:\nEl siguiente es un extracto del informe de resultados de la aplicación de un instrumento para la identificación temprana del riesgo lector (el documento tiene algunas omisiones a los efectos de este ejercicio). \n\nInforme de riesgo lector\nFecha del informe: 07/11/24\nIdentificador (ID) del niño/a: 2eb2a023-482d-4\nIntroducción\nEn el siguiente informe se presentan los resultados de la evaluación de Lexiland correspondientes al ID 2eb2a023-482d-4. Los datos asociados a dicho identificador son confidenciales y solo se encuentran a disposición de la institución educativa en donde se llevó a cabo la evaluación.\nDescripción de la evaluación\nLexiland es una herramienta digital que evalúa habilidades pre-lectoras en tres dimensiones: conocimiento de las letras, conciencia fonológica, y memoria. Las tres habilidades fueron seleccionadas a través de un estudio de investigación científica que determinó la confiabilidad de su utilización para identificar el riesgo lector a edades tempranas. Su aplicación está destinada a niños y niñas de nivel inicial y primaria y puede ser utilizada tanto en entornos escolares como clínicos.\nResultados en las dimensiones evaluadas\nLa siguiente gráfica muestra los resultados obtenidos por el niño/a. Las diferentes dimensiones evaluadas fueron analizadas en relación a la base de datos de Lexiland, con una muestra de 400 niños y niñas de 26 escuelas públicas de Montevideo de contexto sociocultural quintil cuatro y quintil cinco.\nEl nivel de zona de monitoreo marca el rango de valores obtenido por el 30% de los niños y niñas con desempeño más descendido. El nivel de desempeño esperado marca el rango de valores obtenidos por el 50% de los niños y niñas. El nivel elevado marca el rango de valores obtenidos por el 20% de los niños y niñas con desempeño más elevado. El punto azul marca el puntaje obtenido por 2eb2a023-482d-4 en las tres dimensiones evaluadas.\n\n\n¿Qué evalúa este instrumento?\n¿Cuál es la muestra de referencia? ¿Para qué se utilizó esta muestra?\n¿Qué porcentaje de niños se espera encontrar en cada una de las categorías de desempeño (elevado, esperado, zona de monitoreo)?\nConcluye sobre cuáles son los puntos de corte de las categorías de desempeño (elevado, esperado, zona de monitoreo), expresados en percentiles. \nEl informe corresponde a un caso específico (observa la ubicación de los puntos azules).  Describe la situación de este caso específico, comparado con la muestra de referencia, en cada una de las tres dimensiones evaluadas.\n\n\n\nEjercicio con tablas de Lexiland\nLas siguientes tablas muestran los estadísticos descriptivos correspondientes a las distintas tareas de Lexiland, aplicadas a niños que cursaban Nivel 5, en el primer caso, y Primer año en el segundo. La muestra estuvo compuesta por 1111 alumnos de centros educativos de los cinco quintiles socioeconómicos (categorización de ANEP), ubicados en los departamentos de Montevideo, Canelones, Salto, San José, Colonia y Soriano.\n\n\nSi un niño que cursa Nivel 5 obtiene como resultado 0.66 en la prueba de Memoria ¿cuál es su posición en relación a los otros niños de Nivel 5 que integraban la muestra? ¿Qué puedes concluir respecto a su desempeño en esa tarea a partir de estos datos?\n¿Cómo se interpretaría esa misma puntuación si la obtiene un niño de Primer año?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos - rango, cuantiles,  y diagrama de cajas (S03)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_3.html#actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos",
+    "href": "practico_3.html#actividad-medidas-de-tendencia-central-y-quintiles-aplicado-al-ingreso-de-los-hogares-uruguayos",
+    "title": "Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)",
+    "section": "3.4 Actividad: Medidas de tendencia central y quintiles aplicado al ingreso de los hogares uruguayos",
+    "text": "3.4 Actividad: Medidas de tendencia central y quintiles aplicado al ingreso de los hogares uruguayos\nObserva el gráfico presentado a continuación y contesta las siguientes preguntas:\n\n\n¿A qué se refiere con ‘Ingreso promedio’ en el gráfico de más a la izquierda? ¿Cómo fueron los ingresos promedio en el año 2023 comparado con los ingresos promedio en el año 2019? ¿Y comparado con el año 2022?\n¿A qué corresponden los quintiles? Discute las diferencias en ingreso mensual líquido y en su variación real según el quintil.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos - rango, cuantiles,  y diagrama de cajas (S03)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_3.html#panel-de-datos-triada-oscura-y-serce",
+    "href": "practico_3.html#panel-de-datos-triada-oscura-y-serce",
+    "title": "Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)",
+    "section": "3.5 Panel de datos: Triada Oscura y SERCE",
+    "text": "3.5 Panel de datos: Triada Oscura y SERCE\nUsando el cálculo de media, mediana y cuartiles de las siguientes variables, responde las siguientes preguntas. Puedes ayudarte ubicando sus posiciones manualmente en el histograma  y utilizando diagramas de caja. \n\nDatos Tríada Oscura\n\n¿Puede decirse que más de la mitad de los sujetos de la base tienen puntuaciones de narcisismo mayores a 25?\nUna puntuación en la escala de maquiavelismo de 18, ¿es más bien baja o más bien alta? Fundamenta tu respuesta.\nIdentifica al sujeto nº 6 en la base de datos. ¿Qué edad tiene? ¿Proviene del interior?¿Cuántas veces entra a Facebook o Instagram por día? ¿Es un número relativamente bajo o relativamente alto?\n¿Puede decirse que los hombres poseen en general, niveles de maquiavelismo más altos? ¿Y de narcisismo? \n¿Puede decirse que los estudiantes provenientes del exterior muestran menores niveles de narcisismo? ¿Y de maquiavelismo?\n\n\n\nDatos SERCE\n\n¿Puede decirse que la mayoría de las niñas y niños tiene 12 años? \nUna puntuación de 620 en matemática, ¿es una puntuación muy alta? ¿Y la misma puntuación en la prueba de ciencia?\n¿Puede decirse que la mayoría de los estudiantes obtuvo puntuaciones mayores a 550 en la prueba de literatura? ¿Y en la de ciencias? ¿Y en la de matemática?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos - rango, cuantiles,  y diagrama de cajas (S03)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_3.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "href": "practico_3.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "title": "Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)",
+    "section": "3.6 Y para terminar, un par de ejercicios múltiple opción, como los del parcial",
+    "text": "3.6 Y para terminar, un par de ejercicios múltiple opción, como los del parcial\n\nEn un Informe del Mides de 2011, se presenta el siguiente gráfico en el que se muestra la distribución de años de estudio de mujeres de 25 años y más según el número de hijos. Indica qué afirmación es correcta:\n\n\n\nLa cantidad de años de estudio de las mujeres aumenta a mayor número de hijos\nA mayor número de hijos, la mediana de años de estudio disminuye\nLa distribución de años de estudio es simétrica, para cada categoría de la variable hijos\nMás del 25% de las mujeres con 5 hijos o más tienen 10 años o más de estudio\n\n\n\nCon respecto a los cuartiles:\n\n\n\nDividen a la muestra en 5 partes iguales\nDividen a la muestra en 3 partes iguales\nEl cuartil 2 corresponde a la mediana\nEl cuartil 3 corresponde a la mediana",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Práctico: Describir los datos - rango, cuantiles,  y diagrama de cajas (S03)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_4.html",
+    "href": "practico_4.html",
+    "title": "Práctico: Describir los datos - varianza y desvío estándar (S04)",
+    "section": "",
+    "text": "4.1 Varianza y desvío estándar",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico: Describir los datos - varianza y desvío estándar (S04)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_4.html#varianza-y-desvío-estándar",
+    "href": "practico_4.html#varianza-y-desvío-estándar",
+    "title": "Práctico: Describir los datos - varianza y desvío estándar (S04)",
+    "section": "",
+    "text": "Lectura asociada\nCapítulo 2. Describir los datos Desde 2.8 La varianza en adelante\n\n\nContenidos\n\nMedidas de dispersión: varianza y desvío estándar",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico: Describir los datos - varianza y desvío estándar (S04)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_4.html#las-variables-varían-tomando-nuestros-primeros-datos",
+    "href": "practico_4.html#las-variables-varían-tomando-nuestros-primeros-datos",
+    "title": "Práctico: Describir los datos - varianza y desvío estándar (S04)",
+    "section": "4.2 Las variables varían: Tomando nuestros primeros datos",
+    "text": "4.2 Las variables varían: Tomando nuestros primeros datos\nEl ejercicio de hoy consiste en adivinar la edad de un conjunto de personas a partir de su foto.\n\nIngresa a este formulario 🔗 y adivina las edades de las fotos. Anota en una hoja las iniciales de cada foto y la edad que estimaste.\n\nConforma grupos de 5 personas\n\nDiscute con tus compañeros cómo varían las estimaciones de las fotografías en el grupo\nSeleccionen la foto para la que hubo menos variabilidad (es decir, más acuerdo) en las edades y la foto para la que hubo más variabilidad (es decir, mayor desacuerdo) en las edades\n\nPara cada una de las dos fotos seleccionadas:\n\nRealicen una tabla recabando las edades estimadas por cada uno de los integrantes del grupo\n¿Cuál es el rango de las estimaciones para la foto?\nCalcular la mediana de edad para la foto (pista: ordeno los datos de menor a mayor y encuentro el valor que cae en la posición que divide mi muestra en dos)\nCalcular la media (o promedio) de edad para la foto\nCalcular la suma de los desvíos cuadráticos de edad para la foto\nCalcular la varianza de edad para la foto\nCalcular la desviación estándar (o desvío estándar, o desviación típica, o desvío típico) de la edad para la foto\n\n\n\n¿Necesitás ayuda?\n\n\n\n\n¿Cómo se relaciona la varianza con la edad promedio? ¿Y la desviación estándar con la edad promedio? Discute si uno de los estadísticos resulta más intuitivo\nCompara e interpreta las varianzas y las desviaciones estándar para las dos fotos seleccionadas\n¿Qué nos dicen estos estadísticos descriptivos de la incertidumbre que tenemos sobre la edad de los fotografiados?\n¿Qué habría pasado con la varianza y el desvío estándar si uno de los integrantes del grupo hubiera estimado una edad extrema como 100 años?\nIngresa a esta página 🔗. Observa las estimaciones de todos los compañeros de cuanti\n¿Cómo es tu estimación comparada con la de todo el grupo de estudiantes?\n¿Cómo es la estimación de tu grupo comparada con la de todos los estudiantes de cuanti?",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico: Describir los datos - varianza y desvío estándar (S04)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_4.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "href": "practico_4.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "title": "Práctico: Describir los datos - varianza y desvío estándar (S04)",
+    "section": "4.3 Y para terminar, un par de ejercicios múltiple opción, como los del parcial",
+    "text": "4.3 Y para terminar, un par de ejercicios múltiple opción, como los del parcial\n\n¿Por qué motivo se considera al promedio una medida poco robusta?\n\n\n\nPorque presenta siempre valores menores a la mediana\nDebido a que es una medida derivada de la moda\nPorque es el valor que menos se repite en la distribución\nPorque es una medida sensible a los valores extremos de la distribución\n\n\n\nIndique cuál de las siguientes afirmaciones sobre la varianza es correcta:\n\n\n\nLa varianza es el rango de valores que puede tomar la variable\nLa varianza es un indicador de tendencia central\nLa varianza siempre es mayor o igual a cero\nEs frecuente que la varianza valga 1",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Práctico: Describir los datos - varianza y desvío estándar (S04)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_5.html",
+    "href": "practico_5.html",
+    "title": "Práctico: Describir los datos - Tablas y gráficos de barras (S05)",
+    "section": "",
+    "text": "5.1 Variables categóricas: tablas y gráficos de barra",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_5.html#variables-categóricas-tablas-y-gráficos-de-barra",
+    "href": "practico_5.html#variables-categóricas-tablas-y-gráficos-de-barra",
+    "title": "Práctico: Describir los datos - Tablas y gráficos de barras (S05)",
+    "section": "",
+    "text": "Lectura asociada\nCapítulo 3. Tablas\n\n\nContenidos\n\nFrecuencias absolutas, relativas y porcentuales. Frecuencia acumulada\nTablas de frecuencia\nTablas bivariadas\nGráficos de barras \nErrores comunes en la interpretación: confundir proporciones absolutas y relativas, errores al leer el tipo de total (fila, columna o total general)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_5.html#los-uruguayos-y-la-confianza-en-las-instituciones",
+    "href": "practico_5.html#los-uruguayos-y-la-confianza-en-las-instituciones",
+    "title": "Práctico: Describir los datos - Tablas y gráficos de barras (S05)",
+    "section": "5.2 Los uruguayos y la confianza en las instituciones",
+    "text": "5.2 Los uruguayos y la confianza en las instituciones\n\nIntroducción\nImagina que accedemos a una muestra representativa de uruguayos adultos y les preguntamos los siguiente:\n\n¿Cuánta confianza tiene en la prensa?\n¿Cuánta confianza tiene en las iglesias?\n¿Cuánta confianza tiene en los sindicatos?\n¿Cuánta confianza tiene en la policía?\n¿Cuánta confianza tiene en las organizaciones de mujeres?\n¿Cuánta confianza tiene en las fuerzas armadas?\n\n\nSi las opciones de respuesta son Nada, Poco, Algo o Mucha, ¿cómo crees que sería la distribución de respuestas para cada pregunta? Basado en los videos y el capítulo 3 del libro, selecciona una forma de representarlo.\nCompara tu respuesta con la de tus compañeros\n\n\n\nEl primer paso: contar\nLo cierto es que estas preguntas forman parte de la Encuesta mundial de valores, una iniciativa internacional en la que participa Uruguay. Vamos a trabajar con los datos reales de esta encuesta, correspondientes a nuestro país.\n\nActiva el botón Acerca de la base para conocer con mayor detalle de qué se trata.\nActiva el botón Mostrar resumen. Identifica variables y niveles de las variables disponibles en la base de datos del panel.\nSelecciona la variable categórica Confianza en la prensa.\n\n¿Cuántas personas eligieron cada opción? ¿Cómo lo observaste? Encuentra formas alternativas de observar esto mismo.\n\n\n\n¿Necesitás ayuda?\n\nElegir análisis &gt; Tabla de frecuencias univariada &gt; Elegir variable 1 (Confianza en la prensa) Puedes observar las frecuencias absolutas\n\nElegir análisis &gt; Gráfico de barras &gt; Elegir variable 1 (alguna categórica) &gt; Frecuencias: absolutas\n\n\n\n¿Qué parte del total eligió cada opción? ¿Cómo lo observaste? Encuentra formas alternativas de observar esto mismo.\n\n\n\n¿Necesitás ayuda?\n\nElegir análisis &gt; Tabla de frecuencias univariada &gt; Elegir variable 1 (alguna categórica) Ahora puedes observar las frecuencias porcentuales\n\n\nRepite el procedimiento para las otras variables que refieren a la confianza en las instituciones (iglesias, sindicatos, policía, organizaciones de mujeres y fuerzas armadas) y compara la distribución de respuestas con tus hipótesis iniciales.\n\n\n\n¿Cómo se sitúa la confianza en la prensa en Uruguay en relación a otros países del mundo?\nObserva el siguiente gráfico basado en los datos de la Encuesta Mundial de Valores, en este caso con datos de 2020, extraído de la web Our World in Data.\nPorcentaje de personas que confían en los periodistas en su país, 2020\nPorcentaje de entrevistados que respondieron “mucho” y “algo” a la pregunta “¿Qué tanto confías en los periodistas de tu país?”\nAccede al mapa interactivo aquí\n\n\n¿De qué forma fueron calculadas las frecuencias? ¿Recuerdas qué nombre recibe ese tratamiento de las frecuencias?\n¿Para qué otras variables de la base Encuesta Mundial de Valores tendría sentido calcular las frecuencias de ese modo?",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_5.html#dos-variables-una-tabla",
+    "href": "practico_5.html#dos-variables-una-tabla",
+    "title": "Práctico: Describir los datos - Tablas y gráficos de barras (S05)",
+    "section": "5.3 Dos variables, una tabla",
+    "text": "5.3 Dos variables, una tabla\nHasta ahora venimos trabajando con una única variable a la vez. Demos un paso más: ahora nos interesa poner en relación dos variables categóricas.\nPor ejemplo, vamos a poner en relación la variable Confianza en la prensa con otra variable (variable 2). En otras palabras, queremos ver cuántos casos caen simultáneamente en cada combinación posible de categorías.\n\nSelecciona otra variable (variable 2) que tenga sentido examinar en forma conjunta con la variable Confianza en la prensa.\n\n\n\n¿Necesitás inspiración?\n\nPor ejemplo, Confianza en la prensa y Nivel educativo En Uruguay, ¿el nivel educativo de las personas se asocia a su nivel de confianza en la prensa?\n\n\nObtiene una tabla de frecuencia bivariada (absolutas). ¿Cuántas personas (casos) hay en cada cruce de categorías?\nAhora, para la misma tabla bivariada modifica la opción Frecuencias para mostrar las Frecuencias porcentuales. Observa los cambios si los porcentajes están calculados por fila o por columna\nFormula 3 preguntas específicas que se podrían contestar a partir de la tabla (en función de la pregunta, considera si necesitas visualizar los totales por fila o por columna).\n\n\n\n¿Necesitás ayuda?\n\nEjemplo de pregunta: Entre las personas que tienen mucha confianza en la prensa ¿Cuántas alcanzaron el nivel de Posgrado-Doctorado?\n\n\n\nPlantea hipótesis respecto a otros pares de variables. Realiza los análisis correspondientes en el panel de análisis y contrasta los resultados con tus hipótesis iniciales.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_5.html#los-totales-mandan",
+    "href": "practico_5.html#los-totales-mandan",
+    "title": "Práctico: Describir los datos - Tablas y gráficos de barras (S05)",
+    "section": "5.4 Los totales mandan",
+    "text": "5.4 Los totales mandan\nAhora, manteniendo las mismas variables (variable 1: Confianza en la Prensa, variable 2: Nivel educativo), cambia la especificación del panel de Frecuencias absolutas a Frecuencias porcentuales. Puedes visualizar los porcentajes por filas o por columnas.\n\nQué forma es oportuna para responder la pregunta “¿De todas las personas cuyo máximo nivel educativo es Maestría, qué porcentaje tiene mucha confianza en la prensa?”\nQué forma es oportuna para responder la pregunta “¿De todas las personas que tienen mucha confianza en la prensa, qué porcentaje completó Maestría?”\nAhora vamos a visualizar estos mismos datos de forma gráfica. Busca una solución gráfica útil para responder la primera pregunta. Ahora intentalo para la segunda pregunta.\n\n\n\n¿Necesitás ayuda?\n\nElegir análisis &gt; Gráfico de barras &gt; Elegir variable 1: Confianza en la Prensa, variable 2: Nivel educativo &gt; Barras: apiladas &gt; Frecuencias: porcentuales\nAhora invierte las variables 1 y 2 en el panel. Observa el nuevo gráfico.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_5.html#aristas---desempeños-en-lectura-en-3er-año-escolar",
+    "href": "practico_5.html#aristas---desempeños-en-lectura-en-3er-año-escolar",
+    "title": "Práctico: Describir los datos - Tablas y gráficos de barras (S05)",
+    "section": "5.5 ARISTAS - Desempeños en lectura en 3er año escolar",
+    "text": "5.5 ARISTAS - Desempeños en lectura en 3er año escolar\nEl siguiente gráfico fue trabajado en uno de los videos correspondientes a esta semana. El mismo fue extraído del informe de Aristas 2023, publicado por el Instituto Nacional de Evaluación Educativa.\nConsiderando que refiere a alumnos de tercer año escolar de Uruguay, y que las variables representadas son el Contexto socioeconómico y cultural del centro (niveles Muy favorable, Favorable, etc.) y Desempeño en lectura (Nivel 1, Nivel 2, etc.).\n\n¿Qué título le darías al gráfico? ¿Cómo están expresadas las frecuencias? Recuerda explicitar si la representación fue realizada según contexto socioeconómico o según desempeño en lectura.\n¿Qué afirmaciones puedes realizar a partir de las distribuciones observadas en el nivel socioeconómico y cultural Muy favorable y en el nivel Muy desfavorable?",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_5.html#endis-2023---métodos-de-disciplina-violentos",
+    "href": "practico_5.html#endis-2023---métodos-de-disciplina-violentos",
+    "title": "Práctico: Describir los datos - Tablas y gráficos de barras (S05)",
+    "section": "5.6 ENDIS 2023 - Métodos de disciplina violentos",
+    "text": "5.6 ENDIS 2023 - Métodos de disciplina violentos\nEl siguiente gráfico forma parte de un informe del MIDES basado en la Encuesta de Nutrición Desarrollo Infantil y Salud (ENDIS) 2023, y representa la prevalencia de métodos de disciplina violentos, según características del hogar.\n\nEste texto es una transcripción del informe, con algunas omisiones y modificaciones. Observa el gráfico y completa la información faltante en el texto.\nEn cuanto al nivel de ingresos del hogar, se observa que una proporción ____________ de niños y niñas fueron sometidos a métodos de disciplina que involucraban violencia física en los hogares de menor ingreso comparado con los de mayor ingreso ( ___ % en el tercil más bajo frente a ___ % en el más alto). Por el contrario, los niños y niñas en el tercil de ingresos _____________  fueron sometidos en mayor medida a la violencia psicológica ( ___ % frente a ___ % en el más bajo).\nPor otro lado, en cuanto a la región del país, el porcentaje de niños y niñas que fueron sometidos a la violencia psicológica fue mayor en _____________  ( ___ %) que en _______ ( ___ %), mientras que no se observaron diferencias importantes en cuanto a la prevalencia de _____________.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_5.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "href": "practico_5.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "title": "Práctico: Describir los datos - Tablas y gráficos de barras (S05)",
+    "section": "5.7 Y para terminar, un par de ejercicios múltiple opción, como los del parcial",
+    "text": "5.7 Y para terminar, un par de ejercicios múltiple opción, como los del parcial\nUsando el Panel de análisis de datos, empleando tablas de frecuencia bivariadas, indique la afirmación correcta para cada ejercicio.\n\nA partir de la base de datos SERCE, cruce las variables Educación_Madre y Educación_Padre\n\nLa mayoría de los estudiantes cuya madre tiene “Primaria” como mayor nivel educativo alcanzado, tienen padres con igual nivel educativo\nDe entre aquellos cuya madre tiene “Primaria” como mayor nivel alcanzado, el 17.7 % tiene padre con nivel “Secundaria”\nUn 69.1 % de los estudiantes tiene padre y madre con nivel de educación universitaria\nUn 34.2 % de los estudiantes tiene madre con estudios universitarios y padre con ‘Primaria’ como mayor nivel educativo alcanzado\n\nA partir de la base de datos SERCE, cruce las variables Vives_Madre y Vives_Padre\n\nEl 97.5 % de los estudiantes vive con ambos padre y madre\nDe aquellos estudiantes que NO viven con su padre, el 26 % vive con su madre\nDe aquellos estudiantes que SÍ viven con su padre, el 2,4 % NO viven con su madre\nEl 26 % de los estudiantes NO vive con el padre y SÍ viven con la madre\n\nA partir de la base de datos Encuesta Nacional de Psicólogos, cruce las variables Vivienda_Ud_es y Estado_conyugal\n\nEl 9.5 % de los psicólogos que se encuentran en una unión libre es miembro de una cooperativa de ayuda mutua\nEl 42.8 % de los que son inquilinos o arrendatarios se encuentran solteros\nEl 41.1 % de los psicólogos casados son propietarios y ya pagaron la vivienda\nEl 22.2 % de los propietarios que están pagando su vivienda son viudos\n\nA partir de la base de datos Censo Nacional de Psicólogos, cruce las variables Vivienda_Ud_es y Estado_conyugal\n\nEl 80,6% de las psicólogas son inquilinas o arrendatarias\nEl 14.7% de los psicólogos es propietario y ya pagó su vivienda\nEl 2.1% de las psicólogas son miembro de una cooperativa de ayuda mutua\nEl 16.6% de los encuestados son ocupantes gratuitos\n\nEn la base Aristas, observa las variables ESCS_Alumno_cat y Niveles_MAT a partir de un gráfico de barras apiladas\n\nNo se observa relación entre el desempeño en matemática y Estatus socioeconómico y cultural del estudiante\nLa mayoría de los estudiantes que integran el quintil 1 de estatus socioeconómico y cultural tienen niveles de desempeño en matemática menores o iguales a N2\nLa mayoría de los estudiantes que integran el quintil 3 de estatus socioeconómico y cultural tienen niveles de desempeño en matemática menores o iguales a N2\nLa mayoría de los estudiantes con desempeño en matemática N3 pertenecen al quintil 3 de estatus socioeconómico y cultural",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_6.html",
+    "href": "practico_6.html",
+    "title": "Práctico: Correlación (S06)",
+    "section": "",
+    "text": "6.1 Correlación",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Práctico: Correlación (S06)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_6.html#correlación",
+    "href": "practico_6.html#correlación",
+    "title": "Práctico: Correlación (S06)",
+    "section": "",
+    "text": "Lectura asociada\nCapítulo 4. Correlación\n\n\nContenidos\n\nDiagramas de dispersión (scatter plots): correlación positiva, negativa, nula\nCovarianza\nCoeficiente de correlación r de Pearson",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Práctico: Correlación (S06)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_6.html#representando-la-relación-entre-dos-variables-desempeño-en-literatura-y-matemáticas",
+    "href": "practico_6.html#representando-la-relación-entre-dos-variables-desempeño-en-literatura-y-matemáticas",
+    "title": "Práctico: Correlación (S06)",
+    "section": "6.2 Representando la relación entre dos variables: desempeño en literatura y matemáticas",
+    "text": "6.2 Representando la relación entre dos variables: desempeño en literatura y matemáticas\nSeguramente alguna vez escuchaste frases como “Lo mío son las letras, soy muy malo para los números”, o al revés, pero ¿qué dicen los datos respecto a esto?\nImagina que se aplican pruebas de desempeño en literatura y matemáticas a adolescentes entre 11 y 15 años que cursan Educación Secundaria en Uruguay. \n\nObserva los siguientes diagramas de dispersión. ¿Qué representa cada punto violeta? ¿Y los ejes x e y? \nEn tu opinión ¿Cuál de los diagramas representaría mejor la relación entre los desempeños en literatura y matemáticas?\n\n\n¿Qué tal si miramos datos reales? Ingresa al panel de análisis y localiza la base correspondiente al Segundo Estudio Regional Comparativo y Explicativo (SERCE).\n\nActiva el botón Acerca de la base para recordar de qué se trata\nSelecciona las variables Literatura y Matemáticas y obtiene un diagrama de dispersión\n\n\n\n¿Necesitás ayuda?\n\nAquí te mostramos un ejemplo de la base ENDIS\nGráfico de dispersión &gt; seleccionar variable 1 &gt; seleccionar variable 2\n\n\n\nInterpreta el diagrama de dispersión obtenido. Compara estos resultados con tu estimación inicial\nInterpreta el valor r de Pearson observado en el panel\nDiscute si las siguientes afirmaciones son compatibles con el resultado obtenido:\n\nLos puntajes en matemática y literatura son independientes\nSi un estudiante tiene un desempeño alto en matemática es probable que tenga un desempeño alto en literatura\nSi un estudiante tiene un desempeño alto en literatura es probable que tenga un desempeño bajo en matemática\nSi un estudiante tiene un desempeño alto en literatura es seguro que también tendrá un desempeño alto en matemática, y viceversa\n\nAhora realiza un gráfico de dispersión para las variables Matemática y Edad. Señala la opción es correcta:\n\nLa edad y el puntaje en matemática muestran una relación negativa\nA mayor edad mejor desempeño en matemática\nEl coeficiente de correlación de Pearson es negativo indicando que a menor edad menor desempeño en matemática\nLa edad y el puntaje en matemática son dos variables que no covarían",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Práctico: Correlación (S06)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_6.html#covarianza-qué-significa-que-dos-variables-cambien-juntas",
+    "href": "practico_6.html#covarianza-qué-significa-que-dos-variables-cambien-juntas",
+    "title": "Práctico: Correlación (S06)",
+    "section": "6.3 Covarianza: ¿Qué significa que dos variables “cambien juntas”?",
+    "text": "6.3 Covarianza: ¿Qué significa que dos variables “cambien juntas”?\n\nIngresa al Panel de análisis de datos cuanti.psico.edu.uy/panel\nSelecciona la base de datos ARISTAS\nActiva el botón Acerca de la base para recordar de qué se trata, con especial atención en las dimensiones del módulo socioemocional de Aristas. Además, puedes encontrar algunos ejemplos de ítems del cuestionario presentado a los estudiantes en este video de la semana 01 de este curso\nPlantea tus hipótesis respecto a la relación entre los siguientes pares de variables:\n\n\nMotivación_y_autorregulación (variable 1) y Habilidades_interpersonales (variable 2)\nMotivación_y_autorregulación y Habilidades_intrapersonales\nHabilidades_interpersonales y Habilidades_intrapersonales\n\n\nAntes de activar el panel, dibuja un gráfico de dispersión para cada par de variables en base a tu conocimiento previo o incluso tu intuición al respecto (es decir, 3 diagramas de dispersión). Luego dibuja la línea recta que mejor resume el patrón de los datos.\n¿Cuál crees que sería el signo y valor del coeficiente r de Parson en cada caso?\nAhora obtené los mismos gráficos en el panel de análisis. ¿Qué tan distinto es respecto al tuyo? Interpreta la magnitud y dirección de la correlación.\nSelecciona otra base de datos ¿Para qué variables dirías que existe una asociación débil? ¿Moderada? ¿Fuerte? ¿Son esas asociaciones positivas o negativas? Formula tus hipótesis y luego realiza el análisis de correlación para las variables de interés.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Práctico: Correlación (S06)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_6.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción",
+    "href": "practico_6.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción",
+    "title": "Práctico: Correlación (S06)",
+    "section": "6.4 Y para terminar, un par de ejercicios múltiple opción",
+    "text": "6.4 Y para terminar, un par de ejercicios múltiple opción\n\nEn una investigación sobre rendimiento escolar en Uruguay que empleaba una muestra de 2.372 niños de entre 7 y 10 años, el coeficiente de correlación calculado para las variables ingreso del hogar y puntaje en una prueba de lenguaje fue de r = 0,692.  A partir de ese resultado se puede afirmar que:\n\nLa covarianza entre las variables ingreso del hogar y el puntaje de lengua es negativa\nA medida que aumenta el ingreso del hogar, disminuye el rendimiento en lenguaje de los niños de entre 7 y 10 años en el país\nExiste una relación lineal positiva entre el ingreso del hogar y el puntaje en la prueba de lenguaje para los niños de entre 7 y 10 años en Uruguay\nExiste una correlación negativa entre el ingreso del hogar y el desempeño en la prueba de lenguaje en la muestra estudiada\n\nEn una investigación reciente sobre competitividad se analizó la relación entre la ansiedad de las personas y el número de errores que estas cometían en un test numérico. Se correlacionaron ambas variables (nivel de ansiedad y número de errores) y se obtuvo un r = 0,734. De estos resultados podemos inferir:\n\nDado que el coeficiente de correlación es menor que 1, no existe una correlación entre ambas variables\nDado que el coeficiente de correlación es positivo, aciertan mayor cantidad de veces cuanto más ansiosas son\nDado que el coeficiente de correlación es positivo, cometen mayor número de errores cuanto más ansiosas son\nLa covarianza entre nivel de ansiedad y número de errores es negativa\n\nIngresa al panel y selecciona la base de datos Encuesta estudiantes de cuanti. Realiza un gráfico de dispersión para las variables horas de sueño y grado de satisfacción con la vida. La opción correcta es:\n\nNo hay relación entre ambas variables\nCuantas más horas de sueño, menor es el grado de satisfacción con la vida\nDe acuerdo con el coeficiente r de Pearson, la covarianza entre las variables es positiva\nHay una correlación negativa entre ambas variables",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Práctico: Correlación (S06)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_7.html",
+    "href": "practico_7.html",
+    "title": "Práctico: Semana de revisión (S07)",
+    "section": "",
+    "text": "Esta semana no hay un nuevo práctico, la tarea está orientada a la revisión y avance en el entregable final.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Práctico: Semana de revisión (S07)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_8.html",
+    "href": "practico_8.html",
+    "title": "Práctico: Regresión (S08)",
+    "section": "",
+    "text": "8.1 Regresión",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Práctico: Regresión (S08)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_8.html#regresión",
+    "href": "practico_8.html#regresión",
+    "title": "Práctico: Regresión (S08)",
+    "section": "",
+    "text": "Lectura asociada\nCapítulo 4. Sección 4.5. Regresión\n\n\nContenidos\n\nLínea de mejor ajuste\nIntercepto y Pendiente\nCoeficiente de determinación (R²)",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Práctico: Regresión (S08)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_8.html#regresión-lección-interactiva",
+    "href": "practico_8.html#regresión-lección-interactiva",
+    "title": "Práctico: Regresión (S08)",
+    "section": "8.2 Regresión: Lección interactiva",
+    "text": "8.2 Regresión: Lección interactiva\nIngresa a la Lección Interactiva Regresión Lineal\nExplora la lección y define: - línea de regresión, pendiente, intercepto y R²",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Práctico: Regresión (S08)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_8.html#la-regresión-nos-permite-predecir",
+    "href": "practico_8.html#la-regresión-nos-permite-predecir",
+    "title": "Práctico: Regresión (S08)",
+    "section": "8.3 La Regresión nos permite predecir",
+    "text": "8.3 La Regresión nos permite predecir\nEn este práctico vamos a responder la siguiente pregunta: \n¿Es posible predecir la longitud del brazo de una persona a partir de su altura?\n\nRecolección de datos\n\nAltura (x): altura de pie en centímetros\nLongitud del brazo (y): desde el hombro hasta la punta de los dedos de la mano dominante (en cm)\n\nOrganizar los datos en una tabla en el pizarrón\nCada estudiante deberá realizar un gráfico de dispersión con los datos del grupo. A continuación, interpreta junto con tus compañeros el gráfico obtenido.\nRealiza una regresión lineal sobre los datos utilizando el editor de la lección interactiva de regresión\n¿Cuál es el valor del coeficiente de correlación de Pearson obtenido para las variables relacionadas?\n¿Cuál es el R²? ¿Cómo lo interpretas?\n¿Qué significa el valor de la pendiente en nuestra ecuación de regresión?\n\n\n\n¿Necesitás ayuda?\n\n¿Cuántos cm aumenta la longitud del brazo, en promedio, por cada cm de altura?\n\n\nObtenga la altura del profesor, prediga la longitud de su brazo a partir de la misma\nObtenga la longitud real del brazo del profesor. ¿Cómo es la predicción comparada con el valor real?\nReflexiona sobre el uso y los límites de una regresión. ¿Se trata de una regla perfecta o una tendencia promedio?",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Práctico: Regresión (S08)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_8.html#y-si-los-datos-no-tuvieran-relación",
+    "href": "practico_8.html#y-si-los-datos-no-tuvieran-relación",
+    "title": "Práctico: Regresión (S08)",
+    "section": "8.4 ¿Y si los datos no tuvieran relación?",
+    "text": "8.4 ¿Y si los datos no tuvieran relación?\n\nReordena aleatoriamente los datos generando nuevos pares de altura y longitud de brazo. \nVuelve a realizar la regresión lineal pero ahora sobre estos pares de datos aleatorios\n¿Qué coeficiente de correlación obtienes? ¿Por qué?\nPide los coeficientes de correlación de los pares de datos aleatorios de los otros grupos. ¿Cómo son estos coeficientes comparados con el valor de correlación de Pearson de los datos originales?",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Práctico: Regresión (S08)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_8.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción",
+    "href": "practico_8.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción",
+    "title": "Práctico: Regresión (S08)",
+    "section": "8.5 Y para terminar, un par de ejercicios múltiple opción",
+    "text": "8.5 Y para terminar, un par de ejercicios múltiple opción\n\n¿Cuál es la característica principal de la línea de mejor ajuste en un análisis de regresión lineal simple?\na. Existen infinitas líneas que pueden ajustarse igual de bien si los datos son perfectamente lineales\nb. Varias líneas pueden minimizar la suma de errores cuadrados, pero la elección depende del método estadístico utilizado\nc. Es la línea que pasa por al menos tres puntos de los datos\nd. Es la única línea que minimiza la suma de los errores cuadrados entre los valores observados y los valores predichos\nUna psicóloga investigó si el número de horas de meditación por semana predice los niveles de ansiedad (cuanto mayor el puntaje, mayor la ansiedad). La ecuación de regresión obtenida fue: Ansiedad = 30 − 2*Horas. ¿Qué predice esta ecuación?\na. Por cada hora adicional de meditación, la ansiedad aumenta en 2 puntos\nb. Si alguien medita 0 horas, su ansiedad estimada es de 30\nc. La meditación no tiene efecto sobre la ansiedad\nd. La ansiedad es 2 veces el número de horas de meditación",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Práctico: Regresión (S08)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_9.html",
+    "href": "practico_9.html",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "section": "",
+    "text": "9.1 Distribución normal, muestreo y puntuaciones Z",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_9.html#distribución-normal-muestreo-y-puntuaciones-z",
+    "href": "practico_9.html#distribución-normal-muestreo-y-puntuaciones-z",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "section": "",
+    "text": "Lectura asociada\nCapítulo 5\nApartado 5.5 La distribución normal (incluye 5.5.1 Distribución de probabilidad)\nApartado 5.8 Muestras, poblaciones y muestreo (hasta 5.8.1 Definir una población)\nApartado 5.8.5 Parámetros poblacionales y estadísticas muestrales\n\n\nContenidos\n\nDistribución normal\nPoblación y muestra\nParámetros poblacionales y estadísticos muestrales\nPuntuaciones Z",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_9.html#juegos-con-dados",
+    "href": "practico_9.html#juegos-con-dados",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "section": "9.2 Juegos con dados",
+    "text": "9.2 Juegos con dados\n\nImagina que tiras un dado. ¿Cuál es la probabilidad de que salga cada una de las seis caras del dado? ¿Tienen todas las caras la misma posibilidad de salir? Entonces ¿cómo lo graficarías?\nPuedes simular esto en Demo dados (click). Configura la opción Number of dice: 1 y “Roll automatically”.\nEspera a que el gráfico se estabilice y observa la distribución.\nAhora imagina que tiramos dos dados a la misma vez y nos interesa registrar la suma de los puntos de ambos dados en cada intento. ¿Son igualmente probables todos los resultados? \nPuedes simular esto en Demo dados (click). Configura la opción Number of dice: 2 y “Roll automatically”.\nEspera a que el gráfico se estabilice y observa la distribución.\nRevisa tu respuesta a ¿Son igualmente probables todos los valores?",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_9.html#tablero-de-galton",
+    "href": "practico_9.html#tablero-de-galton",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "section": "9.3 Tablero de Galton",
+    "text": "9.3 Tablero de Galton\nVeamos otro caso específico en la siguiente animación: Tablero de Galton (click)\n\nExplora la animación en el botón Intro. Al tirar una canica, ¿en qué tubo es más probable que caiga?\nRealiza varios intentos usando la opción xTodo\nAhora explora la opción Laboratorio. Mantiene las especificaciones por defecto (Filas 12 y Probabilidad 0.5). Luego cambia la opción a Camino. \n¿Tiene una canica la misma probabilidad de caer en cada tubo? Luego de que el gráfico se estabiliza, observa la distribución.\nImagina que pudieras prolongar la caída de canicas infinitamente. ¿Cómo sería la distribución?\n¿A qué refiere la opción de ajuste Probabilidad = 0.5? ¿Qué sucede con la distribución si cambias la Probabilidad a 0.7? ¿Y si la cambias a 0.2?",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_9.html#la-distribución-de-las-alturas-de-los-adultos",
+    "href": "practico_9.html#la-distribución-de-las-alturas-de-los-adultos",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "section": "9.4 La distribución de las alturas de los adultos",
+    "text": "9.4 La distribución de las alturas de los adultos\n\nVamos a graficar a mano la distribución de las alturas de todas las personas adultas y de de sexo femenino de Uruguay. En otras palabras, queremos representar visualmente la probabilidad de observar las distintas alturas posibles en nuestra población.\nAhora realiza el mismo gráfico para los adultos de sexo masculino de Uruguay.\n¿Cómo se vería cada representación?\n\n\n\nDesplegar luego de responder\n\nLa altura humana está afectada por una serie de factores genéticos y ambientales que dan lugar a su variabilidad en la población. No obstante, al igual que otros fenómenos de la naturaleza y rasgos en la psicología, a nivel poblacional la altura se distribuye siguiendo una curva normal. Pero ¿Qué implicancias tiene saber que la distribución es normal? Si conocemos la media y la desviación estándar de las alturas podemos tener una buena comprensión de la forma en que se distribuye esa característica, fenómeno o rasgo en una determinada población.\n\nLa siguiente figura corresponde a un estudio en el que se recuperaron datos de altura de 150.000 pares de gemelos nacidos entre 1886 y 1994 en Europa, América del Norte, Australia y Asia Oriental (Jelenkovic et al., 2016 en Our World in Data, 2024).\nDistribución de alturas masculinas y femeninas (Our World in Data, 2024)\nDistribución de alturas de adultos basado en estudios de cohortes de 20 países de Europa, América del Norte, Australia y Asia Oriental. Se muestra la distribución ponderada por el tamaño de la muestra a través de todas las cohortes nacidas entre 1980 y 1994 (y que entonces alcanzaron la edad de 18 años entre 1988 y 2012).\n\n\nDespliega la imagen solamente si ya resolviste la primera parte del ejercicio\n\n\nNota. Adaptado al español de Our World in Data (2024).\n\nObservemos algunos detalles:\n\n¿Por qué el gráfico de mujeres tiene un pico más alto que el de hombres, si su altura promedio fue más baja?\n¿Cómo cambiaría la forma de la curva si la variabilidad en las alturas aumentara?\n\n\n\n¿Necesitas ayuda?\n\n¿Recuerdas las siguientes animaciones del Capítulo 5 del libro? ¿Cuál corresponde a una media cambiante? ¿Cuál a la desviación estándar cambiante?\n\n\n\na.\n\n\n\n\n\nb.\n\n\n\n\nSi seleccionamos una persona de sexo femenino al azar, ¿qué probabilidad hay de que mida más de 171,8 cm?\n¿Qué proporción de casos esperás encontrar fuera del rango de ±2 desviaciones estándar?\n\n\n\n¿Necesitas ayuda?\n\nPara auxiliarte en la interpretación de la distribución normal, utiliza el gráfico 5.20 del libro.\n\n\n\nBasandote en la información ofrecida en el gráfico y tus conocimientos sobre las propiedades de la distribución normal, completa:\n\nPara la cohorte de nacimiento comprendida entre 1980 y 1994, los autores encontraron que la altura media de los hombres era de 178,4 centímetros (cm). La desviación estándar fue de 7,59 cm. Esto significa que el ___% de los hombres medían entre 170,8 y 186 cm; y el ___% entre 163,2 y 193,6 cm.\nLas mujeres eran, en promedio, más bajas, con una altura media de 164,7 cm y una desviación estándar de 7,07 cm. Esto implica que el ___ % de las mujeres medían entre 157,6 y 171,8 cm, y el ___% entre 150,6 y 178,84 cm.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_9.html#puntuaciones-z",
+    "href": "practico_9.html#puntuaciones-z",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "section": "9.5 Puntuaciones Z",
+    "text": "9.5 Puntuaciones Z\n\nImagina que eres un profesional de la psicología interesado en la evaluación psicológica. Intenta pensar qué estrategias podrías utilizar si te interesa comparar:\n\nEl desempeño de un sujeto en pruebas que tienen escalas de puntuación distintas\nEl desempeño de un sujeto con respecto a una población de referencia\n\n\n\n\n¿Necesitas ayuda?\n\nEn el apartado 5.11 del libro vimos que cuando la distribución es normal es posible expresar las puntuaciones originales (por ejemplo, la puntuación directa obtenida en una prueba) en función de desviaciones estándar (DE) respecto a la media.\nAsí, podemos decir que la puntuación obtenida por un estudiante se encuentra, por ejemplo, 2 DE por encima de la media (o, lo que es lo mismo, z = 2).\nRecuerda, se calcula:",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_9.html#población-y-muestra-por-qué-estamos-interesados-en-la-probabilidad",
+    "href": "practico_9.html#población-y-muestra-por-qué-estamos-interesados-en-la-probabilidad",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "section": "9.6 Población y muestra: ¿por qué estamos interesados en la probabilidad?",
+    "text": "9.6 Población y muestra: ¿por qué estamos interesados en la probabilidad?\n\nA partir de la lectura asignada para esta semana, define y diferencia los siguientes conceptos: población, muestra, parámetro y estadístico (Sección 5.12 del libro)\nIntercambia con tu subgrupo al respecto\n\n\n\nDesplegar luego de responder\n\nCuando investigamos sobre una temática, en general no es posible acceder a todos los casos que serían de nuestro interés (población). Generalmente solo voy a tener la capacidad de observar algunos (una muestra) y necesitamos algunas herramientas que nos permitan manejar la incertidumbre que conlleva trabajar con muestras.\n\n\nExplora la lección Lección interactiva muestreo (click) y contrasta tus definiciones con las ofrecidas al final de la lección\nSitúa los cuatro conceptos en el marco de la base de datos con la que estás trabajando en el Entregable\n¿Qué es el error estándar? ¿Cuál es la relación entre éste y el tamaño de la muestra?\nUtilizando la web The new statistics (click):\n\n\nCompara la distribución de las medias muestrales (N=100) obtenidas a partir de una población con distribución normal (media=50, desvío estándar =20) con la obtenida a partir de una población con distribución uniforme-(media=50, desvío estándar=20).\nRealiza lo mismo que antes pero ahora utilizando muestras más pequeñas, por ejemplo N=10. ¿Qué ocurre con la distribución muestral de la media?\n\n\n\n\nDesplegar luego de responder\n\n\nEl hecho de tener que trabajar con muestras en lugar de poblaciones obliga a recurrir a la inferencia y a tener que establecer una regla de decisión en términos de probabilidad.\nRequiere entender cómo se comportan las muestras cuando se extraen de distribuciones (definidas por la teoría de la probabilidad…).",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_9.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "href": "practico_9.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "section": "9.7 Y para terminar, un par de ejercicios múltiple opción, como los del parcial",
+    "text": "9.7 Y para terminar, un par de ejercicios múltiple opción, como los del parcial\n\nLa distribución muestral de la media:\n\n\n\nDescribe la frecuencia de los distintos valores de la variable en la población.\nEs una distribución empírica que permite estimar el error en cada muestra.\nEs una distribución cuya media es la media poblacional, y cuyo desvío estándar aumenta con el tamaño de la muestra.\nEs una distribución teórica que muestra la frecuencia de los valores de media obtenidos a partir de todas las muestras posibles de una población.\n\n\n\nCon respecto a las puntuaciones Z:\n\n\n\nSi la puntuación directa es positiva, la puntuación Z siempre será positiva.\nLa media de las puntuaciones Z es 1, y su desvío es 0.\nSi la puntuación Z es negativa, la puntuación directa es inferior a la media.\nLa media de las puntuaciones Z es 1, y su desvío será igual al desvío estándar de las puntuaciones directas.\n\n\n\nSi la distribución de un conjunto de datos es normal, puede decirse que:\n\n\n\nPuntuaciones Z entre -1 y 1 ocurren aprox. un 50% de las veces.\nPuntuaciones Z entre -1 y 1 ocurren aprox. un 95% de las veces.\nPuntuaciones Z entre -2 y 2 ocurren aprox. un 68% de las veces.\nPuntuaciones Z entre -2 y 2 ocurren aprox. un 95% de las veces.\n\n\n\nUn estudiante sacó 540 tanto en la prueba de ciencias como en la de matemáticas de SERCE. Al comparar el resultado del estudiante con el resto de los estudiantes evaluados se puede afirmar que:\n\n\n\nLa nota de Juan de matemáticas se encuentra a -0,40 desvíos estándar de la media. Esto quiere decir que Juan está por encima de la media.\nEn matemáticas Juan está a -1 desvío estándar de la media y en ciencias a +1. Esto quiere decir que a Juan le fue mejor en ciencias pero no en matemáticas en comparación con el resto de sus compañeros.\nJuan tiene un rendimiento promedio en ambas pruebas.\nLa puntuación de Juan se encuentra a 0,02 desvíos estándar en ciencias y a -0,40 en matemáticas. Esto quiere decir que Juan tiene una puntuación parecida a la media en ciencias pero en matemática le fue un poco por debajo del promedio.\n\n\n\nEn un estudio realizado en la Facultad de Psicología (Paz et al., 2016) acerca de la incidencia de la autoestima en la toma de decisiones, se solicitó a los participantes que cuantificaran su nivel de “enojo” ante diferentes situaciones. En el siguiente gráfico se muestra, mediante diagramas de cajas, la distribución de puntuaciones de “enojo”, según sexo y nivel de autoestima.\n\n\nA partir del gráfico, indique cuál de las siguientes afirmaciones es correcta.\n\nHay mayor variabilidad de los niveles de enojo en los hombres que en las mujeres.\nLos hombres con autoestima alta reportan mayor nivel de enojo que los hombres con autoestima baja.\nLos mujeres con autoestima alta reportan mayor nivel de enojo que las mujeres con autoestima baja.\nPara personas con valores de autoestima alta, hay mayor variabilidad en los niveles de enojo en los hombres que en las mujeres. El patrón es inverso para valores de autoestima bajos.\n\n\n\nEn el estudio de la pregunta anterior (autoestima y enojo), el valor medio de enojo en hombres de autoestima alta es 2, y el desvío estándar 2,5. Un participante (llamémosle Pedro) reportó autoestima alta y un enojo de 4,5. ¿Cuál es el valor Z de la puntuación de Pedro?\n\n\n\nZ = 6,5\nZ = 1\nZ = 0\nUn valor de Z negativo porque está por encima de la media.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_10.html",
+    "href": "practico_10.html",
+    "title": "Intervalo de confianza y Error estándar (S10)",
+    "section": "",
+    "text": "Lectura asociada\nCapítulo 5. Probabilidad, muestreo y estimación\nSección 5.12. Estimación de parámetros poblacionales\nSección 5.13. Estimación de un intervalo de confianza",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_10.html#lección-interactiva-muestreo",
+    "href": "practico_10.html#lección-interactiva-muestreo",
+    "title": "Intervalo de confianza y Error estándar (S10)",
+    "section": "10.1 Lección interactiva: Muestreo",
+    "text": "10.1 Lección interactiva: Muestreo\n\nA partir de la lectura (Sección 5.12. del libro) y videos asignados a esta semana, define y diferencia los siguientes conceptos: población, muestra, parámetro y estadístico \nIntercambia con tu subgrupo al respecto\n\n\n\nDesplegar luego de responder\n\nCuando investigamos sobre una temática, en general no es posible acceder a todos los casos de interés (población). Generalmente solo vamos a tener la capacidad de observar algunos casos (una muestra) y necesitamos algunas herramientas que nos permitan manejar la incertidumbre que conlleva trabajar con muestras.\n\nEl hecho de tener que trabajar con muestras en lugar de poblaciones obliga a recurrir a la inferencia y a tener que establecer una regla de decisión en términos de probabilidad.\nRequiere entender cómo se comportan las muestras cuando se extraen de distribuciones (definidas por la teoría de la probabilidad…).\n\n\n\nExplora la Lección interactiva (Muestreo) y contrasta tus definiciones con las ofrecidas al final de la lección\nSitúa los cuatro conceptos en el marco de la base de datos con la que estás trabajando en el Entregable.\n\nEn la lección, activa la simulación con los controles que vienen por defecto: muestra n = 10, número de muestras = 100, velocidad normal)\n\n¿Qué variable se está midiendo?\n¿Qué representa cada uno de los 3 gráficos?\n¿Qué representa la línea roja? ¿La azul? ¿Y la verde?\nUna vez que la simulación termine, observa el gráfico de la distribución muestral de la media.\nAhora aumenta el tamaño de la muestra a n = 25, observa el gráfico de la distribución muestral de la media y nota diferencias respecto al que obtuviste cuando la muestra era n = 10.\nEntonces ¿Qué es el error estándar de la media? ¿Cuál es la relación entre éste y el tamaño de la muestra?",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_10.html#lección-interactiva-intervalo-de-confianza",
+    "href": "practico_10.html#lección-interactiva-intervalo-de-confianza",
+    "title": "Intervalo de confianza y Error estándar (S10)",
+    "section": "10.2 Lección interactiva: Intervalo de confianza",
+    "text": "10.2 Lección interactiva: Intervalo de confianza\nObserva la animación ofrecida en la Lección interactiva (Intervalo de confianza), especialmente el gráfico de Intervalos de confianza. \n\n¿Qué representan los intervalos verdes?\n¿Qué representan los intervalos rojos?\nPara un nivel de confianza del 95 %, si repetimos el muestreo suficientes veces, ¿cuántos intervalos esperamos que contengan a la media poblacional?\n\nCompara los intervalos cuando el nivel de confianza es 90 % vs cuando es 99 %\n\nObserva: ¿Qué sucede con el ancho del intervalo cuando exijo un mayor nivel de confianza?\n\nRealiza distintos intentos variando el tamaño de la muestra:\n\nObserva: ¿Qué sucede con el ancho del intervalo cuando aumento el tamaño de la muestra?\n\nIntenta responder las siguientes preguntas, a modo de puesta a punto:\n\n¿Cómo se construye un intervalo de confianza? ¿Qué aspectos dependen de la muestra y qué aspectos son una elección?\nConstruyendo un intervalo de confianza de ancho 1 error estándar ¿Qué porcentaje de las veces el intervalo contendrá a la media poblacional? ¿Es suficiente?\nConstruyendo un intervalo de confianza de ancho 2 errores estándar (en realidad 1,96) ¿Qué porcentaje de las veces el intervalo contendrá a la media poblacional? ¿Es suficiente?",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_10.html#construyendo-intervalos-de-confianza",
+    "href": "practico_10.html#construyendo-intervalos-de-confianza",
+    "title": "Intervalo de confianza y Error estándar (S10)",
+    "section": "10.3 Construyendo Intervalos de confianza",
+    "text": "10.3 Construyendo Intervalos de confianza\n¿Cómo podemos estimar en qué rango se encuentra la media poblacional de riesgo en salud mental de cuidadores adultos de niños de hasta 56 meses en Uruguay?\n\nConstruye un intervalo de confianza del 95 % para la variable Riesgo en salud mental de la ENDIS, si la muestra es N = 2566. Intenta recordar los otros elementos que necesitas para construirlo. \n\n\n\n¿Necesitas ayuda?\n\nEn otras palabras, nos están pidiendo que una vez definido un nivel de confianza (en este caso 95 %), calculemos el correspondiente intervalo de confianza.\nA partir del video y la lectura del capítulo intenta recordar: ¿De qué depende el ancho del intervalo de confianza?\n\n\n\n¿Necesitas algo más de ayuda?\n\nPara calcular el intervalo de confianza necesitas calcular el error estándar. Aquí una ayuda:\n\n\nAhora que ya calculaste el intervalo de confianza, ¿Hay alguna herramienta del panel que te permita observar los intervalos de confianza sin calcularlos a mano?\n\nRealiza el análisis utilizando el menú desplegable que corresponda y contrasta el intervalo que calculaste con el que te ofrece el panel. \nEntonces, ¿En qué rango de puntuación sería esperable encontrar la media poblacional, con un nivel de confianza del 95 %?",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_10.html#aplicaciones-de-los-intervalos-de-confianza",
+    "href": "practico_10.html#aplicaciones-de-los-intervalos-de-confianza",
+    "title": "Intervalo de confianza y Error estándar (S10)",
+    "section": "10.4 Aplicaciones de los Intervalos de confianza",
+    "text": "10.4 Aplicaciones de los Intervalos de confianza\nBien, pero ¿para qué nos sirve construir intervalos de confianza?\nImagina que queremos analizar si, en la población, existen diferencias en el riesgo en salud mental del cuidador principal comparando grupos de niños que presentan distintos niveles de conducta agresiva (clasificados como Normal, Riesgo y Clínico).\n\nIngresa al Panel de análisis de datos, base ENDIS, desplegable Intervalos de confianza (Variable 1: SRQ20: riesgo salud mental, Variable 2: agresiva) \nA partir de la observación del gráfico, ¿Es más probable que los grupos (Normal, Riesgo y Clínico) tengan la misma media poblacional de riesgo en salud mental del cuidador o medias significativamente distintas? ¿Qué observaste para responder esta pregunta?\n¿Qué podría explicar que el intervalo de confianza para el nivel Clínico sea así de amplio?\n\n\n\n¿Necesitas ayuda?\n\nIntenta recordar: El intervalo de confianza depende del nivel de confianza y del error estándar. Y el error estándar ¿De qué depende?\n\n\nRepite el ejercicio con variables de interés para tu Entregable.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_10.html#ic-desempeños-en-lectura-y-matemáticas-en-3er-año-de-ed.-primaria-en-uruguay-aristas",
+    "href": "practico_10.html#ic-desempeños-en-lectura-y-matemáticas-en-3er-año-de-ed.-primaria-en-uruguay-aristas",
+    "title": "Intervalo de confianza y Error estándar (S10)",
+    "section": "10.5 IC: Desempeños en lectura y matemáticas en 3er año de Ed. Primaria en Uruguay (Aristas)",
+    "text": "10.5 IC: Desempeños en lectura y matemáticas en 3er año de Ed. Primaria en Uruguay (Aristas)\nComo vimos en los videos de esta semana, los intervalos de confianza pueden verse representados en gráficos y tablas. Los siguientes son ejemplos extraídos del informe Aristas 2023 (INEEd, 2025) y refieren a los desempeños en lectura y matemática de los estudiantes de 3er año de Educación Primaria en nuestro país.\n\n\n¿Qué porcentaje de escolares estaban categorizados en el Nivel 1 de desempeño en lectura en la muestra en 2017? ¿Qué puedes decir sobre el porcentaje de niños en Nivel 1 de desempeño en lectura en la población? Intenta redactar estos resultados.\nSi observamos las muestras 2017 y 2023, el porcentaje de niños categorizados en nivel 1 de desempeño cambió de 4,4 en 2017 a 3,6 en 2023. Observando los respectivos intervalos de confianza ¿qué podemos inferir respecto al cambio en la población?\nIntenta repetir el ejercicio para los otros niveles de desempeño en lectura (2 al 6).\n\nAhora, de la misma manera, examina el caso de matemáticas\n\nAhora miremos los desempeños según contexto socioeconómico y cultural del centro, esta vez representando los intervalos de confianza en forma gráfica. Interpreta cada gráfico.\n\n\nEn el informe se incluyen varios ejemplos más: comparaciones según tipo de escuela (Privada, Urbana común, Tiempo Completo, etc.), género, región, etc. Te invitamos a consultarlo aquí informe Aristas 2023 (pags. 390 - 402).",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_10.html#otro-ejercicio-interactivo-teorema-central-del-límite",
+    "href": "practico_10.html#otro-ejercicio-interactivo-teorema-central-del-límite",
+    "title": "Intervalo de confianza y Error estándar (S10)",
+    "section": "10.6 Otro ejercicio interactivo: Teorema Central del Límite",
+    "text": "10.6 Otro ejercicio interactivo: Teorema Central del Límite\nUtilizando la web https://www.esci-dances.thenewstatistics.com/ vamos a comprobar que independientemente de la forma que tenga una distribución poblacional, la distribución muestral de la media tiene distribución normal.\n\n\nCompara la distribución de las medias muestrales (N=100) obtenidas a partir de una población con distribución normal (media=50, desviación estándar=20) con la obtenida a partir de una población con distribución uniforme (media=50, desviación estándar=20).\n\nRealiza lo mismo que antes pero ahora utilizando muestras más pequeñas, por ejemplo, N=10. ¿Qué ocurre con la distribución muestral de la media?",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_10.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "href": "practico_10.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
+    "title": "Intervalo de confianza y Error estándar (S10)",
+    "section": "10.7 Y para terminar, un par de ejercicios múltiple opción, como los del parcial",
+    "text": "10.7 Y para terminar, un par de ejercicios múltiple opción, como los del parcial\n\nAcerca de los intervalos de confianza:\n\nSon estimaciones puntuales de un parámetro desconocido con cierto nivel de confianza.\nPueden usarse en variables tanto categóricas como numéricas.\nPermiten estimar un intervalo de valores dentro del cual puede encontrarse el parámetro poblacional, con cierto nivel de confianza.\nPermiten estimar con exactitud el valor del parámetro poblacional.\n\nCon respecto a los intervalos de confianza:\n\nAl aumentar el nivel de confianza, disminuye el tamaño del intervalo.\nAl aumentar el nivel de confianza, disminuye el error muestral.\nAl aumentar el tamaño de la muestra, aumenta el tamaño del intervalo.\nA igual nivel de confianza, su tamaño disminuye al aumentar el tamaño de la muestra.\n\nEn un informe del Instituto Nacional de Evaluación Educativa, figura la siguiente tabla en donde se muestra la Tasa de Egreso Oportuno de la Educación Media Básica (TEO-EMB) de jóvenes entre 15 y 16 años, desagregada según nivel socioeconómico (NSE), para los años 2006, 2010 y 2016. En cada cruce, se muestra el valor estimado (V), y el límite inferior (LI) y superior (LS) del intervalo de confianza respectivo.\n\nA partir de esta tabla, ¿qué afirmaciones pueden realizarse?\n\n\nLa TEO-EMB para el nivel “muy bajo” disminuyó entre 2006 y 2010.\nLa TEO-EMB para el nivel “muy bajo” aumentó entre 2010 y 2016.\nNo hay diferencias en TEO-EMB entre 2006 y 2010 para el nivel “medio”.\nHay diferencias en TEO-EMB entre 2010 y 2016 para el nivel “muy alto”.\n\n\nLa distribución muestral de la media:\n\nInforma sobre la frecuencia de los distintos niveles de la variable en la población.\nEs una distribución empírica que permite identificar el nivel de error en cada muestra.\nEs una distribución cuya media es la media poblacional, y el desvío aumenta con el tamaño de la muestra.\nEs una distribución teórica que informa sobre la frecuencia de los diferentes valores de media de las diferentes muestras posibles.\n\nEn un estudio se realizaron pruebas de matemática a estudiantes de primaria, de diferentes niveles socioeconómicos. En la siguiente gráfica se muestran los intervalos de confianza al 95% para las medias de los puntajes, según el nivel socioeconómico.\n\n\nEn base a esta gráfica, indique qué afirmación puede realizarse.\n\nLos puntajes para el nivel 3 son significativamente más bajos que para el nivel 4.\nLos puntajes para el nivel 1 son significativamente más bajos que para el nivel 5.\nLos puntajes para el nivel 1 son significativamente más bajos que para el nivel 3.\nLos puntajes para el nivel 1 son significativamente más altos que para el nivel 3\n\n\nAcerca de los intervalos de confianza para la media:\n\nPermiten identificar el valor exacto de la media poblacional a partir de la estimación muestral.\nPermiten estimar cuál es el valor de la media poblacional más probable, dada la estimación muestral.\nPermiten estimar un rango de valores en el que puede, con un cierto nivel de confianza, encontrarse la media poblacional.\nPermiten estimar un rango de valores en el que puede, con un cierto nivel de confianza, encontrarse la media muestral.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+    ]
+  },
+  {
+    "objectID": "entregable.html",
+    "href": "entregable.html",
+    "title": "Entregable final: Informe de análisis de datos",
+    "section": "",
+    "text": "Esta actividad es obligatoria para los estudiantes que cursan en modalidad seminario (si sos estudiante de plenario te lo ofrecemos como un recurso más para practicar).\nLa propuesta consiste en realizar una secuencia de análisis de datos a partir de una de las bases disponibles en cuanti.psico.edu.uy/panel (en particular ENDIS, ARISTAS, SERCE o Triada Oscura).\nLa idea es que este trabajo te ayude a desarrollar cierta autonomía en el planteo de preguntas de investigación, a darte cuenta qué análisis son adecuados según las variables disponibles y la pregunta que pretendes responder y, por último, que puedas ensayar la comunicación escrita de estos resultados.\nEste trabajo se va a desarrollar paso a paso a lo largo del semestre según avanzamos en las distintas unidades temáticas, hasta realizar la entrega final (a coordinar con tu docente referente de seminario).\nPara realizar el trabajo debes descargar el modelo de reporte en Word, que ya contiene las secciones y formato esperado del entregable.\n⬇️️️📄Descargar en Word📄⬇️",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Entregable final: Informe de análisis de datos</span>"
+    ]
+  }
+]
