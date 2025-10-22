@@ -209,8 +209,7 @@ A partir de esta tabla, ¿qué afirmaciones pueden realizarse?
     d.  Hay diferencias en TEO-EMB entre 2010 y 2016 para el nivel “muy alto”.
 
 
-4. La distribución muestral de la media:
-
+4.  La distribución muestral de la media:
 
     a.  Informa sobre la frecuencia de los distintos niveles de la variable en la población.
 
@@ -219,23 +218,23 @@ A partir de esta tabla, ¿qué afirmaciones pueden realizarse?
     c.  Es una distribución cuya media es la media poblacional, y el desvío aumenta con el tamaño de la muestra.
 
     d.  Es una distribución teórica que informa sobre la frecuencia de los diferentes valores de media de las diferentes muestras posibles.
-    
 
-5. En un estudio se realizaron pruebas de matemática a estudiantes de primaria, de diferentes niveles socioeconómicos. En la siguiente gráfica se muestran los intervalos de confianza al 95% para las medias de los puntajes, según el nivel socioeconómico.
+5.  En un estudio se realizaron pruebas de matemática a estudiantes de primaria, de diferentes niveles socioeconómicos. En la siguiente gráfica se muestran los intervalos de confianza al 95% para las medias de los puntajes, según el nivel socioeconómico.
 
 ![](imgs/IC2.png)
 
 En base a esta gráfica, indique qué afirmación puede realizarse.
 
-    a.  Los puntajes para el nivel 3 son significativamente más bajos que para el nivel 4.
 
-    b.  Los puntajes para el nivel 1 son significativamente más bajos que para el nivel 5.
+  a.  Los puntajes para el nivel 3 son significativamente más bajos que para el nivel 4.
 
-    c.  Los puntajes para el nivel 1 son significativamente más bajos que para el nivel 3.
+  b.  Los puntajes para el nivel 1 son significativamente más bajos que para el nivel 5.
 
-    d.  Los puntajes para el nivel 1 son significativamente más altos que para el nivel 3
+  c.  Los puntajes para el nivel 1 son significativamente más bajos que para el nivel 3.
 
-    
+  d.  Los puntajes para el nivel 1 son significativamente más altos que para el nivel 3
+
+
 6.  Acerca de los intervalos de confianza para la media:
 
     a.  Permiten identificar el valor exacto de la media poblacional a partir de la estimación muestral.
