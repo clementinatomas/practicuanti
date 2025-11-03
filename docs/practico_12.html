@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>8&nbsp; Práctico: Regresión (S08) – Practicuanti</title>
+<title>12&nbsp; Introducción a la Inferencia (S12) – Practicuanti</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./practico_9.html" rel="next">
-<link href="./practico_7.html" rel="prev">
+<link href="./entregable.html" rel="next">
+<link href="./practico_11.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./practico_8.html"><span class="chapter-title">Práctico: Regresión (S08)</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./practico_12.html"><span class="chapter-title">Introducción a la Inferencia (S12)</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -145,7 +145,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./practico_8.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Práctico: Regresión (S08)</span></a>
+  <a href="./practico_8.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Regresión (S08)</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -165,7 +165,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./practico_12.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Introducción a la Inferencia (S12)</span></a>
+  <a href="./practico_12.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Introducción a la Inferencia (S12)</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -183,15 +183,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#regresión" id="toc-regresión" class="nav-link active" data-scroll-target="#regresión"><span class="header-section-number">8.1</span> Regresión</a>
+  <li><a href="#introducción-a-la-inferencia" id="toc-introducción-a-la-inferencia" class="nav-link active" data-scroll-target="#introducción-a-la-inferencia"><span class="header-section-number">12.1</span> Introducción a la inferencia</a>
   <ul class="collapse">
-  <li><a href="#lectura-asociada" id="toc-lectura-asociada" class="nav-link" data-scroll-target="#lectura-asociada">Lectura asociada</a></li>
   <li><a href="#contenidos" id="toc-contenidos" class="nav-link" data-scroll-target="#contenidos">Contenidos</a></li>
   </ul></li>
-  <li><a href="#regresión-lección-interactiva" id="toc-regresión-lección-interactiva" class="nav-link" data-scroll-target="#regresión-lección-interactiva"><span class="header-section-number">8.2</span> Regresión: Lección interactiva</a></li>
-  <li><a href="#la-regresión-nos-permite-predecir" id="toc-la-regresión-nos-permite-predecir" class="nav-link" data-scroll-target="#la-regresión-nos-permite-predecir"><span class="header-section-number">8.3</span> La Regresión nos permite predecir</a></li>
-  <li><a href="#y-si-los-datos-no-tuvieran-relación" id="toc-y-si-los-datos-no-tuvieran-relación" class="nav-link" data-scroll-target="#y-si-los-datos-no-tuvieran-relación"><span class="header-section-number">8.4</span> ¿Y si los datos no tuvieran relación?</a></li>
-  <li><a href="#y-para-terminar-un-par-de-ejercicios-múltiple-opción" id="toc-y-para-terminar-un-par-de-ejercicios-múltiple-opción" class="nav-link" data-scroll-target="#y-para-terminar-un-par-de-ejercicios-múltiple-opción"><span class="header-section-number">8.5</span> Y para terminar, un par de ejercicios múltiple opción</a></li>
+  <li><a href="#cuáles-son-los-componentes-de-una-prueba-de-hipótesis" id="toc-cuáles-son-los-componentes-de-una-prueba-de-hipótesis" class="nav-link" data-scroll-target="#cuáles-son-los-componentes-de-una-prueba-de-hipótesis"><span class="header-section-number">12.2</span> ¿Cuáles son los componentes de una prueba de hipótesis?</a></li>
+  <li><a href="#será-que-mi-moneda-es-fiel" id="toc-será-que-mi-moneda-es-fiel" class="nav-link" data-scroll-target="#será-que-mi-moneda-es-fiel"><span class="header-section-number">12.3</span> ¿Será que mi moneda es fiel?</a></li>
+  <li><a href="#ejercicio-en-el-panel" id="toc-ejercicio-en-el-panel" class="nav-link" data-scroll-target="#ejercicio-en-el-panel"><span class="header-section-number">12.4</span> Ejercicio en el panel</a></li>
+  <li><a href="#aplicaciones-prácticas-de-las-pruebas-de-hipótesis" id="toc-aplicaciones-prácticas-de-las-pruebas-de-hipótesis" class="nav-link" data-scroll-target="#aplicaciones-prácticas-de-las-pruebas-de-hipótesis"><span class="header-section-number">12.5</span> Aplicaciones prácticas de las pruebas de hipótesis</a></li>
   </ul>
 </nav>
     </div>
@@ -200,7 +199,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Práctico: Regresión (S08)</span></h1>
+<h1 class="title"><span class="chapter-title">Introducción a la Inferencia (S12)</span></h1>
 </div>
 
 
@@ -217,78 +216,78 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="regresión" class="level2" data-number="8.1">
-<h2 data-number="8.1" class="anchored" data-anchor-id="regresión"><span class="header-section-number">8.1</span> Regresión</h2>
-<section id="lectura-asociada" class="level3">
-<h3 class="anchored" data-anchor-id="lectura-asociada">Lectura asociada</h3>
-<p><a href="https://cuanti.psico.edu.uy/libro/03-Correlation.html#regresi%C3%B3n-una-mini-introducci%C3%B3n">Capítulo 4. Sección 4.5. Regresión</a></p>
-</section>
+<section id="introducción-a-la-inferencia" class="level2" data-number="12.1">
+<h2 data-number="12.1" class="anchored" data-anchor-id="introducción-a-la-inferencia"><span class="header-section-number">12.1</span> Introducción a la inferencia</h2>
+<p>Capítulo 6. <a href="https://cuanti.psico.edu.uy/libro/05-Foundation_Inference.html">Fundamentos de la inferencia</a> (hasta 6.5.4 Parte 3: Juicio y toma de decisiones, inclusive)</p>
 <section id="contenidos" class="level3">
 <h3 class="anchored" data-anchor-id="contenidos">Contenidos</h3>
 <ul>
-<li><p>Línea de mejor ajuste</p></li>
-<li><p>Intercepto y Pendiente</p></li>
-<li><p>Coeficiente de determinación (R²)</p></li>
+<li><p>Contraste de hipótesis</p></li>
+<li><p>Hipótesis nula</p></li>
+<li><p>Estadístico muestral</p></li>
+<li><p>Distribución muestral del estadístico</p></li>
+<li><p>p-valor</p></li>
+<li><p>Nivel de significancia</p></li>
 </ul>
 </section>
 </section>
-<section id="regresión-lección-interactiva" class="level2" data-number="8.2">
-<h2 data-number="8.2" class="anchored" data-anchor-id="regresión-lección-interactiva"><span class="header-section-number">8.2</span> Regresión: Lección interactiva</h2>
-<p>Ingresa a la <a href="https://cuanti.psico.edu.uy/lecciones/lessons/regression.html">Lección Interactiva Regresión Lineal</a></p>
-<p>Explora la lección y define: - línea de regresión, pendiente, intercepto y R²</p>
-</section>
-<section id="la-regresión-nos-permite-predecir" class="level2" data-number="8.3">
-<h2 data-number="8.3" class="anchored" data-anchor-id="la-regresión-nos-permite-predecir"><span class="header-section-number">8.3</span> La Regresión nos permite predecir</h2>
-<p>En este práctico vamos a responder la siguiente pregunta:&nbsp;</p>
-<p><strong>¿Es posible predecir la longitud del brazo de una persona a partir de su altura?</strong></p>
-<ol type="1">
-<li><p>Recolección de datos</p>
-<ol type="a">
-<li><p>Altura (x): altura de pie en centímetros</p></li>
-<li><p>Longitud del brazo (y): desde el hombro hasta la punta de los dedos de la mano dominante (en cm)</p></li>
-</ol></li>
-<li><p>Organizar los datos en una tabla en el pizarrón</p></li>
-<li><p>Cada estudiante deberá realizar un gráfico de dispersión con los datos del grupo. A continuación, interpreta junto con tus compañeros el gráfico obtenido.</p></li>
-<li><p>Realiza una regresión lineal sobre los datos utilizando <a href="https://cuanti.psico.edu.uy/lecciones/lessons/regression-editable.html">el editor de la lección interactiva de regresión</a></p></li>
-<li><p>¿Cuál es el valor del coeficiente de correlación de Pearson obtenido para las variables relacionadas?</p></li>
-<li><p>¿Cuál es el R²? ¿Cómo lo interpretas?</p></li>
-<li><p>¿Qué significa el valor de la pendiente en nuestra ecuación de regresión?</p></li>
-</ol>
+<section id="cuáles-son-los-componentes-de-una-prueba-de-hipótesis" class="level2" data-number="12.2">
+<h2 data-number="12.2" class="anchored" data-anchor-id="cuáles-son-los-componentes-de-una-prueba-de-hipótesis"><span class="header-section-number">12.2</span> ¿Cuáles son los componentes de una prueba de hipótesis?</h2>
+<p>Intenta recordarlos y definirlos</p>
 <details>
 <summary>
-<strong>¿Necesitás ayuda?</strong>
+<strong>¿Necesitas ayuda?</strong>
 </summary>
-<p>¿Cuántos cm aumenta la longitud del brazo, en promedio, por cada cm de altura?</p>
+<p><img src="imgs/inferencia.png" class="img-fluid"></p>
 </details>
-<ol start="8" type="1">
-<li><p>Obtenga la altura del profesor, prediga la longitud de su brazo a partir de la misma</p></li>
-<li><p>Obtenga la longitud real del brazo del profesor. ¿Cómo es la predicción comparada con el valor real?</p></li>
-<li><p>Reflexiona sobre el uso y los límites de una regresión. ¿Se trata de una regla perfecta o una tendencia promedio?</p></li>
-</ol>
 </section>
-<section id="y-si-los-datos-no-tuvieran-relación" class="level2" data-number="8.4">
-<h2 data-number="8.4" class="anchored" data-anchor-id="y-si-los-datos-no-tuvieran-relación"><span class="header-section-number">8.4</span> ¿Y si los datos no tuvieran relación?</h2>
-<ol type="1">
-<li><p>Reordena aleatoriamente los datos generando nuevos pares de altura y longitud de brazo.&nbsp;</p></li>
-<li><p>Vuelve a realizar la regresión lineal pero ahora sobre estos pares de datos aleatorios</p></li>
-<li><p>¿Qué coeficiente de correlación obtienes? ¿Por qué?</p></li>
-<li><p>Pide los coeficientes de correlación de los pares de datos aleatorios de los otros grupos. ¿Cómo son estos coeficientes comparados con el valor de correlación de Pearson de los datos originales?</p></li>
-</ol>
+<section id="será-que-mi-moneda-es-fiel" class="level2" data-number="12.3">
+<h2 data-number="12.3" class="anchored" data-anchor-id="será-que-mi-moneda-es-fiel"><span class="header-section-number">12.3</span> ¿Será que mi moneda es fiel?</h2>
+<p>En el video 2 de esta semana trabajamos un procedimiento para saber si una moneda es fiel (es decir, la mitad de veces sale cara y mitad de veces sale cruz).&nbsp;</p>
+<ul>
+<li><p>¿Cuál es la hipótesis nula?</p></li>
+<li><p>¿Cuál sería el estadístico?</p></li>
+<li><p>Imagina que tiras la moneda 10 veces (n = 10), y sale cara 6 veces (k = 6)</p></li>
+<li><p>¿Cómo podemos saber qué tan esperable era que salga cara esa cantidad de veces?&nbsp;</p></li>
+</ul>
+<details>
+<summary>
+<strong>¿Necesitas ayuda?</strong>
+</summary>
+<p>Necesitamos conocer la distribución muestral del estadístico (en este caso, la distribución muestral del número de caras). Para el ejemplo anterior luce así:</p>
+<p><img src="imgs/inferencia2.png" class="img-fluid"></p>
+<p>¿Qué representa el eje x? ¿Y el eje y?</p>
+</details>
+<ul>
+<li>¿Cuál es la probabilidad de obtener 10 caras en 10 intentos?</li>
+</ul>
+<!-- -->
+<ul>
+<li><p>¿Bajo qué condiciones rechazo la hipótesis nula? ¿Bajo qué condiciones la retengo? ¿Qué componentes específicos de la prueba de hipótesis debo considerar para tomar la decisión?</p></li>
+<li><p>Para el caso que vimos (10 intentos, 6 caras) el p valor es 0.377. Interpreta.</p></li>
+</ul>
+<details>
+<summary>
+<strong>¿Necesitas ayuda?</strong>
+</summary>
+<p>Aproximadamente un ____ % de las veces que tire 10 monedas voy a obtener al menos 6 caras.</p>
+<p>Puedes observarlo en el Panel, bajo esta configuración:</p>
+<p><img src="imgs/inferencia3.png" class="img-fluid"></p>
+</details>
 </section>
-<section id="y-para-terminar-un-par-de-ejercicios-múltiple-opción" class="level2" data-number="8.5">
-<h2 data-number="8.5" class="anchored" data-anchor-id="y-para-terminar-un-par-de-ejercicios-múltiple-opción"><span class="header-section-number">8.5</span> Y para terminar, un par de ejercicios múltiple opción</h2>
-<ol type="1">
-<li><p>¿Cuál es la característica principal de la línea de mejor ajuste en un análisis de regresión lineal simple?</p>
-<p>a. Existen infinitas líneas que pueden ajustarse igual de bien si los datos son perfectamente lineales</p>
-<p>b. Varias líneas pueden minimizar la suma de errores cuadrados, pero la elección depende del método estadístico utilizado</p>
-<p>c. Es la línea que pasa por al menos tres puntos de los datos</p>
-<p>d. Es la única línea que minimiza la suma de los errores cuadrados entre los valores observados y los valores predichos</p></li>
-<li><p>Una psicóloga investigó si el número de horas de meditación por semana predice los niveles de ansiedad (cuanto mayor el puntaje, mayor la ansiedad). La ecuación de regresión obtenida fue: Ansiedad = 30 − 2*Horas. ¿Qué predice esta ecuación?</p>
-<p>a. Por cada hora adicional de meditación, la ansiedad aumenta en 2 puntos</p>
-<p>b. Si alguien medita 0 horas, su ansiedad estimada es de 30</p>
-<p>c. La meditación no tiene efecto sobre la ansiedad</p>
-<p>d. La ansiedad es 2 veces el número de horas de meditación</p></li>
-</ol>
+<section id="ejercicio-en-el-panel" class="level2" data-number="12.4">
+<h2 data-number="12.4" class="anchored" data-anchor-id="ejercicio-en-el-panel"><span class="header-section-number">12.4</span> Ejercicio en el panel</h2>
+<p>Ingresa al Panel de análisis, pestaña Distribución.&nbsp;</p>
+<ul>
+<li><p>¿Cuál es la probabilidad de obtener 2 caras o menos (para el ejemplo de 10 intentos)?</p></li>
+<li><p>Ahora configura el panel para 100 intentos. Observa los cambios en la distribución. ¿Cuál es la probabilidad de obtener 64 caras o más?</p></li>
+</ul>
+</section>
+<section id="aplicaciones-prácticas-de-las-pruebas-de-hipótesis" class="level2" data-number="12.5">
+<h2 data-number="12.5" class="anchored" data-anchor-id="aplicaciones-prácticas-de-las-pruebas-de-hipótesis"><span class="header-section-number">12.5</span> Aplicaciones prácticas de las pruebas de hipótesis</h2>
+<ul>
+<li>En el video 4 de esta semana se mostraron algunas aplicaciones prácticas de las pruebas de hipótesis para responder preguntas en contextos de investigación. Formaliza preguntas que puedas responder realizando pruebas de hipótesis para incorporar a tu trabajo entregable, en función de la base de datos con la que estás trabajando.</li>
+</ul>
 
 
 </section>
@@ -695,13 +694,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./practico_7.html" class="pagination-link" aria-label="Práctico: Semana de revisión (S07)">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Práctico: Semana de revisión (S07)</span></span>
+      <a href="./practico_11.html" class="pagination-link" aria-label="Semana de revisión (S11)">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Semana de revisión (S11)</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./practico_9.html" class="pagination-link" aria-label="Práctico: Distribución normal, muestreo y puntuaciones Z (S09)">
-        <span class="nav-page-text"><span class="chapter-title">Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./entregable.html" class="pagination-link" aria-label="Entregable final: Informe de análisis de datos">
+        <span class="nav-page-text"><span class="chapter-title">Entregable final: Informe de análisis de datos</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
