@@ -610,13 +610,73 @@
     ]
   },
   {
+    "objectID": "practico_11.html",
+    "href": "practico_11.html",
+    "title": "Introducción a la Inferencia (S11)",
+    "section": "",
+    "text": "11.1 Introducción a la inferencia\nCapítulo 6. Fundamentos de la inferencia (hasta 6.5.4 Parte 3: Juicio y toma de decisiones, inclusive)",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Introducción a la Inferencia (S11)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_11.html#introducción-a-la-inferencia",
+    "href": "practico_11.html#introducción-a-la-inferencia",
+    "title": "Introducción a la Inferencia (S11)",
+    "section": "",
+    "text": "Contenidos\n\nContraste de hipótesis\nHipótesis nula\nEstadístico muestral\nDistribución muestral del estadístico\np-valor\nNivel de significancia",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Introducción a la Inferencia (S11)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_11.html#cuáles-son-los-componentes-de-una-prueba-de-hipótesis",
+    "href": "practico_11.html#cuáles-son-los-componentes-de-una-prueba-de-hipótesis",
+    "title": "Introducción a la Inferencia (S11)",
+    "section": "11.2 ¿Cuáles son los componentes de una prueba de hipótesis?",
+    "text": "11.2 ¿Cuáles son los componentes de una prueba de hipótesis?\nIntenta recordarlos y definirlos\n\n\n¿Necesitas ayuda?",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Introducción a la Inferencia (S11)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_11.html#será-que-mi-moneda-es-fiel",
+    "href": "practico_11.html#será-que-mi-moneda-es-fiel",
+    "title": "Introducción a la Inferencia (S11)",
+    "section": "11.3 ¿Será que mi moneda es fiel?",
+    "text": "11.3 ¿Será que mi moneda es fiel?\nEn el video 2 de esta semana trabajamos un procedimiento para saber si una moneda es fiel (es decir, la mitad de veces sale cara y mitad de veces sale cruz). \n\n¿Cuál es la hipótesis nula?\n¿Cuál sería el estadístico?\nImagina que tiras la moneda 10 veces (n = 10), y sale cara 6 veces (k = 6)\n¿Cómo podemos saber qué tan esperable era que salga cara esa cantidad de veces? \n\n\n\n¿Necesitas ayuda?\n\nNecesitamos conocer la distribución muestral del estadístico (en este caso, la distribución muestral del número de caras). Para el ejemplo anterior luce así:\n\n¿Qué representa el eje x? ¿Y el eje y?\n\n\n¿Cuál es la probabilidad de obtener 10 caras en 10 intentos?\n\n\n\n¿Bajo qué condiciones rechazo la hipótesis nula? ¿Bajo qué condiciones la retengo? ¿Qué componentes específicos de la prueba de hipótesis debo considerar para tomar la decisión?\nPara el caso que vimos (10 intentos, 6 caras) el p valor es 0.377. Interpreta.\n\n\n\n¿Necesitas ayuda?\n\nAproximadamente un ____ % de las veces que tire 10 monedas voy a obtener al menos 6 caras.\nPuedes observarlo en el Panel, bajo esta configuración:",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Introducción a la Inferencia (S11)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_11.html#ejercicio-en-el-panel",
+    "href": "practico_11.html#ejercicio-en-el-panel",
+    "title": "Introducción a la Inferencia (S11)",
+    "section": "11.4 Ejercicio en el panel",
+    "text": "11.4 Ejercicio en el panel\nIngresa al Panel de análisis, pestaña Distribución. \n\n¿Cuál es la probabilidad de obtener 2 caras o menos (para el ejemplo de 10 intentos)?\nAhora configura el panel para 100 intentos. Observa los cambios en la distribución. ¿Cuál es la probabilidad de obtener 64 caras o más?",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Introducción a la Inferencia (S11)</span>"
+    ]
+  },
+  {
+    "objectID": "practico_11.html#aplicaciones-prácticas-de-las-pruebas-de-hipótesis",
+    "href": "practico_11.html#aplicaciones-prácticas-de-las-pruebas-de-hipótesis",
+    "title": "Introducción a la Inferencia (S11)",
+    "section": "11.5 Aplicaciones prácticas de las pruebas de hipótesis",
+    "text": "11.5 Aplicaciones prácticas de las pruebas de hipótesis\n\nEn el video 4 de esta semana se mostraron algunas aplicaciones prácticas de las pruebas de hipótesis para responder preguntas en contextos de investigación. Formaliza preguntas que puedas responder realizando pruebas de hipótesis para incorporar a tu trabajo entregable, en función de la base de datos con la que estás trabajando.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Introducción a la Inferencia (S11)</span>"
+    ]
+  },
+  {
     "objectID": "entregable.html",
     "href": "entregable.html",
     "title": "Entregable final: Informe de análisis de datos",
     "section": "",
     "text": "Esta actividad es obligatoria para los estudiantes que cursan en modalidad seminario (si sos estudiante de plenario te lo ofrecemos como un recurso más para practicar).\nLa propuesta consiste en realizar una secuencia de análisis de datos a partir de una de las bases disponibles en cuanti.psico.edu.uy/panel (en particular ENDIS, ARISTAS, SERCE o Triada Oscura).\nLa idea es que este trabajo te ayude a desarrollar cierta autonomía en el planteo de preguntas de investigación, a darte cuenta qué análisis son adecuados según las variables disponibles y la pregunta que pretendes responder y, por último, que puedas ensayar la comunicación escrita de estos resultados.\nEste trabajo se va a desarrollar paso a paso a lo largo del semestre según avanzamos en las distintas unidades temáticas, hasta realizar la entrega final (a coordinar con tu docente referente de seminario).\nPara realizar el trabajo debes descargar el modelo de reporte en Word, que ya contiene las secciones y formato esperado del entregable.\n⬇️️️📄Descargar en Word📄⬇️",
     "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Entregable final: Informe de análisis de datos</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Entregable final: Informe de análisis de datos</span>"
     ]
   }
 ]
