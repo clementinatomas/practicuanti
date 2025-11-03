@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.32">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>10&nbsp; Intervalo de confianza y Error estándar (S10) – Practicuanti</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./practico_11.html" rel="next">
+<link href="./practico_9.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-364982630eef5352dd1537128a8ed5cb.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="cuantistats.css">
+</head>
+
+<body class="nav-sidebar floating quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./practico_10.html"><span class="chapter-title">Intervalo de confianza y Error estándar (S10)</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Practicuanti</a> 
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_2.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_3.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_4.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Describir los datos - varianza y desvío estándar (S04)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_5.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_6.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Correlación (S06)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_7.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Semana de revisión (S07)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_8.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Regresión (S08)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_9.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_10.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Intervalo de confianza y Error estándar (S10)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_11.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Semana de revisión (S11)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_12.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Introducción a la Inferencia (S12)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./entregable.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Entregable final: Informe de análisis de datos</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#lectura-asociada" id="toc-lectura-asociada" class="nav-link active" data-scroll-target="#lectura-asociada">Lectura asociada</a></li>
+  <li><a href="#contenidos" id="toc-contenidos" class="nav-link" data-scroll-target="#contenidos">Contenidos</a></li>
+  <li><a href="#lección-interactiva-muestreo" id="toc-lección-interactiva-muestreo" class="nav-link" data-scroll-target="#lección-interactiva-muestreo"><span class="header-section-number">10.1</span> Lección interactiva: Muestreo</a></li>
+  <li><a href="#lección-interactiva-intervalo-de-confianza" id="toc-lección-interactiva-intervalo-de-confianza" class="nav-link" data-scroll-target="#lección-interactiva-intervalo-de-confianza"><span class="header-section-number">10.2</span> Lección interactiva: Intervalo de confianza</a></li>
+  <li><a href="#construyendo-intervalos-de-confianza" id="toc-construyendo-intervalos-de-confianza" class="nav-link" data-scroll-target="#construyendo-intervalos-de-confianza"><span class="header-section-number">10.3</span> Construyendo Intervalos de confianza</a></li>
+  <li><a href="#aplicaciones-de-los-intervalos-de-confianza" id="toc-aplicaciones-de-los-intervalos-de-confianza" class="nav-link" data-scroll-target="#aplicaciones-de-los-intervalos-de-confianza"><span class="header-section-number">10.4</span> Aplicaciones de los Intervalos de confianza</a></li>
+  <li><a href="#ic-desempeños-en-lectura-y-matemáticas-en-3er-año-de-ed.-primaria-en-uruguay-aristas" id="toc-ic-desempeños-en-lectura-y-matemáticas-en-3er-año-de-ed.-primaria-en-uruguay-aristas" class="nav-link" data-scroll-target="#ic-desempeños-en-lectura-y-matemáticas-en-3er-año-de-ed.-primaria-en-uruguay-aristas"><span class="header-section-number">10.5</span> IC: Desempeños en lectura y matemáticas en 3er año de Ed. Primaria en Uruguay (Aristas)</a></li>
+  <li><a href="#otro-ejercicio-interactivo-teorema-central-del-límite" id="toc-otro-ejercicio-interactivo-teorema-central-del-límite" class="nav-link" data-scroll-target="#otro-ejercicio-interactivo-teorema-central-del-límite"><span class="header-section-number">10.6</span> Otro ejercicio interactivo: Teorema Central del Límite</a></li>
+  <li><a href="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" id="toc-y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="nav-link" data-scroll-target="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial"><span class="header-section-number">10.7</span> Y para terminar, un par de ejercicios múltiple opción, como los del parcial</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-title">Intervalo de confianza y Error estándar (S10)</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="lectura-asociada" class="level3">
+<h3 class="anchored" data-anchor-id="lectura-asociada">Lectura asociada</h3>
+<p>Capítulo 5. Probabilidad, muestreo y estimación</p>
+<p><a href="https://cuanti.psico.edu.uy/libro/04-SamplesPopulations.html#estimaci%C3%B3n-de-par%C3%A1metros-poblacionales">Sección 5.12. Estimación de parámetros poblacionales</a></p>
+<p><a href="https://cuanti.psico.edu.uy/libro/04-SamplesPopulations.html#estimaci%C3%B3n-de-un-intervalo-de-confianza">Sección 5.13. Estimación de un intervalo de confianza</a></p>
+</section>
+<section id="contenidos" class="level3">
+<h3 class="anchored" data-anchor-id="contenidos">Contenidos</h3>
+<ul>
+<li><p>Media muestral (X̄) y desvío muestral (S)</p></li>
+<li><p>Distribución muestral de la media</p></li>
+<li><p>Estimación de la media poblacional (μ -mu-), error estándar (σe -sigma-)</p></li>
+<li><p>Intervalo de confianza (IC)</p></li>
+</ul>
+</section>
+<section id="lección-interactiva-muestreo" class="level2" data-number="10.1">
+<h2 data-number="10.1" class="anchored" data-anchor-id="lección-interactiva-muestreo"><span class="header-section-number">10.1</span> Lección interactiva: Muestreo</h2>
+<ul>
+<li><p>A partir de la lectura (<a href="https://cuanti.psico.edu.uy/libro/04-SamplesPopulations.html#estimaci%C3%B3n-de-par%C3%A1metros-poblacionales">Sección 5.12. del libro</a>) y videos asignados a esta semana, define y diferencia los siguientes conceptos: <strong>población, muestra, parámetro y estadístico</strong>&nbsp;</p></li>
+<li><p>Intercambia con tu subgrupo al respecto</p></li>
+</ul>
+<details>
+<summary>
+<strong>Desplegar luego de responder</strong>
+</summary>
+<p>Cuando investigamos sobre una temática, en general no es posible acceder a todos los casos de interés (población). Generalmente solo vamos a tener la capacidad de <strong>observar algunos casos (una muestra)</strong> y necesitamos algunas herramientas que nos permitan manejar la <strong>incertidumbre que conlleva trabajar con muestras.</strong></p>
+<ul>
+<li><p>El hecho de tener que trabajar con muestras en lugar de poblaciones obliga a recurrir a la <strong>inferencia</strong> y a tener que establecer una <strong>regla de decisión en términos de probabilidad.</strong></p></li>
+<li><p>Requiere entender <strong>cómo se comportan las muestras cuando se extraen de distribuciones</strong> (definidas por la teoría de la probabilidad…).</p></li>
+</ul>
+</details>
+<ul>
+<li><p>Explora la <a href="https://cuanti.psico.edu.uy/lecciones/lessons/sampling.html">Lección interactiva (Muestreo)</a> y contrasta tus definiciones con las ofrecidas al final de la lección</p></li>
+<li><p>Sitúa los cuatro conceptos en el marco de la base de datos con la que estás trabajando en el Entregable.</p></li>
+</ul>
+<p>En la lección, activa la simulación con los controles que vienen por defecto: muestra n = 10, número de muestras = 100, velocidad normal)</p>
+<ul>
+<li><p>¿Qué variable se está midiendo?</p></li>
+<li><p>¿Qué representa cada uno de los 3 gráficos?</p></li>
+<li><p>¿Qué representa la línea roja? ¿La azul? ¿Y la verde?</p></li>
+<li><p>Una vez que la simulación termine, observa el gráfico de la distribución muestral de la media.</p></li>
+<li><p>Ahora aumenta el tamaño de la muestra a n = 25, observa el gráfico de la distribución muestral de la media y nota diferencias respecto al que obtuviste cuando la muestra era n = 10.</p></li>
+<li><p>Entonces ¿Qué es el error estándar de la media? ¿Cuál es la relación entre éste y el tamaño de la muestra?</p></li>
+</ul>
+</section>
+<section id="lección-interactiva-intervalo-de-confianza" class="level2" data-number="10.2">
+<h2 data-number="10.2" class="anchored" data-anchor-id="lección-interactiva-intervalo-de-confianza"><span class="header-section-number">10.2</span> Lección interactiva: Intervalo de confianza</h2>
+<p>Observa la animación ofrecida en la <a href="https://cuanti.psico.edu.uy/lecciones/lessons/confidence-interval.html">Lección interactiva (Intervalo de confianza)</a>, especialmente el gráfico de Intervalos de confianza.&nbsp;</p>
+<ul>
+<li><p>¿Qué representan los intervalos verdes?</p></li>
+<li><p>¿Qué representan los intervalos rojos?</p></li>
+<li><p>Para un nivel de confianza del 95 %, si repetimos el muestreo suficientes veces, ¿cuántos intervalos esperamos que contengan a la media poblacional?</p></li>
+</ul>
+<p>Compara los intervalos cuando el nivel de confianza es 90 % vs cuando es 99 %</p>
+<ul>
+<li>Observa: ¿Qué sucede con el ancho del intervalo cuando exijo un mayor nivel de confianza?</li>
+</ul>
+<p>Realiza distintos intentos variando el tamaño de la muestra:</p>
+<ul>
+<li>Observa: ¿Qué sucede con el ancho del intervalo cuando aumento el tamaño de la muestra?</li>
+</ul>
+<p>Intenta responder las siguientes preguntas, a modo de puesta a punto:</p>
+<ul>
+<li><p>¿Cómo se construye un intervalo de confianza? ¿Qué aspectos dependen de la muestra y qué aspectos son una elección?</p></li>
+<li><p>Construyendo un intervalo de confianza <strong>de ancho 1 error estándar</strong> ¿Qué porcentaje de las veces el intervalo contendrá a la media poblacional? ¿Es suficiente?</p></li>
+<li><p>Construyendo un intervalo de confianza <strong>de ancho 2 errores estándar</strong> (en realidad 1,96) ¿Qué porcentaje de las veces el intervalo contendrá a la media poblacional? ¿Es suficiente?</p></li>
+</ul>
+</section>
+<section id="construyendo-intervalos-de-confianza" class="level2" data-number="10.3">
+<h2 data-number="10.3" class="anchored" data-anchor-id="construyendo-intervalos-de-confianza"><span class="header-section-number">10.3</span> Construyendo Intervalos de confianza</h2>
+<p>¿Cómo podemos estimar en qué rango se encuentra la media poblacional de riesgo en salud mental de cuidadores adultos de niños de hasta 56 meses en Uruguay?</p>
+<ul>
+<li>Construye un intervalo de confianza del 95 % para la variable Riesgo en salud mental de la ENDIS, si la muestra es N = 2566. Intenta recordar los otros elementos que necesitas para construirlo.&nbsp;</li>
+</ul>
+<details>
+<summary>
+<strong>¿Necesitas ayuda?</strong>
+</summary>
+<p>En otras palabras, nos están pidiendo que una vez definido un nivel de confianza (en este caso 95 %), calculemos el correspondiente intervalo de confianza.</p>
+<p>A partir del video y la lectura del capítulo intenta recordar: ¿De qué depende el ancho del intervalo de confianza?</p>
+</details>
+<details>
+<summary>
+<strong>¿Necesitas algo más de ayuda?</strong>
+</summary>
+<p>Para calcular el intervalo de confianza necesitas calcular el error estándar. Aquí una ayuda:</p>
+<p><img src="imgs/ee.png" class="img-fluid"></p>
+</details>
+<p>Ahora que ya calculaste el intervalo de confianza, ¿Hay alguna herramienta del panel que te permita observar los intervalos de confianza sin calcularlos a mano?</p>
+<ul>
+<li><p>Realiza el análisis utilizando el menú desplegable que corresponda y contrasta el intervalo que calculaste con el que te ofrece el panel.&nbsp;</p></li>
+<li><p>Entonces, ¿En qué rango de puntuación sería esperable encontrar la media poblacional, con un nivel de confianza del 95 %?</p></li>
+</ul>
+</section>
+<section id="aplicaciones-de-los-intervalos-de-confianza" class="level2" data-number="10.4">
+<h2 data-number="10.4" class="anchored" data-anchor-id="aplicaciones-de-los-intervalos-de-confianza"><span class="header-section-number">10.4</span> Aplicaciones de los Intervalos de confianza</h2>
+<p>Bien, pero ¿para qué nos sirve construir intervalos de confianza?</p>
+<p>Imagina que queremos analizar si, en la población, existen diferencias en el riesgo en salud mental del cuidador principal comparando grupos de niños que presentan distintos niveles de conducta agresiva (clasificados como Normal, Riesgo y Clínico).</p>
+<ul>
+<li><p>Ingresa al Panel de análisis de datos, base ENDIS, desplegable Intervalos de confianza (Variable 1: SRQ20: riesgo salud mental, Variable 2: agresiva)&nbsp;</p></li>
+<li><p>A partir de la observación del gráfico, ¿Es más probable que los grupos (Normal, Riesgo y Clínico) tengan la misma media poblacional de riesgo en salud mental del cuidador o medias significativamente distintas? ¿Qué observaste para responder esta pregunta?</p></li>
+<li><p>¿Qué podría explicar que el intervalo de confianza para el nivel Clínico sea así de amplio?</p></li>
+</ul>
+<details>
+<summary>
+<strong>¿Necesitas ayuda?</strong>
+</summary>
+<p>Intenta recordar: El intervalo de confianza depende del nivel de confianza y del error estándar. Y el error estándar ¿De qué depende?</p>
+</details>
+<ul>
+<li>Repite el ejercicio con variables de interés para tu Entregable.</li>
+</ul>
+</section>
+<section id="ic-desempeños-en-lectura-y-matemáticas-en-3er-año-de-ed.-primaria-en-uruguay-aristas" class="level2" data-number="10.5">
+<h2 data-number="10.5" class="anchored" data-anchor-id="ic-desempeños-en-lectura-y-matemáticas-en-3er-año-de-ed.-primaria-en-uruguay-aristas"><span class="header-section-number">10.5</span> IC: Desempeños en lectura y matemáticas en 3er año de Ed. Primaria en Uruguay (Aristas)</h2>
+<p>Como vimos en los videos de esta semana, los intervalos de confianza pueden verse representados en gráficos y tablas. Los siguientes son ejemplos extraídos del <a href="https://www.ineed.edu.uy/images/Aristas/Publicaciones/Aristas2023/Aristas-2023-Informe-resultados-tercero-y-sexto-educacion-primaria.pdf">informe Aristas 2023</a> (INEEd, 2025) y refieren a los desempeños en lectura y matemática de los estudiantes de 3er año de Educación Primaria en nuestro país.</p>
+<p><img src="imgs/A64.png" class="img-fluid"></p>
+<ul>
+<li><p>¿Qué porcentaje de escolares estaban categorizados en el Nivel 1 de desempeño en lectura en la muestra en 2017? ¿Qué puedes decir sobre el porcentaje de niños en Nivel 1 de desempeño en lectura en la población? Intenta redactar estos resultados.</p></li>
+<li><p>Si observamos las muestras 2017 y 2023, el porcentaje de niños categorizados en nivel 1 de desempeño cambió de 4,4 en 2017 a 3,6 en 2023. Observando los respectivos intervalos de confianza ¿qué podemos inferir respecto al cambio en la población?</p></li>
+<li><p>Intenta repetir el ejercicio para los otros niveles de desempeño en lectura (2 al 6).</p></li>
+</ul>
+<p>Ahora, de la misma manera, examina el caso de matemáticas</p>
+<p><img src="imgs/A73.png" class="img-fluid"></p>
+<p>Ahora miremos los desempeños según contexto socioeconómico y cultural del centro, esta vez representando los intervalos de confianza en forma gráfica. Interpreta cada gráfico.</p>
+<p><img src="imgs/A68.png" class="img-fluid"></p>
+<p><img src="imgs/A72.png" class="img-fluid"></p>
+<p>En el informe se incluyen varios ejemplos más: comparaciones según tipo de escuela (Privada, Urbana común, Tiempo Completo, etc.), género, región, etc. Te invitamos a consultarlo aquí <a href="https://www.ineed.edu.uy/images/Aristas/Publicaciones/Aristas2023/Aristas-2023-Informe-resultados-tercero-y-sexto-educacion-primaria.pdf">informe Aristas 2023</a> (pags. 390 - 402).</p>
+</section>
+<section id="otro-ejercicio-interactivo-teorema-central-del-límite" class="level2" data-number="10.6">
+<h2 data-number="10.6" class="anchored" data-anchor-id="otro-ejercicio-interactivo-teorema-central-del-límite"><span class="header-section-number">10.6</span> Otro ejercicio interactivo: Teorema Central del Límite</h2>
+<p>Utilizando la web <a href="https://www.esci-dances.thenewstatistics.com/" class="uri">https://www.esci-dances.thenewstatistics.com/</a> vamos a comprobar que independientemente de la forma que tenga una distribución poblacional, la distribución muestral de la media tiene distribución normal.<br>
+</p>
+<ul>
+<li><p>Compara la distribución de las medias muestrales (N=100) obtenidas a partir de una población con distribución normal (media=50, desviación estándar=20) con la obtenida a partir de una población con distribución uniforme (media=50, desviación estándar=20).<br>
+</p></li>
+<li><p>Realiza lo mismo que antes pero ahora utilizando muestras más pequeñas, por ejemplo, N=10. ¿Qué ocurre con la distribución muestral de la media?</p></li>
+</ul>
+</section>
+<section id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="level2" data-number="10.7">
+<h2 data-number="10.7" class="anchored" data-anchor-id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial"><span class="header-section-number">10.7</span> Y para terminar, un par de ejercicios múltiple opción, como los del parcial</h2>
+<ol type="1">
+<li><p>Acerca de los intervalos de confianza:</p>
+<ol type="a">
+<li><p>Son estimaciones puntuales de un parámetro desconocido con cierto nivel de confianza.</p></li>
+<li><p>Pueden usarse en variables tanto categóricas como numéricas.</p></li>
+<li><p>Permiten estimar un intervalo de valores dentro del cual puede encontrarse el parámetro poblacional, con cierto nivel de confianza.</p></li>
+<li><p>Permiten estimar con exactitud el valor del parámetro poblacional.</p></li>
+</ol></li>
+<li><p>Con respecto a los intervalos de confianza:</p>
+<ol type="a">
+<li><p>Al aumentar el nivel de confianza, disminuye el tamaño del intervalo.</p></li>
+<li><p>Al aumentar el nivel de confianza, disminuye el error muestral.</p></li>
+<li><p>Al aumentar el tamaño de la muestra, aumenta el tamaño del intervalo.</p></li>
+<li><p>A igual nivel de confianza, su tamaño disminuye al aumentar el tamaño de la muestra.</p></li>
+</ol></li>
+<li><p>En un informe del Instituto Nacional de Evaluación Educativa, figura la siguiente tabla en donde se muestra la Tasa de Egreso Oportuno de la Educación Media Básica (TEO-EMB) de jóvenes entre 15 y 16 años, desagregada según nivel socioeconómico (NSE), para los años 2006, 2010 y 2016. En cada cruce, se muestra el valor estimado (V), y el límite inferior (LI) y superior (LS) del intervalo de confianza respectivo.</p></li>
+</ol>
+<p>A partir de esta tabla, ¿qué afirmaciones pueden realizarse?</p>
+<p><img src="imgs/IC1.png" class="img-fluid"></p>
+<ol type="a">
+<li><p>La TEO-EMB para el nivel “muy bajo” disminuyó entre 2006 y 2010.</p></li>
+<li><p>La TEO-EMB para el nivel “muy bajo” aumentó entre 2010 y 2016.</p></li>
+<li><p>No hay diferencias en TEO-EMB entre 2006 y 2010 para el nivel “medio”.</p></li>
+<li><p>Hay diferencias en TEO-EMB entre 2010 y 2016 para el nivel “muy alto”.</p></li>
+</ol>
+<ol start="4" type="1">
+<li><p>La distribución muestral de la media:</p>
+<ol type="a">
+<li><p>Informa sobre la frecuencia de los distintos niveles de la variable en la población.</p></li>
+<li><p>Es una distribución empírica que permite identificar el nivel de error en cada muestra.</p></li>
+<li><p>Es una distribución cuya media es la media poblacional, y el desvío aumenta con el tamaño de la muestra.</p></li>
+<li><p>Es una distribución teórica que informa sobre la frecuencia de los diferentes valores de media de las diferentes muestras posibles.</p></li>
+</ol></li>
+<li><p>En un estudio se realizaron pruebas de matemática a estudiantes de primaria, de diferentes niveles socioeconómicos. En la siguiente gráfica se muestran los intervalos de confianza al 95% para las medias de los puntajes, según el nivel socioeconómico.</p></li>
+</ol>
+<p><img src="imgs/IC2.png" class="img-fluid"></p>
+<p>En base a esta gráfica, indique qué afirmación puede realizarse.</p>
+<ol type="a">
+<li><p>Los puntajes para el nivel 3 son significativamente más bajos que para el nivel 4.</p></li>
+<li><p>Los puntajes para el nivel 1 son significativamente más bajos que para el nivel 5.</p></li>
+<li><p>Los puntajes para el nivel 1 son significativamente más bajos que para el nivel 3.</p></li>
+<li><p>Los puntajes para el nivel 1 son significativamente más altos que para el nivel 3</p></li>
+</ol>
+<ol start="6" type="1">
+<li><p>Acerca de los intervalos de confianza para la media:</p>
+<ol type="a">
+<li><p>Permiten identificar el valor exacto de la media poblacional a partir de la estimación muestral.</p></li>
+<li><p>Permiten estimar cuál es el valor de la media poblacional más probable, dada la estimación muestral.</p></li>
+<li><p>Permiten estimar un rango de valores en el que puede, con un cierto nivel de confianza, encontrarse la media poblacional.</p></li>
+<li><p>Permiten estimar un rango de valores en el que puede, con un cierto nivel de confianza, encontrarse la media muestral.</p></li>
+</ol></li>
+</ol>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./practico_9.html" class="pagination-link" aria-label="Práctico: Distribución normal, muestreo y puntuaciones Z (S09)">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./practico_11.html" class="pagination-link" aria-label="Semana de revisión (S11)">
+        <span class="nav-page-text"><span class="chapter-title">Semana de revisión (S11)</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

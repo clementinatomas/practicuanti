@@ -1,0 +1,854 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.32">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Docentes Cuanti">
+
+<title>Practicuanti</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./practico_2.html" rel="next">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-364982630eef5352dd1537128a8ed5cb.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="cuantistats.css">
+</head>
+
+<body class="nav-sidebar floating quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html"><span class="chapter-title">Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Practicuanti</a> 
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Práctico: Introducción al curso ¿Por qué estadística? (S 00 y 01)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_2.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_3.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Describir los datos - rango, cuantiles, y diagrama de cajas (S03)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_4.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Describir los datos - varianza y desvío estándar (S04)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_5.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Describir los datos - Tablas y gráficos de barras (S05)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_6.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Correlación (S06)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_7.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Semana de revisión (S07)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_8.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Regresión (S08)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_9.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_10.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Intervalo de confianza y Error estándar (S10)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_11.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Semana de revisión (S11)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./practico_12.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Introducción a la Inferencia (S12)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./entregable.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Entregable final: Informe de análisis de datos</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#bienvenido-al-cuaderno-de-prácticos" id="toc-bienvenido-al-cuaderno-de-prácticos" class="nav-link active" data-scroll-target="#bienvenido-al-cuaderno-de-prácticos">Bienvenido al cuaderno de prácticos</a></li>
+  <li><a href="#cómo-me-organizo-para-trabajar-en-aula-invertida" id="toc-cómo-me-organizo-para-trabajar-en-aula-invertida" class="nav-link" data-scroll-target="#cómo-me-organizo-para-trabajar-en-aula-invertida">¿Cómo me organizo para trabajar en aula invertida?</a></li>
+  <li><a href="#introducción" id="toc-introducción" class="nav-link" data-scroll-target="#introducción">Introducción</a>
+  <ul class="collapse">
+  <li><a href="#noticia-1-niveles-de-aprobación-presidencial" id="toc-noticia-1-niveles-de-aprobación-presidencial" class="nav-link" data-scroll-target="#noticia-1-niveles-de-aprobación-presidencial">Noticia 1: Niveles de aprobación presidencial</a></li>
+  <li><a href="#noticia-2-tasa-de-suicidio-en-uruguay" id="toc-noticia-2-tasa-de-suicidio-en-uruguay" class="nav-link" data-scroll-target="#noticia-2-tasa-de-suicidio-en-uruguay">Noticia 2: Tasa de suicidio en Uruguay</a></li>
+  <li><a href="#noticia-3-funcionarios-públicos-en-uruguay-y-nueva-zelanda" id="toc-noticia-3-funcionarios-públicos-en-uruguay-y-nueva-zelanda" class="nav-link" data-scroll-target="#noticia-3-funcionarios-públicos-en-uruguay-y-nueva-zelanda">Noticia 3: Funcionarios públicos en Uruguay y Nueva Zelanda</a></li>
+  <li><a href="#noticia-4-muertes-por-covid-en-uruguay" id="toc-noticia-4-muertes-por-covid-en-uruguay" class="nav-link" data-scroll-target="#noticia-4-muertes-por-covid-en-uruguay">Noticia 4: Muertes por COVID en Uruguay</a></li>
+  <li><a href="#noticia-5-desempleo-en-uruguay" id="toc-noticia-5-desempleo-en-uruguay" class="nav-link" data-scroll-target="#noticia-5-desempleo-en-uruguay">Noticia 5: Desempleo en Uruguay</a></li>
+  </ul></li>
+  <li><a href="#necesito-saber-estadística-si-estudio-psicología" id="toc-necesito-saber-estadística-si-estudio-psicología" class="nav-link" data-scroll-target="#necesito-saber-estadística-si-estudio-psicología">1.1 ¿Necesito saber estadística si estudio Psicología?</a>
+  <ul class="collapse">
+  <li><a href="#lectura-asociada" id="toc-lectura-asociada" class="nav-link" data-scroll-target="#lectura-asociada">Lectura asociada</a></li>
+  </ul></li>
+  <li><a href="#debate-necesitamos-saber-estadística-para-ser-buenos-psicólogos" id="toc-debate-necesitamos-saber-estadística-para-ser-buenos-psicólogos" class="nav-link" data-scroll-target="#debate-necesitamos-saber-estadística-para-ser-buenos-psicólogos">1.2 Debate: ¿Necesitamos saber estadística para ser buenos psicólogos?</a></li>
+  <li><a href="#cómo-funciona-el-panel-de-análisis-de-datos" id="toc-cómo-funciona-el-panel-de-análisis-de-datos" class="nav-link" data-scroll-target="#cómo-funciona-el-panel-de-análisis-de-datos">1.3 ¿Cómo funciona el Panel de análisis de datos?</a>
+  <ul class="collapse">
+  <li><a href="#actividad-introductoria-al-panel" id="toc-actividad-introductoria-al-panel" class="nav-link" data-scroll-target="#actividad-introductoria-al-panel">Actividad introductoria al Panel</a></li>
+  </ul></li>
+  <li><a href="#el-rol-de-las-variables" id="toc-el-rol-de-las-variables" class="nav-link" data-scroll-target="#el-rol-de-las-variables">1.4 El rol de las variables</a></li>
+  <li><a href="#ahora-que-ya-calentaste-motores-poné-a-prueba-lo-que-aprendiste-sobre-tipos-de-variable-y-escalas-de-medida-con-la-lección-interactiva" id="toc-ahora-que-ya-calentaste-motores-poné-a-prueba-lo-que-aprendiste-sobre-tipos-de-variable-y-escalas-de-medida-con-la-lección-interactiva" class="nav-link" data-scroll-target="#ahora-que-ya-calentaste-motores-poné-a-prueba-lo-que-aprendiste-sobre-tipos-de-variable-y-escalas-de-medida-con-la-lección-interactiva">1.5 Ahora que ya calentaste motores, poné a prueba lo que aprendiste sobre tipos de variable y escalas de medida con la lección interactiva</a></li>
+  <li><a href="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" id="toc-y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="nav-link" data-scroll-target="#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial">1.6 Y para terminar, un par de ejercicios múltiple opción, como los del parcial</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Practicuanti</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Docentes Cuanti </p>
+          </div>
+  </div>
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="bienvenido-al-cuaderno-de-prácticos" class="level2">
+<h2 class="anchored" data-anchor-id="bienvenido-al-cuaderno-de-prácticos">Bienvenido al cuaderno de prácticos</h2>
+<p>La idea es que a través de cada práctico puedas ejercitar los conceptos que trabajamos en las unidades temáticas.</p>
+</section>
+<section id="cómo-me-organizo-para-trabajar-en-aula-invertida" class="level2">
+<h2 class="anchored" data-anchor-id="cómo-me-organizo-para-trabajar-en-aula-invertida">¿Cómo me organizo para trabajar en aula invertida?</h2>
+<p>Recuerda que para sacar el máximo provecho de estos ejercicios la secuencia sugerida es la siguiente:</p>
+<ul>
+<li><p>Mirar los audiovisuales correspondientes a la unidad (asincrónico)</p></li>
+<li><p>Leer el capítulo del libro (asincrónico)</p></li>
+<li><p>Transitar por la lección interactiva (fundamentalmente asincrónico, y algunos momentos de trabajo en clase)</p></li>
+<li><p>Realizar los ejercicios prácticos, recuerda que en varios momentos vamos a utilizar el Panel de análisis de datos (en clase y en forma asincrónica)</p></li>
+</ul>
+<p>Usá el menú de la izquierda para navegar entre los temas.</p>
+</section>
+<section id="introducción" class="level2">
+<h2 class="anchored" data-anchor-id="introducción">Introducción</h2>
+<p>En este curso vamos a explorar por qué la formación en metodología cuantitativa es necesaria para el trabajo en Psicología. Pero antes de meternos de lleno en eso, pensemos:</p>
+<p>¿Para qué me sirve desarrollar estas competencias si no voy a ser investigador/a? ¿Conocer sobre métodos cuantitativos es útil incluso fuera del ámbito profesional? ¿Tiene sentido en mi condición de ciudadano o ciudadana?</p>
+<p>A lo largo de esta unidad vamos a intentar demostrar que sí.</p>
+<section id="noticia-1-niveles-de-aprobación-presidencial" class="level3">
+<h3 class="anchored" data-anchor-id="noticia-1-niveles-de-aprobación-presidencial">Noticia 1: Niveles de aprobación presidencial</h3>
+<p>El siguiente posteo se publicó en redes sociales en junio de 2025, y se aclara que la afirmación se extrae de resultados publicados por FACTUM.</p>
+<p><img src="imgs/0_orsi.png" class="img-fluid"></p>
+<p>La publicación original de FACTUM presenta el siguiente gráfico:</p>
+<p><img src="imgs/0_grafico_aprobacion.png" class="img-fluid"></p>
+<p>Tomando en consideración esta información, ¿podemos afirmar que <strong>53 % de la población “no aprueba la gestión de Yamandú Orsi”</strong>?</p>
+<p><a href="https://portal.factum.uy/analisis/2025/ana250625.php">Consulta la fuente de datos aquí: FACTUM Aprobación presidente Yamandú Orsi - Junio 2025</a></p>
+<details>
+<summary>
+<strong>Para leer luego de responder</strong>
+</summary>
+<p>Aquí encuentras la nota de prensa completa de <em>La Diaria Verifica</em> analizando este asunto: <a href="https://ladiaria.com.uy/verifica/articulo/2025/7/es-enganoso-que-53-de-la-poblacion-no-aprueba-la-gestion-de-yamandu-orsi/">Nota completa en La Diaria Verifica</a></p>
+</details>
+</section>
+<section id="noticia-2-tasa-de-suicidio-en-uruguay" class="level3">
+<h3 class="anchored" data-anchor-id="noticia-2-tasa-de-suicidio-en-uruguay">Noticia 2: Tasa de suicidio en Uruguay</h3>
+<p>Según datos preliminares, el Ministerio de Salud Pública (MSP) anunció que en 2023 hubo un 8 % menos de suicidios que el año anterior. Según una nota de <em>La Diaria</em> del 11 de abril de 2024:<br>
+“La ministra de Salud Pública, Karina Rando, celebró que se quebró ‘una tendencia’ al alza, que se venía registrando desde 2013. En 2023 hubo 754 suicidios, 64 menos que en 2022 y cuatro menos que en 2021.”</p>
+<p><img src="imgs/0_suicidio.png" class="img-fluid"></p>
+<p>En una nota de <em>La Diaria Verifica</em>, el sociólogo Pablo Hein reflexiona que los motivos de la baja pueden deberse a <em>“una baja de la globalidad de la carga de muerte”</em> en Uruguay, ya que en 2023 hubo 5500 muertos menos que en 2022 y 7000 muertes menos que en 2021.</p>
+<p>Asimismo, si bien la tasa de suicidios de 2023 es más baja que años anteriores, alertó sobre no referirse a tendencias con un único dato.</p>
+<p><strong>¿Es verdadero afirmar que ocurrió un “quiebre” en la tendencia de suicidios?</strong></p>
+<details>
+<summary>
+<strong>Para leer luego de responder</strong>
+</summary>
+<p>Si bien ocurrieron menos suicidios en 2023 que en 2022 no es posible hablar de un quiebre sin conocer las cifras de los próximos años. Asimismo, si observamos las variaciones en el número de suicidios a lo largo de los años se observan descensos locales (años 2008 y 2013 por ejemplo) pero sobre una tendencia sostenida al aumento de la tasa de suicidios. Por lo tanto no es posible afirmar que ocurrió un ‘quiebre’ en la tasa de suicidios.</p>
+</details>
+</section>
+<section id="noticia-3-funcionarios-públicos-en-uruguay-y-nueva-zelanda" class="level3">
+<h3 class="anchored" data-anchor-id="noticia-3-funcionarios-públicos-en-uruguay-y-nueva-zelanda">Noticia 3: Funcionarios públicos en Uruguay y Nueva Zelanda</h3>
+<p>En junio de 2024, la entonces precandidata a la presidencia por el Partido Colorado, Carolina Ache, dijo en el programa <em>Lado B</em> de TV Ciudad que Nueva Zelanda tiene solamente <em>“63.000 funcionarios públicos y cinco millones de habitantes”</em>.<br>
+En una nota de <em>La Diaria Verifica</em> se presentan los siguientes datos obtenidos de la página web de la Comisión de Servicio Público de Nueva Zelanda.</p>
+<p><img src="imgs/0_funcionarios.png" class="img-fluid"></p>
+<p><strong>¿Se puede sugerir que hay muchos funcionarios públicos en Uruguay comparado con Nueva Zelanda?</strong></p>
+<details>
+<summary>
+<strong>Para leer luego de responder</strong>
+</summary>
+<p>Si bien al considerar los funcionarios de la categoría “Administración central” parecería cierta la afirmación de Carolina Ache, el conjunto total de funcionarios públicos (Administración central, educación, salud, empresas públicas, gobiernos locales, y otros) es mucho mayor, e incluso supera al de Uruguay.</p>
+<p>El número en sí mismo no es informativo si no se pondera por la población de cada país y por la cantidad de personas que conforman la masa laboral (por ejemplo, sin contar a niños y jubilados).</p>
+<p>Tomando en cuenta estos factores, se concluye que Uruguay y Nueva Zelanda tienen una proporción de funcionarios públicos similar.</p>
+</details>
+</section>
+<section id="noticia-4-muertes-por-covid-en-uruguay" class="level3">
+<h3 class="anchored" data-anchor-id="noticia-4-muertes-por-covid-en-uruguay">Noticia 4: Muertes por COVID en Uruguay</h3>
+<p>En un acto partidario en junio de 2024, la exministra de salud María Julia Muñoz dijo:</p>
+<p>“Debemos ser claros, la pandemia se manejó mal. No se manejó bien porque el presidente haya puesto la cara todos los días; se manejó mal porque cuando hubo que tomar acciones en defensa de los más necesitados, no se hicieron, y nuestro país es el que tiene más muertes por COVID de personas en el mundo”.</p>
+<p>En declaraciones posteriores, aclaró que se refería a que <strong>Uruguay fue el país de Latinoamérica con más muertes por COVID</strong>.</p>
+<p><strong>¿La afirmación de la exministra de salud es correcta o incorrecta?</strong></p>
+<p><img src="imgs/0_covid.png" class="img-fluid"></p>
+<p>El exceso de mortalidad es un término utilizado en epidemiología y salud pública que se refiere al número de muertes por todas las causas durante una crisis, por encima de lo que hubiéramos esperado en condiciones “normales”. En este caso, se compara el número de muertes durante la pandemia con las muertes esperadas sin pandemia. Fuente: <a href="https://ourworldindata.org/excess-mortality-covid">Our World In Data</a></p>
+<details>
+<summary>
+<strong>Para leer luego de responder</strong>
+</summary>
+<p>De acuerdo con los datos de exceso de muerte de <em>Our World in Data</em>, Uruguay no presenta la tasa de muertes por COVID más alta del mundo.</p>
+<p>Al comparar con otros países de la región como Argentina, Perú, Brasil, Bolivia y México, estos presentan un número mayor de exceso de muertes por COVID que Uruguay.</p>
+<p>Por lo tanto, la afirmación de la exministra de salud es incorrecta.</p>
+</details>
+</section>
+<section id="noticia-5-desempleo-en-uruguay" class="level3">
+<h3 class="anchored" data-anchor-id="noticia-5-desempleo-en-uruguay">Noticia 5: Desempleo en Uruguay</h3>
+<p>En una publicidad partidaria, el senador Sebastián Da Silva afirmaba que durante la pasada administración (2020–2023) se alcanzó <em>“la menor tasa de desempleo de los últimos 30 años”</em>, haciendo referencia a la tasa de 7.8 % correspondiente al cierre del año 2023.</p>
+<p><strong>¿Es verdadera la afirmación realizada por el senador?</strong></p>
+<p><img src="imgs/0_desempleo.png" class="img-fluid"></p>
+<details>
+<summary>
+<strong>Para leer luego de responder</strong>
+</summary>
+<p>De acuerdo a los datos del <strong>Instituto Nacional de Estadística</strong>, el desempleo al cierre de 2023 fue de 7,8 %.</p>
+<p>Sin embargo, el número más bajo de desempleo en los últimos 30 años corresponde a una <strong>tasa del 5.6 % en diciembre de 2012</strong>.</p>
+<p>Por lo tanto, <strong>la afirmación del senador no es verdadera</strong>.</p>
+</details>
+</section>
+</section>
+<section id="necesito-saber-estadística-si-estudio-psicología" class="level2">
+<h2 class="anchored" data-anchor-id="necesito-saber-estadística-si-estudio-psicología">1.1 ¿Necesito saber estadística si estudio Psicología?</h2>
+<section id="lectura-asociada" class="level3">
+<h3 class="anchored" data-anchor-id="lectura-asociada">Lectura asociada</h3>
+<p><a href="https://almadana.github.io/libro_cuanti/01-Science_Data.html#sobre-la-psicolog%C3%ADa-de-la-estad%C3%ADstica">Capítulo 1. ¿Por qué estadística?</a></p>
+</section>
+</section>
+<section id="debate-necesitamos-saber-estadística-para-ser-buenos-psicólogos" class="level2">
+<h2 class="anchored" data-anchor-id="debate-necesitamos-saber-estadística-para-ser-buenos-psicólogos">1.2 Debate: ¿Necesitamos saber estadística para ser buenos psicólogos?</h2>
+<p>“Como estudiante y futuro profesional de la Psicología necesito formarme en metodología cuantitativa”.</p>
+<ul>
+<li><p>Según el rol que te fue asignado en el debate, sistematiza argumentos <strong>a favor</strong>/<strong>en contra</strong> de esta afirmación.</p></li>
+<li><p>Discute con tus compañeros.</p></li>
+</ul>
+</section>
+<section id="cómo-funciona-el-panel-de-análisis-de-datos" class="level2">
+<h2 class="anchored" data-anchor-id="cómo-funciona-el-panel-de-análisis-de-datos">1.3 ¿Cómo funciona el Panel de análisis de datos?</h2>
+<p><img src="imgs/1_panel.png" class="img-fluid"></p>
+<p>Este Panel tiene integradas una serie de bases de datos nacionales que refieren a temáticas de interés en el campo de la psicología.</p>
+<ul>
+<li><strong>Menú datos</strong>: permite seleccionar una de las bases de datos disponibles.<br>
+</li>
+<li><strong>Acerca de la base</strong>: se presenta un texto breve con información de soporte que ayuda a contextualizar los datos que contiene la base.<br>
+</li>
+<li><strong>Mostrar resumen</strong>: Permite visualizar nombres de las variables, su descripción, su tratamiento (tipo de variable) y valores posibles.</li>
+</ul>
+<section id="actividad-introductoria-al-panel" class="level3">
+<h3 class="anchored" data-anchor-id="actividad-introductoria-al-panel">Actividad introductoria al Panel</h3>
+<p>Se te asignará una <strong>base de datos</strong>. Tu tarea es familiarizarte con ella para presentarla a tus compañeros. Recupera y registra la siguiente información:</p>
+<ul>
+<li><p>Contexto institucional y temática general&nbsp;</p></li>
+<li><p>Muestra</p></li>
+<li><p>¿Cuántas variables contiene? ¿Qué variables utiliza? ¿De qué tipo son? ¿Cuál es su escala o nivel de medida?&nbsp;</p></li>
+<li><p>¿Qué instrumentos crees que utilizaron para obtener las distintas medidas?</p></li>
+<li><p>¿Qué temáticas crees que se podrían analizar a través de estos datos?&nbsp;</p></li>
+</ul>
+<p>Ahora que sabes un poco más sobre esta base de datos, observa las variables disponibles con mayor detalle.</p>
+<ul>
+<li><p>¿Se te ocurren algunas preguntas/hipótesis de investigación?</p></li>
+<li><p>¿Qué otras cosas te parecería relevante evaluar? ¿Cómo lo operacionalizarías?</p></li>
+</ul>
+<p>Forma un grupo con los compañeros que han trabajado con la misma base de datos. Pongan en común lo que sistematizaron respecto a la base. Acuerden las preguntas de investigación que se podrían plantear a partir de estos datos.</p>
+<details>
+<summary>
+<strong>¿Necesitas ayuda?</strong>
+</summary>
+<p>¿Qué tipo de preguntas nos podemos hacer? Considera que en el curso vamos a:</p>
+<ul>
+<li>Aprender a resumir muchos datos a través de unos pocos valores que expresan la tendencia central y la dispersión<br>
+</li>
+<li>Utilizar gráficos para entender y mostrar algunos aspectos de nuestros datos en forma visual<br>
+</li>
+<li>Explorar la asociación entre dos variables (considerando dirección y magnitud)<br>
+</li>
+<li>Comparar grupos distintos, o un mismo grupo en distintas condiciones</li>
+</ul>
+</details>
+</section>
+</section>
+<section id="el-rol-de-las-variables" class="level2">
+<h2 class="anchored" data-anchor-id="el-rol-de-las-variables">1.4 El rol de las variables</h2>
+<p><strong>Ejercicio: Efectividad de una intervención terapéutica</strong></p>
+<p>Ya que obviamente leíste el apartado <a href="https://almadana.github.io/libro_cuanti/01-Science_Data.html#el-rol-de-las-variables-predictoras-y-dependientes">El rol de las variables: predictoras y dependientes</a> del Capítulo 1 antes de venir a clase (¿verdad que sí?), te proponemos el siguiente ejercicio:</p>
+<p>Un equipo de investigación está evaluando la efectividad de la terapia EMDR (Desensibilización y Reprocesamiento por los Movimientos Oculares) para tratar la <strong>ansiedad generalizada</strong>. Diseñan un estudio en el que reclutan a 60 personas con diagnóstico de trastorno de ansiedad generalizada. A la mitad de los participantes se les aplicaron 8 sesiones de <a href="https://en.wikipedia.org/wiki/Eye_movement_desensitization_and_reprocessing"><strong>EMDR</strong></a>, y a la otra mitad, 8 sesiones de <strong>terapia cognitivo-conductual (<a href="https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy">TCC</a>)</strong>, usada como comparación activa. Antes y después del tratamiento, los participantes completaron un cuestionario estandarizado de ansiedad (por ejemplo, el <a href="https://en.wikipedia.org/wiki/Generalized_Anxiety_Disorder_7">GAD-7</a>). Además, les piden que califiquen su <strong>nivel de malestar percibido en situaciones sociales</strong> (de 0 a 10) y su <strong>calidad de sueño</strong> durante la última semana.</p>
+<ul>
+<li><p>Identificá la/s variable/s predictora/s (independiente/s). ¿Qué manipula o controla el investigador?</p></li>
+<li><p>Identificá la/s variable/s dependiente/s. ¿Qué se mide como resultado del experimento?</p></li>
+<li><p>¿Qué otras variables podrían influir en los resultados si no se controlan?</p></li>
+</ul>
+</section>
+<section id="ahora-que-ya-calentaste-motores-poné-a-prueba-lo-que-aprendiste-sobre-tipos-de-variable-y-escalas-de-medida-con-la-lección-interactiva" class="level2">
+<h2 class="anchored" data-anchor-id="ahora-que-ya-calentaste-motores-poné-a-prueba-lo-que-aprendiste-sobre-tipos-de-variable-y-escalas-de-medida-con-la-lección-interactiva">1.5 Ahora que ya calentaste motores, poné a prueba lo que aprendiste sobre tipos de variable y escalas de medida con la lección interactiva</h2>
+<p><a href="https://cuanti.psico.edu.uy/lecciones/lessons/introduction.html">LECCIÓN INTERACTIVA Introducción a la Estadística: Conceptos fundamentales para el análisis de datos</a></p>
+</section>
+<section id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial" class="level2">
+<h2 class="anchored" data-anchor-id="y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial">1.6 Y para terminar, un par de ejercicios múltiple opción, como los del parcial</h2>
+<p>Elige la opción correcta</p>
+<ol type="1">
+<li><p>Sobre las variables cuantitativas</p>
+<ol type="a">
+<li><p>Pueden ser nominales</p></li>
+<li><p>La altura es un ejemplo de variable discreta</p></li>
+<li><p>El número de hijos es un ejemplo de variable continua</p></li>
+<li><p>Las variables continuas pueden tomar cualquier valor de la escala de medición utilizada</p></li>
+</ol></li>
+<li><p>Sobre las variables categóricas</p>
+<ol type="a">
+<li><p>La medida ordinal nos informa si un sujeto/objeto posee más o menos de la característica de interés que otro sujeto/objeto</p></li>
+<li><p>La medida nominal es continua</p></li>
+<li><p>No hay diferencias cualitativas entre los sujetos/objetos asignados a categorías diferentes</p></li>
+<li><p>El peso, medido en kilogramos, es una variable ordinal</p></li>
+</ol></li>
+<li><p>Un equipo de investigación quiere evaluar si practicar meditación guiada antes de rendir un examen reduce el nivel de ansiedad en estudiantes universitarios. Un grupo realiza 15 minutos de meditación antes del examen y un grupo control activo realiza 15 minutos de estiramiento. ¿Cuál es la variable predictora?</p>
+<ol type="a">
+<li><p>Nivel de ansiedad antes del examen</p></li>
+<li><p>El tipo de actividad previa al examen</p></li>
+<li><p>Nivel de ansiedad después del examen</p></li>
+<li><p>Tipo de examen que se rinde</p></li>
+</ol></li>
+</ol>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./practico_2.html" class="pagination-link" aria-label="Práctico: Describir los datos - Histogramas y Tendencia central (S 02)">
+        <span class="nav-page-text"><span class="chapter-title">Práctico: Describir los datos - Histogramas y Tendencia central (S 02)</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
