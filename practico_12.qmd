@@ -5,6 +5,8 @@ number-sections: true
 
 ## Introducción a la inferencia
 
+### Lectura asociada
+
 Capítulo 6. [Fundamentos de la inferencia](https://cuanti.psico.edu.uy/libro/05-Foundation_Inference.html) (hasta 6.5.4 Parte 3: Juicio y toma de decisiones, inclusive)
 
 ### Contenidos
