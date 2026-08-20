@@ -1,6 +1,6 @@
 ---
-title: "Práctico: Semana de revisión (S07)"
+title: "Práctico: Semana de revisión (S11)"
 number-sections: true
 ---
 
-Esta semana no hay un nuevo práctico, la tarea está orientada a la revisión y avance en el entregable final.
+Esta semana no hay un nuevo práctico, la tarea está orientada a revisar los contenidos previo al parcial.
