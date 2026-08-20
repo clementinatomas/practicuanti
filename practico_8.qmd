@@ -1,5 +1,5 @@
 ---
-title: "Práctico: Regresión (S08)"
+title: "Práctico: Regresión (S07)"
 number-sections: true
 ---
 
