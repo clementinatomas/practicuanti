@@ -7,7 +7,7 @@ number-sections: true
 
 ### Lectura asociada
 
-Capítulo
+Capítulo 7
 
 ### Contenidos
 
