@@ -1,9 +1,9 @@
 ---
-title: "Intervalo de confianza y Error estándar (S10)"
+title: "Intervalo de confianza y Error estándar (S11)"
 number-sections: true
 ---
 
-## Intervalo de confianza y Error estándar (S10)
+## Intervalo de confianza y Error estándar (S11)
 
 ### Lectura asociada
 
