@@ -1,5 +1,5 @@
 ---
-title: "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)"
+title: "Práctico: Distribución normal, muestreo y puntuaciones Z (S08)"
 number-sections: true
 ---
 
