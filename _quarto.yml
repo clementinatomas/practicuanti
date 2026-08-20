@@ -19,7 +19,6 @@ book:
     - practico_11.qmd
     - practico_12.qmd
     - practico_13.qmd
-    - entregable.qmd
  
 format:
   html:
