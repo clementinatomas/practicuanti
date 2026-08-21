@@ -392,151 +392,151 @@
   {
     "objectID": "practico_8.html",
     "href": "practico_8.html",
-    "title": "Práctico: Regresión (S08)",
+    "title": "Práctico: Regresión (S07)",
     "section": "",
-    "text": "8.1 Regresión",
+    "text": "7.1 Regresión",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Práctico: Regresión (S08)</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Práctico: Regresión (S07)</span>"
     ]
   },
   {
     "objectID": "practico_8.html#regresión",
     "href": "practico_8.html#regresión",
-    "title": "Práctico: Regresión (S08)",
+    "title": "Práctico: Regresión (S07)",
     "section": "",
     "text": "Lectura asociada\nCapítulo 4. Sección 4.5. Regresión\n\n\nContenidos\n\nLínea de mejor ajuste\nIntercepto y Pendiente\nCoeficiente de determinación (R²)",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Práctico: Regresión (S08)</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Práctico: Regresión (S07)</span>"
     ]
   },
   {
     "objectID": "practico_8.html#regresión-lección-interactiva",
     "href": "practico_8.html#regresión-lección-interactiva",
-    "title": "Práctico: Regresión (S08)",
-    "section": "8.2 Regresión: Lección interactiva",
-    "text": "8.2 Regresión: Lección interactiva\nIngresa a la Lección Interactiva Regresión Lineal\nExplora la lección y define: - línea de regresión, pendiente, intercepto y R²",
+    "title": "Práctico: Regresión (S07)",
+    "section": "7.2 Regresión: Lección interactiva",
+    "text": "7.2 Regresión: Lección interactiva\nIngresa a la Lección Interactiva Regresión Lineal\nExplora la lección y define: - línea de regresión, pendiente, intercepto y R²",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Práctico: Regresión (S08)</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Práctico: Regresión (S07)</span>"
     ]
   },
   {
     "objectID": "practico_8.html#la-regresión-nos-permite-predecir",
     "href": "practico_8.html#la-regresión-nos-permite-predecir",
-    "title": "Práctico: Regresión (S08)",
-    "section": "8.3 La Regresión nos permite predecir",
-    "text": "8.3 La Regresión nos permite predecir\nEn este práctico vamos a responder la siguiente pregunta: \n¿Es posible predecir la longitud del brazo de una persona a partir de su altura?\n\nRecolección de datos\n\nAltura (x): altura de pie en centímetros\nLongitud del brazo (y): desde el hombro hasta la punta de los dedos de la mano dominante (en cm)\n\nOrganizar los datos en una tabla en el pizarrón\nCada estudiante deberá realizar un gráfico de dispersión con los datos del grupo. A continuación, interpreta junto con tus compañeros el gráfico obtenido.\nRealiza una regresión lineal sobre los datos utilizando el editor de la lección interactiva de regresión\n¿Cuál es el valor del coeficiente de correlación de Pearson obtenido para las variables relacionadas?\n¿Cuál es el R²? ¿Cómo lo interpretas?\n¿Qué significa el valor de la pendiente en nuestra ecuación de regresión?\n\n\n\n¿Necesitás ayuda?\n\n¿Cuántos cm aumenta la longitud del brazo, en promedio, por cada cm de altura?\n\n\nObtenga la altura del profesor, prediga la longitud de su brazo a partir de la misma\nObtenga la longitud real del brazo del profesor. ¿Cómo es la predicción comparada con el valor real?\nReflexiona sobre el uso y los límites de una regresión. ¿Se trata de una regla perfecta o una tendencia promedio?",
+    "title": "Práctico: Regresión (S07)",
+    "section": "7.3 La Regresión nos permite predecir",
+    "text": "7.3 La Regresión nos permite predecir\nEn este práctico vamos a responder la siguiente pregunta: \n¿Es posible predecir la longitud del brazo de una persona a partir de su altura?\n\nRecolección de datos\n\nAltura (x): altura de pie en centímetros\nLongitud del brazo (y): desde el hombro hasta la punta de los dedos de la mano dominante (en cm)\n\nOrganizar los datos en una tabla en el pizarrón\nCada estudiante deberá realizar un gráfico de dispersión con los datos del grupo. A continuación, interpreta junto con tus compañeros el gráfico obtenido.\nRealiza una regresión lineal sobre los datos utilizando el editor de la lección interactiva de regresión\n¿Cuál es el valor del coeficiente de correlación de Pearson obtenido para las variables relacionadas?\n¿Cuál es el R²? ¿Cómo lo interpretas?\n¿Qué significa el valor de la pendiente en nuestra ecuación de regresión?\n\n\n\n¿Necesitás ayuda?\n\n¿Cuántos cm aumenta la longitud del brazo, en promedio, por cada cm de altura?\n\n\nObtenga la altura del profesor, prediga la longitud de su brazo a partir de la misma\nObtenga la longitud real del brazo del profesor. ¿Cómo es la predicción comparada con el valor real?\nReflexiona sobre el uso y los límites de una regresión. ¿Se trata de una regla perfecta o una tendencia promedio?",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Práctico: Regresión (S08)</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Práctico: Regresión (S07)</span>"
     ]
   },
   {
     "objectID": "practico_8.html#y-si-los-datos-no-tuvieran-relación",
     "href": "practico_8.html#y-si-los-datos-no-tuvieran-relación",
-    "title": "Práctico: Regresión (S08)",
-    "section": "8.4 ¿Y si los datos no tuvieran relación?",
-    "text": "8.4 ¿Y si los datos no tuvieran relación?\n\nReordena aleatoriamente los datos generando nuevos pares de altura y longitud de brazo. \nVuelve a realizar la regresión lineal pero ahora sobre estos pares de datos aleatorios\n¿Qué coeficiente de correlación obtienes? ¿Por qué?\nPide los coeficientes de correlación de los pares de datos aleatorios de los otros grupos. ¿Cómo son estos coeficientes comparados con el valor de correlación de Pearson de los datos originales?",
+    "title": "Práctico: Regresión (S07)",
+    "section": "7.4 ¿Y si los datos no tuvieran relación?",
+    "text": "7.4 ¿Y si los datos no tuvieran relación?\n\nReordena aleatoriamente los datos generando nuevos pares de altura y longitud de brazo. \nVuelve a realizar la regresión lineal pero ahora sobre estos pares de datos aleatorios\n¿Qué coeficiente de correlación obtienes? ¿Por qué?\nPide los coeficientes de correlación de los pares de datos aleatorios de los otros grupos. ¿Cómo son estos coeficientes comparados con el valor de correlación de Pearson de los datos originales?",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Práctico: Regresión (S08)</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Práctico: Regresión (S07)</span>"
     ]
   },
   {
     "objectID": "practico_8.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción",
     "href": "practico_8.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción",
-    "title": "Práctico: Regresión (S08)",
-    "section": "8.5 Y para terminar, un par de ejercicios múltiple opción",
-    "text": "8.5 Y para terminar, un par de ejercicios múltiple opción\n\n¿Cuál es la característica principal de la línea de mejor ajuste en un análisis de regresión lineal simple?\na. Existen infinitas líneas que pueden ajustarse igual de bien si los datos son perfectamente lineales\nb. Varias líneas pueden minimizar la suma de errores cuadrados, pero la elección depende del método estadístico utilizado\nc. Es la línea que pasa por al menos tres puntos de los datos\nd. Es la única línea que minimiza la suma de los errores cuadrados entre los valores observados y los valores predichos\nUna psicóloga investigó si el número de horas de meditación por semana predice los niveles de ansiedad (cuanto mayor el puntaje, mayor la ansiedad). La ecuación de regresión obtenida fue: Ansiedad = 30 − 2*Horas. ¿Qué predice esta ecuación?\na. Por cada hora adicional de meditación, la ansiedad aumenta en 2 puntos\nb. Si alguien medita 0 horas, su ansiedad estimada es de 30\nc. La meditación no tiene efecto sobre la ansiedad\nd. La ansiedad es 2 veces el número de horas de meditación",
+    "title": "Práctico: Regresión (S07)",
+    "section": "7.5 Y para terminar, un par de ejercicios múltiple opción",
+    "text": "7.5 Y para terminar, un par de ejercicios múltiple opción\n\n¿Cuál es la característica principal de la línea de mejor ajuste en un análisis de regresión lineal simple?\na. Existen infinitas líneas que pueden ajustarse igual de bien si los datos son perfectamente lineales\nb. Varias líneas pueden minimizar la suma de errores cuadrados, pero la elección depende del método estadístico utilizado\nc. Es la línea que pasa por al menos tres puntos de los datos\nd. Es la única línea que minimiza la suma de los errores cuadrados entre los valores observados y los valores predichos\nUna psicóloga investigó si el número de horas de meditación por semana predice los niveles de ansiedad (cuanto mayor el puntaje, mayor la ansiedad). La ecuación de regresión obtenida fue: Ansiedad = 30 − 2*Horas. ¿Qué predice esta ecuación?\na. Por cada hora adicional de meditación, la ansiedad aumenta en 2 puntos\nb. Si alguien medita 0 horas, su ansiedad estimada es de 30\nc. La meditación no tiene efecto sobre la ansiedad\nd. La ansiedad es 2 veces el número de horas de meditación",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Práctico: Regresión (S08)</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Práctico: Regresión (S07)</span>"
     ]
   },
   {
     "objectID": "practico_9.html",
     "href": "practico_9.html",
-    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09 y S10)",
     "section": "",
     "text": "9.1 Distribución normal, muestreo y puntuaciones Z",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09 y S10)</span>"
     ]
   },
   {
     "objectID": "practico_9.html#distribución-normal-muestreo-y-puntuaciones-z",
     "href": "practico_9.html#distribución-normal-muestreo-y-puntuaciones-z",
-    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09 y S10)",
     "section": "",
     "text": "Lectura asociada\nCapítulo 5\nApartado 5.5 La distribución normal (incluye 5.5.1 Distribución de probabilidad)\nApartado 5.8 Muestras, poblaciones y muestreo (hasta 5.8.1 Definir una población)\nApartado 5.8.5 Parámetros poblacionales y estadísticas muestrales\n\n\nContenidos\n\nDistribución normal\nPoblación y muestra\nParámetros poblacionales y estadísticos muestrales\nPuntuaciones Z",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09 y S10)</span>"
     ]
   },
   {
     "objectID": "practico_9.html#juegos-con-dados",
     "href": "practico_9.html#juegos-con-dados",
-    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09 y S10)",
     "section": "9.2 Juegos con dados",
     "text": "9.2 Juegos con dados\n\nImagina que tiras un dado. ¿Cuál es la probabilidad de que salga cada una de las seis caras del dado? ¿Tienen todas las caras la misma posibilidad de salir? Entonces ¿cómo lo graficarías?\nPuedes simular esto en Demo dados (click). Configura la opción Number of dice: 1 y “Roll automatically”.\nEspera a que el gráfico se estabilice y observa la distribución.\nAhora imagina que tiramos dos dados a la misma vez y nos interesa registrar la suma de los puntos de ambos dados en cada intento. ¿Son igualmente probables todos los resultados? \nPuedes simular esto en Demo dados (click). Configura la opción Number of dice: 2 y “Roll automatically”.\nEspera a que el gráfico se estabilice y observa la distribución.\nRevisa tu respuesta a ¿Son igualmente probables todos los valores?",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09 y S10)</span>"
     ]
   },
   {
     "objectID": "practico_9.html#tablero-de-galton",
     "href": "practico_9.html#tablero-de-galton",
-    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09 y S10)",
     "section": "9.3 Tablero de Galton",
     "text": "9.3 Tablero de Galton\nVeamos otro caso específico en la siguiente animación: Tablero de Galton (click)\n\nExplora la animación en el botón Intro. Al tirar una canica, ¿en qué tubo es más probable que caiga?\nRealiza varios intentos usando la opción xTodo\nAhora explora la opción Laboratorio. Mantiene las especificaciones por defecto (Filas 12 y Probabilidad 0.5). Luego cambia la opción a Camino. \n¿Tiene una canica la misma probabilidad de caer en cada tubo? Luego de que el gráfico se estabiliza, observa la distribución.\nImagina que pudieras prolongar la caída de canicas infinitamente. ¿Cómo sería la distribución?\n¿A qué refiere la opción de ajuste Probabilidad = 0.5? ¿Qué sucede con la distribución si cambias la Probabilidad a 0.7? ¿Y si la cambias a 0.2?",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09 y S10)</span>"
     ]
   },
   {
     "objectID": "practico_9.html#la-distribución-de-las-alturas-de-los-adultos",
     "href": "practico_9.html#la-distribución-de-las-alturas-de-los-adultos",
-    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09 y S10)",
     "section": "9.4 La distribución de las alturas de los adultos",
     "text": "9.4 La distribución de las alturas de los adultos\n\nVamos a graficar a mano la distribución de las alturas de todas las personas adultas y de de sexo femenino de Uruguay. En otras palabras, queremos representar visualmente la probabilidad de observar las distintas alturas posibles en nuestra población.\nAhora realiza el mismo gráfico para los adultos de sexo masculino de Uruguay.\n¿Cómo se vería cada representación?\n\n\n\nDesplegar luego de responder\n\nLa altura humana está afectada por una serie de factores genéticos y ambientales que dan lugar a su variabilidad en la población. No obstante, al igual que otros fenómenos de la naturaleza y rasgos en la psicología, a nivel poblacional la altura se distribuye siguiendo una curva normal. Pero ¿Qué implicancias tiene saber que la distribución es normal? Si conocemos la media y la desviación estándar de las alturas podemos tener una buena comprensión de la forma en que se distribuye esa característica, fenómeno o rasgo en una determinada población.\n\nLa siguiente figura corresponde a un estudio en el que se recuperaron datos de altura de 150.000 pares de gemelos nacidos entre 1886 y 1994 en Europa, América del Norte, Australia y Asia Oriental (Jelenkovic et al., 2016 en Our World in Data, 2024).\nDistribución de alturas masculinas y femeninas (Our World in Data, 2024)\nDistribución de alturas de adultos basado en estudios de cohortes de 20 países de Europa, América del Norte, Australia y Asia Oriental. Se muestra la distribución ponderada por el tamaño de la muestra a través de todas las cohortes nacidas entre 1980 y 1994 (y que entonces alcanzaron la edad de 18 años entre 1988 y 2012).\n\n\nDespliega la imagen solamente si ya resolviste la primera parte del ejercicio\n\n\nNota. Adaptado al español de Our World in Data (2024).\n\nObservemos algunos detalles:\n\n¿Por qué el gráfico de mujeres tiene un pico más alto que el de hombres, si su altura promedio fue más baja?\n¿Cómo cambiaría la forma de la curva si la variabilidad en las alturas aumentara?\n\n\n\n¿Necesitas ayuda?\n\n¿Recuerdas las siguientes animaciones del Capítulo 5 del libro? ¿Cuál corresponde a una media cambiante? ¿Cuál a la desviación estándar cambiante?\n\n\n\na.\n\n\n\n\n\nb.\n\n\n\n\nSi seleccionamos una persona de sexo femenino al azar, ¿qué probabilidad hay de que mida más de 171,8 cm?\n¿Qué proporción de casos esperás encontrar fuera del rango de ±2 desviaciones estándar?\n\n\n\n¿Necesitas ayuda?\n\nPara auxiliarte en la interpretación de la distribución normal, utiliza el gráfico 5.20 del libro.\n\n\n\nBasandote en la información ofrecida en el gráfico y tus conocimientos sobre las propiedades de la distribución normal, completa:\n\nPara la cohorte de nacimiento comprendida entre 1980 y 1994, los autores encontraron que la altura media de los hombres era de 178,4 centímetros (cm). La desviación estándar fue de 7,59 cm. Esto significa que el ___% de los hombres medían entre 170,8 y 186 cm; y el ___% entre 163,2 y 193,6 cm.\nLas mujeres eran, en promedio, más bajas, con una altura media de 164,7 cm y una desviación estándar de 7,07 cm. Esto implica que el ___ % de las mujeres medían entre 157,6 y 171,8 cm, y el ___% entre 150,6 y 178,84 cm.",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09 y S10)</span>"
     ]
   },
   {
     "objectID": "practico_9.html#puntuaciones-z",
     "href": "practico_9.html#puntuaciones-z",
-    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09 y S10)",
     "section": "9.5 Puntuaciones Z",
     "text": "9.5 Puntuaciones Z\n\nImagina que eres un profesional de la psicología interesado en la evaluación psicológica. Intenta pensar qué estrategias podrías utilizar si te interesa comparar:\n\nEl desempeño de un sujeto en pruebas que tienen escalas de puntuación distintas\nEl desempeño de un sujeto con respecto a una población de referencia\n\n\n\n\n¿Necesitas ayuda?\n\nEn el apartado 5.11 del libro vimos que cuando la distribución es normal es posible expresar las puntuaciones originales (por ejemplo, la puntuación directa obtenida en una prueba) en función de desviaciones estándar (DE) respecto a la media.\nAsí, podemos decir que la puntuación obtenida por un estudiante se encuentra, por ejemplo, 2 DE por encima de la media (o, lo que es lo mismo, z = 2).\nRecuerda, se calcula:",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09 y S10)</span>"
     ]
   },
   {
     "objectID": "practico_9.html#población-y-muestra-por-qué-estamos-interesados-en-la-probabilidad",
     "href": "practico_9.html#población-y-muestra-por-qué-estamos-interesados-en-la-probabilidad",
-    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09 y S10)",
     "section": "9.6 Población y muestra: ¿por qué estamos interesados en la probabilidad?",
     "text": "9.6 Población y muestra: ¿por qué estamos interesados en la probabilidad?\n\nA partir de la lectura asignada para esta semana, define y diferencia los siguientes conceptos: población, muestra, parámetro y estadístico (Sección 5.12 del libro)\nIntercambia con tu subgrupo al respecto\n\n\n\nDesplegar luego de responder\n\nCuando investigamos sobre una temática, en general no es posible acceder a todos los casos que serían de nuestro interés (población). Generalmente solo voy a tener la capacidad de observar algunos (una muestra) y necesitamos algunas herramientas que nos permitan manejar la incertidumbre que conlleva trabajar con muestras.\n\n\nExplora la lección Lección interactiva muestreo (click) y contrasta tus definiciones con las ofrecidas al final de la lección\nSitúa los cuatro conceptos en el marco de la base de datos con la que estás trabajando en el Entregable\n¿Qué es el error estándar? ¿Cuál es la relación entre éste y el tamaño de la muestra?\nUtilizando la web The new statistics (click):\n\n\nCompara la distribución de las medias muestrales (N=100) obtenidas a partir de una población con distribución normal (media=50, desvío estándar =20) con la obtenida a partir de una población con distribución uniforme-(media=50, desvío estándar=20).\nRealiza lo mismo que antes pero ahora utilizando muestras más pequeñas, por ejemplo N=10. ¿Qué ocurre con la distribución muestral de la media?\n\n\n\n\nDesplegar luego de responder\n\n\nEl hecho de tener que trabajar con muestras en lugar de poblaciones obliga a recurrir a la inferencia y a tener que establecer una regla de decisión en términos de probabilidad.\nRequiere entender cómo se comportan las muestras cuando se extraen de distribuciones (definidas por la teoría de la probabilidad…).",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09 y S10)</span>"
     ]
   },
   {
     "objectID": "practico_9.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
     "href": "practico_9.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
-    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09)",
+    "title": "Práctico: Distribución normal, muestreo y puntuaciones Z (S09 y S10)",
     "section": "9.7 Y para terminar, un par de ejercicios múltiple opción, como los del parcial",
     "text": "9.7 Y para terminar, un par de ejercicios múltiple opción, como los del parcial\n\nLa distribución muestral de la media:\n\n\n\nDescribe la frecuencia de los distintos valores de la variable en la población.\nEs una distribución empírica que permite estimar el error en cada muestra.\nEs una distribución cuya media es la media poblacional, y cuyo desvío estándar aumenta con el tamaño de la muestra.\nEs una distribución teórica que muestra la frecuencia de los valores de media obtenidos a partir de todas las muestras posibles de una población.\n\n\n\nCon respecto a las puntuaciones Z:\n\n\n\nSi la puntuación directa es positiva, la puntuación Z siempre será positiva.\nLa media de las puntuaciones Z es 1, y su desvío es 0.\nSi la puntuación Z es negativa, la puntuación directa es inferior a la media.\nLa media de las puntuaciones Z es 1, y su desvío será igual al desvío estándar de las puntuaciones directas.\n\n\n\nSi la distribución de un conjunto de datos es normal, puede decirse que:\n\n\n\nPuntuaciones Z entre -1 y 1 ocurren aprox. un 50% de las veces.\nPuntuaciones Z entre -1 y 1 ocurren aprox. un 95% de las veces.\nPuntuaciones Z entre -2 y 2 ocurren aprox. un 68% de las veces.\nPuntuaciones Z entre -2 y 2 ocurren aprox. un 95% de las veces.\n\n\n\nUn estudiante sacó 540 tanto en la prueba de ciencias como en la de matemáticas de SERCE. Al comparar el resultado del estudiante con el resto de los estudiantes evaluados se puede afirmar que:\n\n\n\nLa nota de Juan de matemáticas se encuentra a -0,40 desvíos estándar de la media. Esto quiere decir que Juan está por encima de la media.\nEn matemáticas Juan está a -1 desvío estándar de la media y en ciencias a +1. Esto quiere decir que a Juan le fue mejor en ciencias pero no en matemáticas en comparación con el resto de sus compañeros.\nJuan tiene un rendimiento promedio en ambas pruebas.\nLa puntuación de Juan se encuentra a 0,02 desvíos estándar en ciencias y a -0,40 en matemáticas. Esto quiere decir que Juan tiene una puntuación parecida a la media en ciencias pero en matemática le fue un poco por debajo del promedio.\n\n\n\nEn un estudio realizado en la Facultad de Psicología (Paz et al., 2016) acerca de la incidencia de la autoestima en la toma de decisiones, se solicitó a los participantes que cuantificaran su nivel de “enojo” ante diferentes situaciones. En el siguiente gráfico se muestra, mediante diagramas de cajas, la distribución de puntuaciones de “enojo”, según sexo y nivel de autoestima.\n\n\nA partir del gráfico, indique cuál de las siguientes afirmaciones es correcta.\n\nHay mayor variabilidad de los niveles de enojo en los hombres que en las mujeres.\nLos hombres con autoestima alta reportan mayor nivel de enojo que los hombres con autoestima baja.\nLos mujeres con autoestima alta reportan mayor nivel de enojo que las mujeres con autoestima baja.\nPara personas con valores de autoestima alta, hay mayor variabilidad en los niveles de enojo en los hombres que en las mujeres. El patrón es inverso para valores de autoestima bajos.\n\n\n\nEn el estudio de la pregunta anterior (autoestima y enojo), el valor medio de enojo en hombres de autoestima alta es 2, y el desvío estándar 2,5. Un participante (llamémosle Pedro) reportó autoestima alta y un enojo de 4,5. ¿Cuál es el valor Z de la puntuación de Pedro?\n\n\n\nZ = 6,5\nZ = 1\nZ = 0\nUn valor de Z negativo porque está por encima de la media.",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09)</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Práctico: Distribución normal, muestreo y puntuaciones Z (S09 y S10)</span>"
     ]
   },
   {
     "objectID": "practico_10.html",
     "href": "practico_10.html",
-    "title": "Intervalo de confianza y Error estándar (S10)",
+    "title": "Intervalo de confianza y Error estándar (S11)",
     "section": "",
-    "text": "10.1 Intervalo de confianza y Error estándar (S10)",
+    "text": "10.1 Intervalo de confianza y Error estándar (S11)",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S11)</span>"
     ]
   },
   {
@@ -552,71 +552,71 @@
   {
     "objectID": "practico_10.html#lección-interactiva-muestreo",
     "href": "practico_10.html#lección-interactiva-muestreo",
-    "title": "Intervalo de confianza y Error estándar (S10)",
+    "title": "Intervalo de confianza y Error estándar (S11)",
     "section": "10.2 Lección interactiva: Muestreo",
     "text": "10.2 Lección interactiva: Muestreo\n\nA partir de la lectura (Sección 5.12. del libro) y videos asignados a esta semana, define y diferencia los siguientes conceptos: población, muestra, parámetro y estadístico \nIntercambia con tu subgrupo al respecto\n\n\n\nDesplegar luego de responder\n\nCuando investigamos sobre una temática, en general no es posible acceder a todos los casos de interés (población). Generalmente solo vamos a tener la capacidad de observar algunos casos (una muestra) y necesitamos algunas herramientas que nos permitan manejar la incertidumbre que conlleva trabajar con muestras.\n\nEl hecho de tener que trabajar con muestras en lugar de poblaciones obliga a recurrir a la inferencia y a tener que establecer una regla de decisión en términos de probabilidad.\nRequiere entender cómo se comportan las muestras cuando se extraen de distribuciones (definidas por la teoría de la probabilidad…).\n\n\n\nExplora la Lección interactiva (Muestreo) y contrasta tus definiciones con las ofrecidas al final de la lección\nSitúa los cuatro conceptos en el marco de la base de datos con la que estás trabajando en el Entregable.\n\nEn la lección, activa la simulación con los controles que vienen por defecto: muestra n = 10, número de muestras = 100, velocidad normal)\n\n¿Qué variable se está midiendo?\n¿Qué representa cada uno de los 3 gráficos?\n¿Qué representa la línea roja? ¿La azul? ¿Y la verde?\nUna vez que la simulación termine, observa el gráfico de la distribución muestral de la media.\nAhora aumenta el tamaño de la muestra a n = 25, observa el gráfico de la distribución muestral de la media y nota diferencias respecto al que obtuviste cuando la muestra era n = 10.\nEntonces ¿Qué es el error estándar de la media? ¿Cuál es la relación entre éste y el tamaño de la muestra?",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S11)</span>"
     ]
   },
   {
     "objectID": "practico_10.html#lección-interactiva-intervalo-de-confianza",
     "href": "practico_10.html#lección-interactiva-intervalo-de-confianza",
-    "title": "Intervalo de confianza y Error estándar (S10)",
+    "title": "Intervalo de confianza y Error estándar (S11)",
     "section": "10.3 Lección interactiva: Intervalo de confianza",
     "text": "10.3 Lección interactiva: Intervalo de confianza\nObserva la animación ofrecida en la Lección interactiva (Intervalo de confianza), especialmente el gráfico de Intervalos de confianza. \n\n¿Qué representan los intervalos verdes?\n¿Qué representan los intervalos rojos?\nPara un nivel de confianza del 95 %, si repetimos el muestreo suficientes veces, ¿cuántos intervalos esperamos que contengan a la media poblacional?\n\nCompara los intervalos cuando el nivel de confianza es 90 % vs cuando es 99 %\n\nObserva: ¿Qué sucede con el ancho del intervalo cuando exijo un mayor nivel de confianza?\n\nRealiza distintos intentos variando el tamaño de la muestra:\n\nObserva: ¿Qué sucede con el ancho del intervalo cuando aumento el tamaño de la muestra?\n\nIntenta responder las siguientes preguntas, a modo de puesta a punto:\n\n¿Cómo se construye un intervalo de confianza? ¿Qué aspectos dependen de la muestra y qué aspectos son una elección?\nConstruyendo un intervalo de confianza de ancho 1 error estándar ¿Qué porcentaje de las veces el intervalo contendrá a la media poblacional? ¿Es suficiente?\nConstruyendo un intervalo de confianza de ancho 2 errores estándar (en realidad 1,96) ¿Qué porcentaje de las veces el intervalo contendrá a la media poblacional? ¿Es suficiente?",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S11)</span>"
     ]
   },
   {
     "objectID": "practico_10.html#construyendo-intervalos-de-confianza",
     "href": "practico_10.html#construyendo-intervalos-de-confianza",
-    "title": "Intervalo de confianza y Error estándar (S10)",
+    "title": "Intervalo de confianza y Error estándar (S11)",
     "section": "10.4 Construyendo Intervalos de confianza",
     "text": "10.4 Construyendo Intervalos de confianza\n¿Cómo podemos estimar en qué rango se encuentra la media poblacional de riesgo en salud mental de cuidadores adultos de niños de hasta 56 meses en Uruguay?\n\nConstruye un intervalo de confianza del 95 % para la variable Riesgo en salud mental de la ENDIS, si la muestra es N = 2566. Intenta recordar los otros elementos que necesitas para construirlo. \n\n\n\n¿Necesitas ayuda?\n\nEn otras palabras, nos están pidiendo que una vez definido un nivel de confianza (en este caso 95 %), calculemos el correspondiente intervalo de confianza.\nA partir del video y la lectura del capítulo intenta recordar: ¿De qué depende el ancho del intervalo de confianza?\n\n\n\n¿Necesitas algo más de ayuda?\n\nPara calcular el intervalo de confianza necesitas calcular el error estándar. Aquí una ayuda:\n\n\nAhora que ya calculaste el intervalo de confianza, ¿Hay alguna herramienta del panel que te permita observar los intervalos de confianza sin calcularlos a mano?\n\nRealiza el análisis utilizando el menú desplegable que corresponda y contrasta el intervalo que calculaste con el que te ofrece el panel. \nEntonces, ¿En qué rango de puntuación sería esperable encontrar la media poblacional, con un nivel de confianza del 95 %?",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S11)</span>"
     ]
   },
   {
     "objectID": "practico_10.html#aplicaciones-de-los-intervalos-de-confianza",
     "href": "practico_10.html#aplicaciones-de-los-intervalos-de-confianza",
-    "title": "Intervalo de confianza y Error estándar (S10)",
+    "title": "Intervalo de confianza y Error estándar (S11)",
     "section": "10.5 Aplicaciones de los Intervalos de confianza",
     "text": "10.5 Aplicaciones de los Intervalos de confianza\nBien, pero ¿para qué nos sirve construir intervalos de confianza?\nImagina que queremos analizar si, en la población, existen diferencias en el riesgo en salud mental del cuidador principal comparando grupos de niños que presentan distintos niveles de conducta agresiva (clasificados como Normal, Riesgo y Clínico).\n\nIngresa al Panel de análisis de datos, base ENDIS, desplegable Intervalos de confianza (Variable 1: SRQ20: riesgo salud mental, Variable 2: agresiva) \nA partir de la observación del gráfico, ¿Es más probable que los grupos (Normal, Riesgo y Clínico) tengan la misma media poblacional de riesgo en salud mental del cuidador o medias significativamente distintas? ¿Qué observaste para responder esta pregunta?\n¿Qué podría explicar que el intervalo de confianza para el nivel Clínico sea así de amplio?\n\n\n\n¿Necesitas ayuda?\n\nIntenta recordar: El intervalo de confianza depende del nivel de confianza y del error estándar. Y el error estándar ¿De qué depende?\n\n\nRepite el ejercicio con variables de interés para tu Entregable.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S11)</span>"
     ]
   },
   {
     "objectID": "practico_10.html#ic-desempeños-en-lectura-y-matemáticas-en-3er-año-de-ed.-primaria-en-uruguay-aristas",
     "href": "practico_10.html#ic-desempeños-en-lectura-y-matemáticas-en-3er-año-de-ed.-primaria-en-uruguay-aristas",
-    "title": "Intervalo de confianza y Error estándar (S10)",
+    "title": "Intervalo de confianza y Error estándar (S11)",
     "section": "10.6 IC: Desempeños en lectura y matemáticas en 3er año de Ed. Primaria en Uruguay (Aristas)",
     "text": "10.6 IC: Desempeños en lectura y matemáticas en 3er año de Ed. Primaria en Uruguay (Aristas)\nComo vimos en los videos de esta semana, los intervalos de confianza pueden verse representados en gráficos y tablas. Los siguientes son ejemplos extraídos del informe Aristas 2023 (INEEd, 2025) y refieren a los desempeños en lectura y matemática de los estudiantes de 3er año de Educación Primaria en nuestro país.\n\n\n¿Qué porcentaje de escolares estaban categorizados en el Nivel 1 de desempeño en lectura en la muestra en 2017? ¿Qué puedes decir sobre el porcentaje de niños en Nivel 1 de desempeño en lectura en la población? Intenta redactar estos resultados.\nSi observamos las muestras 2017 y 2023, el porcentaje de niños categorizados en nivel 1 de desempeño cambió de 4,4 en 2017 a 3,6 en 2023. Observando los respectivos intervalos de confianza ¿qué podemos inferir respecto al cambio en la población?\nIntenta repetir el ejercicio para los otros niveles de desempeño en lectura (2 al 6).\n\nAhora, de la misma manera, examina el caso de matemáticas\n\nAhora miremos los desempeños según contexto socioeconómico y cultural del centro, esta vez representando los intervalos de confianza en forma gráfica. Interpreta cada gráfico.\n\n\nEn el informe se incluyen varios ejemplos más: comparaciones según tipo de escuela (Privada, Urbana común, Tiempo Completo, etc.), género, región, etc. Te invitamos a consultarlo aquí informe Aristas 2023 (pags. 390 - 402).",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S11)</span>"
     ]
   },
   {
     "objectID": "practico_10.html#otro-ejercicio-interactivo-teorema-central-del-límite",
     "href": "practico_10.html#otro-ejercicio-interactivo-teorema-central-del-límite",
-    "title": "Intervalo de confianza y Error estándar (S10)",
+    "title": "Intervalo de confianza y Error estándar (S11)",
     "section": "10.7 Otro ejercicio interactivo: Teorema Central del Límite",
     "text": "10.7 Otro ejercicio interactivo: Teorema Central del Límite\nUtilizando la web https://www.esci-dances.thenewstatistics.com/ vamos a comprobar que independientemente de la forma que tenga una distribución poblacional, la distribución muestral de la media tiene distribución normal.\n\n\nCompara la distribución de las medias muestrales (N=100) obtenidas a partir de una población con distribución normal (media=50, desviación estándar=20) con la obtenida a partir de una población con distribución uniforme (media=50, desviación estándar=20).\n\nRealiza lo mismo que antes pero ahora utilizando muestras más pequeñas, por ejemplo, N=10. ¿Qué ocurre con la distribución muestral de la media?",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S11)</span>"
     ]
   },
   {
     "objectID": "practico_10.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
     "href": "practico_10.html#y-para-terminar-un-par-de-ejercicios-múltiple-opción-como-los-del-parcial",
-    "title": "Intervalo de confianza y Error estándar (S10)",
+    "title": "Intervalo de confianza y Error estándar (S11)",
     "section": "10.8 Y para terminar, un par de ejercicios múltiple opción, como los del parcial",
     "text": "10.8 Y para terminar, un par de ejercicios múltiple opción, como los del parcial\n\nAcerca de los intervalos de confianza:\n\nSon estimaciones puntuales de un parámetro desconocido con cierto nivel de confianza.\nPueden usarse en variables tanto categóricas como numéricas.\nPermiten estimar un intervalo de valores dentro del cual puede encontrarse el parámetro poblacional, con cierto nivel de confianza.\nPermiten estimar con exactitud el valor del parámetro poblacional.\n\nCon respecto a los intervalos de confianza:\n\nAl aumentar el nivel de confianza, disminuye el tamaño del intervalo.\nAl aumentar el nivel de confianza, disminuye el error muestral.\nAl aumentar el tamaño de la muestra, aumenta el tamaño del intervalo.\nA igual nivel de confianza, su tamaño disminuye al aumentar el tamaño de la muestra.\n\nEn un informe del Instituto Nacional de Evaluación Educativa, figura la siguiente tabla en donde se muestra la Tasa de Egreso Oportuno de la Educación Media Básica (TEO-EMB) de jóvenes entre 15 y 16 años, desagregada según nivel socioeconómico (NSE), para los años 2006, 2010 y 2016. En cada cruce, se muestra el valor estimado (V), y el límite inferior (LI) y superior (LS) del intervalo de confianza respectivo.\n\nA partir de esta tabla, ¿qué afirmaciones pueden realizarse?\n\n\nLa TEO-EMB para el nivel “muy bajo” disminuyó entre 2006 y 2010.\nLa TEO-EMB para el nivel “muy bajo” aumentó entre 2010 y 2016.\nNo hay diferencias en TEO-EMB entre 2006 y 2010 para el nivel “medio”.\nHay diferencias en TEO-EMB entre 2010 y 2016 para el nivel “muy alto”.\n\n\n\nLa distribución muestral de la media:\n\nInforma sobre la frecuencia de los distintos niveles de la variable en la población.\nEs una distribución empírica que permite identificar el nivel de error en cada muestra.\nEs una distribución cuya media es la media poblacional, y el desvío aumenta con el tamaño de la muestra.\nEs una distribución teórica que informa sobre la frecuencia de los diferentes valores de media de las diferentes muestras posibles.\n\nEn un estudio se realizaron pruebas de matemática a estudiantes de primaria, de diferentes niveles socioeconómicos. En la siguiente gráfica se muestran los intervalos de confianza al 95% para las medias de los puntajes, según el nivel socioeconómico.\n\n\nEn base a esta gráfica, indique qué afirmación puede realizarse.\n\nLos puntajes para el nivel 3 son significativamente más bajos que para el nivel 4.\nLos puntajes para el nivel 1 son significativamente más bajos que para el nivel 5.\nLos puntajes para el nivel 1 son significativamente más bajos que para el nivel 3.\nLos puntajes para el nivel 1 son significativamente más altos que para el nivel 3\n\n\n\nAcerca de los intervalos de confianza para la media:\n\nPermiten identificar el valor exacto de la media poblacional a partir de la estimación muestral.\nPermiten estimar cuál es el valor de la media poblacional más probable, dada la estimación muestral.\nPermiten estimar un rango de valores en el que puede, con un cierto nivel de confianza, encontrarse la media poblacional.\nPermiten estimar un rango de valores en el que puede, con un cierto nivel de confianza, encontrarse la media muestral.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S10)</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S11)</span>"
     ]
   },
   {
@@ -632,61 +632,61 @@
   {
     "objectID": "practico_12.html",
     "href": "practico_12.html",
-    "title": "Introducción a la Inferencia (S12)",
+    "title": "Introducción a la Inferencia (S08)",
     "section": "",
-    "text": "12.1 Introducción a la inferencia",
+    "text": "8.1 Introducción a la inferencia",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Introducción a la Inferencia (S12)</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Introducción a la Inferencia (S08)</span>"
     ]
   },
   {
     "objectID": "practico_12.html#introducción-a-la-inferencia",
     "href": "practico_12.html#introducción-a-la-inferencia",
-    "title": "Introducción a la Inferencia (S12)",
+    "title": "Introducción a la Inferencia (S08)",
     "section": "",
     "text": "Lectura asociada\nCapítulo 6. Fundamentos de la inferencia (hasta 6.5.4 Parte 3: Juicio y toma de decisiones, inclusive)\n\n\nContenidos\n\nContraste de hipótesis\nHipótesis nula\nEstadístico muestral\nDistribución muestral del estadístico\np-valor\nNivel de significancia",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Introducción a la Inferencia (S12)</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Introducción a la Inferencia (S08)</span>"
     ]
   },
   {
     "objectID": "practico_12.html#cuáles-son-los-componentes-de-una-prueba-de-hipótesis",
     "href": "practico_12.html#cuáles-son-los-componentes-de-una-prueba-de-hipótesis",
-    "title": "Introducción a la Inferencia (S12)",
-    "section": "12.2 ¿Cuáles son los componentes de una prueba de hipótesis?",
-    "text": "12.2 ¿Cuáles son los componentes de una prueba de hipótesis?\nIntenta recordarlos y definirlos\n\n\n¿Necesitas ayuda?",
+    "title": "Introducción a la Inferencia (S08)",
+    "section": "8.2 ¿Cuáles son los componentes de una prueba de hipótesis?",
+    "text": "8.2 ¿Cuáles son los componentes de una prueba de hipótesis?\nIntenta recordarlos y definirlos\n\n\n¿Necesitas ayuda?",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Introducción a la Inferencia (S12)</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Introducción a la Inferencia (S08)</span>"
     ]
   },
   {
     "objectID": "practico_12.html#será-que-mi-moneda-es-fiel",
     "href": "practico_12.html#será-que-mi-moneda-es-fiel",
-    "title": "Introducción a la Inferencia (S12)",
-    "section": "12.3 ¿Será que mi moneda es fiel?",
-    "text": "12.3 ¿Será que mi moneda es fiel?\nEn el video 2 de esta semana trabajamos un procedimiento para saber si una moneda es fiel (es decir, la mitad de veces sale cara y mitad de veces sale cruz). \n\n¿Cuál es la hipótesis nula?\n¿Cuál sería el estadístico?\nImagina que tiras la moneda 10 veces (n = 10), y sale cara 6 veces (k = 6)\n¿Cómo podemos saber qué tan esperable era que salga cara esa cantidad de veces? \n\n\n\n¿Necesitas ayuda?\n\nNecesitamos conocer la distribución muestral del estadístico (en este caso, la distribución muestral del número de caras). Para el ejemplo anterior luce así:\n\n¿Qué representa el eje x? ¿Y el eje y?\n\n\n¿Cuál es la probabilidad de obtener 10 caras en 10 intentos?\n\n\n\n¿Bajo qué condiciones rechazo la hipótesis nula? ¿Bajo qué condiciones la retengo? ¿Qué componentes específicos de la prueba de hipótesis debo considerar para tomar la decisión?\nPara el caso que vimos (10 intentos, 6 caras) el p valor es 0.377. Interpreta.\n\n\n\n¿Necesitas ayuda?\n\nAproximadamente un ____ % de las veces que tire 10 monedas voy a obtener al menos 6 caras.\nPuedes observarlo en el Panel, bajo esta configuración:",
+    "title": "Introducción a la Inferencia (S08)",
+    "section": "8.3 ¿Será que mi moneda es fiel?",
+    "text": "8.3 ¿Será que mi moneda es fiel?\nEn el video 2 de esta semana trabajamos un procedimiento para saber si una moneda es fiel (es decir, la mitad de veces sale cara y mitad de veces sale cruz). \n\n¿Cuál es la hipótesis nula?\n¿Cuál sería el estadístico?\nImagina que tiras la moneda 10 veces (n = 10), y sale cara 6 veces (k = 6)\n¿Cómo podemos saber qué tan esperable era que salga cara esa cantidad de veces? \n\n\n\n¿Necesitas ayuda?\n\nNecesitamos conocer la distribución muestral del estadístico (en este caso, la distribución muestral del número de caras). Para el ejemplo anterior luce así:\n\n¿Qué representa el eje x? ¿Y el eje y?\n\n\n¿Cuál es la probabilidad de obtener 10 caras en 10 intentos?\n\n\n\n¿Bajo qué condiciones rechazo la hipótesis nula? ¿Bajo qué condiciones la retengo? ¿Qué componentes específicos de la prueba de hipótesis debo considerar para tomar la decisión?\nPara el caso que vimos (10 intentos, 6 caras) el p valor es 0.377. Interpreta.\n\n\n\n¿Necesitas ayuda?\n\nAproximadamente un ____ % de las veces que tire 10 monedas voy a obtener al menos 6 caras.\nPuedes observarlo en el Panel, bajo esta configuración:",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Introducción a la Inferencia (S12)</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Introducción a la Inferencia (S08)</span>"
     ]
   },
   {
     "objectID": "practico_12.html#ejercicio-en-el-panel",
     "href": "practico_12.html#ejercicio-en-el-panel",
-    "title": "Introducción a la Inferencia (S12)",
-    "section": "12.4 Ejercicio en el panel",
-    "text": "12.4 Ejercicio en el panel\nIngresa al Panel de análisis, pestaña Distribución. \n\n¿Cuál es la probabilidad de obtener 2 caras o menos (para el ejemplo de 10 intentos)?\nAhora configura el panel para 100 intentos. Observa los cambios en la distribución. ¿Cuál es la probabilidad de obtener 64 caras o más?",
+    "title": "Introducción a la Inferencia (S08)",
+    "section": "8.4 Ejercicio en el panel",
+    "text": "8.4 Ejercicio en el panel\nIngresa al Panel de análisis, pestaña Distribución. \n\n¿Cuál es la probabilidad de obtener 2 caras o menos (para el ejemplo de 10 intentos)?\nAhora configura el panel para 100 intentos. Observa los cambios en la distribución. ¿Cuál es la probabilidad de obtener 64 caras o más?",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Introducción a la Inferencia (S12)</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Introducción a la Inferencia (S08)</span>"
     ]
   },
   {
     "objectID": "practico_12.html#aplicaciones-prácticas-de-las-pruebas-de-hipótesis",
     "href": "practico_12.html#aplicaciones-prácticas-de-las-pruebas-de-hipótesis",
-    "title": "Introducción a la Inferencia (S12)",
-    "section": "12.5 Aplicaciones prácticas de las pruebas de hipótesis",
-    "text": "12.5 Aplicaciones prácticas de las pruebas de hipótesis\n\nEn el video 4 de esta semana se mostraron algunas aplicaciones prácticas de las pruebas de hipótesis para responder preguntas en contextos de investigación. Formaliza preguntas que puedas responder realizando pruebas de hipótesis para incorporar a tu trabajo entregable, en función de la base de datos con la que estás trabajando.",
+    "title": "Introducción a la Inferencia (S08)",
+    "section": "8.5 Aplicaciones prácticas de las pruebas de hipótesis",
+    "text": "8.5 Aplicaciones prácticas de las pruebas de hipótesis\n\nEn el video 4 de esta semana se mostraron algunas aplicaciones prácticas de las pruebas de hipótesis para responder preguntas en contextos de investigación. Formaliza preguntas que puedas responder realizando pruebas de hipótesis para incorporar a tu trabajo entregable, en función de la base de datos con la que estás trabajando.",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Introducción a la Inferencia (S12)</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Introducción a la Inferencia (S08)</span>"
     ]
   },
   {
@@ -694,9 +694,9 @@
     "href": "practico_13.html",
     "title": "Pruebas t (S13)",
     "section": "",
-    "text": "13.1 Pruebas t",
+    "text": "12.1 Pruebas t",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Pruebas t (S13)</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Pruebas t (S13)</span>"
     ]
   },
   {
@@ -704,39 +704,39 @@
     "href": "practico_13.html#pruebas-t",
     "title": "Pruebas t (S13)",
     "section": "",
-    "text": "Lectura asociada\nCapítulo\n\n\nContenidos\n\nTipos de pruebas t: una muestra, dos muestras independientes, muestras pareadas\nEstadístico t, interpretación del valor p y decisión (rechazar o no la Hipótesis nula)\nReporte",
+    "text": "Lectura asociada\nCapítulo 7\n\n\nContenidos\n\nTipos de pruebas t: una muestra, dos muestras independientes, muestras pareadas\nEstadístico t, interpretación del valor p y decisión (rechazar o no la Hipótesis nula)\nReporte",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Pruebas t (S13)</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Pruebas t (S13)</span>"
     ]
   },
   {
     "objectID": "practico_13.html#familia-de-pruebas-t",
     "href": "practico_13.html#familia-de-pruebas-t",
     "title": "Pruebas t (S13)",
-    "section": "13.2 Familia de pruebas t",
-    "text": "13.2 Familia de pruebas t\nComo observaste en los videos y capítulo de libro asignado para esta semana, existen distintos tipos de pruebas t\n\nRecupera los tres tipos distintos de Prueba t\n\n\n\n¿Necesitas ayuda?\n\nRecuerda que las posibilidades son: Prueba t para una muestra, muestras independientes o pareadas.\n\n\nIdentifica, para cada uno de los estudios que se mencionan a continuación, qué tipo de Prueba t aplicarías:\n\n\nComparar el valor de ansiedad promedio de una muestra de estudiantes universitarios de Psicología con un valor conocido.\nComparar los niveles de ansiedad antes de un tratamiento en dos grupos de participantes distintos.\nEvaluar el nivel de  ansiedad previa y post intervención en un mismo grupo de participantes.\n\n\nPiensa en otros ejemplos de estudios en el campo de la Psicología en los que sería adecuado aplicar Pruebas t",
+    "section": "12.2 Familia de pruebas t",
+    "text": "12.2 Familia de pruebas t\nComo observaste en los videos y capítulo de libro asignado para esta semana, existen distintos tipos de pruebas t\n\nRecupera los tres tipos distintos de Prueba t\n\n\n\n¿Necesitas ayuda?\n\nRecuerda que las posibilidades son: Prueba t para una muestra, muestras independientes o pareadas.\n\n\nIdentifica, para cada uno de los estudios que se mencionan a continuación, qué tipo de Prueba t aplicarías:\n\n\nComparar el valor de ansiedad promedio de una muestra de estudiantes universitarios de Psicología con un valor conocido.\nComparar los niveles de ansiedad antes de un tratamiento en dos grupos de participantes distintos.\nEvaluar el nivel de  ansiedad previa y post intervención en un mismo grupo de participantes.\n\n\nPiensa en otros ejemplos de estudios en el campo de la Psicología en los que sería adecuado aplicar Pruebas t",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Pruebas t (S13)</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Pruebas t (S13)</span>"
     ]
   },
   {
     "objectID": "practico_13.html#ejercicio-en-el-panel-ejemplo",
     "href": "practico_13.html#ejercicio-en-el-panel-ejemplo",
     "title": "Pruebas t (S13)",
-    "section": "13.3 Ejercicio en el Panel (ejemplo)",
-    "text": "13.3 Ejercicio en el Panel (ejemplo)\nQueremos comparar si existen diferencias estadísticamente significativas en los niveles de riesgo en salud mental de adultos responsables de niños categorizados con y sin riesgo en su desarrollo socioemocional a partir del instrumento CBCL.  \n\nLa base ENDIS nos ofrece datos para realizar este análisis. \n\n\n\nDiagrama de caja &gt; seleccionar variable 1 &gt; seleccionar variable 2 \n\n\n\n\n¿Qué Prueba t estás utilizando en este caso? Justifica\nObserva los diagramas de cajas. Desarrolla intuiciones respecto al resultado.\nAhora activa el casillero Prueba t de Student para las medias. Considera si debes activar o no el casillero Muestras pareadas en este ejemplo.\nInterpreta y reporta en forma escrita el resultado. Por ejemplo:\n\n“Se realizó una prueba t (especificar tipo de prueba t) para comparar ____________ entre ________ y  ________ . Los resultados mostraron que la diferencia entre grupos (fue / no fue) estadísticamente significativa, t(gl) = valor t, p = valor p. En conjunto, estos resultados sugieren que (interpretación breve).”",
+    "section": "12.3 Ejercicio en el Panel (ejemplo)",
+    "text": "12.3 Ejercicio en el Panel (ejemplo)\nQueremos comparar si existen diferencias estadísticamente significativas en los niveles de riesgo en salud mental de adultos responsables de niños categorizados con y sin riesgo en su desarrollo socioemocional a partir del instrumento CBCL.  \n\nLa base ENDIS nos ofrece datos para realizar este análisis. \n\n\n\nDiagrama de caja &gt; seleccionar variable 1 &gt; seleccionar variable 2 \n\n\n\n\n¿Qué Prueba t estás utilizando en este caso? Justifica\nObserva los diagramas de cajas. Desarrolla intuiciones respecto al resultado.\nAhora activa el casillero Prueba t de Student para las medias. Considera si debes activar o no el casillero Muestras pareadas en este ejemplo.\nInterpreta y reporta en forma escrita el resultado. Por ejemplo:\n\n“Se realizó una prueba t (especificar tipo de prueba t) para comparar ____________ entre ________ y  ________ . Los resultados mostraron que la diferencia entre grupos (fue / no fue) estadísticamente significativa, t(gl) = valor t, p = valor p. En conjunto, estos resultados sugieren que (interpretación breve).”",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Pruebas t (S13)</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Pruebas t (S13)</span>"
     ]
   },
   {
     "objectID": "practico_13.html#ejercicio-en-el-panel-a-incluir-en-el-entregable",
     "href": "practico_13.html#ejercicio-en-el-panel-a-incluir-en-el-entregable",
     "title": "Pruebas t (S13)",
-    "section": "13.4 Ejercicio en el Panel (a incluir en el Entregable)",
-    "text": "13.4 Ejercicio en el Panel (a incluir en el Entregable)\n\nVamos a aplicar Pruebas t en el marco del trabajo trabajo entregable. Recupera el template del entregable (archivo Word) y localiza el apartado correspondiente a Prueba t.\nIngresa al Panel de análisis, selecciona la base de datos que corresponda en tu subgrupo. \nFormula la pregunta y la hipótesis, verifica que sean compatibles con el análisis mediante Prueba t. \nJunto con la posibilidad de realizar Pruebas t, el panel te ofrece información en forma gráfica. ¿Qué tipo de gráfico se muestra? Evalúa tus hipótesis y desarrolla intuiciones acerca del resultado a partir del gráfico.\nAhora activa el casillero Prueba t y valora si corresponde o no activar el casillero Muestras pareadas. Interpreta el resultado (estadístico t, p valor).\n¿Cómo reportarías ese resultado en forma escrita en tu informe?",
+    "section": "12.4 Ejercicio en el Panel (a incluir en el Entregable)",
+    "text": "12.4 Ejercicio en el Panel (a incluir en el Entregable)\n\nVamos a aplicar Pruebas t en el marco del trabajo trabajo entregable. Recupera el template del entregable (archivo Word) y localiza el apartado correspondiente a Prueba t.\nIngresa al Panel de análisis, selecciona la base de datos que corresponda en tu subgrupo. \nFormula la pregunta y la hipótesis, verifica que sean compatibles con el análisis mediante Prueba t. \nJunto con la posibilidad de realizar Pruebas t, el panel te ofrece información en forma gráfica. ¿Qué tipo de gráfico se muestra? Evalúa tus hipótesis y desarrolla intuiciones acerca del resultado a partir del gráfico.\nAhora activa el casillero Prueba t y valora si corresponde o no activar el casillero Muestras pareadas. Interpreta el resultado (estadístico t, p valor).\n¿Cómo reportarías ese resultado en forma escrita en tu informe?",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Pruebas t (S13)</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Pruebas t (S13)</span>"
     ]
   },
   {
@@ -747,6 +747,16 @@
     "text": "Esta actividad es obligatoria para los estudiantes que cursan en modalidad seminario (si sos estudiante de plenario te lo ofrecemos como un recurso más para practicar).\nLa propuesta consiste en realizar una secuencia de análisis de datos a partir de una de las bases disponibles en cuanti.psico.edu.uy/panel (en particular ENDIS, ARISTAS, SERCE o Triada Oscura).\nLa idea es que este trabajo te ayude a desarrollar cierta autonomía en el planteo de preguntas de investigación, a darte cuenta qué análisis son adecuados según las variables disponibles y la pregunta que pretendes responder y, por último, que puedas ensayar la comunicación escrita de estos resultados.\nEste trabajo se va a desarrollar paso a paso a lo largo del semestre según avanzamos en las distintas unidades temáticas, hasta realizar la entrega final (a coordinar con tu docente referente de seminario).\nPara realizar el trabajo debes descargar el modelo de reporte en Word, que ya contiene las secciones y formato esperado del entregable.\n⬇️️️📄Descargar en Word📄⬇️",
     "crumbs": [
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Entregable final: Informe de análisis de datos</span>"
+    ]
+  },
+  {
+    "objectID": "practico_10.html#intervalo-de-confianza-y-error-estándar-s11",
+    "href": "practico_10.html#intervalo-de-confianza-y-error-estándar-s11",
+    "title": "Intervalo de confianza y Error estándar (S11)",
+    "section": "",
+    "text": "Lectura asociada\nCapítulo 5. Probabilidad, muestreo y estimación\nSección 5.12. Estimación de parámetros poblacionales\nSección 5.13. Estimación de un intervalo de confianza\n\n\nContenidos\n\nMedia muestral (X̄) y desvío muestral (S)\nDistribución muestral de la media\nEstimación de la media poblacional (μ -mu-), error estándar (σe -sigma-)\nIntervalo de confianza (IC)",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Intervalo de confianza y Error estándar (S11)</span>"
     ]
   }
 ]

@@ -11,13 +11,13 @@ La idea es que a través de cada práctico puedas ejercitar los conceptos que tr
 
 Recuerda que para sacar el máximo provecho de estos ejercicios la secuencia sugerida es la siguiente:
 
--   Mirar los audiovisuales correspondientes a la unidad (asincrónico)
+- Mirar los audiovisuales correspondientes a la unidad (asincrónico)
 
--   Leer el capítulo del libro (asincrónico)
+- Leer el capítulo del libro (asincrónico)
 
--   Transitar por la lección interactiva (fundamentalmente asincrónico, y algunos momentos de trabajo en clase)
+- Transitar por la lección interactiva (fundamentalmente asincrónico, y algunos momentos de trabajo en clase)
 
--   Realizar los ejercicios prácticos, recuerda que en varios momentos vamos a utilizar el Panel de análisis de datos (en clase y en forma asincrónica)
+- Realizar los ejercicios prácticos, recuerda que en varios momentos vamos a utilizar el Panel de análisis de datos (en clase y en forma asincrónica)
 
 Usá el menú de la izquierda para navegar entre los temas.
 
@@ -149,9 +149,9 @@ Por lo tanto, **la afirmación del senador no es verdadera**.
 
 “Como estudiante y futuro profesional de la Psicología necesito formarme en metodología cuantitativa”.
 
--   Según el rol que te fue asignado en el debate, sistematiza argumentos **a favor**/**en contra** de esta afirmación.
+- Según el rol que te fue asignado en el debate, sistematiza argumentos **a favor**/**en contra** de esta afirmación.
 
--   Discute con tus compañeros.
+- Discute con tus compañeros.
 
 ## 1.3 ¿Cómo funciona el Panel de análisis de datos?
 
@@ -159,29 +159,29 @@ Por lo tanto, **la afirmación del senador no es verdadera**.
 
 Este Panel tiene integradas una serie de bases de datos nacionales que refieren a temáticas de interés en el campo de la psicología.
 
--   **Menú datos**: permite seleccionar una de las bases de datos disponibles.\
--   **Acerca de la base**: se presenta un texto breve con información de soporte que ayuda a contextualizar los datos que contiene la base.\
--   **Mostrar resumen**: Permite visualizar nombres de las variables, su descripción, su tratamiento (tipo de variable) y valores posibles.
+- **Menú datos**: permite seleccionar una de las bases de datos disponibles.\
+- **Acerca de la base**: se presenta un texto breve con información de soporte que ayuda a contextualizar los datos que contiene la base.\
+- **Mostrar resumen**: Permite visualizar nombres de las variables, su descripción, su tratamiento (tipo de variable) y valores posibles.
 
 ### Actividad introductoria al Panel
 
 Se te asignará una **base de datos**. Tu tarea es familiarizarte con ella para presentarla a tus compañeros. Recupera y registra la siguiente información:
 
--   Contexto institucional y temática general 
+- Contexto institucional y temática general 
 
--   Muestra
+- Muestra
 
--   ¿Cuántas variables contiene? ¿Qué variables utiliza? ¿De qué tipo son? ¿Cuál es su escala o nivel de medida? 
+- ¿Cuántas variables contiene? ¿Qué variables utiliza? ¿De qué tipo son? ¿Cuál es su escala o nivel de medida? 
 
--   ¿Qué instrumentos crees que utilizaron para obtener las distintas medidas?
+- ¿Qué instrumentos crees que utilizaron para obtener las distintas medidas?
 
--   ¿Qué temáticas crees que se podrían analizar a través de estos datos? 
+- ¿Qué temáticas crees que se podrían analizar a través de estos datos? 
 
 Ahora que sabes un poco más sobre esta base de datos, observa las variables disponibles con mayor detalle.
 
--   ¿Se te ocurren algunas preguntas/hipótesis de investigación?
+- ¿Se te ocurren algunas preguntas/hipótesis de investigación?
 
--   ¿Qué otras cosas te parecería relevante evaluar? ¿Cómo lo operacionalizarías?
+- ¿Qué otras cosas te parecería relevante evaluar? ¿Cómo lo operacionalizarías?
 
 Forma un grupo con los compañeros que han trabajado con la misma base de datos. Pongan en común lo que sistematizaron respecto a la base. Acuerden las preguntas de investigación que se podrían plantear a partir de estos datos.
 
@@ -191,10 +191,10 @@ Forma un grupo con los compañeros que han trabajado con la misma base de datos.
 
 ¿Qué tipo de preguntas nos podemos hacer? Considera que en el curso vamos a:
 
--   Aprender a resumir muchos datos a través de unos pocos valores que expresan la tendencia central y la dispersión\
--   Utilizar gráficos para entender y mostrar algunos aspectos de nuestros datos en forma visual\
--   Explorar la asociación entre dos variables (considerando dirección y magnitud)\
--   Comparar grupos distintos, o un mismo grupo en distintas condiciones
+- Aprender a resumir muchos datos a través de unos pocos valores que expresan la tendencia central y la dispersión\
+- Utilizar gráficos para entender y mostrar algunos aspectos de nuestros datos en forma visual\
+- Explorar la asociación entre dos variables (considerando dirección y magnitud)\
+- Comparar grupos distintos, o un mismo grupo en distintas condiciones
 
 </details>
 
@@ -206,11 +206,11 @@ Ya que obviamente leíste el apartado [El rol de las variables: predictoras y de
 
 Un equipo de investigación está evaluando la efectividad de la terapia EMDR (Desensibilización y Reprocesamiento por los Movimientos Oculares) para tratar la **ansiedad generalizada**. Diseñan un estudio en el que reclutan a 60 personas con diagnóstico de trastorno de ansiedad generalizada. A la mitad de los participantes se les aplicaron 8 sesiones de [**EMDR**](https://en.wikipedia.org/wiki/Eye_movement_desensitization_and_reprocessing), y a la otra mitad, 8 sesiones de **terapia cognitivo-conductual ([TCC](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy))**, usada como comparación activa. Antes y después del tratamiento, los participantes completaron un cuestionario estandarizado de ansiedad (por ejemplo, el [GAD-7](https://en.wikipedia.org/wiki/Generalized_Anxiety_Disorder_7)). Además, les piden que califiquen su **nivel de malestar percibido en situaciones sociales** (de 0 a 10) y su **calidad de sueño** durante la última semana.
 
--   Identificá la/s variable/s predictora/s (independiente/s). ¿Qué manipula o controla el investigador?
+- Identificá la/s variable/s predictora/s (independiente/s). ¿Qué manipula o controla el investigador?
 
--   Identificá la/s variable/s dependiente/s. ¿Qué se mide como resultado del experimento?
+- Identificá la/s variable/s dependiente/s. ¿Qué se mide como resultado del experimento?
 
--   ¿Qué otras variables podrían influir en los resultados si no se controlan?
+- ¿Qué otras variables podrían influir en los resultados si no se controlan?
 
 ## 1.5 Ahora que ya calentaste motores, poné a prueba lo que aprendiste sobre tipos de variable y escalas de medida con la lección interactiva
 
